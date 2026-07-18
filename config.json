@@ -1,10 +1,12 @@
 {
   "telegram_bot_token": "",
-  "telegram_chat_id": null,
+  "telegram_chat_id": 346264211,
   "city": "krakow",
   "max_total": 4000,
   "min_total": 0,
-  "rooms": ["two"],
+  "rooms": [
+    "two"
+  ],
   "min_area": 0,
   "districts": [],
   "only_private": false,
