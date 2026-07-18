@@ -42,6 +42,7 @@ DEFAULT_CONFIG = {
     "city": "krakow",               # krakow | warszawa
     "max_total": 4000,              # потолок: аренда + czynsz, zł/мес
     "min_total": 0,                 # нижняя граница (0 = нет)
+    "max_age_days": 3,              # только объявления не старше N дней (0 = без ограничения)
     "rooms": ["two"],               # one/two/three/four; [] = любые
     "min_area": 0,                  # минимум м² (0 = не фильтровать)
     "districts": [],                # [] = весь город, иначе список районов
@@ -505,6 +506,34 @@ def fingerprint(of):
     return "{}|{}|{}".format(t, of["price"], of["area"])
 
 
+def too_old(created_iso, max_age_days):
+    """True, если объявление добавлено раньше, чем N дней назад. Нет даты → не отбрасываем."""
+    if not max_age_days:
+        return False
+    try:
+        ts = datetime.fromisoformat(created_iso).timestamp()
+    except (ValueError, TypeError, OverflowError, AttributeError):
+        return False
+    return (time.time() - ts) > max_age_days * 86400 + 3600  # +час запаса на часовые пояса
+
+
+def added_label(created_iso):
+    try:
+        dt = datetime.fromisoformat(created_iso)
+    except (ValueError, TypeError):
+        return ""
+    hm = dt.strftime("%H:%M")
+    try:
+        days = (datetime.now(dt.tzinfo).date() - dt.date()).days
+    except (ValueError, TypeError, OverflowError):
+        days = None
+    if days == 0:
+        return "сегодня в " + hm
+    if days == 1:
+        return "вчера в " + hm
+    return dt.strftime("%d.%m %H:%M")
+
+
 # ---------------------------------------------------------------- карточка
 
 def _floor_ru(f):
@@ -576,11 +605,7 @@ def format_offer(of, an):
 
     if of["title"]:
         lines.append("«{}»".format(esc(of["title"])))
-    dt = ""
-    try:
-        dt = datetime.fromisoformat(of["created_iso"]).strftime("%d.%m %H:%M")
-    except (ValueError, TypeError):
-        pass
+    dt = added_label(of["created_iso"])
     tail = '🔗 <a href="{}">Открыть на OLX</a>'.format(of["url"])
     if dt:
         tail += "  ·  добавлено {}".format(dt)
@@ -649,6 +674,8 @@ def recent_filtered(state, cfg, only_perfect=False):
             continue
         if only_perfect and not item.get("perfect"):
             continue
+        if too_old(item["of"].get("created_iso"), cfg.get("max_age_days")):
+            continue
         if not passes_filters(item["of"], item.get("an") or {}, cfg):
             continue
         out.append(item)
@@ -670,6 +697,7 @@ def status_text(cfg, state):
         "Комнаты: {}\n"
         "Районы: {}\n"
         "Мин. площадь: {}\n"
+        "Свежесть: {}\n"
         "Проверка каждые {} мин · пауза: {}\n"
         "Проверок: {} · прислано квартир: {}\n"
         "Последняя проверка: {}"
@@ -680,6 +708,7 @@ def status_text(cfg, state):
         rooms_ru(cfg),
         esc(", ".join(districts)) if districts else "весь город",
         "{} м²".format(cfg["min_area"]) if cfg.get("min_area") else "без ограничения",
+        "не старше {} дн.".format(cfg["max_age_days"]) if cfg.get("max_age_days") else "любой возраст",
         cfg.get("check_interval_min", 5),
         "да ⏸" if state.get("paused") else "нет",
         state["stats"].get("checks", 0),
@@ -695,6 +724,7 @@ HELP_TEXT = (
     "/min 2500 — нижняя граница суммы\n"
     "/rooms 2 — комнаты: 1, 2, 3, 4, можно «1,2», any = любые\n"
     "/area 35 — минимум площади, м²\n"
+    "/age 3 — только объявления не старше N дней (/age off — без ограничения)\n"
     "/districts Zabłocie, Podgórze — только эти районы (/districts all — весь город)\n"
     "/september — только варианты с заселением ⭐️ от сентября\n"
     "/last 5 — последние подходящие под текущие фильтры\n"
@@ -720,16 +750,24 @@ def handle_command(cfg, state, text):
         send(cfg, status_text(cfg, state))
         return False
 
-    if cmd in ("/max", "/min", "/area"):
-        v = to_int(arg)
-        limits = {"/max": (500, 50000), "/min": (0, 50000), "/area": (0, 300)}
+    if cmd in ("/max", "/min", "/area", "/age"):
+        if cmd == "/age" and norm_pl(arg) in ("off", "выкл", "выключить", "any", "все", "любые"):
+            v = 0
+        else:
+            v = to_int(arg)
+        limits = {"/max": (500, 50000), "/min": (0, 50000), "/area": (0, 300), "/age": (0, 90)}
         lo, hi = limits[cmd]
         if v is None or not (lo <= v <= hi):
-            send(cfg, "Напиши число, например: {} {}".format(cmd, 4000 if cmd != "/area" else 35))
+            hint = {"/max": "4000", "/min": "2500", "/area": "35", "/age": "3  (или /age off)"}[cmd]
+            send(cfg, "Напиши число, например: {} {}".format(cmd, hint))
             return False
-        key = {"/max": "max_total", "/min": "min_total", "/area": "min_area"}[cmd]
+        key = {"/max": "max_total", "/min": "min_total", "/area": "min_area", "/age": "max_age_days"}[cmd]
         cfg[key] = v
         save_config(cfg)
+        if key == "max_age_days":
+            send(cfg, "✅ Только объявления не старше {} дн.".format(v) if v
+                 else "✅ Фильтр по дате выключен — показываю любые по возрасту.")
+            return True   # пересобрать выдачу с новым окном свежести
         names = {"max_total": "Потолок (аренда+czynsz)", "min_total": "Нижняя граница", "min_area": "Мин. площадь"}
         unit = " м²" if key == "min_area" else " zł"
         send(cfg, "✅ {}: {}{}".format(names[key], v, unit))
@@ -875,6 +913,9 @@ def check_olx(cfg, state):
         of = parse_offer(o)
         if not of["id"]:
             continue
+        # старьё отсеиваем ДО seen — если потом ослабишь /age, оно снова сможет прийти
+        if too_old(of["created_iso"], cfg.get("max_age_days")):
+            continue
         sid = str(of["id"])
         if sid in state["seen"]:
             continue
@@ -895,7 +936,8 @@ def check_olx(cfg, state):
             "text": text, "ts": int(now), "city": city_key(cfg),
             "perfect": bool(an.get("perfect")),
             "of": {"price": of["price"], "rent": of["rent"], "area": of["area"],
-                   "district": of["district"], "business": of.get("business")},
+                   "district": of["district"], "business": of.get("business"),
+                   "created_iso": of["created_iso"]},
             "an": {"czynsz_desc": an.get("czynsz_desc")},
         })
 
@@ -1073,6 +1115,25 @@ def selftest():
     # переключение города переключает и выдачу истории
     cfg2["city"] = "warszawa"
     assert [i["text"] for i in recent_filtered(st, cfg2)] == ["варшава"]
+
+    # фильтр по дате добавления
+    assert too_old("2026-05-01T10:00:00+02:00", 3) is True
+    assert too_old("2026-05-01T10:00:00+02:00", 0) is False      # 0 = выключено
+    fresh_iso = datetime.now().astimezone().isoformat()
+    assert too_old(fresh_iso, 3) is False
+    assert added_label(fresh_iso).startswith("сегодня")
+    st_age = {"recent": [
+        {"text": "старая", "ts": 8, "city": "krakow", "perfect": False,
+         "of": {"price": 2500, "rent": 400, "area": 40, "district": "A", "business": False,
+                "created_iso": "2026-05-01T10:00:00+02:00"}, "an": {}},
+        {"text": "свежая", "ts": 9, "city": "krakow", "perfect": False,
+         "of": {"price": 2500, "rent": 400, "area": 40, "district": "A", "business": False,
+                "created_iso": fresh_iso}, "an": {}},
+    ]}
+    cfg3 = dict(DEFAULT_CONFIG); cfg3["max_age_days"] = 3
+    assert [i["text"] for i in recent_filtered(st_age, cfg3)] == ["свежая"], "старое должно отсеяться"
+    cfg3["max_age_days"] = 0
+    assert [i["text"] for i in recent_filtered(st_age, cfg3)] == ["свежая", "старая"], "с /age off — обе"
 
     assert CITY_ALIASES.get("варшава") == "warszawa" and CITY_ALIASES.get("krakow") == "krakow"
     assert norm_pl("Zabłocie") == "zablocie" and to_int("2 500 zł") == 2500
