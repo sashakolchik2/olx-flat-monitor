@@ -1,0 +1,42 @@
+name: OLX Krakow monitor
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: olx-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check OLX and handle bot commands
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python3 olx_monitor.py --cron
+
+      - name: Persist state between runs
+        run: |
+          git config user.name "olx-bot"
+          git config user.email "olx-bot@users.noreply.github.com"
+          git add state.json config.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "state [skip ci]"
+            git push || (git pull --rebase --autostash && git push) || echo "push failed, will retry next run"
+          fi
