@@ -1,0 +1,12 @@
+{
+  "telegram_bot_token": "",
+  "telegram_chat_id": null,
+  "city": "krakow",
+  "max_total": 4000,
+  "min_total": 0,
+  "rooms": ["two"],
+  "min_area": 0,
+  "districts": [],
+  "only_private": false,
+  "check_interval_min": 5
+}
