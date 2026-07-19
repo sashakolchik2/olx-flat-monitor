@@ -117,7 +117,9 @@
     "1084741792": 1784416868,
     "1086014757": 1784416868,
     "1079686706": 1784416868,
-    "1085630269": 1784416868
+    "1085630269": 1784416868,
+    "1085780769": 1784422760,
+    "1085713515": 1784422760
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -222,7 +224,9 @@
     "nowedwupokojowemieszkaniebezposrednikowosvivapiast|3000|36.0": 1784416868,
     "mieszkaniedwupokojowedowynajeciapradnikczerwony|2300|35.0": 1784416868,
     "odstapiemieszkanie|2200|44.5": 1784416868,
-    "mistrzejowiceospiastowjasne2pokojeosobnakuchniabalkonnowopom|2150|40.0": 1784416868
+    "mistrzejowiceospiastowjasne2pokojeosobnakuchniabalkonnowopom|2150|40.0": 1784416868,
+    "mieszkanie41m2grzegorzki|2800|41.0": 1784422760,
+    "krakowczyzynynowe2pokojowemieszkaniezgarazem|2900|49.0": 1784422760
   },
   "tg_offset": 654625292,
   "paused": false,
@@ -450,12 +454,46 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 49 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Kraków – Czyżyny – Nowe 2-pokojowe mieszkanie z garażem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-czyzyny-nowe-2-pokojowe-mieszkanie-z-garazem-CID3-ID1btxGj.html\">Открыть на OLX</a>  ·  добавлено 16.07 15:05",
+      "ts": 1784422760,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 750,
+        "area": 49.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-07-16T15:05:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2800 + czynsz 440 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 440 zł\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 41 m2 Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41-m2-grzegorzki-CID3-ID1btPb3.html\">Открыть на OLX</a>  ·  добавлено 16.07 21:30",
+      "ts": 1784422760,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 440,
+        "area": 41.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-07-16T21:30:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 1,
-    "sent": 14
+    "checks": 2,
+    "sent": 16
   },
   "initialized": true,
-  "last_check": "2026-07-18T23:21:36"
+  "last_check": "2026-07-19T00:59:28"
 }

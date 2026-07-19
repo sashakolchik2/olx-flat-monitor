@@ -4,6 +4,7 @@
   "city": "krakow",
   "max_total": 4000,
   "min_total": 0,
+  "max_age_days": 3,
   "rooms": [
     "two"
   ],
