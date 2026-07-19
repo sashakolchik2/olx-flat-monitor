@@ -119,7 +119,9 @@
     "1079686706": 1784416868,
     "1085630269": 1784416868,
     "1085780769": 1784422760,
-    "1085713515": 1784422760
+    "1085713515": 1784422760,
+    "1085947389": 1784435220,
+    "1085733607": 1784435220
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -226,7 +228,9 @@
     "odstapiemieszkanie|2200|44.5": 1784416868,
     "mistrzejowiceospiastowjasne2pokojeosobnakuchniabalkonnowopom|2150|40.0": 1784416868,
     "mieszkanie41m2grzegorzki|2800|41.0": 1784422760,
-    "krakowczyzynynowe2pokojowemieszkaniezgarazem|2900|49.0": 1784422760
+    "krakowczyzynynowe2pokojowemieszkaniezgarazem|2900|49.0": 1784422760,
+    "wynajmemieszkaniekleparzkrakowzduzymtarasem|2900|37.0": 1784435220,
+    "mieszkanie2pokojowezbalkonemwbronowicachodwlasciciela|2800|36.0": 1784435220
   },
   "tg_offset": 654625292,
   "paused": false,
@@ -488,12 +492,46 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 650 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem w Bronowicach od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-w-bronowicach-od-wlasciciela-CID3-ID1btCUn.html\">Открыть на OLX</a>  ·  добавлено 16.07 16:53",
+      "ts": 1784435220,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 650,
+        "area": 36.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-07-16T16:53:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2900 zł\n📅 Заселение: сразу (od zaraz)\n👤 от собственника\n«Wynajmę mieszkanie Kleparz Kraków z dużym tarasem.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-kleparz-krakow-z-duzym-tarasem-CID3-ID1buvvt.html\">Открыть на OLX</a>  ·  добавлено 17.07 19:47",
+      "ts": 1784435220,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 900,
+        "area": 37.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-07-17T19:47:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 2,
-    "sent": 16
+    "checks": 3,
+    "sent": 18
   },
   "initialized": true,
-  "last_check": "2026-07-19T00:59:28"
+  "last_check": "2026-07-19T04:27:07"
 }
