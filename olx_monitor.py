@@ -1235,25 +1235,27 @@ def main():
     # Режим для GitHub Actions: один прогон и выход (память — в state.json).
     if "--cron" in sys.argv:
         process_updates(cfg, state, poll_timeout=6)
-        if cfg.get("telegram_chat_id") and not state.get("paused"):
+        if subscribers(cfg) and not state.get("paused"):
             check_olx(cfg, state)
         else:
-            log("Чат не привязан или пауза — проверку пропустил.")
+            log("Нет подписчиков или пауза — проверку пропустил.")
         save_config(cfg)
         save_state(state)
         return
 
     if "--once" in sys.argv:
-        if not cfg.get("telegram_chat_id"):
-            log("Чат не привязан: запусти без --once и напиши боту /start")
+        if not subscribers(cfg):
+            log("Нет подписчиков: запусти без --once и напиши боту /start")
             sys.exit(1)
         check_olx(cfg, state)
         save_state(state)
         return
 
-    if cfg.get("telegram_chat_id"):
+    # Живой цикл: проверка каждые check_interval_min минут + мгновенная реакция на команды.
+    # На GitHub Actions запускается с ограничением по времени и перезапускается расписанием.
+    if subscribers(cfg) and not os.environ.get("GITHUB_ACTIONS"):
         send(cfg, "🚀 Монитор запущен. /status — фильтры, /help — команды.", silent=True)
-    else:
+    elif not subscribers(cfg):
         log("Жду привязки: открой своего бота в Telegram и напиши ему /start")
 
     next_check = 0.0
@@ -1262,7 +1264,7 @@ def main():
             cfg = load_config()
             force = process_updates(cfg, state)
             due = time.time() >= next_check
-            if cfg.get("telegram_chat_id") and not state.get("paused") and (force or due):
+            if subscribers(cfg) and not state.get("paused") and (force or due):
                 check_olx(cfg, state)
                 next_check = time.time() + max(2, int(cfg.get("check_interval_min", 5))) * 60
             save_state(state)
