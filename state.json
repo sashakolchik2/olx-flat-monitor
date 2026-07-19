@@ -121,7 +121,12 @@
     "1085780769": 1784422760,
     "1085713515": 1784422760,
     "1085947389": 1784435220,
-    "1085733607": 1784435220
+    "1085733607": 1784435220,
+    "1086165702": 1784444727,
+    "1086115395": 1784444727,
+    "1085789603": 1784444727,
+    "1085743903": 1784444727,
+    "1085858709": 1784444727
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -230,7 +235,11 @@
     "mieszkanie41m2grzegorzki|2800|41.0": 1784422760,
     "krakowczyzynynowe2pokojowemieszkaniezgarazem|2900|49.0": 1784422760,
     "wynajmemieszkaniekleparzkrakowzduzymtarasem|2900|37.0": 1784435220,
-    "mieszkanie2pokojowezbalkonemwbronowicachodwlasciciela|2800|36.0": 1784435220
+    "mieszkanie2pokojowezbalkonemwbronowicachodwlasciciela|2800|36.0": 1784435220,
+    "mieszkaniedwupokojowegarazpodziemnyulicapekowicka|2850|35.0": 1784444727,
+    "wynajemmieszkanie2pokojowekrakow|3000|49.0": 1784444727,
+    "2pokojenowoczesnezbalkonemulmaieraal29listopada|2600|37.0": 1784444727,
+    "nowoczesnemieszkanienawynajemlema15okazja|3000|40.0": 1784444727
   },
   "tg_offset": 654625292,
   "paused": false,
@@ -526,12 +535,80 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 330 = <b>2930 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с 26 июля\n🏢 Этаж: 10\n👤 от собственника\n«2 pokoje nowoczesne z balkonem/ul. Maiera/al.29 Listopada»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-nowoczesne-z-balkonem-ul-maiera-al-29-listopada-CID3-ID1btFAr.html\">Открыть на OLX</a>  ·  добавлено 16.07 17:52",
+      "ts": 1784444727,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 330,
+        "area": 37.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-07-16T17:52:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 августа\n🏢 Этаж: 3\n👤 от собственника\n«WYNAJEM mieszkanie 2 pokojowe, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkanie-2-pokojowe-krakow-CID3-ID1btRtx.html\">Открыть на OLX</a>  ·  добавлено 16.07 22:33",
+      "ts": 1784444727,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 900,
+        "area": 49.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-07-16T22:33:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesne mieszkanie na WYNAJEM - LEMA 15 [OKAZJA]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-na-wynajem-lema-15-okazja-CID3-ID1bu9s9.html\">Открыть на OLX</a>  ·  добавлено 17.07 13:42",
+      "ts": 1784444727,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 650,
+        "area": 40.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-07-17T13:42:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2850 + czynsz 650 = <b>3500 zł/мес</b>\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 650 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с августа\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie dwupokojowe,garaż podziemny ulica Pękowicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-garaz-podziemny-ulica-pekowicka-CID3-ID1bweef.html\">Открыть на OLX</a>  ·  добавлено вчера в 17:54",
+      "ts": 1784444727,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2850,
+        "rent": 650,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-07-18T17:54:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3,
-    "sent": 18
+    "checks": 4,
+    "sent": 22
   },
   "initialized": true,
-  "last_check": "2026-07-19T04:27:07"
+  "last_check": "2026-07-19T07:05:38"
 }
