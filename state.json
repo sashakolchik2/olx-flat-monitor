@@ -126,7 +126,10 @@
     "1086115395": 1784444727,
     "1085789603": 1784444727,
     "1085743903": 1784444727,
-    "1085858709": 1784444727
+    "1085858709": 1784444727,
+    "1086174714": 1784452572,
+    "1086174467": 1784452572,
+    "1085668431": 1784452572
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -239,9 +242,11 @@
     "mieszkaniedwupokojowegarazpodziemnyulicapekowicka|2850|35.0": 1784444727,
     "wynajemmieszkanie2pokojowekrakow|3000|49.0": 1784444727,
     "2pokojenowoczesnezbalkonemulmaieraal29listopada|2600|37.0": 1784444727,
-    "nowoczesnemieszkanienawynajemlema15okazja|3000|40.0": 1784444727
+    "nowoczesnemieszkanienawynajemlema15okazja|3000|40.0": 1784444727,
+    "2pokojowemieszkanieos2pulkulitniczegoklimatyzacjamiejscepost|2800|39.0": 1784452572,
+    "mieszkaniedowynajecia42m2odzaraz2pokoje|2300|42.0": 1784452572
   },
-  "tg_offset": 654625292,
+  "tg_offset": 654625295,
   "paused": false,
   "recent": [
     {
@@ -603,12 +608,46 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 42 м², 2 комнаты\n💰 2300 + czynsz 750 = <b>3050 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajecia 42 m2 od zaraz, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-42-m2-od-zaraz-2-pokoje-CID3-ID1btlX9.html\">Открыть на OLX</a>  ·  добавлено 16.07 11:16",
+      "ts": 1784452572,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 750,
+        "area": 42.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-07-16T11:16:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 550 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.08\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie, Os. 2 Pułku Litniczego, klimatyzacja, miejsce postojowe w garażu podziemnym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-os-2-pulku-litniczego-klimatyzacja-miejsce-postojowe-w-garazu-podziemnym-CID3-ID1bwtB1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:13",
+      "ts": 1784452572,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 550,
+        "area": 39.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-07-19T10:13:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
     }
   ],
   "stats": {
-    "checks": 4,
-    "sent": 22
+    "checks": 5,
+    "sent": 24
   },
   "initialized": true,
-  "last_check": "2026-07-19T07:05:38"
+  "last_check": "2026-07-19T09:16:19"
 }

@@ -1,6 +1,9 @@
 {
   "telegram_bot_token": "",
   "telegram_chat_id": 346264211,
+  "telegram_chat_ids": [
+    516572808
+  ],
   "city": "krakow",
   "max_total": 4000,
   "min_total": 0,
