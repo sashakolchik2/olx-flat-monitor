@@ -38,7 +38,8 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 
 DEFAULT_CONFIG = {
     "telegram_bot_token": "СЮДА_ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER",
-    "telegram_chat_id": None,       # привяжется сам после /start в боте
+    "telegram_chat_id": None,       # первый чат (для совместимости)
+    "telegram_chat_ids": [],        # все подписчики — кто нажал /start
     "city": "krakow",               # krakow | warszawa
     "max_total": 4000,              # потолок: аренда + czynsz, zł/мес
     "min_total": 0,                 # нижняя граница (0 = нет)
@@ -644,16 +645,44 @@ def tg(cfg, method, payload=None, timeout=40):
         return None
 
 
-def send(cfg, text, silent=False):
-    if not cfg.get("telegram_chat_id"):
+def subscribers(cfg):
+    """Все чаты-получатели (с миграцией со старого одиночного поля), без дублей."""
+    ids = list(cfg.get("telegram_chat_ids") or [])
+    single = cfg.get("telegram_chat_id")
+    if single and single not in ids:
+        ids.append(single)
+    return ids
+
+
+def add_subscriber(cfg, chat):
+    ids = list(cfg.get("telegram_chat_ids") or [])
+    if chat not in ids:
+        ids.append(chat)
+    cfg["telegram_chat_ids"] = ids
+    if not cfg.get("telegram_chat_id"):     # первый — заполним и singular
+        cfg["telegram_chat_id"] = chat
+    save_config(cfg)
+
+
+def send_one(cfg, chat_id, text, silent=False):
+    if not chat_id:
         return False
-    payload = {"chat_id": cfg["telegram_chat_id"], "text": text,
+    payload = {"chat_id": chat_id, "text": text,
                "parse_mode": "HTML", "disable_notification": silent}
     r = tg(cfg, "sendMessage", payload)
     if r is None:
         time.sleep(3)
         r = tg(cfg, "sendMessage", payload)
     return bool(r and r.get("ok"))
+
+
+def send(cfg, text, silent=False):
+    """Разослать всем подписчикам."""
+    ok = False
+    for cid in subscribers(cfg):
+        if send_one(cfg, cid, text, silent):
+            ok = True
+    return ok
 
 
 def rooms_ru(cfg):
@@ -698,6 +727,7 @@ def status_text(cfg, state):
         "Районы: {}\n"
         "Мин. площадь: {}\n"
         "Свежесть: {}\n"
+        "Получателей: {}\n"
         "Проверка каждые {} мин · пауза: {}\n"
         "Проверок: {} · прислано квартир: {}\n"
         "Последняя проверка: {}"
@@ -709,6 +739,7 @@ def status_text(cfg, state):
         esc(", ".join(districts)) if districts else "весь город",
         "{} м²".format(cfg["min_area"]) if cfg.get("min_area") else "без ограничения",
         "не старше {} дн.".format(cfg["max_age_days"]) if cfg.get("max_age_days") else "любой возраст",
+        len(subscribers(cfg)),
         cfg.get("check_interval_min", 5),
         "да ⏸" if state.get("paused") else "нет",
         state["stats"].get("checks", 0),
@@ -731,15 +762,26 @@ HELP_TEXT = (
     "/check — проверить OLX прямо сейчас\n"
     "/status — фильтры и статистика\n"
     "/pause и /resume — приостановить / продолжить\n"
-    "\nВсё меняется на лету, перезапускать не надо."
+    "/stop — отписаться от уведомлений\n"
+    "\nВсё меняется на лету, перезапускать не надо.\n"
+    "Второй человек? Пусть просто нажмёт /start у этого бота."
 )
 
 
-def handle_command(cfg, state, text):
+def handle_command(cfg, state, text, chat=None):
     """Возвращает True, если надо сделать внеплановую проверку OLX."""
     parts = text.split()
     cmd = parts[0].lower().split("@")[0] if parts else ""
     arg = " ".join(parts[1:]).strip()
+
+    if cmd in ("/stop", "/unsubscribe"):
+        ids = [c for c in (cfg.get("telegram_chat_ids") or []) if c != chat]
+        cfg["telegram_chat_ids"] = ids
+        if cfg.get("telegram_chat_id") == chat:
+            cfg["telegram_chat_id"] = ids[0] if ids else None
+        save_config(cfg)
+        send_one(cfg, chat, "🔕 Отписал. Захочешь вернуться — снова /start.")
+        return False
 
     if cmd in ("/start", "/help"):
         send(cfg, HELP_TEXT)
@@ -869,23 +911,32 @@ def process_updates(cfg, state, poll_timeout=20):
         text = (msg.get("text") or "").strip()
         if not chat or not text:
             continue
-        if not cfg.get("telegram_chat_id"):
-            cfg["telegram_chat_id"] = chat
-            save_config(cfg)
-            log("Чат привязан: {}".format(chat))
-            send(cfg, "Привет! 👋 Чат привязан.\n"
-                      "Слежу за OLX: аренда квартир, город <b>{}</b>, {}, до {} zł/мес "
-                      "(аренда + czynsz вместе). Считаю все оплаты из описания — паркинг, свет, "
-                      "медиа, kaucja — и отдельно ⭐️ выделяю варианты с заселением от сентября.\n"
-                      "Сейчас пришлю стартовую подборку, дальше — только новые объявления, "
-                      "по мере появления.\n"
-                      "/help — команды, /city — сменить город (Краков/Варшава)."
-                      .format(city_name(cfg), rooms_ru(cfg), cfg.get("max_total")))
-            force = True
+        subs = subscribers(cfg)
+        if chat not in subs:
+            first_ever = len(subs) == 0
+            add_subscriber(cfg, chat)
+            log("Новый подписчик: {} (всего {})".format(chat, len(subscribers(cfg))))
+            send_one(cfg, chat,
+                     "Привет! 👋 Ты подключён к монитору OLX.\n"
+                     "Слежу за арендой квартир, город <b>{}</b>, {}, до {} zł/мес "
+                     "(аренда + czynsz вместе). Считаю все оплаты из описания — паркинг, свет, "
+                     "медиа, kaucja — и отдельно ⭐️ выделяю заселение от сентября.\n"
+                     "/help — команды, /status — фильтры, /city — сменить город."
+                     .format(city_name(cfg), rooms_ru(cfg), cfg.get("max_total")))
+            if subs:   # кто-то уже был — предупредим, что фильтры теперь общие
+                for cid in subs:
+                    send_one(cfg, cid, "➕ К боту подключился ещё один человек. "
+                                       "Уведомления идут вам обоим, фильтры общие.", silent=True)
+            items = recent_filtered(state, cfg)
+            if items:
+                send_one(cfg, chat, "📦 Что сейчас подходит под фильтры:", silent=True)
+                for it in items[:8]:
+                    send_one(cfg, chat, it["text"], silent=True)
+                    time.sleep(0.5)
+            elif first_ever:
+                force = True     # самый первый — соберём стартовую подборку
             continue
-        if chat != cfg["telegram_chat_id"]:
-            continue
-        force = handle_command(cfg, state, text) or force
+        force = handle_command(cfg, state, text, chat) or force
     return force
 
 
@@ -1134,6 +1185,13 @@ def selftest():
     assert [i["text"] for i in recent_filtered(st_age, cfg3)] == ["свежая"], "старое должно отсеяться"
     cfg3["max_age_days"] = 0
     assert [i["text"] for i in recent_filtered(st_age, cfg3)] == ["свежая", "старая"], "с /age off — обе"
+
+    # несколько подписчиков (без записи в файл)
+    assert subscribers({}) == []
+    assert subscribers({"telegram_chat_id": 111}) == [111]
+    assert subscribers({"telegram_chat_ids": [111, 222]}) == [111, 222]
+    assert set(subscribers({"telegram_chat_id": 111, "telegram_chat_ids": [222]})) == {111, 222}
+    assert subscribers({"telegram_chat_id": 111, "telegram_chat_ids": [111]}) == [111]  # без дублей
 
     assert CITY_ALIASES.get("варшава") == "warszawa" and CITY_ALIASES.get("krakow") == "krakow"
     assert norm_pl("Zabłocie") == "zablocie" and to_int("2 500 zł") == 2500
