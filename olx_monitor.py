@@ -40,7 +40,8 @@ DEFAULT_CONFIG = {
     "telegram_bot_token": "СЮДА_ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER",
     "telegram_chat_id": None,       # первый чат (для совместимости)
     "telegram_chat_ids": [],        # все подписчики — кто нажал /start
-    "city": "krakow",               # krakow | warszawa
+    "city": "krakow",               # (для совместимости) — первый город
+    "cities": ["krakow"],           # список городов: krakow и/или warszawa
     "max_total": 4000,              # потолок: аренда + czynsz, zł/мес
     "min_total": 0,                 # нижняя граница (0 = нет)
     "max_age_days": 3,              # только объявления не старше N дней (0 = без ограничения)
@@ -62,14 +63,36 @@ CITY_ALIASES = {
     "warszawa": "warszawa", "warsaw": "warszawa", "варшава": "warszawa", "wawa": "warszawa", "wa": "warszawa",
 }
 CITY_RU = {"Kraków": "Краков", "Warszawa": "Варшава"}
+CITY_NAME_TO_KEY = {"Kraków": "krakow", "Warszawa": "warszawa", "Краков": "krakow", "Варшава": "warszawa"}
+
+
+def cities_of(cfg):
+    """Список выбранных городов (ключи). Миграция со старого одиночного поля `city`."""
+    c = cfg.get("cities")
+    keys = [x for x in c if x in CITIES] if isinstance(c, list) else []
+    if not keys:
+        single = cfg.get("city")
+        keys = [single] if single in CITIES else ["krakow"]
+    # без дублей, сохраняя порядок
+    seen, out = set(), []
+    for k in keys:
+        if k not in seen:
+            seen.add(k)
+            out.append(k)
+    return out or ["krakow"]
 
 
 def city_key(cfg):
-    return cfg.get("city") if cfg.get("city") in CITIES else "krakow"
+    return cities_of(cfg)[0]
 
 
 def city_name(cfg):
-    return CITIES[city_key(cfg)]["name"]
+    return " + ".join(CITIES[k]["name"] for k in cities_of(cfg))
+
+
+def offer_city_key(of, cfg):
+    """Ключ города для конкретного объявления (по названию из OLX)."""
+    return CITY_NAME_TO_KEY.get(of.get("city")) or city_key(cfg)
 
 ROOM_RU = {"one": "кавалерка", "two": "2 комнаты", "three": "3 комнаты", "four": "4+ комнат"}
 ROOMS_LABEL_RU = {
@@ -183,33 +206,34 @@ def http_json(url, payload=None, timeout=30):
 # ---------------------------------------------------------------- OLX
 
 def fetch_offers(cfg):
-    """Две страницы свежих объявлений (до 100 шт.)."""
-    city = CITIES[city_key(cfg)]
+    """Свежие объявления по всем выбранным городам (до 100 на город)."""
     out, ids = [], set()
-    for offset in (0, 50):
-        params = [
-            ("offset", str(offset)),
-            ("limit", "50"),
-            ("category_id", "15"),                    # Mieszkania > Wynajem
-            ("city_id", str(city["city_id"])),
-            ("sort_by", "created_at:desc"),
-        ]
-        if city.get("region_id"):
-            params.append(("region_id", str(city["region_id"])))
-        if cfg.get("max_total"):
-            params.append(("filter_float_price:to", str(int(cfg["max_total"]))))
-        for i, r in enumerate(cfg.get("rooms") or []):
-            params.append(("filter_enum_rooms[{}]".format(i), r))
-        url = OLX_API + "?" + urllib.parse.urlencode(params)
-        data = http_json(url).get("data") or []
-        for o in data:
-            oid = o.get("id")
-            if oid and oid not in ids:
-                ids.add(oid)
-                out.append(o)
-        if len(data) < 50:
-            break
-        time.sleep(1)
+    for ck in cities_of(cfg):
+        city = CITIES[ck]
+        for offset in (0, 50):
+            params = [
+                ("offset", str(offset)),
+                ("limit", "50"),
+                ("category_id", "15"),                    # Mieszkania > Wynajem
+                ("city_id", str(city["city_id"])),
+                ("sort_by", "created_at:desc"),
+            ]
+            if city.get("region_id"):
+                params.append(("region_id", str(city["region_id"])))
+            if cfg.get("max_total"):
+                params.append(("filter_float_price:to", str(int(cfg["max_total"]))))
+            for i, r in enumerate(cfg.get("rooms") or []):
+                params.append(("filter_enum_rooms[{}]".format(i), r))
+            url = OLX_API + "?" + urllib.parse.urlencode(params)
+            data = http_json(url).get("data") or []
+            for o in data:
+                oid = o.get("id")
+                if oid and oid not in ids:
+                    ids.add(oid)
+                    out.append(o)
+            if len(data) < 50:
+                break
+            time.sleep(1)
     return out
 
 
@@ -693,13 +717,13 @@ def rooms_ru(cfg):
 
 
 def recent_filtered(state, cfg, only_perfect=False):
-    """История подходящих под ТЕКУЩИЕ фильтры и текущий город, свежие сверху."""
-    ck = city_key(cfg)
+    """История подходящих под ТЕКУЩИЕ фильтры и выбранные города, свежие сверху."""
+    wanted = set(cities_of(cfg))
     out = []
     for item in reversed(state.get("recent") or []):
         if "of" not in item:                       # старый формат — пропускаем
             continue
-        if item.get("city", "krakow") != ck:
+        if item.get("city", "krakow") not in wanted:
             continue
         if only_perfect and not item.get("perfect"):
             continue
@@ -721,7 +745,7 @@ def status_text(cfg, state):
             pass
     return (
         "📊 <b>Статус монитора</b>\n"
-        "Город: <b>{}</b>\n"
+        "Города: <b>{}</b>\n"
         "Бюджет: {}до {} zł/мес (аренда + czynsz)\n"
         "Комнаты: {}\n"
         "Районы: {}\n"
@@ -750,7 +774,7 @@ def status_text(cfg, state):
 
 HELP_TEXT = (
     "🤖 <b>Команды</b>\n"
-    "/city warszawa — сменить город (krakow / warszawa)\n"
+    "/city warszawa — город: krakow, warszawa или both (оба сразу)\n"
     "/max 4000 — потолок: аренда + czynsz вместе\n"
     "/min 2500 — нижняя граница суммы\n"
     "/rooms 2 — комнаты: 1, 2, 3, 4, можно «1,2», any = любые\n"
@@ -851,20 +875,30 @@ def handle_command(cfg, state, text, chat=None):
         send(cfg, "▶️ Поехали дальше.")
         return True
 
-    if cmd == "/city":
+    if cmd in ("/city", "/cities"):
         a = norm_pl(arg)
-        target = CITY_ALIASES.get(a)
-        if not target:
-            send(cfg, "Сейчас: <b>{}</b>. Сменить: /city krakow или /city warszawa".format(city_name(cfg)))
+        if a in ("both", "oba", "оба", "обе", "all", "все", "vse", "krakow warszawa", "warszawa krakow",
+                 "krakow i warszawa", "krakow, warszawa"):
+            targets = ["krakow", "warszawa"]
+        else:
+            targets = []
+            for t in re.split(r"[ ,]+", a):
+                k = CITY_ALIASES.get(t)
+                if k and k not in targets:
+                    targets.append(k)
+        if not targets:
+            send(cfg, "Сейчас: <b>{}</b>.\nСменить: /city krakow, /city warszawa "
+                      "или /city both (оба сразу).".format(city_name(cfg)))
             return False
-        if target == city_key(cfg):
-            send(cfg, "Уже слежу за городом: <b>{}</b>.".format(city_name(cfg)))
+        if set(targets) == set(cities_of(cfg)):
+            send(cfg, "Уже слежу за: <b>{}</b>.".format(city_name(cfg)))
             return False
-        cfg["city"] = target
+        cfg["cities"] = targets
+        cfg["city"] = targets[0]               # для совместимости
         save_config(cfg)
-        state["initialized"] = False          # свежая стартовая подборка для нового города
+        state["initialized"] = False           # свежая стартовая подборка под новый набор
         state["recent"] = []
-        send(cfg, "✅ Город: <b>{}</b>. Сейчас соберу стартовую подборку…".format(city_name(cfg)))
+        send(cfg, "✅ Города: <b>{}</b>. Сейчас соберу стартовую подборку…".format(city_name(cfg)))
         return True
 
     if cmd == "/check":
@@ -984,7 +1018,7 @@ def check_olx(cfg, state):
 
     def remember(of, an, text):
         state["recent"].append({
-            "text": text, "ts": int(now), "city": city_key(cfg),
+            "text": text, "ts": int(now), "city": offer_city_key(of, cfg),
             "perfect": bool(an.get("perfect")),
             "of": {"price": of["price"], "rent": of["rent"], "area": of["area"],
                    "district": of["district"], "business": of.get("business"),
@@ -1158,14 +1192,26 @@ def selftest():
         {"text": "варшава", "ts": 3, "city": "warszawa", "perfect": True,
          "of": {"price": 2000, "rent": 200, "area": 40, "district": "Z", "business": False}, "an": {}},
     ]}
-    cfg2 = dict(DEFAULT_CONFIG); cfg2["max_total"] = 3200; cfg2["city"] = "krakow"
+    cfg2 = dict(DEFAULT_CONFIG); cfg2["max_total"] = 3200; cfg2["cities"] = ["krakow"]
     last = recent_filtered(st, cfg2)
     assert [i["text"] for i in last] == ["в бюджете-сентябрь"], [i["text"] for i in last]
     sep = recent_filtered(st, cfg2, only_perfect=True)
     assert [i["text"] for i in sep] == ["в бюджете-сентябрь"], sep
     # переключение города переключает и выдачу истории
-    cfg2["city"] = "warszawa"
+    cfg2["cities"] = ["warszawa"]
     assert [i["text"] for i in recent_filtered(st, cfg2)] == ["варшава"]
+    # оба города сразу → и Краков, и Варшава
+    cfg2["cities"] = ["krakow", "warszawa"]
+    assert set(i["text"] for i in recent_filtered(st, cfg2)) == {"в бюджете-сентябрь", "варшава"}
+    # города: миграция со старого поля и режим «оба»
+    assert cities_of({}) == ["krakow"]
+    assert cities_of({"city": "warszawa"}) == ["warszawa"]
+    assert cities_of({"cities": ["krakow", "warszawa"]}) == ["krakow", "warszawa"]
+    assert cities_of({"cities": ["warszawa"], "city": "krakow"}) == ["warszawa"]
+    assert cities_of({"cities": []}) == ["krakow"]
+    assert offer_city_key({"city": "Warszawa"}, {}) == "warszawa"
+    assert offer_city_key({"city": "Kraków"}, {}) == "krakow"
+    assert city_name({"cities": ["krakow", "warszawa"]}) == "Краков + Варшава"
 
     # фильтр по дате добавления
     assert too_old("2026-05-01T10:00:00+02:00", 3) is True
