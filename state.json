@@ -287,7 +287,64 @@
     "1086340299": 1784537163,
     "1086341407": 1784537163,
     "1086341987": 1784540245,
-    "1086351806": 1784541788
+    "1086351806": 1784541788,
+    "1086453138": 1784563439,
+    "1086453104": 1784563439,
+    "1086451953": 1784563439,
+    "1086446974": 1784563439,
+    "1086437021": 1784563439,
+    "1086441372": 1784563439,
+    "1086428355": 1784563439,
+    "1086420704": 1784563439,
+    "1086418285": 1784563439,
+    "1086415582": 1784563439,
+    "1086416758": 1784563439,
+    "1086407760": 1784563439,
+    "1086408352": 1784563439,
+    "1086402406": 1784563439,
+    "1086406911": 1784563439,
+    "1086400436": 1784563439,
+    "1086400807": 1784563439,
+    "1086395421": 1784563439,
+    "1086395134": 1784563439,
+    "1086112434": 1784563439,
+    "1086392186": 1784563439,
+    "1086396782": 1784563439,
+    "1086391261": 1784563439,
+    "1086383737": 1784563439,
+    "1086380708": 1784563439,
+    "1086378131": 1784563439,
+    "1086377502": 1784563439,
+    "1086369809": 1784563439,
+    "1086368777": 1784563439,
+    "1086366255": 1784563439,
+    "1086357976": 1784563439,
+    "1086370079": 1784563439,
+    "1086329248": 1784563439,
+    "1086454429": 1784563760,
+    "1086458412": 1784564383,
+    "1086458024": 1784564383,
+    "1086456594": 1784564694,
+    "1086461917": 1784565627,
+    "1086466648": 1784566560,
+    "1086423133": 1784567804,
+    "1086480055": 1784570294,
+    "1086503856": 1784575271,
+    "1086503307": 1784575271,
+    "1086506127": 1784575582,
+    "1086505616": 1784575582,
+    "1086504082": 1784575582,
+    "1086505932": 1784575893,
+    "1086512292": 1784578069,
+    "1086515123": 1784579004,
+    "1086516900": 1784579314,
+    "1086514933": 1784579314,
+    "1086518144": 1784579626,
+    "1086520922": 1784581181,
+    "1086520229": 1784581492,
+    "1086516297": 1784582736,
+    "1086507311": 1784583980,
+    "1086526552": 1784584290
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -451,7 +508,14 @@
     "wynajmemieszkanienabialoleceod1sierpnia|3000|36.0": 1784534682,
     "jasne2pokojeprzyulrydygierabalkon45m²bliskoarkadii|2500|45.0": 1784534682,
     "wynajemmieszkaniaulpasleckawarszawabialoleka|2300|35.7": 1784534682,
-    "2poknamokotowie44m²ulklobuckagarazpkpokeciewifi|2600|44.0": 1784534682
+    "2poknamokotowie44m²ulklobuckagarazpkpokeciewifi|2600|44.0": 1784534682,
+    "mieszkanie2pokojowezurominska1|3000|33.0": 1784563439,
+    "2pokmieszkanienawynajemklimatyzacjawola|2250|34.0": 1784563439,
+    "bezposrednio2pokojoweprzystacjimetraiparku|2700|39.0": 1784563439,
+    "mieszkaniedowynajecia_prymasatysiaclecia_wolska_2pokoje_park|2500|37.0": 1784563439,
+    "wynajem2pokojeparkingtramwajduzaloggia|2500|30.0": 1784563439,
+    "mieszkaniedowlasnejaranzacjistarowka|2000|42.0": 1784570294,
+    "studiozoddzielnasypialnianawynajemochotaopaczewska|2500|28.0": 1784578069
   },
   "tg_offset": 654625315,
   "paused": false,
@@ -608,12 +672,131 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 30 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem, 2 pokoje, parking, tramwaj, duża loggia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokoje-parking-tramwaj-duza-loggia-CID3-ID1bvm2l.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:03",
+      "ts": 1784563439,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 700,
+        "area": 30.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-07-20T13:03:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 640 = <b>3140 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajęcia_Prymasa Tysiąclecia_Wolska_2 pokoje_ parking!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-prymasa-tysiaclecia-wolska-2-pokoje-parking-CID3-ID1bvnZH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:29",
+      "ts": 1784563439,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 640,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-07-20T13:29:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 39 м², 2 комнаты\n💰 2700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 6\n👤 от собственника\n«BEZPOŚREDNIO 2 pokojowe, przy stacji Metra i Parku»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokojowe-przy-stacji-metra-i-parku-CID3-ID1bvqtF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:07",
+      "ts": 1784563439,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 39.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-07-20T14:07:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 2250 + czynsz 850 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3410 zł/мес\n⚡ Свет/медиа: ≈ 310 zł + свет по счётчику\n🔐 Kaucja (залог): 3100 zł\n🏢 Этаж: 9\n🏢 агентство\n«2 - pok. Mieszkanie na Wynajem, Klimatyzacja, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-na-wynajem-klimatyzacja-wola-CID3-ID1bvDMB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:39",
+      "ts": 1784563439,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2250,
+        "rent": 850,
+        "area": 34.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-07-20T17:39:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 1 = <b>3001 zł/мес</b>\n🏢 Этаж: 9\n👤 от собственника\n«mieszkanie 2-pokojowe, Żuromińska 1»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-zurominska-1-CID3-ID1bvE5I.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:44",
+      "ts": 1784563439,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1,
+        "area": 33.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-07-20T17:44:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 42 м², 2 комнаты\n💰 2000 + czynsz 800 = <b>2800 zł/мес</b>\n   ≈ с медиа около 3000 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do własnej aranżacji, Starówka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wlasnej-aranzacji-starowka-CID3-ID1bvL5R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:43",
+      "ts": 1784570294,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2000,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-07-20T19:43:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 28 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Studio z oddzielną sypialnią na wynajem / Ochota / Opaczewska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/studio-z-oddzielna-sypialnia-na-wynajem-ochota-opaczewska-CID3-ID1bvTtO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:49",
+      "ts": 1784578069,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 700,
+        "area": 28.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-07-20T21:49:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 160,
-    "sent": 70
+    "checks": 228,
+    "sent": 77
   },
   "initialized": true,
-  "last_check": "2026-07-20T10:08:19"
+  "last_check": "2026-07-20T21:51:34"
 }
