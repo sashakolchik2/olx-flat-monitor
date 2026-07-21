@@ -4,9 +4,9 @@
   "telegram_chat_ids": [
     516572808
   ],
-  "city": "warszawa",
+  "city": "krakow",
   "cities": [
-    "warszawa"
+    "krakow"
   ],
   "max_total": 3200,
   "min_total": 0,
