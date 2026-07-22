@@ -468,7 +468,21 @@
     "1086743020": 1784665695,
     "1086744978": 1784666313,
     "1086746480": 1784667240,
-    "1086747651": 1784667857
+    "1086747651": 1784667857,
+    "1086752917": 1784689494,
+    "1086752138": 1784689494,
+    "1086750471": 1784689494,
+    "1086749808": 1784689494,
+    "1086749011": 1784689494,
+    "1086748442": 1784689494,
+    "1086757985": 1784696268,
+    "1086761665": 1784700276,
+    "1086768092": 1784704597,
+    "1086767630": 1784704906,
+    "1086768543": 1784705214,
+    "1086771378": 1784706447,
+    "1086772181": 1784707066,
+    "1086663824": 1784709838
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -690,7 +704,10 @@
     "mieszkaniekrakow|2700|55.0": 1784665385,
     "mieszkanie2pokojoweprzypetlikurdwanow|2100|32.0": 1784665695,
     "przestronne2pokojowemieszkanieulgrochowskagrzegorzki|2700|55.0": 1784666313,
-    "wynajmemieszkaniekrakowulchmieleniec|2800|48.0": 1784667240
+    "wynajmemieszkaniekrakowulchmieleniec|2800|48.0": 1784667240,
+    "mieszkaniedowynajecianakurdwanowie|2200|36.0": 1784689494,
+    "wynajmemieszkanieokolicecmentarzarakowickiego|2700|40.0": 1784689494,
+    "mieszkanienawynajem|2400|36.0": 1784706447
   },
   "tg_offset": 654625317,
   "paused": false,
@@ -1323,12 +1340,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 2700 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3300 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie okolice Cmentarza Rakowickiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-okolice-cmentarza-rakowickiego-CID3-ID1bxSUG.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:56",
+      "ts": 1784689494,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 40.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-07-21T22:56:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 36 м², 2 комнаты\n💰 2200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 2335 zł/мес\n⚡ Свет/медиа: ≈ 135 zł/мес\n🔐 Kaucja (залог): 2200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia na Kurdwanowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-kurdwanowie-CID3-ID1bxU4R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:00",
+      "ts": 1784689494,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": null,
+        "area": 36.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-07-22T00:00:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 36 м², 2 комнаты\n💰 2400 + czynsz 747 = <b>3147 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bxYSC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:37",
+      "ts": 1784706447,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 747,
+        "area": 36.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-07-22T09:37:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 364,
-    "sent": 115
+    "checks": 430,
+    "sent": 118
   },
   "initialized": true,
-  "last_check": "2026-07-21T21:09:30"
+  "last_check": "2026-07-22T08:54:17",
+  "backoff_until": 1784696251.6701567
 }
