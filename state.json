@@ -592,7 +592,19 @@
     "1087102232": 1784832375,
     "1087103319": 1784833308,
     "1087112820": 1784835173,
-    "1087111441": 1784835173
+    "1087111441": 1784835173,
+    "1087129589": 1784857568,
+    "1087129147": 1784857568,
+    "1087128959": 1784857568,
+    "1087126912": 1784857568,
+    "1087125894": 1784857568,
+    "1087125225": 1784857568,
+    "1087125440": 1784857568,
+    "1087120925": 1784857568,
+    "1087118449": 1784857568,
+    "1086640988": 1784869896,
+    "1087016787": 1784876682,
+    "1087145135": 1784877606
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -859,45 +871,13 @@
     "nowoczesne2pokojowenaplaszowieulmysliwska|2500|45.0": 1784818686,
     "krakowstaremiastostudiodladwochbliskoagh|2300|34.0": 1784829881,
     "komfortowemieszkanie38m²zmiejscempostojowymulpoznanska11krak|2600|38.0": 1784831436,
-    "2pokosobnesypialniemieszkaniezloggiabliskoawfodzaraz|2500|45.0": 1784831749
+    "2pokosobnesypialniemieszkaniezloggiabliskoawfodzaraz|2500|45.0": 1784831749,
+    "2pokojeczyzynym1galicyjskaulcentralnaodzarazbezczynszowe|2600|40.0": 1784857568,
+    "dwupokojowewodnabliskotramwajstawplaszowski|2700|40.0": 1784877606
   },
   "tg_offset": 654625317,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n🏢 агентство\n«Ul. Banacha koło szpitala św. Rafała. 2-pokojowe w nowym budownictwie. Widokowe. Duży balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-banacha-kolo-szpitala-sw-rafala-2-pokojowe-w-nowym-budownictwie-widokowe-duzy-balkon-CID3-ID1by3xm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:28",
-      "ts": 1784731511,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 800,
-        "area": 45.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-07-22T11:28:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 30 м², 2 комнаты\n💰 1800 + czynsz 640 = <b>2440 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 1800 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 pokojowe mieszkanie przy ul. Spółdzielców»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-przy-ul-spoldzielcow-CID3-ID1by6ST.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:35",
-      "ts": 1784731511,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 1800,
-        "rent": 640,
-        "area": 30.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-07-22T12:35:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 640
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2600 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 2710 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Wrocławska, 2 osobne pokoje, 38 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wroclawska-2-osobne-pokoje-38-m2-CID3-ID1by83d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:59",
       "ts": 1784731511,
@@ -1543,13 +1523,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 40 м², 2 комнаты\n💰 2600 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 2800 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje Czyżyny M1 Galicyjska ul. Centralna OD ZARAZ Bezczynszowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-czyzyny-m1-galicyjska-ul-centralna-od-zaraz-bezczynszowe-CID3-ID1bzt6C.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:55",
+      "ts": 1784857568,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": null,
+        "area": 40.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-07-23T22:55:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 482 = <b>3182 zł/мес</b>\n   ≈ с медиа около 3322 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Dwupokojowe Wodna blisko tramwaj Staw Płaszowski»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-wodna-blisko-tramwaj-staw-plaszowski-CID3-ID1bzy6X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:08",
+      "ts": 1784877606,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 482,
+        "area": 40.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-07-24T09:08:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 482
+      }
     }
   ],
   "stats": {
-    "checks": 633,
-    "sent": 160
+    "checks": 702,
+    "sent": 162
   },
   "initialized": true,
-  "last_check": "2026-07-23T19:53:45",
+  "last_check": "2026-07-24T07:35:36",
   "backoff_until": 1784747724.4171164
 }
