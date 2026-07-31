@@ -952,7 +952,31 @@
     "1088387689": 1785419923,
     "1088390126": 1785420234,
     "1088396856": 1785422087,
-    "1088403404": 1785424559
+    "1088403404": 1785424559,
+    "1088470399": 1785445860,
+    "1088462367": 1785445860,
+    "1088462258": 1785445860,
+    "1088461878": 1785445860,
+    "1088454574": 1785445860,
+    "1088450391": 1785445860,
+    "1088450220": 1785445860,
+    "1088447404": 1785445860,
+    "1088447027": 1785445860,
+    "1088441194": 1785445860,
+    "1088439485": 1785445860,
+    "1088439019": 1785445860,
+    "1088427219": 1785445860,
+    "1088271225": 1785445860,
+    "1088411731": 1785445860,
+    "1088412493": 1785445860,
+    "1088410135": 1785445860,
+    "1088409583": 1785445860,
+    "1088408886": 1785445860,
+    "1088408642": 1785445860,
+    "1088405747": 1785445860,
+    "1088475447": 1785448360,
+    "1088479837": 1785451781,
+    "1088486619": 1785462053
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -1362,130 +1386,18 @@
     "centrumulkolbergapokojzkuchnia41m2balkon|2500|41.0": 1785413125,
     "wynajmemieszkanie2pok36m2logia5m2wroclawska798pietro|2800|36.0": 1785414982,
     "krowodrzalea2pok45m2taraseng|2000|45.0": 1785419923,
-    "2niezaleznepok42m2pradnikczerwony|2600|42.0": 1785422087
+    "2niezaleznepok42m2pradnikczerwony|2600|42.0": 1785422087,
+    "nowemieszkanienaruczajuulicabulgarskadowynajeciaod1sierpnia2|2500|36.0": 1785445860,
+    "2pokojowemieszkanienawynajem|2700|31.0": 1785445860,
+    "wynajmemieszkanie2pokoje|2600|36.0": 1785445860,
+    "wynajmemieszkanieulprzewoz4|2800|36.0": 1785445860,
+    "jednoosobowypokojwdwupokojowymmieszkaniunawynajem|1200|11.0": 1785445860,
+    "mieszkanie2pokulstarowislnakazimierz|2400|33.6": 1785445860,
+    "nowe2pokojegarderobabalkonmistrzejowice|2499|41.25": 1785462053
   },
   "tg_offset": 654625322,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 34 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Do wynajęcia nowoczesne 2-pokojowe mieszkanie z klimatyzacją i miejscem postojowym – Nowy Bieżanów, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-nowoczesne-2-pokojowe-mieszkanie-z-klimatyzacja-i-miejscem-postojowym-nowy-biezanow-krakow-CID3-ID1bD6aA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:08",
-      "ts": 1785255566,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 600,
-        "area": 34.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-07-28T18:08:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 30 м², 2 комнаты\n💰 2100 + czynsz 500 = <b>2600 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie + ogrodek+miejsce postojowe w garazu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ogrodek-miejsce-postojowe-w-garazu-CID3-ID1bD6dw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:08",
-      "ts": 1785256186,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2100,
-        "rent": 500,
-        "area": 30.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-07-28T18:08:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 43 м², 2 комнаты\n💰 2300 + czynsz 870 = <b>3170 zł/мес</b>\n   ≈ с медиа около 3355 zł/мес\n⚡ Свет/медиа: ≈ 185 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 43mkw wynajmę Nowa Huta Krakow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-43mkw-wynajme-nowa-huta-krakow-CID3-ID1bD7kB.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:27",
-      "ts": 1785277772,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 870,
-        "area": 43.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-07-28T18:27:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 1600 + czynsz 300 = <b>1900 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 2250 zł/мес\n⚡ Свет/медиа: ≈ 350 zł + свет по счётчику\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Do wynajęcia pokój jednoosobowy w mieszkaniu dwupokojowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-pokoj-jednoosobowy-w-mieszkaniu-dwupokojowym-CID3-ID1bD8qY.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:48",
-      "ts": 1785277772,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 1600,
-        "rent": null,
-        "area": 48.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-07-28T18:48:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 36 м², 2 комнаты\n💰 2100 + czynsz 730 = <b>2830 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2-pokojowe do wynajęcia – Kraków, Nowa Huta, os. Kalinowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-krakow-nowa-huta-os-kalinowe-CID3-ID1bD9XH.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:17",
-      "ts": 1785277772,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2100,
-        "rent": 730,
-        "area": 36.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-07-28T19:17:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 730
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 34 м², 2 комнаты\n💰 2400 + czynsz 750 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3280 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🚗 Паркинг: 650 zł/мес\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie na ul. Młyńskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-na-ul-mlynskiej-CID3-ID1bDcB6.html\">Открыть на OLX</a>  ·  добавлено вчера в 20:06",
-      "ts": 1785277772,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 750,
-        "area": 34.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-07-28T20:06:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 38.8 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 августа\n🏢 Этаж: 5\n👤 от собственника\n«ul. Okulickiego, 2 pokojowe 38m, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-okulickiego-2-pokojowe-38m-balkon-CID3-ID1bDm5J.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:54",
-      "ts": 1785277772,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 38.8,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-07-28T22:54:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 722
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 37 м², 2 комнаты\n💰 2500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 2580 zł/мес\n⚡ Свет/медиа: ≈ 80 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-do-wynajecia-CID3-ID1bDmd0.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:58",
       "ts": 1785277772,
@@ -2046,13 +1958,132 @@
       "an": {
         "czynsz_desc": 550
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie - ul. Przewóz 4.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-ul-przewoz-4-CID3-ID1bEh3H.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:27",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 400,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-07-29T23:27:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 11 м², 2 комнаты\n💰 1200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Jednoosobowy pokój w dwupokojowym mieszkaniu na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jednoosobowy-pokoj-w-dwupokojowym-mieszkaniu-na-wynajem-CID3-ID1bERBW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:52",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 1200,
+        "rent": null,
+        "area": 11.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-07-30T17:52:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 33.6 м², 2 комнаты\n💰 2400 + czynsz 652 = <b>3052 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 7\n🏢 агентство\n«Mieszkanie 2 pok. ul. Starowiślna/Kazimierz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-ul-starowislna-kazimierz-CID3-ID1bEROd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:55",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": null,
+        "area": 33.6,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-07-30T17:55:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 652
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 550 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🌐 Интернет: 85 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 2-pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-CID3-ID1bEYPz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:08",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 550,
+        "area": 36.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-07-30T20:08:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 31 м², 2 комнаты\n💰 2700 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 650 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«2 pokojowe mieszkanie- na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-CID3-ID1bEZh8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:17",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 31.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-07-30T20:17:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2026 zł\n📅 Заселение: с 1 августа\n🏢 Этаж: 3\n👤 от собственника\n«Nowe mieszkanie na RUCZAJU - ulica Bułgarska - DO WYNAJECIA od 1 sierpnia 2026 !!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-na-ruczaju-ulica-bulgarska-do-wynajecia-od-1-sierpnia-2026-CID3-ID1bF1CI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:04",
+      "ts": 1785445860,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 550,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-07-30T21:04:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 41.25 м², 2 комнаты\n💰 2499 + czynsz 645 = <b>3144 zł/мес</b>\n   ≈ с медиа около 3264 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«NOWE 2 pokoje garderoba balkon Mistrzejowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-garderoba-balkon-mistrzejowice-CID3-ID1bFb5N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:30",
+      "ts": 1785462053,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2499,
+        "rent": 645,
+        "area": 41.25,
+        "district": "Mistrzejowice",
+        "business": true,
+        "created_iso": "2026-07-31T03:30:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 645
+      }
     }
   ],
   "stats": {
-    "checks": 1576,
-    "sent": 304
+    "checks": 1643,
+    "sent": 311
   },
   "initialized": true,
-  "last_check": "2026-07-30T15:16:02",
-  "backoff_until": 1785166539.053896
+  "last_check": "2026-07-31T02:58:51",
+  "backoff_until": 1785447419.5663424
 }
