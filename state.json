@@ -1011,7 +1011,34 @@
     "1088565317": 1785502843,
     "1088584649": 1785507837,
     "1088582850": 1785507837,
-    "1088584638": 1785508151
+    "1088584638": 1785508151,
+    "1088656643": 1785529930,
+    "1088656556": 1785529930,
+    "1088652204": 1785529930,
+    "1088241416": 1785529930,
+    "1088639979": 1785529930,
+    "1088636890": 1785529930,
+    "1088629391": 1785529930,
+    "1088626966": 1785529930,
+    "1088626132": 1785529930,
+    "1088617262": 1785529930,
+    "1088615874": 1785529930,
+    "1088614813": 1785529930,
+    "1088603727": 1785529930,
+    "1088602508": 1785529930,
+    "1088603501": 1785529930,
+    "1088602839": 1785529930,
+    "1088599023": 1785529930,
+    "1088596455": 1785529930,
+    "1088594291": 1785529930,
+    "1088589113": 1785529930,
+    "1088660367": 1785530263,
+    "1088662168": 1785531197,
+    "1088668482": 1785534001,
+    "1088667973": 1785536494,
+    "1088674324": 1785537428,
+    "1088675555": 1785538988,
+    "1088685099": 1785548964
   },
   "fp": {
     "klimaduzybalkongaraz6pietrobulgarska15eng|2900|47.51": 1784416868,
@@ -1444,181 +1471,21 @@
     "umeblowanekurdwanow34m|2200|34.0": 1785498183,
     "2pokoje32m²osiedlecegielnianagotowedozamieszkania|2300|32.0": 1785499740,
     "wybickiego2pok45m2caloscok2800zlosobnakuchniaduzytarasmpec|2199|45.0": 1785500675,
-    "dowynajecia2pokojowemieszkaniehutaosnastoku42m2|2200|42.0": 1785507837
+    "dowynajecia2pokojowemieszkaniehutaosnastoku42m2|2200|42.0": 1785507837,
+    "mieszkaniedowynajecia|2200|37.5": 1785529930,
+    "dobralokalizacja|1200|18.0": 1785529930,
+    "przestronne2pokprokocim|2200|48.0": 1785529930,
+    "przytulne2pokojowemieszkaniezwidokiem|2500|38.0": 1785529930,
+    "2pokmieszkanie10minpieszooduek|2300|49.0": 1785529930,
+    "dowynajeciaslicznecicheslonecznemieszkanienaulkrasickiegowkr|2700|32.81": 1785529930,
+    "krowodrzadowynajeciamieszkanie2pokojowe|2200|50.0": 1785529930,
+    "mieszkaniewynajem|2800|33.0": 1785534001,
+    "krakowchlebowa2pokoje35m²poddaszebezposrednio|2500|35.0": 1785537428,
+    "wynajemmieszkaniakazimierzawielkiego|2500|31.0": 1785548964
   },
   "tg_offset": 654625323,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 34 м², 2 комнаты\n💰 2200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 20 августа\n🏢 Этаж: 7\n🐾 можно с животными · 👤 от собственника\n«mieszkanie 2-pokojowe do wynajęcia ul. Bieżanowska (Prokocim)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-ul-biezanowska-prokocim-CID3-ID1bDTeB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:41",
-      "ts": 1785334318,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": null,
-        "area": 34.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-07-29T15:41:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 2400 + czynsz 500 = <b>2900 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 250 zł + свет по счётчику\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajecia dla studentow/pracujacych CENTRUM- kolo ul. Dlugiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-dla-studentow-pracujacych-centrum-kolo-ul-dlugiej-CID3-ID1bDWf6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:18",
-      "ts": 1785335555,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 500,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-07-29T16:18:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 2450 + czynsz 750 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje z balkonem i garażem, Kluczborska 27, BRAK PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-i-garazem-kluczborska-27-brak-prowizji-CID3-ID1bDXT8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:06",
-      "ts": 1785338332,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2450,
-        "rent": 750,
-        "area": 44.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-07-29T17:06:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 29 м², 2 комнаты\n💰 1780 + czynsz 490 = <b>2270 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n🏢 агентство\n«Funkcjonalne 2 pokoje - J. Kurczaba 31, BRAK PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/funkcjonalne-2-pokoje-j-kurczaba-31-brak-prowizji-CID3-ID1bE2yV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
-      "ts": 1785361819,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 1780,
-        "rent": 490,
-        "area": 29.0,
-        "district": "Bieżanów-Prokocim",
-        "business": true,
-        "created_iso": "2026-07-29T18:36:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 43 м², 2 комнаты\n💰 2800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia powierzchni 43m² przy ul. Benedykta Cesarza w Krakowie -bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-powierzchni-43m-przy-ul-benedykta-cesarza-w-krakowie-bez-prowizji-CID3-ID1bE4UA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:20",
-      "ts": 1785361819,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": null,
-        "area": 43.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-07-29T19:20:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Przytulne dwuosobowe mieszkanie_Prokocim»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-dwuosobowe-mieszkanie-prokocim-CID3-ID1bEaqr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:02",
-      "ts": 1785361819,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-07-29T21:02:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 2650 + czynsz 470 = <b>3120 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Ciche 40 m² z BALKONEM i widokiem na zieleń | Kamienica, Odrowąża (blisko Centrum)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-40-m-z-balkonem-i-widokiem-na-zielen-kamienica-odrowaza-blisko-centrum-CID3-ID1bEpHe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:56",
-      "ts": 1785403841,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 470,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-07-30T09:56:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 470
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 33 м², 2 комнаты\n💰 2100 + czynsz 694 = <b>2794 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 100 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 1\n🏢 агентство\n«Nowoczesne 2-pokojowe mieszkanie z balkonem i piwnicą | Bieżanów-Prokocim | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-balkonem-i-piwnica-biezanow-prokocim-eng-CID3-ID1bEu4G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
-      "ts": 1785403841,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2100,
-        "rent": null,
-        "area": 33.0,
-        "district": "Bieżanów-Prokocim",
-        "business": true,
-        "created_iso": "2026-07-30T11:11:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": 694
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 100 = <b>2600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 52m2 2-pokojowe z parkingiem Kraków Kliny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-52m2-2-pokojowe-z-parkingiem-krakow-kliny-CID3-ID1bEwt0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:35",
-      "ts": 1785405697,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 100,
-        "area": 52.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-07-30T11:35:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 2600 + czynsz 453 = <b>3053 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 5\n🏢 агентство\n«2 Pokoje | Atrakcyjna Lokalizacja | Idealne Dla Studentów | Mpec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-atrakcyjna-lokalizacja-idealne-dla-studentow-mpec-CID3-ID1bEvzG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:54",
-      "ts": 1785405697,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 453,
-        "area": 44.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-07-30T11:54:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 453
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 49 м², 2 комнаты\n💰 2300 + czynsz 690 = <b>2990 zł/мес</b>\n   ≈ с медиа около 3040 zł/мес\n⚡ Свет/медиа: ≈ 50 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«atrakcyjne dwupokojowe wynajmę»\n🔗 <a href=\"https://www.olx.pl/d/oferta/atrakcyjne-dwupokojowe-wynajme-CID3-ID1bEyqn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:27",
       "ts": 1785408171,
@@ -2128,13 +1995,183 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 18 м², 2 комнаты\n💰 1200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dobra Lokalizacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dobra-lokalizacja-CID3-ID1bE9iU.html\">Открыть на OLX</a>  ·  добавлено 29.07 20:44",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 1200,
+        "rent": null,
+        "area": 18.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-07-29T20:44:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 2200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Krowodrza do wynajęcia mieszkanie 2 pokojowe,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-do-wynajecia-mieszkanie-2-pokojowe-CID3-ID1bFEkL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:13",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": null,
+        "area": 50.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-07-31T17:13:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 32.81 м², 2 комнаты\n💰 2700 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 3\n👤 от собственника\n«Do wynajęcia śliczne, ciche, słoneczne mieszkanie na ul. Krasickiego w Krakowie - w Podgórzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-sliczne-ciche-sloneczne-mieszkanie-na-ul-krasickiego-w-krakowie-w-podgorzu-CID3-ID1bFFkj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:26",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 32.81,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-07-31T17:26:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 49 м², 2 комнаты\n💰 2300 + czynsz 840 = <b>3140 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pok mieszkanie 10 min pieszo od UEK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-10-min-pieszo-od-uek-CID3-ID1bFJ4V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:42",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 840,
+        "area": 49.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-07-31T18:42:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 530 = <b>3030 zł/мес</b>\n   ≈ с медиа около 3180 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Przytulne 2-pokojowe mieszkanie z widokiem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-z-widokiem-CID3-ID1bFMez.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:51",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 530,
+        "area": 38.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-07-31T19:51:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 530
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 48 м², 2 комнаты\n💰 2200 + czynsz 1000 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с августа\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne 2-pok Prokocim»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pok-prokocim-CID3-ID1bFOZl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 1000,
+        "area": 48.0,
+        "district": "Bieżanów-Prokocim",
+        "business": false,
+        "created_iso": "2026-07-31T20:39:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37.5 м², 2 комнаты\n💰 2200 + czynsz 580 = <b>2780 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajecia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bFTk7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:00",
+      "ts": 1785529930,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 580,
+        "area": 37.5,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-07-31T22:00:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 33 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie, wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-CID3-ID1bFVp4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:31",
+      "ts": 1785534001,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 400,
+        "area": 33.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-07-31T23:31:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 400
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 35 м², 2 комнаты\n💰 2500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Kraków Chlebowa | 2 pokoje 35m² | Poddasze | BEZPOŚREDNIO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-chlebowa-2-pokoje-35m-poddasze-bezposrednio-CID3-ID1bFXWi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:19",
+      "ts": 1785537428,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": null,
+        "area": 35.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-01T00:19:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 31 м², 2 комнаты\n💰 2500 + czynsz 430 = <b>2930 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania Kazimierza Wielkiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-kazimierza-wielkiego-CID3-ID1bG0J5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:29",
+      "ts": 1785548964,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 430,
+        "area": 31.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-01T03:29:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 1709,
-    "sent": 327
+    "checks": 1777,
+    "sent": 337
   },
   "initialized": true,
-  "last_check": "2026-07-31T14:39:36",
+  "last_check": "2026-08-01T02:20:41",
   "backoff_until": 1785501288.7768607
 }
