@@ -40,6 +40,7 @@ DEFAULT_CONFIG = {
     "telegram_bot_token": "СЮДА_ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER",
     "telegram_chat_id": None,       # первый чат (для совместимости)
     "telegram_chat_ids": [],        # все подписчики — кто нажал /start
+    "subs_meta": {},                # {chat_id: {name, username}} — для списка участников
     "city": "krakow",               # (для совместимости) — первый город
     "cities": ["krakow"],           # список городов: krakow и/или warszawa
     "max_total": 4000,              # потолок: аренда + czynsz, zł/мес
@@ -162,6 +163,29 @@ def load_state():
 
 def save_state(state):
     save_json(STATE_PATH, state)
+
+
+def git_persist():
+    """На GitHub Actions — коммитим память (state/config) в репозиторий периодически,
+    чтобы при отмене/сбое прогона список seen не терялся и не было повторов."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    import subprocess
+    env = dict(os.environ, GIT_TERMINAL_PROMPT="0")
+    common = {"cwd": str(BASE_DIR), "capture_output": True, "env": env, "timeout": 60}
+    try:
+        subprocess.run(["git", "add", "state.json", "config.json"], **common)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], **common).returncode == 0:
+            return  # нечего сохранять
+        subprocess.run(["git", "-c", "user.name=olx-bot",
+                        "-c", "user.email=olx-bot@users.noreply.github.com",
+                        "commit", "-m", "state [skip ci]"], **common)
+        if subprocess.run(["git", "push"], **common).returncode != 0:
+            subprocess.run(["git", "pull", "--rebase", "--autostash"], **common)
+            subprocess.run(["git", "push"], **common)
+        log("💾 Состояние сохранено в репозиторий")
+    except (OSError, subprocess.SubprocessError) as e:
+        log("git_persist: {}".format(e))
 
 
 def esc(s):
@@ -527,8 +551,10 @@ def passes_filters(of, an, cfg):
 
 
 def fingerprint(of):
-    t = re.sub(r"\W+", "", norm_pl(of["title"]))[:60]
-    return "{}|{}|{}".format(t, of["price"], of["area"])
+    """Отпечаток квартиры, чтобы ловить перепосты с новым id (та же цена/площадь/район)."""
+    t = re.sub(r"\W+", "", norm_pl(of["title"]))[:45]
+    d = re.sub(r"\W+", "", norm_pl(of["district"]))[:20]
+    return "{}|{}|{}|{}".format(t, of["price"], of["area"], d)
 
 
 def too_old(created_iso, max_age_days):
@@ -678,14 +704,36 @@ def subscribers(cfg):
     return ids
 
 
-def add_subscriber(cfg, chat):
+def add_subscriber(cfg, chat, meta=None):
     ids = list(cfg.get("telegram_chat_ids") or [])
     if chat not in ids:
         ids.append(chat)
     cfg["telegram_chat_ids"] = ids
-    if not cfg.get("telegram_chat_id"):     # первый — заполним и singular
+    if not cfg.get("telegram_chat_id"):     # первый — заполним и singular (он же владелец)
         cfg["telegram_chat_id"] = chat
+    if meta:
+        m = dict(cfg.get("subs_meta") or {})
+        m[str(chat)] = meta
+        cfg["subs_meta"] = m
     save_config(cfg)
+
+
+def is_owner(cfg, chat):
+    """Владелец — первый подписчик (тот, кто первым нажал /start)."""
+    owner = cfg.get("telegram_chat_id")
+    if not owner:
+        subs = subscribers(cfg)
+        owner = subs[0] if subs else None
+    return chat is not None and chat == owner
+
+
+def sub_display(cfg, chat):
+    meta = (cfg.get("subs_meta") or {}).get(str(chat)) or {}
+    name = (meta.get("name") or "").strip()
+    label = name or "без имени"
+    if meta.get("username"):
+        label += " (@{})".format(meta["username"])
+    return label
 
 
 def send_one(cfg, chat_id, text, silent=False):
@@ -803,17 +851,62 @@ def handle_command(cfg, state, text, chat=None):
         cfg["telegram_chat_ids"] = ids
         if cfg.get("telegram_chat_id") == chat:
             cfg["telegram_chat_id"] = ids[0] if ids else None
+        m = dict(cfg.get("subs_meta") or {})
+        m.pop(str(chat), None)
+        cfg["subs_meta"] = m
         save_config(cfg)
         send_one(cfg, chat, "🔕 Отписал. Захочешь вернуться — снова /start.")
         return False
 
+    if cmd in ("/members", "/users", "/subs", "/list"):
+        if not is_owner(cfg, chat):
+            send_one(cfg, chat, "Список получателей может смотреть только владелец бота.")
+            return False
+        subs = subscribers(cfg)
+        owner = cfg.get("telegram_chat_id")
+        lines = ["👥 <b>Получатели ({}):</b>".format(len(subs))]
+        for i, cid in enumerate(subs, 1):
+            tag = " — 👑 ты (владелец)" if cid == owner else ""
+            lines.append("{}. {} · id <code>{}</code>{}".format(i, esc(sub_display(cfg, cid)), cid, tag))
+        lines.append("\nУбрать: /kick НОМЕР (напр. /kick 2). Себя убрать нельзя — используй /stop.")
+        send_one(cfg, chat, "\n".join(lines))
+        return False
+
+    if cmd in ("/kick", "/remove", "/ban"):
+        if not is_owner(cfg, chat):
+            send_one(cfg, chat, "Убирать получателей может только владелец бота.")
+            return False
+        subs = subscribers(cfg)
+        n = to_int(arg)
+        if n is None or not (1 <= n <= len(subs)):
+            send_one(cfg, chat, "Укажи номер из /members, например: /kick 2")
+            return False
+        target = subs[n - 1]
+        if target == cfg.get("telegram_chat_id"):
+            send_one(cfg, chat, "Это ты, владелец — себя так убрать нельзя. Если нужно, используй /stop.")
+            return False
+        who = sub_display(cfg, target)
+        cfg["telegram_chat_ids"] = [c for c in (cfg.get("telegram_chat_ids") or []) if c != target]
+        m = dict(cfg.get("subs_meta") or {})
+        m.pop(str(target), None)
+        cfg["subs_meta"] = m
+        save_config(cfg)
+        send_one(cfg, chat, "✅ Убрал из получателей: <b>{}</b> (id <code>{}</code>).".format(esc(who), target))
+        send_one(cfg, target, "🔕 Владелец отключил тебя от этого бота — уведомления больше приходить не будут.")
+        return False
+
     if cmd in ("/start", "/help"):
-        send(cfg, HELP_TEXT)
-        send(cfg, status_text(cfg, state))
+        help_text = HELP_TEXT
+        if is_owner(cfg, chat):
+            help_text += ("\n\n👑 <b>Только для тебя (владельца):</b>\n"
+                          "/members — список получателей (кто подключён)\n"
+                          "/kick 2 — убрать получателя по номеру из /members")
+        send_one(cfg, chat, help_text)
+        send_one(cfg, chat, status_text(cfg, state))
         return False
 
     if cmd == "/status":
-        send(cfg, status_text(cfg, state))
+        send_one(cfg, chat, status_text(cfg, state))
         return False
 
     if cmd in ("/max", "/min", "/area", "/age"):
@@ -946,9 +1039,12 @@ def process_updates(cfg, state, poll_timeout=20):
         if not chat or not text:
             continue
         subs = subscribers(cfg)
+        frm = msg.get("from") or msg.get("chat") or {}
+        meta = {"name": ("{} {}".format(frm.get("first_name", ""), frm.get("last_name", "")).strip()),
+                "username": frm.get("username")}
         if chat not in subs:
             first_ever = len(subs) == 0
-            add_subscriber(cfg, chat)
+            add_subscriber(cfg, chat, meta)
             log("Новый подписчик: {} (всего {})".format(chat, len(subscribers(cfg))))
             send_one(cfg, chat,
                      "Привет! 👋 Ты подключён к монитору OLX.\n"
@@ -970,6 +1066,12 @@ def process_updates(cfg, state, poll_timeout=20):
             elif first_ever:
                 force = True     # самый первый — соберём стартовую подборку
             continue
+        # подхватим имя уже подписанного (для списка /members)
+        if meta.get("name") and (cfg.get("subs_meta") or {}).get(str(chat)) != meta:
+            mm = dict(cfg.get("subs_meta") or {})
+            mm[str(chat)] = meta
+            cfg["subs_meta"] = mm
+            save_config(cfg)
         force = handle_command(cfg, state, text, chat) or force
     return force
 
@@ -1009,7 +1111,7 @@ def check_olx(cfg, state):
         if not passes_filters(of, an, cfg):
             continue
         fp = fingerprint(of)
-        if fp in state["fp"] and now - state["fp"][fp] < 7 * 86400:
+        if fp in state["fp"] and now - state["fp"][fp] < 21 * 86400:
             continue
         state["fp"][fp] = int(now)
         matches.append((of, an))
@@ -1058,9 +1160,9 @@ def check_olx(cfg, state):
 
     # уборка
     state["recent"] = state["recent"][-40:]
-    cutoff_seen = int(now) - 45 * 86400
+    cutoff_seen = int(now) - 60 * 86400
     state["seen"] = {k: v for k, v in state["seen"].items() if v > cutoff_seen}
-    cutoff_fp = int(now) - 14 * 86400
+    cutoff_fp = int(now) - 30 * 86400
     state["fp"] = {k: v for k, v in state["fp"].items() if v > cutoff_fp}
     state["stats"]["checks"] = state["stats"].get("checks", 0) + 1
     state["stats"]["sent"] = state["stats"].get("sent", 0) + sent
@@ -1239,6 +1341,14 @@ def selftest():
     assert set(subscribers({"telegram_chat_id": 111, "telegram_chat_ids": [222]})) == {111, 222}
     assert subscribers({"telegram_chat_id": 111, "telegram_chat_ids": [111]}) == [111]  # без дублей
 
+    # участники: владелец и отображение имени
+    assert is_owner({"telegram_chat_id": 111}, 111) is True
+    assert is_owner({"telegram_chat_id": 111}, 222) is False
+    assert is_owner({"telegram_chat_ids": [333, 444]}, 333) is True   # владелец = первый подписчик
+    assert sub_display({"subs_meta": {"111": {"name": "Алекс", "username": "alex"}}}, 111) == "Алекс (@alex)"
+    assert sub_display({"subs_meta": {"111": {"name": "Марія"}}}, 111) == "Марія"
+    assert sub_display({}, 999) == "без имени"
+
     assert CITY_ALIASES.get("варшава") == "warszawa" and CITY_ALIASES.get("krakow") == "krakow"
     assert norm_pl("Zabłocie") == "zablocie" and to_int("2 500 zł") == 2500
 
@@ -1305,6 +1415,7 @@ def main():
         log("Жду привязки: открой своего бота в Telegram и напиши ему /start")
 
     next_check = 0.0
+    next_persist = time.time() + 1200          # раз в 20 мин сохраняем память в репозиторий
     while True:
         try:
             cfg = load_config()
@@ -1314,9 +1425,13 @@ def main():
                 check_olx(cfg, state)
                 next_check = time.time() + max(2, int(cfg.get("check_interval_min", 5))) * 60
             save_state(state)
+            if time.time() >= next_persist:
+                git_persist()
+                next_persist = time.time() + 1200
         except KeyboardInterrupt:
             log("Остановлен вручную. Пока!")
             save_state(state)
+            git_persist()
             break
         except Exception as e:  # noqa: BLE001 — монитор не должен падать
             log("⚠️ Ошибка цикла: {!r}".format(e))
