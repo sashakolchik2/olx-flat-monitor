@@ -7,6 +7,13 @@
     541993865,
     1009450846
   ],
+  "subs_meta": {
+    "1009450846": {
+      "name": "...",
+      "username": "A0_o_g"
+    }
+  },
+  "locked": false,
   "city": "krakow",
   "cities": [
     "krakow"
@@ -18,7 +25,9 @@
     "two"
   ],
   "min_area": 0,
-  "districts": [],
+  "districts": [
+    "Kliny"
+  ],
   "only_private": false,
   "check_interval_min": 5
 }
