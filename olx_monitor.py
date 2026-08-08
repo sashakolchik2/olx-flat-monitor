@@ -41,6 +41,7 @@ DEFAULT_CONFIG = {
     "telegram_chat_id": None,       # первый чат (для совместимости)
     "telegram_chat_ids": [],        # все подписчики — кто нажал /start
     "subs_meta": {},                # {chat_id: {name, username}} — для списка участников
+    "locked": False,                # True = закрыт: новые по /start не подключаются
     "city": "krakow",               # (для совместимости) — первый город
     "cities": ["krakow"],           # список городов: krakow и/или warszawa
     "max_total": 4000,              # потолок: аренда + czynsz, zł/мес
@@ -736,6 +737,19 @@ def sub_display(cfg, chat):
     return label
 
 
+def chat_title(cfg, chat_id):
+    """Живое имя/@username подписчика через Telegram getChat (даже если он не писал боту)."""
+    r = tg(cfg, "getChat", {"chat_id": chat_id}, timeout=15)
+    if r and r.get("ok"):
+        c = r.get("result") or {}
+        name = "{} {}".format(c.get("first_name", ""), c.get("last_name", "")).strip()
+        label = name or "без имени"
+        if c.get("username"):
+            label += " (@{})".format(c["username"])
+        return label
+    return sub_display(cfg, chat_id)
+
+
 def send_one(cfg, chat_id, text, silent=False):
     if not chat_id:
         return False
@@ -799,7 +813,7 @@ def status_text(cfg, state):
         "Районы: {}\n"
         "Мин. площадь: {}\n"
         "Свежесть: {}\n"
-        "Получателей: {}\n"
+        "Получателей: {} · доступ: {}\n"
         "Проверка каждые {} мин · пауза: {}\n"
         "Проверок: {} · прислано квартир: {}\n"
         "Последняя проверка: {}"
@@ -812,6 +826,7 @@ def status_text(cfg, state):
         "{} м²".format(cfg["min_area"]) if cfg.get("min_area") else "без ограничения",
         "не старше {} дн.".format(cfg["max_age_days"]) if cfg.get("max_age_days") else "любой возраст",
         len(subscribers(cfg)),
+        "🔒 закрыт" if cfg.get("locked") else "🔓 открыт",
         cfg.get("check_interval_min", 5),
         "да ⏸" if state.get("paused") else "нет",
         state["stats"].get("checks", 0),
@@ -864,11 +879,12 @@ def handle_command(cfg, state, text, chat=None):
             return False
         subs = subscribers(cfg)
         owner = cfg.get("telegram_chat_id")
-        lines = ["👥 <b>Получатели ({}):</b>".format(len(subs))]
+        lock = "🔒 закрыт" if cfg.get("locked") else "🔓 открыт"
+        lines = ["👥 <b>Получатели ({})</b> · доступ: {}".format(len(subs), lock)]
         for i, cid in enumerate(subs, 1):
             tag = " — 👑 ты (владелец)" if cid == owner else ""
-            lines.append("{}. {} · id <code>{}</code>{}".format(i, esc(sub_display(cfg, cid)), cid, tag))
-        lines.append("\nУбрать: /kick НОМЕР (напр. /kick 2). Себя убрать нельзя — используй /stop.")
+            lines.append("{}. {} · id <code>{}</code>{}".format(i, esc(chat_title(cfg, cid)), cid, tag))
+        lines.append("\nУбрать: /kick НОМЕР (напр. /kick 2). Закрыть бота: /lock.")
         send_one(cfg, chat, "\n".join(lines))
         return False
 
@@ -885,7 +901,7 @@ def handle_command(cfg, state, text, chat=None):
         if target == cfg.get("telegram_chat_id"):
             send_one(cfg, chat, "Это ты, владелец — себя так убрать нельзя. Если нужно, используй /stop.")
             return False
-        who = sub_display(cfg, target)
+        who = chat_title(cfg, target)
         cfg["telegram_chat_ids"] = [c for c in (cfg.get("telegram_chat_ids") or []) if c != target]
         m = dict(cfg.get("subs_meta") or {})
         m.pop(str(target), None)
@@ -895,12 +911,32 @@ def handle_command(cfg, state, text, chat=None):
         send_one(cfg, target, "🔕 Владелец отключил тебя от этого бота — уведомления больше приходить не будут.")
         return False
 
+    if cmd in ("/lock", "/close", "/private"):
+        if not is_owner(cfg, chat):
+            send_one(cfg, chat, "Закрывать бота может только владелец.")
+            return False
+        cfg["locked"] = True
+        save_config(cfg)
+        send_one(cfg, chat, "🔒 Бот закрыт. Новые люди больше не смогут подключиться по /start.\n"
+                            "Открыть обратно — /unlock.")
+        return False
+
+    if cmd in ("/unlock", "/open"):
+        if not is_owner(cfg, chat):
+            send_one(cfg, chat, "Открывать бота может только владелец.")
+            return False
+        cfg["locked"] = False
+        save_config(cfg)
+        send_one(cfg, chat, "🔓 Бот открыт — новые могут подключиться по /start. Закрыть — /lock.")
+        return False
+
     if cmd in ("/start", "/help"):
         help_text = HELP_TEXT
         if is_owner(cfg, chat):
             help_text += ("\n\n👑 <b>Только для тебя (владельца):</b>\n"
                           "/members — список получателей (кто подключён)\n"
-                          "/kick 2 — убрать получателя по номеру из /members")
+                          "/kick 2 — убрать получателя по номеру из /members\n"
+                          "/lock — закрыть бота (чужие не подключатся), /unlock — открыть")
         send_one(cfg, chat, help_text)
         send_one(cfg, chat, status_text(cfg, state))
         return False
@@ -1043,6 +1079,10 @@ def process_updates(cfg, state, poll_timeout=20):
         meta = {"name": ("{} {}".format(frm.get("first_name", ""), frm.get("last_name", "")).strip()),
                 "username": frm.get("username")}
         if chat not in subs:
+            if cfg.get("locked") and subs:          # закрыт и уже есть подписчики → чужих не пускаем
+                log("Отклонён новый чат {} — бот закрыт".format(chat))
+                send_one(cfg, chat, "🔒 Этот бот приватный. Попроси владельца добавить тебя.")
+                continue
             first_ever = len(subs) == 0
             add_subscriber(cfg, chat, meta)
             log("Новый подписчик: {} (всего {})".format(chat, len(subscribers(cfg))))
