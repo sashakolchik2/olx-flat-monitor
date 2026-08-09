@@ -1781,7 +1781,10 @@
     "1090268483": 1786300853,
     "1090270132": 1786301482,
     "1090269680": 1786301482,
-    "1090272170": 1786302112
+    "1090272170": 1786302112,
+    "1090275228": 1786302745,
+    "1090273031": 1786302745,
+    "1090274056": 1786302745
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2245,45 +2248,13 @@
     "cicheislonecznemieszkaniezmiejscemparkingowym|2800|50.0|debniki": 1786299905,
     "mieszkanienabrodniedowynajecia|3200|38.0|targowek": 1786299905,
     "2pokojowemieszkaniemirowwolawarszawa|3900|37.0|wola": 1786301482,
-    "mieszkanie2pokojowekazimierzawielkiego12wloch|3500|28.0|wlochy": 1786302112
+    "mieszkanie2pokojowekazimierzawielkiego12wloch|3500|28.0|wlochy": 1786302112,
+    "nawynajemjasneiprzytulnemieszkanieopow30mkwur|2500|30.0|pradnikbialy": 1786302745,
+    "2pokojemuranowbezposredniometrotramwaj|2950|40.0|wola": 1786302745
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 51 м², 2 комнаты\n💰 2700 + czynsz 1100 = <b>3800 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania Kraków - Nowa Huta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-nowa-huta-CID3-ID1bMonb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
-      "ts": 1786287868,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": null,
-        "area": 51.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-08-09T14:47:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1100
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie na Ochocie (róg Niemcewicza i Grójeckiej), 42 m.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-na-ochocie-rog-niemcewicza-i-grojeckiej-42-m-CID3-ID1bMoHJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
-      "ts": 1786287868,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-09T14:54:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe umeblowane bezpośrednio bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-umeblowane-bezposrednio-bez-prowizji-CID3-ID1bMoTD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
       "ts": 1786287868,
@@ -2929,13 +2900,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 30 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3260 zł/мес\n⚡ Свет/медиа: ≈ 160 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Na wynajem jasne i przytulne mieszkanie o pow. 30 mkw. urządzone w nowoczesnym - ul. Łokietka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-jasne-i-przytulne-mieszkanie-o-pow-30-mkw-urzadzone-w-nowoczesnym-ul-lokietka-CID3-ID1bMFOT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:52",
+      "ts": 1786302745,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 30.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-09T20:52:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2950 + czynsz 850 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 5\n👤 от собственника\n«2-pokoje Muranów Bezpośrednio Metro Tramwaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-muranow-bezposrednio-metro-tramwaj-CID3-ID1bMG5q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:57",
+      "ts": 1786302745,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 850,
+        "area": 40.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-09T20:57:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2926,
-    "sent": 624
+    "checks": 2930,
+    "sent": 626
   },
   "initialized": true,
-  "last_check": "2026-08-09T19:02:02",
+  "last_check": "2026-08-09T19:23:07",
   "backoff_until": 1786201834.4717982
 }
