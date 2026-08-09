@@ -1687,7 +1687,14 @@
     "1089673031": 1786269298,
     "1090056968": 1786269298,
     "1090171814": 1786269924,
-    "1090172920": 1786269924
+    "1090172920": 1786269924,
+    "1090174458": 1786270550,
+    "1090037203": 1786270550,
+    "1089930407": 1786270550,
+    "1090176246": 1786270865,
+    "1090014031": 1786270865,
+    "1090059695": 1786270865,
+    "1090017184": 1786271181
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2094,7 +2101,11 @@
     "mieszkanienastarymzoliborzudowynajecia|3000|34.4|zoliborz": 1786268983,
     "mieszkanie2pokojowedowynajeciatargowekbrodno|2130|43.0|targowek": 1786269298,
     "2pokmieszkanieskarbkazgormiejsceparkingowe56m|3500|56.0|bialoleka": 1786269298,
-    "mieszkaniedowynajeciaulpoznanska|2800|42.0|krowodrza": 1786269924
+    "mieszkaniedowynajeciaulpoznanska|2800|42.0|krowodrza": 1786269924,
+    "przytulnemieszkanie2pokojowenabielanach|3200|42.0|bielany": 1786270550,
+    "2pokojowedowynajeciagorczewska181budynekawars|3100|33.0|bemowo": 1786270550,
+    "nowoczesnewsuperlokalizacji|2900|32.0|pragapoludnie": 1786270865,
+    "2pokojoweieszkanienawynajembrodnorembielinska|2950|47.0|targowek": 1786270865
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2455,13 +2466,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 33 м², 2 комнаты\n💰 3100 + czynsz 690 = <b>3790 zł/мес</b>\n   ≈ с медиа около 3890 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4400 zł\n📅 Заселение: с 17.08.2026\n🏢 Этаж: 5\n👤 от собственника\n«2 pokojowe do wynajęcia Górczewska 181 budynek A. Warszawa. Metro M2: Ulrychów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-do-wynajecia-gorczewska-181-budynek-a-warszawa-metro-m2-ulrychow-CID3-ID1bLGtd.html\">Открыть на OLX</a>  ·  добавлено вчера в 11:58",
+      "ts": 1786270550,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 690,
+        "area": 33.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-08T11:58:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 725 = <b>3925 zł/мес</b>\n📅 Заселение: с 12 августа\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przytulne mieszkanie 2-pokojowe na Bielanach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-2-pokojowe-na-bielanach-CID3-ID1bMgb0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
+      "ts": 1786270550,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 725,
+        "area": 42.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-09T12:04:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 725
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 47 м², 2 комнаты\n💰 2950 + czynsz 1050 = <b>4000 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe ieszkanie na wynajem Bródno, Rembielińska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ieszkanie-na-wynajem-brodno-rembielinska-CID3-ID1bLMjZ.html\">Открыть на OLX</a>  ·  добавлено вчера в 14:02",
+      "ts": 1786270865,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 1050,
+        "area": 47.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-08T14:02:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 560 = <b>3460 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 5\n👤 от собственника\n«Nowoczesne w super lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-w-super-lokalizacji-CID3-ID1bMgDQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
+      "ts": 1786270865,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 560,
+        "area": 32.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-09T12:14:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": 560
+      }
     }
   ],
   "stats": {
-    "checks": 2849,
-    "sent": 567
+    "checks": 2853,
+    "sent": 571
   },
   "initialized": true,
-  "last_check": "2026-08-09T10:10:44",
+  "last_check": "2026-08-09T10:31:40",
   "backoff_until": 1786201834.4717982
 }
