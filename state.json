@@ -1728,7 +1728,12 @@
     "1090208461": 1786281480,
     "1090207653": 1786281480,
     "1090212666": 1786282419,
-    "1090207239": 1786282419
+    "1090207239": 1786282419,
+    "1090215255": 1786283363,
+    "1090216211": 1786283674,
+    "1090215071": 1786283674,
+    "1090214402": 1786283674,
+    "1090216173": 1786283674
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2157,62 +2162,14 @@
     "wynajemmieszkaniakrakownowahuta|2700|51.0|nowahuta": 1786281480,
     "mieszkaniepanoramawarszawy|2750|50.0|pragapoludnie": 1786281480,
     "2oddzielnepokojemetrowilanowskaulbukowinskaga|2500|44.0|mokotow": 1786282419,
-    "wynajmemieszkanienaochocierogniemcewiczaigroj|3300|42.0|ochota": 1786282419
+    "wynajmemieszkanienaochocierogniemcewiczaigroj|3300|42.0|ochota": 1786282419,
+    "mieszkaniekrakowullubostron2pokojowe|2600|35.0|debniki": 1786283674,
+    "mieszkanie2pokoje45m2ulkomandosowwynajem|2750|45.0|debniki": 1786283674,
+    "mieszkanie51m2ruczajchmieleniec|3000|51.0|debniki": 1786283674
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 38 м², 2 комнаты\n💰 3100 + czynsz 700 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 9\n🏢 агентство\n«Powiśle 2 pokoje balkon ul. Górnośląska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/powisle-2-pokoje-balkon-ul-gornoslaska-CID3-ID1bMbti.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:06",
-      "ts": 1786267069,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 700,
-        "area": 38.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-09T10:06:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 29 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n🔐 Kaucja (залог): 3000 zł\n👤 от собственника\n«Wynajmę dwa pokoje z aneksem kuchennym przy metrze Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwa-pokoje-z-aneksem-kuchennym-przy-metrze-bemowo-CID3-ID1bM6Av.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:06",
-      "ts": 1786267069,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 29.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-08T23:06:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 50 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio | 2 pokoje po remoncie | 50 m² | Balkon | ul. Aluzyjna, Białołęka-Nowodwory | Dostępne od zaraz | Zwierzolubne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-po-remoncie-50-m-balkon-ul-aluzyjna-bialoleka-nowodwory-dostepne-od-zaraz-zwierzolubne-CID3-ID1bM8D3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:29",
-      "ts": 1786267069,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 600,
-        "area": 50.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-09T07:29:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3100 + czynsz 730 = <b>3830 zł/мес</b>\n   ≈ с медиа около 3960 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Bezpośrednio - mieszkanie 42m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-mieszkanie-42m-CID3-ID1bM9GP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:53",
       "ts": 1786267069,
@@ -2841,13 +2798,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 51 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 51m2, Ruczaj, Chmieleniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-51m2-ruczaj-chmieleniec-CID3-ID1bMqzg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:33",
+      "ts": 1786283674,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 51.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-09T15:33:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 45 м², 2 комнаты\n💰 2750 + czynsz 520 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 67 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2 pokoje 45m2 ul. Komandosów - Wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-45m2-ul-komandosow-wynajem-CID3-ID1bMqK3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:37",
+      "ts": 1786283674,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 520,
+        "area": 45.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-09T15:37:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 570 = <b>3170 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Krakow ul .Lubostron , 2 pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ul-lubostron-2-pokojowe-CID3-ID1bMr2r.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:43",
+      "ts": 1786283674,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 570,
+        "area": 35.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-09T15:43:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 570
+      }
     }
   ],
   "stats": {
-    "checks": 2885,
-    "sent": 589
+    "checks": 2889,
+    "sent": 592
   },
   "initialized": true,
-  "last_check": "2026-08-09T13:33:50",
+  "last_check": "2026-08-09T13:54:46",
   "backoff_until": 1786281462.5843525
 }
