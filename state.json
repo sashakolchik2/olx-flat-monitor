@@ -1696,7 +1696,12 @@
     "1090059695": 1786270865,
     "1090017184": 1786271181,
     "1089882154": 1786272117,
-    "1090180216": 1786272429
+    "1090180216": 1786272429,
+    "1090178602": 1786273055,
+    "1090180480": 1786273055,
+    "1089808292": 1786273680,
+    "1090184074": 1786273991,
+    "1089997651": 1786273991
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2108,7 +2113,10 @@
     "2pokojowedowynajeciagorczewska181budynekawars|3100|33.0|bemowo": 1786270550,
     "nowoczesnewsuperlokalizacji|2900|32.0|pragapoludnie": 1786270865,
     "2pokojoweieszkanienawynajembrodnorembielinska|2950|47.0|targowek": 1786270865,
-    "wynajmemieszkanie|3000|52.0|ochota": 1786272429
+    "wynajmemieszkanie|3000|52.0|ochota": 1786272429,
+    "wynajme2pokojowekomfortowemieszkaniewkrakowie|2200|37.0|bienczyce": 1786273055,
+    "krakowkazimierzbozegociala40mklimatyzowane|3200|40.0|staremiasto": 1786273991,
+    "mieszkanie41mkwprzyulbatalionowchlopskich87|3000|41.0|bemowo": 1786273991
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2554,13 +2562,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 37 м², 2 комнаты\n💰 2200 + czynsz 800 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę 2-pokojowe komfortowe mieszkanie w Krakowie 2200 zł, bezpośrednio od właściciela.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-komfortowe-mieszkanie-w-krakowie-2200-zl-bezposrednio-od-wlasciciela-CID3-ID1bMhfQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:28",
+      "ts": 1786273055,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 800,
+        "area": 37.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-09T12:28:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 41 mkw przy ul. Batalionów Chłopskich 87»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41-mkw-przy-ul-batalionow-chlopskich-87-CID3-ID1bLvbh.html\">Открыть на OLX</a>  ·  добавлено 07.08 23:08",
+      "ts": 1786273991,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 41.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-07T23:08:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 300 = <b>3500 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«Kraków-Kazimierz-Bożego Ciała - 40m klimatyzowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-kazimierz-bozego-ciala-40m-klimatyzowane-CID3-ID1bMiG6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
+      "ts": 1786273991,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 300,
+        "area": 40.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-09T12:57:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2857,
-    "sent": 572
+    "checks": 2861,
+    "sent": 575
   },
   "initialized": true,
-  "last_check": "2026-08-09T10:52:29",
+  "last_check": "2026-08-09T11:13:21",
   "backoff_until": 1786201834.4717982
 }
