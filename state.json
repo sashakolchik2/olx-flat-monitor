@@ -1755,7 +1755,10 @@
     "1090241407": 1786292012,
     "1090243880": 1786292329,
     "1090242617": 1786292329,
-    "1090242629": 1786292329
+    "1090242629": 1786292329,
+    "1090246195": 1786293279,
+    "1090244001": 1786293279,
+    "1090245681": 1786293595
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2204,28 +2207,12 @@
     "milemieszkanieklimatyzacjadlastudentadlastude|3500|30.0|pragapolnoc": 1786290749,
     "mieszkaniewnowymbudownictwieobokstacjimetra2o|3200|50.0|wola": 1786292012,
     "wynajem38m22pokojemetromlocinybezposrednio|3800|38.0|bielany": 1786292329,
-    "metrowierzbnonawynajemdwupokojowe36m2|3000|36.0|mokotow": 1786292329
+    "metrowierzbnonawynajemdwupokojowe36m2|3000|36.0|mokotow": 1786292329,
+    "mieszkanie2pokojesaskakepadowynajecia|2700|32.0|pragapoludnie": 1786293279
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 47 м², 2 комнаты\n💰 2950 + czynsz 1050 = <b>4000 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe ieszkanie na wynajem Bródno, Rembielińska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ieszkanie-na-wynajem-brodno-rembielinska-CID3-ID1bLMjZ.html\">Открыть на OLX</a>  ·  добавлено вчера в 14:02",
-      "ts": 1786270865,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 1050,
-        "area": 47.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-08T14:02:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 560 = <b>3460 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 5\n👤 от собственника\n«Nowoczesne w super lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-w-super-lokalizacji-CID3-ID1bMgDQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
       "ts": 1786270865,
@@ -2888,13 +2875,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje Saska Kępa do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-saska-kepa-do-wynajecia-CID3-ID1bMygF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:12",
+      "ts": 1786293279,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-09T18:12:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2896,
-    "sent": 609
+    "checks": 2899,
+    "sent": 610
   },
   "initialized": true,
-  "last_check": "2026-08-09T16:24:16",
+  "last_check": "2026-08-09T16:40:02",
   "backoff_until": 1786201834.4717982
 }
