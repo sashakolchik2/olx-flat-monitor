@@ -1799,7 +1799,9 @@
     "1090285896": 1786306233,
     "1090287385": 1786306546,
     "1090285684": 1786306546,
-    "1090288455": 1786307178
+    "1090288455": 1786307178,
+    "1090290023": 1786307809,
+    "1090290467": 1786308123
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2273,28 +2275,12 @@
     "2pokmieszk40m2stanok400mmetroslodowiec|2550|40.0|bielany": 1786304644,
     "wynajmedwupokojowemieszkaniezklimatyzacjanaze|3100|46.0|bialoleka": 1786304967,
     "wynajmemieszkanie42mwesolastaramilosna|3000|42.0|wesola": 1786304967,
-    "2pokojemetrotargowekmieszkaniowyzbalkonem|3200|36.0|pragapolnoc": 1786306546
+    "2pokojemetrotargowekmieszkaniowyzbalkonem|3200|36.0|pragapolnoc": 1786306546,
+    "mistrzejowicemieszkanieporemoncie2pokojezoddz|3000|51.0|mistrzejowice": 1786308123
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę jasne 2 pokoje | Po remoncie | Oddzielna kuchnia | Winda»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-jasne-2-pokoje-po-remoncie-oddzielna-kuchnia-winda-CID3-ID1bMtvu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:31",
-      "ts": 1786287868,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 38.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-09T16:31:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 55 м², 2 комнаты\n💰 2500 + czynsz 740 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesne, wykończone w wysokim standardzie mieszkanie | os. Ogrodowe (Nowa Huta) | blisko S7 &amp; tereny zielone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-wykonczone-w-wysokim-standardzie-mieszkanie-os-ogrodowe-nowa-huta-blisko-s7-tereny-zielone-CID3-ID1bMtMV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:36",
       "ts": 1786287868,
@@ -2957,13 +2943,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 51 м², 2 комнаты\n💰 3000 + czynsz 930 = <b>3930 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 22.08.2026\n🏢 Этаж: 6\n👤 от собственника\n«Mistrzejowice - mieszkanie po remoncie, 2 pokoje z oddzielną kuchnią»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mistrzejowice-mieszkanie-po-remoncie-2-pokoje-z-oddzielna-kuchnia-CID3-ID1bMKm7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:29",
+      "ts": 1786308123,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 930,
+        "area": 51.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-09T22:29:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 930
+      }
     }
   ],
   "stats": {
-    "checks": 2942,
-    "sent": 634
+    "checks": 2946,
+    "sent": 635
   },
   "initialized": true,
-  "last_check": "2026-08-09T20:26:26",
+  "last_check": "2026-08-09T20:47:26",
   "backoff_until": 1786201834.4717982
 }
