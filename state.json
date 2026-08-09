@@ -1812,7 +1812,10 @@
     "1090298276": 1786311406,
     "1090298585": 1786311719,
     "1090298815": 1786312343,
-    "1090299463": 1786312659
+    "1090299463": 1786312659,
+    "1090300507": 1786313911,
+    "1090300757": 1786314536,
+    "1090301046": 1786314850
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2294,62 +2297,14 @@
     "pradnikczerwony2pokojeduzybalkonodzarazmiejsc|2500|35.0|pradnikczerwony": 1786309531,
     "nawynajem2pokojenapradzepoludnieulszaserowmie|2500|36.0|pragapoludnie": 1786311406,
     "ulpradnicka2pokojowezbalkonem|3000|38.0|krowodrza": 1786312343,
-    "mieszkanie2pokojowewwawolametro|2900|39.0|wola": 1786312659
+    "mieszkanie2pokojowewwawolametro|2900|39.0|wola": 1786312659,
+    "dwupokojowyapartamentwcentrumkrakowa|3300|42.0|grzegorzki": 1786313911,
+    "przytulne2pokojowemieszkanienabliskiejbialole|2700|34.38|bialoleka": 1786314536,
+    "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 26 м², 2 комнаты\n💰 2100 + czynsz 900 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio kawalerka z dużym tarasem na Pradze Północ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-kawalerka-z-duzym-tarasem-na-pradze-polnoc-CID3-ID1bMvjS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:28",
-      "ts": 1786290111,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2100,
-        "rent": 900,
-        "area": 26.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-09T17:28:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 54 м², 2 комнаты\n💰 2300 + czynsz 1200 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 54m2, Bielany, nowe budownictwo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-54m2-bielany-nowe-budownictwo-CID3-ID1bMvrH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:31",
-      "ts": 1786290111,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 1200,
-        "area": 54.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-09T17:31:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1200
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 30 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3620 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Miłe mieszkanie - klimatyzacja - dla studenta - dla studentki - Praga Północ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mile-mieszkanie-klimatyzacja-dla-studenta-dla-studentki-praga-polnoc-CID3-ID1bMvFp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:36",
-      "ts": 1786290749,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 30.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-09T17:36:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie na wynajem na Warszawskiej Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-na-wynajem-na-warszawskiej-bialolece-CID3-ID1bMvW9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:42",
       "ts": 1786290749,
@@ -2978,13 +2933,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 680 = <b>3980 zł/мес</b>\n   ≈ с медиа около 4660 zł/мес\n⚡ Свет/медиа: ≈ 680 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Dwupokojowy apartament w centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowy-apartament-w-centrum-krakowa-CID3-ID1bMMY3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
+      "ts": 1786313911,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 680,
+        "area": 42.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-10T00:01:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 34.38 м², 2 комнаты\n💰 2700 + czynsz 1017 = <b>3717 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne 2-pokojowe mieszkanie na bliskiej Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-bliskiej-bialolece-CID3-ID1bMN25.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
+      "ts": 1786314536,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 1017,
+        "area": 34.38,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-10T00:08:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 45.57 м², 2 комнаты\n💰 3100 + czynsz 690 = <b>3790 zł/мес</b>\n   ≈ с медиа около 4010 zł/мес\n⚡ Свет/медиа: ≈ 220 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Na wynajem - dwupokojowe mieszkanie z oddzielną kuchnią na 4. ostatnim piętrze z windą.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-dwupokojowe-mieszkanie-z-oddzielna-kuchnia-na-4-ostatnim-pietrze-z-winda-CID3-ID1bMN6K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:17",
+      "ts": 1786314850,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 690,
+        "area": 45.57,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-10T00:17:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": 690
+      }
     }
   ],
   "stats": {
-    "checks": 2939,
-    "sent": 642
+    "checks": 2943,
+    "sent": 645
   },
   "initialized": true,
-  "last_check": "2026-08-09T22:13:24",
+  "last_check": "2026-08-09T22:34:19",
   "backoff_until": 1786201834.4717982
 }
