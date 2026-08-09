@@ -1790,7 +1790,12 @@
     "1090281058": 1786304327,
     "1090282645": 1786304644,
     "1090281151": 1786304644,
-    "1090281221": 1786304644
+    "1090281221": 1786304644,
+    "1090281705": 1786304967,
+    "1090281244": 1786304967,
+    "1090280501": 1786304967,
+    "1090283762": 1786305600,
+    "1090284406": 1786305916
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2261,45 +2266,13 @@
     "wynajmemieszkanie|4000|40.0|bemowo": 1786304327,
     "przytulneiustawnemieszkanie2pokojowezoddzieln|3000|48.2|debniki": 1786304644,
     "wynajmemieszkanie2pokojowekrakowzlocien|3200|42.0|biezanowprokocim": 1786304644,
-    "2pokmieszk40m2stanok400mmetroslodowiec|2550|40.0|bielany": 1786304644
+    "2pokmieszk40m2stanok400mmetroslodowiec|2550|40.0|bielany": 1786304644,
+    "wynajmedwupokojowemieszkaniezklimatyzacjanaze|3100|46.0|bialoleka": 1786304967,
+    "wynajmemieszkanie42mwesolastaramilosna|3000|42.0|wesola": 1786304967
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 570 = <b>3170 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Krakow ul .Lubostron , 2 pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ul-lubostron-2-pokojowe-CID3-ID1bMr2r.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:43",
-      "ts": 1786287868,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 570,
-        "area": 35.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-09T15:43:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 570
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wawer</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 1080 = <b>3880 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia przytulne 2-pokojowe mieszkanie z parkingiem — Warszawa, Wawer (ul. Korkowa 35)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-przytulne-2-pokojowe-mieszkanie-z-parkingiem-warszawa-wawer-ul-korkowa-35-CID3-ID1bMrHB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:55",
-      "ts": 1786287868,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 1080,
-        "area": 40.0,
-        "district": "Wawer",
-        "business": false,
-        "created_iso": "2026-08-09T15:55:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 41.5 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje Warszawa Modlińska 39 z ogródkiem obok Parku Żerańskiego nowe dostępne od ręki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-warszawa-modlinska-39-z-ogrodkiem-obok-parku-zeranskiego-nowe-dostepne-od-reki-CID3-ID1bMs8M.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
       "ts": 1786287868,
@@ -2945,13 +2918,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wesoła</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 620 = <b>3620 zł/мес</b>\n🚗 Паркинг: 620 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie 42m, Wesoła, Stara Miłosna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-42m-wesola-stara-milosna-CID3-ID1bMHLn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:27",
+      "ts": 1786304967,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 620,
+        "area": 42.0,
+        "district": "Wesoła",
+        "business": false,
+        "created_iso": "2026-08-09T21:27:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 46 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę dwupokojowe mieszkanie z klimatyzacją na Żeraniu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupokojowe-mieszkanie-z-klimatyzacja-na-zeraniu-CID3-ID1bMI4N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:33",
+      "ts": 1786304967,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 800,
+        "area": 46.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-09T21:33:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 2934,
-    "sent": 631
+    "checks": 2938,
+    "sent": 633
   },
   "initialized": true,
-  "last_check": "2026-08-09T19:44:18",
+  "last_check": "2026-08-09T20:05:23",
   "backoff_until": 1786201834.4717982
 }
