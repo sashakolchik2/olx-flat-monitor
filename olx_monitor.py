@@ -166,27 +166,49 @@ def save_state(state):
     save_json(STATE_PATH, state)
 
 
-def git_persist():
-    """На GitHub Actions — коммитим память (state/config) в репозиторий периодически,
-    чтобы при отмене/сбое прогона список seen не терялся и не было повторов."""
-    if not os.environ.get("GITHUB_ACTIONS"):
-        return
+def on_github():
+    return bool(os.environ.get("GITHUB_ACTIONS"))
+
+
+def _git(args, timeout=60):
     import subprocess
-    env = dict(os.environ, GIT_TERMINAL_PROMPT="0")
-    common = {"cwd": str(BASE_DIR), "capture_output": True, "env": env, "timeout": 60}
+    return subprocess.run(["git"] + args, cwd=str(BASE_DIR), capture_output=True,
+                          env=dict(os.environ, GIT_TERMINAL_PROMPT="0"), timeout=timeout)
+
+
+def git_pull():
+    """Подтянуть свежие config/state из репозитория — чтобы не работать со старой копией."""
+    if not on_github():
+        return
     try:
-        subprocess.run(["git", "add", "state.json", "config.json"], **common)
-        if subprocess.run(["git", "diff", "--cached", "--quiet"], **common).returncode == 0:
+        _git(["pull", "--rebase", "--autostash"])
+    except Exception as e:  # noqa: BLE001 — монитор не должен падать из-за git
+        log("git_pull: {!r}".format(e))
+
+
+def git_push_now(msg="state", include_config=False):
+    """Немедленно закоммитить и запушить (с повтором через pull-rebase).
+    include_config=True — вместе с настройками (config.json), только сразу после свежего git_pull."""
+    if not on_github():
+        return
+    try:
+        paths = ["state.json"] + (["config.json"] if include_config else [])
+        _git(["add"] + paths)
+        if _git(["diff", "--cached", "--quiet"]).returncode == 0:
             return  # нечего сохранять
-        subprocess.run(["git", "-c", "user.name=olx-bot",
-                        "-c", "user.email=olx-bot@users.noreply.github.com",
-                        "commit", "-m", "state [skip ci]"], **common)
-        if subprocess.run(["git", "push"], **common).returncode != 0:
-            subprocess.run(["git", "pull", "--rebase", "--autostash"], **common)
-            subprocess.run(["git", "push"], **common)
-        log("💾 Состояние сохранено в репозиторий")
-    except (OSError, subprocess.SubprocessError) as e:
-        log("git_persist: {}".format(e))
+        _git(["-c", "user.name=olx-bot", "-c", "user.email=olx-bot@users.noreply.github.com",
+              "commit", "-m", msg + " [skip ci]"])
+        if _git(["push"]).returncode != 0:
+            _git(["pull", "--rebase", "--autostash"])
+            _git(["push"])
+    except Exception as e:  # noqa: BLE001
+        log("git_push_now: {!r}".format(e))
+
+
+def git_persist():
+    """Периодическое сохранение памяти (state). Config не трогаем, чтобы не затереть настройки."""
+    git_pull()
+    git_push_now("state", include_config=False)
 
 
 def esc(s):
@@ -1074,6 +1096,12 @@ def process_updates(cfg, state, poll_timeout=20):
         text = (msg.get("text") or "").strip()
         if not chat or not text:
             continue
+        # Атомарность настроек: перед решением подтягиваем СВЕЖИЙ config из репозитория,
+        # а после изменения — сразу пушим. Так замок/кики/фильтры не затираются другими прогонами.
+        if on_github():
+            git_pull()
+            cfg.clear()
+            cfg.update(load_config())
         subs = subscribers(cfg)
         frm = msg.get("from") or msg.get("chat") or {}
         meta = {"name": ("{} {}".format(frm.get("first_name", ""), frm.get("last_name", "")).strip()),
@@ -1085,6 +1113,8 @@ def process_updates(cfg, state, poll_timeout=20):
                 continue
             first_ever = len(subs) == 0
             add_subscriber(cfg, chat, meta)
+            save_state(state)
+            git_push_now("subscriber", include_config=True)   # фиксируем нового подписчика сразу
             log("Новый подписчик: {} (всего {})".format(chat, len(subscribers(cfg))))
             send_one(cfg, chat,
                      "Привет! 👋 Ты подключён к монитору OLX.\n"
@@ -1113,6 +1143,8 @@ def process_updates(cfg, state, poll_timeout=20):
             cfg["subs_meta"] = mm
             save_config(cfg)
         force = handle_command(cfg, state, text, chat) or force
+        save_state(state)
+        git_push_now("settings", include_config=True)     # любые изменения настроек — сразу в репозиторий
     return force
 
 
