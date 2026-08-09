@@ -1679,7 +1679,10 @@
     "1089903727": 1786267728,
     "1090167336": 1786268047,
     "1090030947": 1786268047,
-    "1089868221": 1786268047
+    "1089868221": 1786268047,
+    "1089950399": 1786268360,
+    "1089635106": 1786268360,
+    "1090028692": 1786268983
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2082,7 +2085,8 @@
     "mieszkanie2pokojowedlastudentow50m²|2500|50.0|nowahuta": 1786267728,
     "mieszkanie2pokojecentrumbemowa300modmetragara|3000|43.0|bemowo": 1786267728,
     "2nieprzechodniepokojenowyblokmetrobrodno|3200|42.0|targowek": 1786267728,
-    "bezposredniomieszkanie35m2namarywilskiej|2600|35.0|bialoleka": 1786267728
+    "bezposredniomieszkanie35m2namarywilskiej|2600|35.0|bialoleka": 1786267728,
+    "mieszkanienastarymzoliborzudowynajecia|3000|34.4|zoliborz": 1786268983
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2375,13 +2379,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 34.4 м², 2 комнаты\n💰 3000 + czynsz 511 = <b>3511 zł/мес</b>\n   ≈ с медиа около 3631 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na Starym Żoliborzu do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-starym-zoliborzu-do-wynajecia-CID3-ID1bLEfV.html\">Открыть на OLX</a>  ·  добавлено вчера в 11:07",
+      "ts": 1786268983,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 511,
+        "area": 34.4,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-08T11:07:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2842,
-    "sent": 563
+    "checks": 2845,
+    "sent": 564
   },
   "initialized": true,
-  "last_check": "2026-08-09T09:34:14",
+  "last_check": "2026-08-09T09:49:51",
   "backoff_until": 1786201834.4717982
 }
