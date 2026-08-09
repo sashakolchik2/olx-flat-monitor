@@ -1712,7 +1712,10 @@
     "1090193746": 1786276499,
     "1090195643": 1786277125,
     "1090197753": 1786277747,
-    "1090196785": 1786277747
+    "1090196785": 1786277747,
+    "1090198289": 1786278061,
+    "1090199394": 1786278372,
+    "1090200231": 1786278683
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2133,7 +2136,8 @@
     "mieszkaniewarszawa|4000|38.0|pragapoludnie": 1786275243,
     "2pokoje40m²zoliborzulrydygieraklimatyzacjagar|2500|40.0|zoliborz": 1786275871,
     "mieszkanie47m2pokojesrodmiesciezoliborzulinfl|3000|47.0|zoliborz": 1786276185,
-    "dwupokojowemieszkaniezbalkonemiipietroulmagie|2900|44.0|bielany": 1786276499
+    "dwupokojowemieszkaniezbalkonemiipietroulmagie|2900|44.0|bielany": 1786276499,
+    "dowynajeciakomfortowewpelniumeblowanemieszkan|3600|49.0|ochota": 1786278683
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2732,13 +2736,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 49 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia komfortowe, w pełni umeblowane mieszkanie 49 m² na 4. piętrze w nowoczesnym budynku przy ul. Szczęśliwickiej 54 na Ochocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-komfortowe-w-pelni-umeblowane-mieszkanie-49-m-na-4-pietrze-w-nowoczesnym-budynku-przy-ul-szczesliwickiej-54-na-ochocie-CID3-ID1bMmSH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
+      "ts": 1786278683,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3600,
+        "rent": null,
+        "area": 49.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-09T14:19:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2873,
-    "sent": 581
+    "checks": 2876,
+    "sent": 582
   },
   "initialized": true,
-  "last_check": "2026-08-09T12:15:54",
+  "last_check": "2026-08-09T12:31:32",
   "backoff_until": 1786201834.4717982
 }
