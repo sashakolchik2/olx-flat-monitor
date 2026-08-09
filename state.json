@@ -1747,7 +1747,10 @@
     "1090233457": 1786290111,
     "1090236997": 1786290111,
     "1090236512": 1786290111,
-    "1090236867": 1786290111
+    "1090236867": 1786290111,
+    "1090238823": 1786290749,
+    "1090237847": 1786290749,
+    "1090208261": 1786291068
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2191,45 +2194,13 @@
     "wilanowkrolowejmarysienki49mbezposrednio|3000|49.0|wilanow": 1786288849,
     "mieszkaniezsypialniapremiumulciesielskiego|3000|33.0|czyzyny": 1786290111,
     "mieszkanie54m2bielanynowebudownictwo|2300|54.0|bielany": 1786290111,
-    "bezposredniokawalerkazduzymtarasemnapradzepol|2100|26.0|pragapolnoc": 1786290111
+    "bezposredniokawalerkazduzymtarasemnapradzepol|2100|26.0|pragapolnoc": 1786290111,
+    "przytulnemieszkanienawynajemnawarszawskiejbia|2700|45.0|bialoleka": 1786290749,
+    "milemieszkanieklimatyzacjadlastudentadlastude|3500|30.0|pragapolnoc": 1786290749
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 56 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 августа\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2-pok. mieszkanie | Skarbka z Gór | miejsce parkingowe | 56m2 | 3500 razem z czynszem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-skarbka-z-gor-miejsce-parkingowe-56m2-3500-razem-z-czynszem-CID3-ID1bK9Jt.html\">Открыть на OLX</a>  ·  добавлено 06.08 13:15",
-      "ts": 1786269298,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 56.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-06T13:15:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 43 м², 2 комнаты\n💰 2130 + czynsz 1170 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie 2-pokojowe do wynajęcia Targówek Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-targowek-brodno-CID3-ID1bMf6H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:40",
-      "ts": 1786269298,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2130,
-        "rent": 1170,
-        "area": 43.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-09T11:40:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n👤 от собственника\n«Mieszkanie do wynajecia ul. Poznanska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-ul-poznanska-CID3-ID1bMfum.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:49",
       "ts": 1786269924,
@@ -2875,13 +2846,47 @@
       "an": {
         "czynsz_desc": 1200
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 30 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3620 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Miłe mieszkanie - klimatyzacja - dla studenta - dla studentki - Praga Północ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mile-mieszkanie-klimatyzacja-dla-studenta-dla-studentki-praga-polnoc-CID3-ID1bMvFp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:36",
+      "ts": 1786290749,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 30.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-09T17:36:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie na wynajem na Warszawskiej Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-na-wynajem-na-warszawskiej-bialolece-CID3-ID1bMvW9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:42",
+      "ts": 1786290749,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 900,
+        "area": 45.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-09T17:42:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 2888,
-    "sent": 604
+    "checks": 2892,
+    "sent": 606
   },
   "initialized": true,
-  "last_check": "2026-08-09T15:42:05",
+  "last_check": "2026-08-09T16:03:09",
   "backoff_until": 1786201834.4717982
 }
