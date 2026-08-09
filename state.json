@@ -1818,7 +1818,8 @@
     "1090301046": 1786314850,
     "1090301592": 1786316095,
     "1090301600": 1786317033,
-    "1090302025": 1786317348
+    "1090302025": 1786317348,
+    "1090302899": 1786319535
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2304,28 +2305,12 @@
     "dwupokojowyapartamentwcentrumkrakowa|3300|42.0|grzegorzki": 1786313911,
     "przytulne2pokojowemieszkanienabliskiejbialole|2700|34.38|bialoleka": 1786314536,
     "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850,
-    "przytulne2pokojezbalkonem38m²ulmokotowska|2300|38.5|srodmiescie": 1786317033
+    "przytulne2pokojezbalkonem38m²ulmokotowska|2300|38.5|srodmiescie": 1786317033,
+    "zoliborz33m22pokojeplacwilsona|2900|33.0|zoliborz": 1786319535
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie w nowym budownictwie obok stacji metra, 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-nowym-budownictwie-obok-stacji-metra-2-oddzielne-pokoje-CID3-ID1bMxAP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:57",
-      "ts": 1786292012,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 50.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-09T17:57:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Metro Wierzbno Na Wynajem Dwupokojowe 36 M2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-na-wynajem-dwupokojowe-36-m2-CID3-ID1bMxUx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:04",
       "ts": 1786292329,
@@ -2988,13 +2973,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 33 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 31 августа\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Żoliborz | 33 m2 | 2 pokoje | Plac Wilsona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zoliborz-33-m2-2-pokoje-plac-wilsona-CID3-ID1bMNAD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:30",
+      "ts": 1786319535,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 33.0,
+        "district": "Żoliborz",
+        "business": true,
+        "created_iso": "2026-08-10T01:30:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2953,
-    "sent": 646
+    "checks": 2957,
+    "sent": 647
   },
   "initialized": true,
-  "last_check": "2026-08-09T23:31:31",
+  "last_check": "2026-08-09T23:52:23",
   "backoff_until": 1786315465.9632778
 }
