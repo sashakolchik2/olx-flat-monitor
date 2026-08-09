@@ -1811,7 +1811,8 @@
     "1090266126": 1786311406,
     "1090298276": 1786311406,
     "1090298585": 1786311719,
-    "1090298815": 1786312343
+    "1090298815": 1786312343,
+    "1090299463": 1786312659
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2292,28 +2293,12 @@
     "2pokojowemieszkaniemirowwolawarszawa|3900|37.0|wola": 1786308877,
     "pradnikczerwony2pokojeduzybalkonodzarazmiejsc|2500|35.0|pradnikczerwony": 1786309531,
     "nawynajem2pokojenapradzepoludnieulszaserowmie|2500|36.0|pragapoludnie": 1786311406,
-    "ulpradnicka2pokojowezbalkonem|3000|38.0|krowodrza": 1786312343
+    "ulpradnicka2pokojowezbalkonem|3000|38.0|krowodrza": 1786312343,
+    "mieszkanie2pokojowewwawolametro|2900|39.0|wola": 1786312659
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 400 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie z sypialnia PREMIUM ul. Ciesielskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-sypialnia-premium-ul-ciesielskiego-CID3-ID1bMwvB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:10",
-      "ts": 1786290111,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 400,
-        "area": 33.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-09T17:10:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 400
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 26 м², 2 комнаты\n💰 2100 + czynsz 900 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio kawalerka z dużym tarasem na Pradze Północ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-kawalerka-z-duzym-tarasem-na-pradze-polnoc-CID3-ID1bMvjS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:28",
       "ts": 1786290111,
@@ -2976,13 +2961,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe W-Wa Wola METRO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-wa-wola-metro-CID3-ID1bMMHd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:42",
+      "ts": 1786312659,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 39.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-09T23:42:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2935,
-    "sent": 641
+    "checks": 2939,
+    "sent": 642
   },
   "initialized": true,
-  "last_check": "2026-08-09T21:52:32",
+  "last_check": "2026-08-09T22:13:24",
   "backoff_until": 1786201834.4717982
 }
