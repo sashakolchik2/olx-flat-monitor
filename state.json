@@ -1807,7 +1807,11 @@
     "1090272170": 1786308877,
     "1090269680": 1786308877,
     "1090294781": 1786309219,
-    "1090293666": 1786309531
+    "1090293666": 1786309531,
+    "1090266126": 1786311406,
+    "1090298276": 1786311406,
+    "1090298585": 1786311719,
+    "1090298815": 1786312343
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2286,45 +2290,13 @@
     "2pokojemuranowbezposredniometrotramwaj|2950|40.0|wola": 1786308877,
     "mieszkanie2pokojowekazimierzawielkiego12wloch|3500|28.0|wlochy": 1786308877,
     "2pokojowemieszkaniemirowwolawarszawa|3900|37.0|wola": 1786308877,
-    "pradnikczerwony2pokojeduzybalkonodzarazmiejsc|2500|35.0|pradnikczerwony": 1786309531
+    "pradnikczerwony2pokojeduzybalkonodzarazmiejsc|2500|35.0|pradnikczerwony": 1786309531,
+    "nawynajem2pokojenapradzepoludnieulszaserowmie|2500|36.0|pragapoludnie": 1786311406,
+    "ulpradnicka2pokojowezbalkonem|3000|38.0|krowodrza": 1786312343
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Do wynajęcia: bezpośrednio dwupokojowe mieszkanie 39 m2, oddzielna kuchnia, obok metra Kondratowicza/ Rembielińska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-dwupokojowe-mieszkanie-39-m2-oddzielna-kuchnia-obok-metra-kondratowicza-rembielinska-CID3-ID1bMw0G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
-      "ts": 1786288214,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 700,
-        "area": 39.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-09T17:00:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wilanów</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 985 = <b>3985 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 79 zł/мес\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wilanów, Królowej Marysieńki, 49 m bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wilanow-krolowej-marysienki-49-m-bezposrednio-CID3-ID1bMwfM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:05",
-      "ts": 1786288849,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 985,
-        "area": 49.0,
-        "district": "Wilanów",
-        "business": false,
-        "created_iso": "2026-08-09T17:05:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 985
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 400 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie z sypialnia PREMIUM ul. Ciesielskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-sypialnia-premium-ul-ciesielskiego-CID3-ID1bMwvB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:10",
       "ts": 1786290111,
@@ -2970,13 +2942,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Na wynajem 2 pokoje na Pradze Południe ul. Szaserów - mieszkanie wyposażone, internet w cenie, winda»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-2-pokoje-na-pradze-poludnie-ul-szaserow-mieszkanie-wyposazone-internet-w-cenie-winda-CID3-ID1bMMo4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:25",
+      "ts": 1786311406,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 36.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-09T23:25:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🏢 Этаж: 9\n👤 от собственника\n«ul. Prądnicka, 2 pokojowe z balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-pradnicka-2-pokojowe-z-balkonem-CID3-ID1bMMvL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:33",
+      "ts": 1786312343,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 900,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-09T23:33:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2931,
-    "sent": 639
+    "checks": 2935,
+    "sent": 641
   },
   "initialized": true,
-  "last_check": "2026-08-09T21:31:39",
+  "last_check": "2026-08-09T21:52:32",
   "backoff_until": 1786201834.4717982
 }
