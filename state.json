@@ -1801,7 +1801,11 @@
     "1090285684": 1786306546,
     "1090288455": 1786307178,
     "1090290023": 1786307809,
-    "1090290467": 1786308123
+    "1090290467": 1786308123,
+    "1090293416": 1786308756,
+    "1090291354": 1786308756,
+    "1090290919": 1786308756,
+    "1090290782": 1786308756
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2276,62 +2280,14 @@
     "wynajmedwupokojowemieszkaniezklimatyzacjanaze|3100|46.0|bialoleka": 1786304967,
     "wynajmemieszkanie42mwesolastaramilosna|3000|42.0|wesola": 1786304967,
     "2pokojemetrotargowekmieszkaniowyzbalkonem|3200|36.0|pragapolnoc": 1786306546,
-    "mistrzejowicemieszkanieporemoncie2pokojezoddz|3000|51.0|mistrzejowice": 1786308123
+    "mistrzejowicemieszkanieporemoncie2pokojezoddz|3000|51.0|mistrzejowice": 1786308123,
+    "2pokoje40m²balkonzwidokiemnazielenparkingbial|2900|40.0|bialoleka": 1786308756,
+    "wynajme2pokojowemieszkaniebemowo|3000|49.0|bemowo": 1786308756,
+    "2pokojetargowekmetrokondratowicza|3199|50.0|targowek": 1786308756
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 55 м², 2 комнаты\n💰 2500 + czynsz 740 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesne, wykończone w wysokim standardzie mieszkanie | os. Ogrodowe (Nowa Huta) | blisko S7 &amp; tereny zielone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-wykonczone-w-wysokim-standardzie-mieszkanie-os-ogrodowe-nowa-huta-blisko-s7-tereny-zielone-CID3-ID1bMtMV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:36",
-      "ts": 1786287868,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 740,
-        "area": 55.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-09T16:36:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 740
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 37 м², 2 комнаты\n💰 2300 + czynsz 750 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie na Targówku (Bródno) /BLISKO METRA/ODŚWIEŻONE»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-na-targowku-brodno-blisko-metra-odswiezone-CID3-ID1bMuBg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:52",
-      "ts": 1786287868,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 750,
-        "area": 37.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-09T16:52:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 32 м², 2 комнаты\n💰 2800 + czynsz 670 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Świetny dojazd | Balkon | Pieski akceptowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/swietny-dojazd-balkon-pieski-akceptowane-CID3-ID1bMuyv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
-      "ts": 1786288214,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 670,
-        "area": 32.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-09T16:51:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 670
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje 41m, parter z ogórkiem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-41m-parter-z-ogorkiem-CID3-ID1bMuOj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:57",
       "ts": 1786288214,
@@ -2960,13 +2916,64 @@
       "an": {
         "czynsz_desc": 930
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 50 м², 2 комнаты\n💰 3199 + czynsz 800 = <b>3999 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 10\n👤 от собственника\n«2 pokoje Targówek Metro Kondratowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-targowek-metro-kondratowicza-CID3-ID1bMKrc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:32",
+      "ts": 1786308756,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3199,
+        "rent": 800,
+        "area": 50.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-09T22:32:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie - Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-bemowo-CID3-ID1bMKAq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:36",
+      "ts": 1786308756,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 49.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-09T22:36:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 250
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje | 40 m² | balkon z widokiem na zieleń | parking | Białołęka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-40-m-balkon-z-widokiem-na-zielen-parking-bialoleka-CID3-ID1bML7G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:44",
+      "ts": 1786308756,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-09T22:44:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 2946,
-    "sent": 635
+    "checks": 2947,
+    "sent": 638
   },
   "initialized": true,
-  "last_check": "2026-08-09T20:47:26",
+  "last_check": "2026-08-09T20:52:49",
   "backoff_until": 1786201834.4717982
 }
