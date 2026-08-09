@@ -22,9 +22,7 @@
     "two"
   ],
   "min_area": 0,
-  "districts": [
-    "Kliny"
-  ],
+  "districts": [],
   "only_private": false,
   "check_interval_min": 5
 }
