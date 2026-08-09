@@ -1778,7 +1778,10 @@
     "1090265170": 1786299905,
     "1090264282": 1786299905,
     "1090266218": 1786299905,
-    "1090268483": 1786300853
+    "1090268483": 1786300853,
+    "1090270132": 1786301482,
+    "1090269680": 1786301482,
+    "1090272170": 1786302112
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2240,45 +2243,13 @@
     "mieszkanie2pokojowezogrodkiemulbanachaparterk|3200|44.0|pradnikbialy": 1786298330,
     "przestronnemieszkaniapogeneralnymremonciewsta|2900|50.0|rembertow": 1786298962,
     "cicheislonecznemieszkaniezmiejscemparkingowym|2800|50.0|debniki": 1786299905,
-    "mieszkanienabrodniedowynajecia|3200|38.0|targowek": 1786299905
+    "mieszkanienabrodniedowynajecia|3200|38.0|targowek": 1786299905,
+    "2pokojowemieszkaniemirowwolawarszawa|3900|37.0|wola": 1786301482,
+    "mieszkanie2pokojowekazimierzawielkiego12wloch|3500|28.0|wlochy": 1786302112
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę bezpośrednio nowoczesne dwupokojowe mieszkanie 43m2, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezposrednio-nowoczesne-dwupokojowe-mieszkanie-43m2-wola-CID3-ID1bMohk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
-      "ts": 1786279933,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 43.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-09T14:46:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 1 = <b>3301 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie dwa pokoje 40m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwa-pokoje-40m-CID3-ID1bMo4b.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
-      "ts": 1786287868,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 1,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-09T14:41:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Nowa Huta</b> — 51 м², 2 комнаты\n💰 2700 + czynsz 1100 = <b>3800 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania Kraków - Nowa Huta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-nowa-huta-CID3-ID1bMonb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
       "ts": 1786287868,
@@ -2924,13 +2895,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3900 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n📅 Заселение: с 15.08.2026\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe mieszkanie | Mirów, Wola, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-mirow-wola-warszawa-CID3-ID1bMEVQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:35",
+      "ts": 1786301482,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3900,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-09T20:35:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 28 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 30.09.2026 ⭐️\n🏢 агентство\n«Mieszkanie 2-pokojowe | Kazimierza Wielkiego 12, Włochy | BEZ PROWIZJI | od 30.09 | 1528»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-kazimierza-wielkiego-12-wlochy-bez-prowizji-od-30-09-1528-CID3-ID1bMFB0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:48",
+      "ts": 1786302112,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 28.0,
+        "district": "Włochy",
+        "business": true,
+        "created_iso": "2026-08-09T20:48:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2923,
-    "sent": 622
+    "checks": 2926,
+    "sent": 624
   },
   "initialized": true,
-  "last_check": "2026-08-09T18:46:13",
+  "last_check": "2026-08-09T19:02:02",
   "backoff_until": 1786201834.4717982
 }
