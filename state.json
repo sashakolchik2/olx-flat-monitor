@@ -1772,7 +1772,12 @@
     "1090259360": 1786297698,
     "1089986903": 1786298014,
     "1090261577": 1786298330,
-    "1090261229": 1786298647
+    "1090261229": 1786298647,
+    "1090262075": 1786298962,
+    "1090260868": 1786298962,
+    "1090265170": 1786299905,
+    "1090264282": 1786299905,
+    "1090266218": 1786299905
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2231,62 +2236,14 @@
     "2pokojel36m2lulinstalatorowwlochy|3250|36.0|wlochy": 1786297379,
     "jasneczystedwupokojowemieszkanie200modmetroim|3000|44.0|ursynow": 1786297698,
     "2pokojewarszawawolaulicaplockawynajme|3200|36.0|wola": 1786298014,
-    "mieszkanie2pokojowezogrodkiemulbanachaparterk|3200|44.0|pradnikbialy": 1786298330
+    "mieszkanie2pokojowezogrodkiemulbanachaparterk|3200|44.0|pradnikbialy": 1786298330,
+    "przestronnemieszkaniapogeneralnymremonciewsta|2900|50.0|rembertow": 1786298962,
+    "cicheislonecznemieszkaniezmiejscemparkingowym|2800|50.0|debniki": 1786299905,
+    "mieszkanienabrodniedowynajecia|3200|38.0|targowek": 1786299905
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 47m, 2 pokoje, Śródmieście, Żoliborz ul. Inflancka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-47m-2-pokoje-srodmiescie-zoliborz-ul-inflancka-CID3-ID1bMkll.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
-      "ts": 1786276185,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 47.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-09T13:30:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 44 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с ноября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe mieszkanie z balkonem (II piętro) ul.Magiera na Bielanach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-balkonem-ii-pietro-ul-magiera-na-bielanach-CID3-ID1bMlc6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
-      "ts": 1786276499,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 44.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-09T13:46:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 49 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia komfortowe, w pełni umeblowane mieszkanie 49 m² na 4. piętrze w nowoczesnym budynku przy ul. Szczęśliwickiej 54 na Ochocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-komfortowe-w-pelni-umeblowane-mieszkanie-49-m-na-4-pietrze-w-nowoczesnym-budynku-przy-ul-szczesliwickiej-54-na-ochocie-CID3-ID1bMmSH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
-      "ts": 1786278683,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 49.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-09T14:19:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę bezpośrednio nowoczesne dwupokojowe mieszkanie 43m2, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezposrednio-nowoczesne-dwupokojowe-mieszkanie-43m2-wola-CID3-ID1bMohk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
       "ts": 1786279933,
@@ -2915,13 +2872,64 @@
       "an": {
         "czynsz_desc": 569
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 50 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne mieszkania po generalnym remoncie w Starym Rembertowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-mieszkania-po-generalnym-remoncie-w-starym-rembertowie-CID3-ID1bMCYb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:56",
+      "ts": 1786298962,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 50.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-09T19:56:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 1 = <b>3201 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na Bródnie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-brodnie-do-wynajecia-CID3-ID1bMDxM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:08",
+      "ts": 1786299905,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 1,
+        "area": 38.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-09T20:08:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Ciche i słoneczne mieszkanie z miejscem parkingowym (Os. Europejskie)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-i-sloneczne-mieszkanie-z-miejscem-parkingowym-os-europejskie-CID3-ID1bMDM6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:12",
+      "ts": 1786299905,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 50.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-09T20:12:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 2915,
-    "sent": 619
+    "checks": 2919,
+    "sent": 622
   },
   "initialized": true,
-  "last_check": "2026-08-09T18:04:13",
+  "last_check": "2026-08-09T18:25:16",
   "backoff_until": 1786201834.4717982
 }
