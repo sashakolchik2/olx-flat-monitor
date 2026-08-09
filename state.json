@@ -1718,7 +1718,9 @@
     "1090200231": 1786278683,
     "1090199655": 1786278998,
     "1090202226": 1786279310,
-    "1090205602": 1786279933
+    "1090205602": 1786279933,
+    "1090205789": 1786280248,
+    "1090204787": 1786280248
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2141,7 +2143,8 @@
     "mieszkanie47m2pokojesrodmiesciezoliborzulinfl|3000|47.0|zoliborz": 1786276185,
     "dwupokojowemieszkaniezbalkonemiipietroulmagie|2900|44.0|bielany": 1786276499,
     "dowynajeciakomfortowewpelniumeblowanemieszkan|3600|49.0|ochota": 1786278683,
-    "wynajmebezposrednionowoczesnedwupokojowemiesz|3000|43.0|wola": 1786279933
+    "wynajmebezposrednionowoczesnedwupokojowemiesz|3000|43.0|wola": 1786279933,
+    "wynajmemieszkaniedwapokoje40m|3300|40.0|srodmiescie": 1786280248
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2774,13 +2777,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 1 = <b>3301 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie dwa pokoje 40m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwa-pokoje-40m-CID3-ID1bMo4b.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
+      "ts": 1786280248,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 1,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-09T14:41:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2880,
-    "sent": 583
+    "checks": 2881,
+    "sent": 584
   },
   "initialized": true,
-  "last_check": "2026-08-09T12:52:22",
-  "backoff_until": 1786201834.4717982
+  "last_check": "2026-08-09T12:57:37",
+  "backoff_until": 1786281462.5843525
 }
