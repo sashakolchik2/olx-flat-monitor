@@ -1694,7 +1694,9 @@
     "1090176246": 1786270865,
     "1090014031": 1786270865,
     "1090059695": 1786270865,
-    "1090017184": 1786271181
+    "1090017184": 1786271181,
+    "1089882154": 1786272117,
+    "1090180216": 1786272429
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2105,7 +2107,8 @@
     "przytulnemieszkanie2pokojowenabielanach|3200|42.0|bielany": 1786270550,
     "2pokojowedowynajeciagorczewska181budynekawars|3100|33.0|bemowo": 1786270550,
     "nowoczesnewsuperlokalizacji|2900|32.0|pragapoludnie": 1786270865,
-    "2pokojoweieszkanienawynajembrodnorembielinska|2950|47.0|targowek": 1786270865
+    "2pokojoweieszkanienawynajembrodnorembielinska|2950|47.0|targowek": 1786270865,
+    "wynajmemieszkanie|3000|52.0|ochota": 1786272429
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2534,13 +2537,30 @@
       "an": {
         "czynsz_desc": 560
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bMhFS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:37",
+      "ts": 1786272429,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 52.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-09T12:37:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2853,
-    "sent": 571
+    "checks": 2857,
+    "sent": 572
   },
   "initialized": true,
-  "last_check": "2026-08-09T10:31:40",
+  "last_check": "2026-08-09T10:52:29",
   "backoff_until": 1786201834.4717982
 }
