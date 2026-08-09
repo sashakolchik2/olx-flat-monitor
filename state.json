@@ -1738,7 +1738,8 @@
     "1090220448": 1786284929,
     "1090225762": 1786286495,
     "1090226363": 1786286809,
-    "1090226782": 1786287121
+    "1090226782": 1786287121,
+    "1090229902": 1786287747
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2174,28 +2175,12 @@
     "dowynajeciaprzytulne2pokojowemieszkaniezparki|2800|40.0|wawer": 1786284616,
     "mieszkanie2pokojewarszawamodlinska39zogrodkie|3000|41.5|bialoleka": 1786284929,
     "wynajmejasne2pokojeporemoncieoddzielnakuchnia|3200|38.0|pragapoludnie": 1786286495,
-    "nowoczesnewykonczonewwysokimstandardziemieszk|2500|55.0|bienczyce": 1786287121
+    "nowoczesnewykonczonewwysokimstandardziemieszk|2500|55.0|bienczyce": 1786287121,
+    "wynajmemieszkanienatargowkubrodnobliskometrao|2300|37.0|targowek": 1786287747
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Ładne 2-pok., mieszkanie na Targówku osiedle Wilno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-2-pok-mieszkanie-na-targowku-osiedle-wilno-CID3-ID1bMceY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
-      "ts": 1786267069,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 44.0,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-09T10:30:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 50 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe mieszkanie 50 m² – Warszawa Zacisze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-50-m-warszawa-zacisze-CID3-ID1bMcJw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:44",
       "ts": 1786267069,
@@ -2858,13 +2843,30 @@
       "an": {
         "czynsz_desc": 740
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 37 м², 2 комнаты\n💰 2300 + czynsz 750 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie na Targówku (Bródno) /BLISKO METRA/ODŚWIEŻONE»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-na-targowku-brodno-blisko-metra-odswiezone-CID3-ID1bMuBg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:52",
+      "ts": 1786287747,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 750,
+        "area": 37.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-09T16:52:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 2901,
-    "sent": 596
+    "checks": 2902,
+    "sent": 597
   },
   "initialized": true,
-  "last_check": "2026-08-09T14:57:21",
+  "last_check": "2026-08-09T15:02:37",
   "backoff_until": 1786281462.5843525
 }
