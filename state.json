@@ -1701,7 +1701,10 @@
     "1090180480": 1786273055,
     "1089808292": 1786273680,
     "1090184074": 1786273991,
-    "1089997651": 1786273991
+    "1089997651": 1786273991,
+    "1090185237": 1786274307,
+    "1090189896": 1786275243,
+    "1090187888": 1786275243
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2116,7 +2119,10 @@
     "wynajmemieszkanie|3000|52.0|ochota": 1786272429,
     "wynajme2pokojowekomfortowemieszkaniewkrakowie|2200|37.0|bienczyce": 1786273055,
     "krakowkazimierzbozegociala40mklimatyzowane|3200|40.0|staremiasto": 1786273991,
-    "mieszkanie41mkwprzyulbatalionowchlopskich87|3000|41.0|bemowo": 1786273991
+    "mieszkanie41mkwprzyulbatalionowchlopskich87|3000|41.0|bemowo": 1786273991,
+    "mieszkanie2pokojebielanywynajme|2800|39.0|bielany": 1786274307,
+    "nowoczesne2pokojowemetroplockawolawolskarogpl|2500|49.0|wola": 1786275243,
+    "mieszkaniewarszawa|4000|38.0|pragapoludnie": 1786275243
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2613,13 +2619,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje Bielany wynajmę»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-bielany-wynajme-CID3-ID1bMiYR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:04",
+      "ts": 1786274307,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1000,
+        "area": 39.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-09T13:04:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 6\n🏢 агентство\n«Mieszkanie, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-warszawa-CID3-ID1bMjFC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:18",
+      "ts": 1786275243,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-09T13:18:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 49 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: Powyżej 10\n🏢 агентство\n«Nowoczesne 2 pokojowe | Metro Płocka | Wola | Wolska róg Płockiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-metro-plocka-wola-wolska-rog-plockiej-CID3-ID1bMkc0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:27",
+      "ts": 1786275243,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 700,
+        "area": 49.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-09T13:27:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2861,
-    "sent": 575
+    "checks": 2865,
+    "sent": 578
   },
   "initialized": true,
-  "last_check": "2026-08-09T11:13:21",
+  "last_check": "2026-08-09T11:34:13",
   "backoff_until": 1786201834.4717982
 }
