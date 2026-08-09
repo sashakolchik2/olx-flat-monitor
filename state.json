@@ -1715,7 +1715,10 @@
     "1090196785": 1786277747,
     "1090198289": 1786278061,
     "1090199394": 1786278372,
-    "1090200231": 1786278683
+    "1090200231": 1786278683,
+    "1090199655": 1786278998,
+    "1090202226": 1786279310,
+    "1090205602": 1786279933
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2137,7 +2140,8 @@
     "2pokoje40m²zoliborzulrydygieraklimatyzacjagar|2500|40.0|zoliborz": 1786275871,
     "mieszkanie47m2pokojesrodmiesciezoliborzulinfl|3000|47.0|zoliborz": 1786276185,
     "dwupokojowemieszkaniezbalkonemiipietroulmagie|2900|44.0|bielany": 1786276499,
-    "dowynajeciakomfortowewpelniumeblowanemieszkan|3600|49.0|ochota": 1786278683
+    "dowynajeciakomfortowewpelniumeblowanemieszkan|3600|49.0|ochota": 1786278683,
+    "wynajmebezposrednionowoczesnedwupokojowemiesz|3000|43.0|wola": 1786279933
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2753,13 +2757,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę bezpośrednio nowoczesne dwupokojowe mieszkanie 43m2, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezposrednio-nowoczesne-dwupokojowe-mieszkanie-43m2-wola-CID3-ID1bMohk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
+      "ts": 1786279933,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 43.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-09T14:46:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2876,
-    "sent": 582
+    "checks": 2880,
+    "sent": 583
   },
   "initialized": true,
-  "last_check": "2026-08-09T12:31:32",
+  "last_check": "2026-08-09T12:52:22",
   "backoff_until": 1786201834.4717982
 }
