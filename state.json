@@ -1758,7 +1758,10 @@
     "1090242629": 1786292329,
     "1090246195": 1786293279,
     "1090244001": 1786293279,
-    "1090245681": 1786293595
+    "1090245681": 1786293595,
+    "1090246872": 1786293911,
+    "1090248618": 1786294541,
+    "1090249163": 1786294541
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2208,62 +2211,14 @@
     "mieszkaniewnowymbudownictwieobokstacjimetra2o|3200|50.0|wola": 1786292012,
     "wynajem38m22pokojemetromlocinybezposrednio|3800|38.0|bielany": 1786292329,
     "metrowierzbnonawynajemdwupokojowe36m2|3000|36.0|mokotow": 1786292329,
-    "mieszkanie2pokojesaskakepadowynajecia|2700|32.0|pragapoludnie": 1786293279
+    "mieszkanie2pokojesaskakepadowynajecia|2700|32.0|pragapoludnie": 1786293279,
+    "2pokojeprzygrojeckiej|3600|36.0|ochota": 1786293911,
+    "wynajemodnowionemieszkanie48mnowahutakrakow|2500|48.0|bienczyce": 1786294541,
+    "29metrow2pokojealejajanapawlaiirondoonz|2900|29.0|srodmiescie": 1786294541
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 560 = <b>3460 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 5\n👤 от собственника\n«Nowoczesne w super lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-w-super-lokalizacji-CID3-ID1bMgDQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
-      "ts": 1786270865,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 560,
-        "area": 32.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-09T12:14:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 560
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bMhFS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:37",
-      "ts": 1786272429,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 52.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-09T12:37:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 37 м², 2 комнаты\n💰 2200 + czynsz 800 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę 2-pokojowe komfortowe mieszkanie w Krakowie 2200 zł, bezpośrednio od właściciela.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-komfortowe-mieszkanie-w-krakowie-2200-zl-bezposrednio-od-wlasciciela-CID3-ID1bMhfQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:28",
-      "ts": 1786273055,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 800,
-        "area": 37.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-09T12:28:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 41 mkw przy ul. Batalionów Chłopskich 87»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41-mkw-przy-ul-batalionow-chlopskich-87-CID3-ID1bLvbh.html\">Открыть на OLX</a>  ·  добавлено 07.08 23:08",
       "ts": 1786273991,
@@ -2892,13 +2847,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 36 м², 2 комнаты\n💰 3600 + czynsz 1 = <b>3601 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«2 pokoje przy Grójeckiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-grojeckiej-CID3-ID1bMz0Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:30",
+      "ts": 1786293911,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3600,
+        "rent": 1,
+        "area": 36.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-09T18:30:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 48 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem / Odnowione mieszkanie 48m / Nowa Huta / Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-odnowione-mieszkanie-48m-nowa-huta-krakow-CID3-ID1bMzt8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
+      "ts": 1786294541,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 48.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-09T18:40:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 29 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: нет\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 марта\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«29 metrów 2 pokoje Aleja Jana Pawła II Rondo ONZ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/29-metrow-2-pokoje-aleja-jana-pawla-ii-rondo-onz-CID3-ID1bMzBW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:43",
+      "ts": 1786294541,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 29.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-09T18:43:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 2899,
-    "sent": 610
+    "checks": 2903,
+    "sent": 613
   },
   "initialized": true,
-  "last_check": "2026-08-09T16:40:02",
+  "last_check": "2026-08-09T17:01:06",
   "backoff_until": 1786201834.4717982
 }
