@@ -13,7 +13,8 @@
   "locked": true,
   "city": "krakow",
   "cities": [
-    "krakow"
+    "krakow",
+    "warszawa"
   ],
   "max_total": 4000,
   "min_total": 3000,
