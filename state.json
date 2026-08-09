@@ -1816,7 +1816,8 @@
     "1090300507": 1786313911,
     "1090300757": 1786314536,
     "1090301046": 1786314850,
-    "1090301592": 1786316095
+    "1090301592": 1786316095,
+    "1090301600": 1786317033
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2301,28 +2302,12 @@
     "mieszkanie2pokojowewwawolametro|2900|39.0|wola": 1786312659,
     "dwupokojowyapartamentwcentrumkrakowa|3300|42.0|grzegorzki": 1786313911,
     "przytulne2pokojowemieszkanienabliskiejbialole|2700|34.38|bialoleka": 1786314536,
-    "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850
+    "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850,
+    "przytulne2pokojezbalkonem38m²ulmokotowska|2300|38.5|srodmiescie": 1786317033
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie na wynajem na Warszawskiej Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-na-wynajem-na-warszawskiej-bialolece-CID3-ID1bMvW9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:42",
-      "ts": 1786290749,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 900,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-09T17:42:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie w nowym budownictwie obok stacji metra, 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-nowym-budownictwie-obok-stacji-metra-2-oddzielne-pokoje-CID3-ID1bMxAP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:57",
       "ts": 1786292012,
@@ -2985,13 +2970,30 @@
       "an": {
         "czynsz_desc": 690
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 38.5 м², 2 комнаты\n💰 2300 + czynsz 1000 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Przytulne 2 pokoje z balkonem, 38m² – ul. Mokotowska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-z-balkonem-38m-ul-mokotowska-CID3-ID1bMNfG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:34",
+      "ts": 1786317033,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 1000,
+        "area": 38.5,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-10T00:34:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2946,
-    "sent": 645
+    "checks": 2949,
+    "sent": 646
   },
   "initialized": true,
-  "last_check": "2026-08-09T22:55:02",
+  "last_check": "2026-08-09T23:10:42",
   "backoff_until": 1786315465.9632778
 }
