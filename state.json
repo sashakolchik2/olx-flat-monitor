@@ -1704,7 +1704,12 @@
     "1089997651": 1786273991,
     "1090185237": 1786274307,
     "1090189896": 1786275243,
-    "1090187888": 1786275243
+    "1090187888": 1786275243,
+    "1090191441": 1786275871,
+    "1090190475": 1786276185,
+    "1090191104": 1786276185,
+    "1090191266": 1786276499,
+    "1090193746": 1786276499
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2122,7 +2127,10 @@
     "mieszkanie41mkwprzyulbatalionowchlopskich87|3000|41.0|bemowo": 1786273991,
     "mieszkanie2pokojebielanywynajme|2800|39.0|bielany": 1786274307,
     "nowoczesne2pokojowemetroplockawolawolskarogpl|2500|49.0|wola": 1786275243,
-    "mieszkaniewarszawa|4000|38.0|pragapoludnie": 1786275243
+    "mieszkaniewarszawa|4000|38.0|pragapoludnie": 1786275243,
+    "2pokoje40m²zoliborzulrydygieraklimatyzacjagar|2500|40.0|zoliborz": 1786275871,
+    "mieszkanie47m2pokojesrodmiesciezoliborzulinfl|3000|47.0|zoliborz": 1786276185,
+    "dwupokojowemieszkaniezbalkonemiipietroulmagie|2900|44.0|bielany": 1786276499
   },
   "tg_offset": 654625391,
   "paused": false,
@@ -2670,13 +2678,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 40 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«2 pokoje | 40 m² | Żoliborz, ul. Rydygiera | Klimatyzacja | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-40-m-zoliborz-ul-rydygiera-klimatyzacja-garaz-CID3-ID1bMkAW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:34",
+      "ts": 1786275871,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 40.0,
+        "district": "Żoliborz",
+        "business": true,
+        "created_iso": "2026-08-09T13:34:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 47m, 2 pokoje, Śródmieście, Żoliborz ul. Inflancka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-47m-2-pokoje-srodmiescie-zoliborz-ul-inflancka-CID3-ID1bMkll.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
+      "ts": 1786276185,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 900,
+        "area": 47.0,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-09T13:30:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 44 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с ноября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe mieszkanie z balkonem (II piętro) ul.Magiera na Bielanach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-balkonem-ii-pietro-ul-magiera-na-bielanach-CID3-ID1bMlc6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
+      "ts": 1786276499,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 44.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-09T13:46:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2865,
-    "sent": 578
+    "checks": 2869,
+    "sent": 581
   },
   "initialized": true,
-  "last_check": "2026-08-09T11:34:13",
+  "last_check": "2026-08-09T11:55:08",
   "backoff_until": 1786201834.4717982
 }
