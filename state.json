@@ -1978,7 +1978,20 @@
     "1090411537": 1786373518,
     "1090413895": 1786373518,
     "1090411726": 1786373518,
-    "1090410507": 1786373518
+    "1090410507": 1786373518,
+    "1090417602": 1786374775,
+    "1090416156": 1786374775,
+    "1090415841": 1786374775,
+    "1090414726": 1786374775,
+    "1090414747": 1786374775,
+    "1090415641": 1786374775,
+    "1090414992": 1786374775,
+    "1090397977": 1786374775,
+    "1090418615": 1786375094,
+    "1090417929": 1786375094,
+    "1090416703": 1786375094,
+    "1090419804": 1786375415,
+    "1090419397": 1786375415
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2549,96 +2562,16 @@
     "np2pokojowemieszkaniewwarszawie|3400|36.0|targowek": 1786373198,
     "idealnechpromenada20mindocentrum|2700|47.0|pragapoludnie": 1786373518,
     "mieszkaniedowynajecia|2700|38.0|targowek": 1786373518,
-    "piekne2pokojeapartamentowiecmetroszwedzkabezp|3250|34.0|pragapolnoc": 1786373518
+    "piekne2pokojeapartamentowiecmetroszwedzkabezp|3250|34.0|pragapolnoc": 1786373518,
+    "krakowulczerwienskiegonowoczesnemieszkanie2po|2500|35.0|pradnikbialy": 1786374775,
+    "ursustomciapaluchanowebardzocichewszystkonowe|3000|42.0|ursus": 1786374775,
+    "przestronne2pokal29listopadabalkon|2500|52.0|pradnikbialy": 1786375094,
+    "ciche2pok40m2antresolamistrzejowiceklima|2750|40.0|mistrzejowice": 1786375094,
+    "dowynajeciamieszkanie2pokwarszawagrochow|3000|48.0|rembertow": 1786375415
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Na wynajem 2 pokojowe mieszkanie ul. Pachońskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-2-pokojowe-mieszkanie-ul-pachonskiego-CID3-ID1bN3Dj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:11",
-      "ts": 1786361046,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 43.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-10T13:11:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45.72 м², 2 комнаты\n💰 3100 + czynsz 645 = <b>3745 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🏢 агентство\n«Ul. Banacha - 2 pokoje, balkon, WYSOKI STANDARD, garaż, MPEC, blisko tramwaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-banacha-2-pokoje-balkon-wysoki-standard-garaz-mpec-blisko-tramwaj-CID3-ID1bN3Ek.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:11",
-      "ts": 1786361365,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 645,
-        "area": 45.72,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-10T13:11:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 645
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 719 = <b>3219 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe mieszkanie 38 m ul. Borkowska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-38-m-ul-borkowska-CID3-ID1bN3Wb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:16",
-      "ts": 1786361681,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 719,
-        "area": 38.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-10T13:16:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 719
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Wola, ujmujący widok na centrum, KLIMATYZACJA»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wola-ujmujacy-widok-na-centrum-klimatyzacja-CID3-ID1bN4jP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
-      "ts": 1786361681,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 36.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-10T13:23:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 45 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 45m2 2 pokoje luksusowe umeblowane 1 pietro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-45m2-2-pokoje-luksusowe-umeblowane-1-pietro-CID3-ID1bN4mP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:24",
-      "ts": 1786362931,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 45.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-10T13:24:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 32 м², 2 комнаты\n💰 2950 + czynsz 450 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2950 zł\n🏢 Этаж: 3\n👤 от собственника\n«Skorosze - Nowe na wynajem 2-pokojowe, balkon, Ryżowa 66c»\n🔗 <a href=\"https://www.olx.pl/d/oferta/skorosze-nowe-na-wynajem-2-pokojowe-balkon-ryzowa-66c-CID3-ID1bN4n8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:24",
       "ts": 1786362931,
@@ -3233,13 +3166,98 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 300 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«URSUS-Tomcia Palucha- NOWE-bardzo ciche-wszystko nowe -Ursus-2 pok-42m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursus-tomcia-palucha-nowe-bardzo-ciche-wszystko-nowe-ursus-2-pok-42m-CID3-ID1bNck9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
+      "ts": 1786374775,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 300,
+        "area": 42.0,
+        "district": "Ursus",
+        "business": true,
+        "created_iso": "2026-08-10T15:39:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 558 = <b>3058 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Kraków ul. Czerwieńskiego - nowoczesne mieszkanie 2 pokojowe z balkonem, garaż, komórka. Kompletnie umeblewane, nowe meble i wyposażenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-ul-czerwienskiego-nowoczesne-mieszkanie-2-pokojowe-z-balkonem-garaz-komorka-kompletnie-umeblewane-nowe-meble-i-wyposazenie-CID3-ID1bNgGi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:52",
+      "ts": 1786374775,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 558,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-10T16:52:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 558
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 750 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: мансарда\n🐾 можно с животными · 🏢 агентство\n«Ciche 2-pok.40m2+antresola *Mistrzejowice* klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-2-pok-40m2-antresola-mistrzejowice-klima-CID3-ID1bNhcb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
+      "ts": 1786375094,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2750,
+        "rent": 750,
+        "area": 40.0,
+        "district": "Mistrzejowice",
+        "business": true,
+        "created_iso": "2026-08-10T17:00:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 1100 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Przestronne 2 pok.*Al. 29 Listopada*balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pok-al-29-listopadabalkon-CID3-ID1bNhH1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:08",
+      "ts": 1786375094,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1100,
+        "area": 52.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-10T17:08:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": 150
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 880 = <b>3880 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Do Wynajęcia Mieszkanie 2 pok. Warszawa Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-2-pok-warszawa-grochow-CID3-ID1bNhTD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:12",
+      "ts": 1786375415,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 880,
+        "area": 48.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-10T17:12:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 880
+      }
     }
   ],
   "stats": {
-    "checks": 3096,
-    "sent": 731
+    "checks": 3099,
+    "sent": 736
   },
   "initialized": true,
-  "last_check": "2026-08-10T14:52:12",
+  "last_check": "2026-08-10T15:23:45",
   "backoff_until": 1786374740.7376397
 }
