@@ -1845,6 +1845,7 @@
     "1090318133": 1786347368,
     "1090318603": 1786347368,
     "1090316873": 1786347993,
+<<<<<<< Updated upstream
     "1090319921": 1786348308,
     "1090319608": 1786348619,
     "1090321769": 1786348930,
@@ -1854,6 +1855,23 @@
     "1090323498": 1786349555,
     "1090328000": 1786350802,
     "1090328038": 1786350802
+=======
+    "1090322378": 1786350894,
+    "1090321818": 1786350894,
+    "1090322150": 1786350894,
+    "1090319608": 1786350894,
+    "1090319921": 1786350894,
+    "1090328000": 1786350894,
+    "1090328038": 1786350894,
+    "1090323498": 1786350894,
+    "1090321769": 1786350894,
+    "1090328277": 1786351210,
+    "1090330287": 1786351527,
+    "1090329385": 1786351527,
+    "1090332406": 1786351842,
+    "1090330560": 1786351842,
+    "1090330486": 1786351842
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2355,12 +2373,21 @@
     "salwatorulsyrokomli2pokojowemieszkaniezbalkon|2800|36.0|zwierzyniec": 1786346742,
     "nowoczesny2pokojowyapartamentpradnikbialyulbi|2800|40.0|pradnikbialy": 1786347368,
     "klimatycznemieszkaniewkamienicynagagarina|3000|39.0|mokotow": 1786347993,
+<<<<<<< Updated upstream
     "2pokojenowebudownictworondowiatraczna|2650|34.0|pragapoludnie": 1786350802
+=======
+    "2pokojenowebudownictworondowiatraczna|2650|34.0|pragapoludnie": 1786350894,
+    "nowy2pokojowyapartamentulcentralnaczyzyny|3400|44.0|czyzyny": 1786351210,
+    "pilotow2952m2dostepneodzaraz|3000|52.0|grzegorzki": 1786351842,
+    "apartamentmiasteczkowilanow|2900|51.5|wilanow": 1786351842,
+    "dolnymokotowwynajem|2900|38.0|mokotow": 1786351842
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 48 м², 2 комнаты\n💰 3050 + czynsz 850 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 2-pokojowe 48m2, ul. Ostrobramska, Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-48m2-ul-ostrobramska-praga-poludnie-CID3-ID1bKWJD.html\">Открыть на OLX</a>  ·  добавлено 07.08 12:04",
       "ts": 1786308877,
       "city": "warszawa",
@@ -2429,6 +2456,8 @@
       }
     },
     {
+=======
+>>>>>>> Stashed changes
       "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2950 + czynsz 850 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 5\n👤 от собственника\n«2-pokoje Muranów Bezpośrednio Metro Tramwaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-muranow-bezposrednio-metro-tramwaj-CID3-ID1bMG5q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:57",
       "ts": 1786308877,
       "city": "warszawa",
@@ -3025,7 +3054,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 34 м², 2 комнаты\n💰 2650 + czynsz 630 = <b>3280 zł/мес</b>\n   ≈ с медиа около 3380 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje, nowe budownictwo, Rondo Wiatraczna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-rondo-wiatraczna-CID3-ID1bMU7u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
+<<<<<<< Updated upstream
       "ts": 1786350802,
+=======
+      "ts": 1786350894,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3039,6 +3072,7 @@
       "an": {
         "czynsz_desc": 630
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -3047,5 +3081,83 @@
   },
   "initialized": true,
   "last_check": "2026-08-10T08:33:31",
+=======
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 44 м², 2 комнаты\n💰 3400 + czynsz 580 = <b>3980 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Nowy 2-pokojowy apartament - ul. Centralna, Czyżyny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowy-2-pokojowy-apartament-ul-centralna-czyzyny-CID3-ID1bMUbX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:24",
+      "ts": 1786351210,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 580,
+        "area": 44.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-10T10:24:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 580
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«dolny mokotów wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dolny-mokotow-wynajem-CID3-ID1bMULA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:35",
+      "ts": 1786351842,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-10T10:35:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wilanów</b> — 51.5 м², 2 комнаты\n💰 2900 + czynsz 950 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4310 zł/мес\n⚡ Свет/медиа: ≈ 460 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Apartament Miasteczko Wilanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-miasteczko-wilanow-CID3-ID1bMUMM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:36",
+      "ts": 1786351842,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 950,
+        "area": 51.5,
+        "district": "Wilanów",
+        "business": true,
+        "created_iso": "2026-08-10T10:36:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Pilotów 29 | 52 m2 | dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pilotow-29-52-m2-dostepne-od-zaraz-CID3-ID1bMWgy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:44",
+      "ts": 1786351842,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 52.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-10T10:44:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    }
+  ],
+  "stats": {
+    "checks": 3043,
+    "sent": 666
+  },
+  "initialized": true,
+  "last_check": "2026-08-10T08:50:55",
+>>>>>>> Stashed changes
   "backoff_until": 1786315465.9632778
 }
