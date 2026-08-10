@@ -1931,7 +1931,12 @@
     "1090374047": 1786363576,
     "1090375926": 1786363576,
     "1090375301": 1786363576,
-    "1090373362": 1786363893
+    "1090373362": 1786363893,
+    "1090376873": 1786364212,
+    "1090376762": 1786364212,
+    "1090376891": 1786364530,
+    "1090379506": 1786364846,
+    "1090378690": 1786364846
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2474,62 +2479,14 @@
     "ursusbliskopkpgarazklimatyzacjabezprowizji|3400|42.05|ursus": 1786363256,
     "bemowoszeligowska35nowoczesne2pokojebalkonbez|3000|35.0|bemowo": 1786363256,
     "przytulnenowoczesne2pokojowemieszkanieplaszow|2800|46.0|podgorze": 1786363576,
-    "salwatormieszkaniedowynajecia|3300|45.0|staremiasto": 1786363893
+    "salwatormieszkaniedowynajecia|3300|45.0|staremiasto": 1786363893,
+    "mieszkaniekrakowkijowskaleakrowodrzapark|3500|35.0|krowodrza": 1786364212,
+    "mieszkanieulswsebastiana|3400|60.0|staremiasto": 1786364530,
+    "mieszkanie2niezaleznepokojebezprowizjipetsfre|3090|36.0|podgorze": 1786364846
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«dolny mokotów wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dolny-mokotow-wynajem-CID3-ID1bMULA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:35",
-      "ts": 1786351842,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 38.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-10T10:35:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wilanów</b> — 51.5 м², 2 комнаты\n💰 2900 + czynsz 950 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4310 zł/мес\n⚡ Свет/медиа: ≈ 460 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Apartament Miasteczko Wilanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-miasteczko-wilanow-CID3-ID1bMUMM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:36",
-      "ts": 1786351842,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 950,
-        "area": 51.5,
-        "district": "Wilanów",
-        "business": true,
-        "created_iso": "2026-08-10T10:36:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Pilotów 29 | 52 m2 | dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pilotow-29-52-m2-dostepne-od-zaraz-CID3-ID1bMWgy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:44",
-      "ts": 1786351842,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 52.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-10T10:44:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Metro Wierzbno, zielone osiedle, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-zielone-osiedle-2-pokoje-CID3-ID1bMWsq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:47",
       "ts": 1786352165,
@@ -3158,13 +3115,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 35 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Kraków Kijowska Lea Krowodrza Park»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-kijowska-lea-krowodrza-park-CID3-ID1bN6PL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:07",
+      "ts": 1786364212,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 35.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-10T14:07:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 60 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie ul. św. Sebastiana»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-sw-sebastiana-CID3-ID1bN6Q3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:07",
+      "ts": 1786364530,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 60.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-10T14:07:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3090 + czynsz 790 = <b>3880 zł/мес</b>\n   ≈ с медиа около 4330 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 NIEZALEŻNE pokoje &gt;BEZ PROWIZJI&lt; Pets Freindly | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-niezalezne-pokoje-bez-prowizji-pets-freindly-zablocie-CID3-ID1bN7ve.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
+      "ts": 1786364846,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3090,
+        "rent": 790,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-10T14:19:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 790
+      }
     }
   ],
   "stats": {
-    "checks": 3078,
-    "sent": 703
+    "checks": 3082,
+    "sent": 706
   },
   "initialized": true,
-  "last_check": "2026-08-10T12:11:43",
+  "last_check": "2026-08-10T12:32:50",
   "backoff_until": 1786362903.414346
 }
