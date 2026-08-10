@@ -2038,7 +2038,13 @@
     "1090458752": 1786386191,
     "1090460885": 1786386831,
     "1090465251": 1786387463,
-    "1090463987": 1786387463
+    "1090463987": 1786387463,
+    "1090464915": 1786387778,
+    "1090467326": 1786387778,
+    "1090469510": 1786388410,
+    "1090469505": 1786388410,
+    "1090469299": 1786388410,
+    "1090469542": 1786388731
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2638,96 +2644,16 @@
     "babysharkmagicznemieszkaniewpieknychkolorachp|2800|36.0|grzegorzki": 1786385245,
     "2pokzduzymtarasemnaruczaju|3100|39.0|lagiewnikiborekfalec": 1786386191,
     "bezposrednio2oddzielnepokojepragapoludnie|3000|35.0|pragapoludnie": 1786386191,
-    "mieszkaniedowynajeciaraclawickakrakow|3000|34.0|krowodrza": 1786386831
+    "mieszkaniedowynajeciaraclawickakrakow|3000|34.0|krowodrza": 1786386831,
+    "mieszkanienawynajemzbalkonemigarazem|2750|35.15|bialoleka": 1786387778,
+    "mieszkanienakurdwanowie375mkw|2500|37.5|podgorzeduchackie": 1786388410,
+    "mieszkanie2pokojowemysliborska72b|3400|33.0|bialoleka": 1786388410,
+    "2pokojowemieszkaniepragapoludnie|2700|37.5|pragapoludnie": 1786388410,
+    "mieszkaniedowynajecia44m|3300|44.0|bialoleka": 1786388731
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 900 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2 pokojowe mieszkanie z balkonem - RUCZAJ - ul. Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-ruczaj-ul-ruczaj-CID3-ID1bNdN4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
-      "ts": 1786371906,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 900,
-        "area": 41.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": true,
-        "created_iso": "2026-08-10T16:04:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 36.3 м², 2 комнаты\n💰 2700 + czynsz 790 = <b>3490 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe mieszkanie 36 m² | Dostępne od zaraz | Klimatyzacja | TAK dla zwierząt | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-36-m-dostepne-od-zaraz-klimatyzacja-tak-dla-zwierzat-bezposrednio-CID3-ID1bNewA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:17",
-      "ts": 1786371906,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 790,
-        "area": 36.3,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-10T16:17:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 600 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Blisko Formu|3200|dwa pokoje z ogrodem|»\n🔗 <a href=\"https://www.olx.pl/d/oferta/blisko-formu-3200-dwa-pokoje-z-ogrodem-CID3-ID1bNeji.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
-      "ts": 1786372244,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 43.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-10T16:13:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Żoliborz-ul. Przasnyska-2 pok-42m-balkon-bardzo ciche- metro Pl. Wilsona-Arkadia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zoliborz-ul-przasnyska-2-pok-42m-balkon-bardzo-ciche-metro-pl-wilsona-arkadia-CID3-ID1bNeAk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:19",
-      "ts": 1786372244,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Żoliborz",
-        "business": true,
-        "created_iso": "2026-08-10T16:19:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 33 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Mieszkanie 2-pokojowe, ul Grójecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-grojecka-CID3-ID1bNevO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:17",
-      "ts": 1786372564,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 33.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-10T16:17:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4580 zł/мес\n⚡ Свет/медиа: ≈ 580 zł + свет по счётчику\n🌐 Интернет: в цене\n🏢 Этаж: 2\n👤 от собственника\n«Nowe 2 pokoje 38m2 | Bez prowizji | zwierzęta ok | Blisko Promenady»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-38m2-bez-prowizji-zwierzeta-ok-blisko-promenady-CID3-ID1bNfwC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:29",
       "ts": 1786372880,
@@ -3322,13 +3248,98 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 35.15 м², 2 комнаты\n💰 2750 + czynsz 680 = <b>3430 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem z balkonem i garażem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-z-balkonem-i-garazem-CID3-ID1bNumG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:38",
+      "ts": 1786387778,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 680,
+        "area": 35.15,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-10T20:38:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37.5 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«2 pokojowe mieszkanie Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-praga-poludnie-CID3-ID1bNuSw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:46",
+      "ts": 1786388410,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 37.5,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-10T20:46:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37.5 м², 2 комнаты\n💰 2500 + czynsz 515 = <b>3015 zł/мес</b>\n   ≈ с медиа около 3145 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na Kurdwanowie 37,5mkw»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-kurdwanowie-37-5mkw-CID3-ID1bNuWU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:47",
+      "ts": 1786388410,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 515,
+        "area": 37.5,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-10T20:47:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 33 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe Myśliborska 72b»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-mysliborska-72b-CID3-ID1bNuWP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:47",
+      "ts": 1786388410,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 33.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-10T20:47:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 44 м², 2 комнаты\n💰 <b>3300 zł/мес</b> — czynsz включён\n   ≈ с медиа около 3333 zł/мес\n⚡ Свет/медиа: ≈ 33 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia 44m.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-44m-CID3-ID1bNuVq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:47",
+      "ts": 1786388731,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": null,
+        "area": 44.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-10T20:47:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3137,
-    "sent": 760
+    "checks": 3141,
+    "sent": 765
   },
   "initialized": true,
-  "last_check": "2026-08-10T18:44:29",
+  "last_check": "2026-08-10T19:05:41",
   "backoff_until": 1786374740.7376397
 }
