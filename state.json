@@ -1851,7 +1851,9 @@
     "1090322378": 1786349244,
     "1090321818": 1786349244,
     "1090322150": 1786349555,
-    "1090323498": 1786349555
+    "1090323498": 1786349555,
+    "1090328000": 1786350802,
+    "1090328038": 1786350802
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2352,28 +2354,12 @@
     "mieszkaniedwupokojowemetrowilanowska|3500|45.0|mokotow": 1786346426,
     "salwatorulsyrokomli2pokojowemieszkaniezbalkon|2800|36.0|zwierzyniec": 1786346742,
     "nowoczesny2pokojowyapartamentpradnikbialyulbi|2800|40.0|pradnikbialy": 1786347368,
-    "klimatycznemieszkaniewkamienicynagagarina|3000|39.0|mokotow": 1786347993
+    "klimatycznemieszkaniewkamienicynagagarina|3000|39.0|mokotow": 1786347993,
+    "2pokojenowebudownictworondowiatraczna|2650|34.0|pragapoludnie": 1786350802
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Ciche i słoneczne mieszkanie z miejscem parkingowym (Os. Europejskie)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-i-sloneczne-mieszkanie-z-miejscem-parkingowym-os-europejskie-CID3-ID1bMDM6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:12",
-      "ts": 1786299905,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 50.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-09T20:12:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 48 м², 2 комнаты\n💰 3050 + czynsz 850 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 2-pokojowe 48m2, ul. Ostrobramska, Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-48m2-ul-ostrobramska-praga-poludnie-CID3-ID1bKWJD.html\">Открыть на OLX</a>  ·  добавлено 07.08 12:04",
       "ts": 1786308877,
@@ -3036,13 +3022,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 34 м², 2 комнаты\n💰 2650 + czynsz 630 = <b>3280 zł/мес</b>\n   ≈ с медиа около 3380 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje, nowe budownictwo, Rondo Wiatraczna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-rondo-wiatraczna-CID3-ID1bMU7u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
+      "ts": 1786350802,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2650,
+        "rent": 630,
+        "area": 34.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-10T10:23:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 630
+      }
     }
   ],
   "stats": {
-    "checks": 3046,
-    "sent": 661
+    "checks": 3048,
+    "sent": 662
   },
   "initialized": true,
-  "last_check": "2026-08-10T08:23:04",
+  "last_check": "2026-08-10T08:33:31",
   "backoff_until": 1786315465.9632778
 }
