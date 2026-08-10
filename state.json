@@ -2004,7 +2004,13 @@
     "1090427888": 1786377637,
     "1090426760": 1786377957,
     "1090425463": 1786377957,
-    "1090432133": 1786378588
+    "1090432133": 1786378588,
+    "1090434439": 1786379223,
+    "1090435565": 1786379223,
+    "1090433678": 1786379223,
+    "1089957854": 1786379223,
+    "1090433980": 1786379540,
+    "1090437879": 1786380170
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2587,45 +2593,13 @@
     "mieszkanie2poziomowedowynajeciaulfeliksawrobe|3000|53.22|pragapoludnie": 1786377321,
     "mieszkanie2pokojowena1pietrzew4pietrowymbloku|2200|50.0|biezanowprokocim": 1786377637,
     "wynajemmieszkania45m2pokoje|3000|47.0|ursus": 1786377957,
-    "2pokojeoddzielnakuchniaduzybalkonbudynekz2014|2900|35.47|pragapoludnie": 1786378588
+    "2pokojeoddzielnakuchniaduzybalkonbudynekz2014|2900|35.47|pragapoludnie": 1786378588,
+    "cenazewszystkimmieszkanie40m2rondomatecznegoh|3600|40.0|lagiewnikiborekfalec": 1786379223,
+    "mieszkanie2pokojowenaosiedluzielonaitaliawars|2900|40.32|wlochy": 1786380170
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 35 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Kraków Kijowska Lea Krowodrza Park»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-kijowska-lea-krowodrza-park-CID3-ID1bN6PL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:07",
-      "ts": 1786364212,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 35.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-10T14:07:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 60 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie ul. św. Sebastiana»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-sw-sebastiana-CID3-ID1bN6Q3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:07",
-      "ts": 1786364530,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": null,
-        "area": 60.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-10T14:07:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3090 + czynsz 790 = <b>3880 zł/мес</b>\n   ≈ с медиа около 4330 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 NIEZALEŻNE pokoje &gt;BEZ PROWIZJI&lt; Pets Freindly | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-niezalezne-pokoje-bez-prowizji-pets-freindly-zablocie-CID3-ID1bN7ve.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
       "ts": 1786364846,
@@ -3271,13 +3245,47 @@
       "an": {
         "czynsz_desc": 703
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Cena ze wszystkim. Mieszkanie 40m2 (rondo Matecznego, Hotel Forum), 2. pietro, stylowe wnetrze, kompletnie urzadzone.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/cena-ze-wszystkim-mieszkanie-40m2-rondo-matecznego-hotel-forum-2-pietro-stylowe-wnetrze-kompletnie-urzadzone-CID3-ID1bNlOf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:14",
+      "ts": 1786379223,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3600,
+        "rent": null,
+        "area": 40.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-10T18:14:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 40.32 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe na Osiedlu Zielona Italia (Warszawa ul. Obywatelska 1)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-osiedlu-zielona-italia-warszawa-ul-obywatelska-1-CID3-ID1bNmHJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:29",
+      "ts": 1786380170,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 40.32,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-10T18:29:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3110,
-    "sent": 743
+    "checks": 3114,
+    "sent": 745
   },
   "initialized": true,
-  "last_check": "2026-08-10T16:21:53",
+  "last_check": "2026-08-10T16:43:00",
   "backoff_until": 1786374740.7376397
 }
