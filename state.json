@@ -1954,7 +1954,12 @@
     "1090391525": 1786368328,
     "1090392717": 1786368645,
     "1090392412": 1786368645,
-    "1090395741": 1786368965
+    "1090395741": 1786368965,
+    "1090396447": 1786369596,
+    "1090395945": 1786369596,
+    "1090397802": 1786369596,
+    "1090399051": 1786369912,
+    "1090399810": 1786370229
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2509,45 +2514,13 @@
     "mokotowjoliotcurie2pokojeobokmetrawierzbnobez|3000|35.77|mokotow": 1786367691,
     "2pokojezloggiazgoda13centrummetrowidoknapkin|3800|36.0|srodmiescie": 1786368328,
     "mieszkaniedwupokojowenawynajemwarszawamokotow|2600|38.0|mokotow": 1786368645,
-    "alsolidarnosci1292pokojeosobnakuchniabezprowi|3950|49.58|wola": 1786368645
+    "alsolidarnosci1292pokojeosobnakuchniabezprowi|3950|49.58|wola": 1786368645,
+    "ursynowmetrostoklosy2pokojebalkonbezprowizji|3650|39.5|ursynow": 1786369596,
+    "dwupokojowemieszkanieulmlynskaboczna|2500|38.0|krowodrza": 1786369912
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 46 м², 2 комнаты\n💰 3450 + czynsz 490 = <b>3940 zł/мес</b>\n   ≈ с медиа около 4030 zł/мес\n⚡ Свет/медиа: ≈ 90 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4100 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę mieszkanie 46mkw | Praga Południe | Balkon | Parking podziemny | Obok tramwaj, lidl |Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-46mkw-praga-poludnie-balkon-parking-podziemny-obok-tramwaj-lidl-bezposrednio-CID3-ID1bMVF6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:09",
-      "ts": 1786353756,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3450,
-        "rent": 490,
-        "area": 46.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-10T11:09:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 490
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 38 м², 2 комнаты\n💰 2799 + czynsz 620 = <b>3419 zł/мес</b>\n   ≈ с медиа около 3519 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🏢 Этаж: 1\n🏢 агентство\n«2 pokojowe 38m ul. Orlińskiego, osiedle Avia na Czyżynach - IDEALNE DLA PARY - cena do negocjacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-38m-ul-orlinskiego-osiedle-avia-na-czyzynach-idealne-dla-pary-cena-do-negocjacji-CID3-ID1bMVHi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:10",
-      "ts": 1786353756,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2799,
-        "rent": 620,
-        "area": 38.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-10T11:10:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 620
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Nowe, w pełni wyposażone mieszkanie naprzeciwko Akademii Koźmińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-w-pelni-wyposazone-mieszkanie-naprzeciwko-akademii-kozminskiego-CID3-ID1bMVHw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:10",
       "ts": 1786353756,
@@ -3193,13 +3166,47 @@
       "an": {
         "czynsz_desc": 450
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 39.5 м², 2 комнаты\n💰 3650 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 4400 zł\n📅 Заселение: с 4 августа\n🏢 Этаж: 2\n🏢 агентство\n«Ursynów Metro Stokłosy | 2 pokoje + balkon | Bez prowizji!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursynow-metro-stoklosy-2-pokoje-balkon-bez-prowizji-CID3-ID1bNchk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:38",
+      "ts": 1786369596,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3650,
+        "rent": null,
+        "area": 39.5,
+        "district": "Ursynów",
+        "business": true,
+        "created_iso": "2026-08-10T15:38:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 723 = <b>3223 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с 15 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Dwupokojowe mieszkanie ul. Młyńska Boczna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-ul-mlynska-boczna-CID3-ID1bNcBt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:44",
+      "ts": 1786369912,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 723,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-10T15:44:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 723
+      }
     }
   ],
   "stats": {
-    "checks": 3094,
-    "sent": 715
+    "checks": 3098,
+    "sent": 717
   },
   "initialized": true,
-  "last_check": "2026-08-10T13:36:11",
+  "last_check": "2026-08-10T13:57:17",
   "backoff_until": 1786362903.414346
 }
