@@ -2077,7 +2077,8 @@
     "1090495861": 1786398888,
     "1090497037": 1786399834,
     "1090497331": 1786400770,
-    "1090498144": 1786401710
+    "1090498144": 1786401710,
+    "1090499338": 1786404830
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2701,28 +2702,12 @@
     "bezposrednio2pokoje435m²garazbalkonnowybudyne|3500|43.5|bielany": 1786398574,
     "przytulnyapartament38m2nazielonympowislu|2800|37.5|srodmiescie": 1786399834,
     "wynajmemieszkanie2pokojowekrakownullo|2450|50.0|grzegorzki": 1786400770,
-    "nowe2pokojoweochotarakow|3200|37.0|wlochy": 1786401710
+    "nowe2pokojoweochotarakow|3200|37.0|wlochy": 1786401710,
+    "mieszkaniedowynajeciaosuroczekrakow|2150|38.0|nowahuta": 1786404830
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 40.32 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe na Osiedlu Zielona Italia (Warszawa ul. Obywatelska 1)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-osiedlu-zielona-italia-warszawa-ul-obywatelska-1-CID3-ID1bNmHJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:29",
-      "ts": 1786380170,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 40.32,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-10T18:29:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3100 + czynsz 1 = <b>3101 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę dwupokojowe Obopólona Lea Krowodrza Królewska Piastowska właściciel 3100 brak czynszu OD ZARAZ 3 100 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupokojowe-obopolona-lea-krowodrza-krolewska-piastowska-wlasciciel-3100-brak-czynszu-od-zaraz-3-100-zl-CID3-ID1bNmLN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:30",
       "ts": 1786380489,
@@ -3385,13 +3370,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 38 м², 2 комнаты\n💰 2150 + czynsz 900 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia os. Urocze Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-os-urocze-krakow-CID3-ID1bNCH0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:13",
+      "ts": 1786404830,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2150,
+        "rent": 900,
+        "area": 38.0,
+        "district": "Nowa Huta",
+        "business": false,
+        "created_iso": "2026-08-11T01:13:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 3172,
-    "sent": 784
+    "checks": 3176,
+    "sent": 785
   },
   "initialized": true,
-  "last_check": "2026-08-10T23:13:11",
+  "last_check": "2026-08-10T23:33:59",
   "backoff_until": 1786374740.7376397
 }
