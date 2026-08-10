@@ -1942,7 +1942,14 @@
     "1090380251": 1786365480,
     "1090383761": 1786366114,
     "1090383019": 1786366114,
-    "1090382929": 1786366114
+    "1090382929": 1786366114,
+    "1090385861": 1786366746,
+    "1090389103": 1786367061,
+    "1090389256": 1786367374,
+    "1090389570": 1786367691,
+    "1090388271": 1786367691,
+    "1090389908": 1786367691,
+    "1090387533": 1786367691
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2491,62 +2498,14 @@
     "mieszkanie2niezaleznepokojebezprowizjipetsfre|3090|36.0|podgorze": 1786364846,
     "odwrzesnia2pok42m2ospiastowklima|2699|42.0|mistrzejowice": 1786365480,
     "bliskometraksieciajanusza|2300|32.0|wola": 1786365480,
-    "przytulnemieszkanieprzygaleriibronowicechelmo|2500|48.0|pradnikbialy": 1786366114
+    "przytulnemieszkanieprzygaleriibronowicechelmo|2500|48.0|pradnikbialy": 1786366114,
+    "2pokojeprzypkpwarszawapraga32m²bezprowizji|3000|32.0|targowek": 1786367374,
+    "mediawceniedostepneodzaraz2pokojekrakowulroma|3300|36.0|podgorze": 1786367691,
+    "mokotowjoliotcurie2pokojeobokmetrawierzbnobez|3000|35.77|mokotow": 1786367691
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 610 = <b>3510 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Radzikowskiego 108 | sypialnia + salon | 39m2 | 1 piętro | balkon | Willa Słowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/radzikowskiego-108-sypialnia-salon-39m2-1-pietro-balkon-willa-slowicza-CID3-ID1bMWrU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:47",
-      "ts": 1786353116,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 610,
-        "area": 39.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-10T10:47:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 300 = <b>3500 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«2 pokoje z osobną kuchnią, balkonem i klimatyzacją - ul. Lea»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-osobna-kuchnia-balkonem-i-klimatyzacja-ul-lea-CID3-ID1bMVnj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:03",
-      "ts": 1786353435,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 300,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-10T11:03:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Dwupokojowe mieszkanie z klimatyzacją - Stara Ochota, ul. Grójecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-klimatyzacja-stara-ochota-ul-grojecka-CID3-ID1bMVs1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:05",
-      "ts": 1786353435,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-10T11:05:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Wynajmę dwupokojowe mieszkanie na Gocławiu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupokojowe-mieszkanie-na-goclawiu-CID3-ID1bMVzn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
       "ts": 1786353435,
@@ -3175,13 +3134,64 @@
       "an": {
         "czynsz_desc": 1135
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 32 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 11 августа\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje przy PKP Warszawa Praga | 32 m² | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-pkp-warszawa-praga-32-m-bez-prowizji-CID3-ID1bNa3u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:02",
+      "ts": 1786367374,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 32.0,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-10T15:02:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 35.77 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 4 августа\n🏢 Этаж: 5\n🏢 агентство\n«Mokotów, Joliot-Curie | 2 pokoje obok Metra Wierzbno | Bez prowizji!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mokotow-joliot-curie-2-pokoje-obok-metra-wierzbno-bez-prowizji-CID3-ID1bN9BH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
+      "ts": 1786367691,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 35.77,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-10T14:54:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3300 + czynsz 630 = <b>3930 zł/мес</b>\n   ≈ с медиа около 4380 zł/мес\n⚡ Свет/медиа: ≈ 450 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Media w cenie! Dostępne od zaraz | 2 POKOJE - Kraków, ul. Romanowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-dostepne-od-zaraz-2-pokoje-krakow-ul-romanowicza-CID3-ID1bNa8y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:03",
+      "ts": 1786367691,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 630,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-10T15:03:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 630
+      }
     }
   ],
   "stats": {
-    "checks": 3086,
-    "sent": 709
+    "checks": 3090,
+    "sent": 712
   },
   "initialized": true,
-  "last_check": "2026-08-10T12:53:57",
+  "last_check": "2026-08-10T13:15:04",
   "backoff_until": 1786362903.414346
 }
