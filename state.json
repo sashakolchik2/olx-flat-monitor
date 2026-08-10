@@ -2075,7 +2075,8 @@
     "1090495632": 1786398574,
     "1090494562": 1786398574,
     "1090495861": 1786398888,
-    "1090497037": 1786399834
+    "1090497037": 1786399834,
+    "1090497331": 1786400770
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2697,28 +2698,12 @@
     "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385,
     "ladnedwupokojowemieszkanieruczajtorfowa|2500|42.0|podgorze": 1786397637,
     "bezposrednio2pokoje435m²garazbalkonnowybudyne|3500|43.5|bielany": 1786398574,
-    "przytulnyapartament38m2nazielonympowislu|2800|37.5|srodmiescie": 1786399834
+    "przytulnyapartament38m2nazielonympowislu|2800|37.5|srodmiescie": 1786399834,
+    "wynajmemieszkanie2pokojowekrakownullo|2450|50.0|grzegorzki": 1786400770
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 35.47 м², 2 комнаты\n💰 2900 + czynsz 703 = <b>3603 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 240 zł/мес\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje + oddzielna kuchnia! DUŻY BALKON || budynek z 2014 || parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-oddzielna-kuchnia-duzy-balkon-budynek-z-2014-parking-CID3-ID1bNld3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:05",
-      "ts": 1786378588,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 703,
-        "area": 35.47,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-10T18:05:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": 703
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Cena ze wszystkim. Mieszkanie 40m2 (rondo Matecznego, Hotel Forum), 2. pietro, stylowe wnetrze, kompletnie urzadzone.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/cena-ze-wszystkim-mieszkanie-40m2-rondo-matecznego-hotel-forum-2-pietro-stylowe-wnetrze-kompletnie-urzadzone-CID3-ID1bNlOf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:14",
       "ts": 1786379223,
@@ -3381,13 +3366,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 50 м², 2 комнаты\n💰 2450 + czynsz 1050 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe Kraków Nullo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-krakow-nullo-CID3-ID1bNCaD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:09",
+      "ts": 1786400770,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2450,
+        "rent": 1050,
+        "area": 50.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-11T00:09:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3161,
-    "sent": 782
+    "checks": 3164,
+    "sent": 783
   },
   "initialized": true,
-  "last_check": "2026-08-10T22:15:53",
+  "last_check": "2026-08-10T22:31:33",
   "backoff_until": 1786374740.7376397
 }
