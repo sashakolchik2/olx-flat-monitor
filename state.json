@@ -2022,7 +2022,10 @@
     "1090445880": 1786382388,
     "1090445276": 1786382388,
     "1090444787": 1786382388,
-    "1090446562": 1786382708
+    "1090446562": 1786382708,
+    "1090448900": 1786383026,
+    "1090450666": 1786383655,
+    "1090452022": 1786383972
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2613,45 +2616,13 @@
     "przytulne2pokoje31mobokmetro5minutwolapark|2700|31.0|bemowo": 1786381123,
     "ciche2pokojoweprzym2|3350|47.0|wola": 1786381123,
     "ladnedwupokojowemieszkaniewsamymcentrumwarsza|2900|39.5|srodmiescie": 1786382388,
-    "mieszkanie2pokojoweprzyparkulazienkikrolewski|2700|30.0|srodmiescie": 1786382388
+    "mieszkanie2pokojoweprzyparkulazienkikrolewski|2700|30.0|srodmiescie": 1786382388,
+    "2pokojowemieszkanieztarasemobokbonarki|3200|38.0|lagiewnikiborekfalec": 1786383655,
+    "mieszkaniezloggiaimiejscemparkingowymorazinte|2500|40.4|bialoleka": 1786383972
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3300 + czynsz 630 = <b>3930 zł/мес</b>\n   ≈ с медиа около 4380 zł/мес\n⚡ Свет/медиа: ≈ 450 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Media w cenie! Dostępne od zaraz | 2 POKOJE - Kraków, ul. Romanowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-dostepne-od-zaraz-2-pokoje-krakow-ul-romanowicza-CID3-ID1bNa8y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:03",
-      "ts": 1786367691,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 630,
-        "area": 36.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-10T15:03:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 630
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 36 м², 2 комнаты\n💰 <b>3800 zł/мес</b> — czynsz включён\n   ≈ с медиа около 3930 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🏢 Этаж: Powyżej 10\n🐾 можно с животными · 👤 от собственника\n«2 pokoje z loggią | Zgoda 13 | Centrum | metro | widok na PKiN»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-loggia-zgoda-13-centrum-metro-widok-na-pkin-CID3-ID1bNaE5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:14",
-      "ts": 1786371906,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 36.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-10T15:14:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 49.58 м², 2 комнаты\n💰 3950 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 550 zł/мес\n🔐 Kaucja (залог): 4550 zł\n📅 Заселение: с 11 августа\n🏢 Этаж: 1\n🏢 агентство\n«Al. Solidarności 129 | 2 pokoje | osobna kuchnia | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/al-solidarnosci-129-2-pokoje-osobna-kuchnia-bez-prowizji-CID3-ID1bNaSo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:18",
       "ts": 1786371906,
@@ -3297,13 +3268,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n🚗 Паркинг: 150 zł/мес\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe mieszkanie z tarasem obok Bonarki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-tarasem-obok-bonarki-CID3-ID1bNq1Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:27",
+      "ts": 1786383655,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 550,
+        "area": 38.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-10T19:27:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40.4 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3530 zł/мес\n⚡ Свет/медиа: ≈ 230 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie z loggią i miejscem parkingowym oraz internetem w cenie- Tarchomin / Nowodwory»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-loggia-i-miejscem-parkingowym-oraz-internetem-w-cenie-tarchomin-nowodwory-CID3-ID1bNqnQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:34",
+      "ts": 1786383972,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 40.4,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-10T19:34:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3122,
-    "sent": 751
+    "checks": 3126,
+    "sent": 753
   },
   "initialized": true,
-  "last_check": "2026-08-10T17:25:16",
+  "last_check": "2026-08-10T17:46:22",
   "backoff_until": 1786374740.7376397
 }
