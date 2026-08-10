@@ -1884,7 +1884,12 @@
     "1090339362": 1786354082,
     "1090339596": 1786354400,
     "1090338549": 1786354400,
-    "1090340956": 1786354720
+    "1090340956": 1786354720,
+    "1090345182": 1786355982,
+    "1090344956": 1786355982,
+    "1090344979": 1786355982,
+    "1090343279": 1786356298,
+    "1090347156": 1786356927
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2405,28 +2410,12 @@
     "nowewpelniwyposazonemieszkanienaprzeciwkoakad|3000|45.0|pragapolnoc": 1786353756,
     "mieszkaniedowynajeciaulprzewoz32l|2600|34.0|podgorze": 1786354082,
     "mieszkaniedwupokojoweprzymetrzeraclawicka|3000|49.0|mokotow": 1786354082,
-    "2niezaleznepokojejasnakuchniablokzwindaosmoza|2800|58.0|pradnikbialy": 1786354400
+    "2niezaleznepokojejasnakuchniablokzwindaosmoza|2800|58.0|pradnikbialy": 1786354400,
+    "dwupokojowekrowodrzaobozna|2400|40.0|krowodrza": 1786356927
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe W-Wa Wola METRO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-wa-wola-metro-CID3-ID1bMMHd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:42",
-      "ts": 1786312659,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 39.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-09T23:42:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 680 = <b>3980 zł/мес</b>\n   ≈ с медиа около 4660 zł/мес\n⚡ Свет/медиа: ≈ 680 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Dwupokojowy apartament w centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowy-apartament-w-centrum-krakowa-CID3-ID1bMMY3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
       "ts": 1786313911,
@@ -3089,13 +3078,30 @@
       "an": {
         "czynsz_desc": 980
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 2400 + czynsz 700 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Dwupokojowe Krowodrza Oboźna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-krowodrza-obozna-CID3-ID1bMZ6s.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:56",
+      "ts": 1786356927,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-10T11:56:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3055,
-    "sent": 681
+    "checks": 3059,
+    "sent": 682
   },
   "initialized": true,
-  "last_check": "2026-08-10T09:54:32",
+  "last_check": "2026-08-10T10:15:36",
   "backoff_until": 1786315465.9632778
 }
