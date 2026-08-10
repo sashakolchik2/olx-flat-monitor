@@ -2010,7 +2010,12 @@
     "1090433678": 1786379223,
     "1089957854": 1786379223,
     "1090433980": 1786379540,
-    "1090437879": 1786380170
+    "1090437879": 1786380170,
+    "1090438131": 1786380489,
+    "1090440155": 1786380806,
+    "1090440347": 1786380806,
+    "1090441984": 1786381123,
+    "1090441457": 1786381123
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2595,79 +2600,15 @@
     "wynajemmieszkania45m2pokoje|3000|47.0|ursus": 1786377957,
     "2pokojeoddzielnakuchniaduzybalkonbudynekz2014|2900|35.47|pragapoludnie": 1786378588,
     "cenazewszystkimmieszkanie40m2rondomatecznegoh|3600|40.0|lagiewnikiborekfalec": 1786379223,
-    "mieszkanie2pokojowenaosiedluzielonaitaliawars|2900|40.32|wlochy": 1786380170
+    "mieszkanie2pokojowenaosiedluzielonaitaliawars|2900|40.32|wlochy": 1786380170,
+    "wynajmedwupokojoweobopolonaleakrowodrzakrolew|3100|45.0|krowodrza": 1786380489,
+    "wynajem2pokojowegomieszkaniawarszawawolauljak|4000|39.0|wola": 1786380806,
+    "przytulne2pokoje31mobokmetro5minutwolapark|2700|31.0|bemowo": 1786381123,
+    "ciche2pokojoweprzym2|3350|47.0|wola": 1786381123
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3090 + czynsz 790 = <b>3880 zł/мес</b>\n   ≈ с медиа около 4330 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 NIEZALEŻNE pokoje &gt;BEZ PROWIZJI&lt; Pets Freindly | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-niezalezne-pokoje-bez-prowizji-pets-freindly-zablocie-CID3-ID1bN7ve.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
-      "ts": 1786364846,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3090,
-        "rent": 790,
-        "area": 36.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-10T14:19:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 790
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 2300 + czynsz 980 = <b>3280 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Blisko Metra Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/blisko-metra-ksiecia-janusza-CID3-ID1bN7If.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
-      "ts": 1786365480,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 980,
-        "area": 32.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-10T14:21:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2699 + czynsz 650 = <b>3349 zł/мес</b>\n   ≈ с медиа около 3499 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🏢 агентство\n«Od Września/ 2 Pok. 42 M2/ Os. Piastów Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-wrzesnia-2-pok-42-m2-os-piastow-klima-CID3-ID1bN7S0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:22",
-      "ts": 1786365480,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2699,
-        "rent": 650,
-        "area": 42.0,
-        "district": "Mistrzejowice",
-        "business": true,
-        "created_iso": "2026-08-10T14:22:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2500 + czynsz 1135 = <b>3635 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 августа\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przytulne mieszkanie przy Galerii Bronowice - Chełmońskiego - od zaraz!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-przy-galerii-bronowice-chelmonskiego-od-zaraz-CID3-ID1bN8CR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:36",
-      "ts": 1786366114,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1135,
-        "area": 48.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-10T14:36:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1135
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 32 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 11 августа\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje przy PKP Warszawa Praga | 32 m² | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-pkp-warszawa-praga-32-m-bez-prowizji-CID3-ID1bNa3u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:02",
       "ts": 1786367374,
@@ -3279,13 +3220,81 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3100 + czynsz 1 = <b>3101 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę dwupokojowe Obopólona Lea Krowodrza Królewska Piastowska właściciel 3100 brak czynszu OD ZARAZ 3 100 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupokojowe-obopolona-lea-krowodrza-krolewska-piastowska-wlasciciel-3100-brak-czynszu-od-zaraz-3-100-zl-CID3-ID1bNmLN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:30",
+      "ts": 1786380489,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 1,
+        "area": 45.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-10T18:30:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 10\n👤 от собственника\n«Wynajem 2-pokojowego mieszkania, Warszawa Wola, ul.Jaktorowska 4000zl»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowego-mieszkania-warszawa-wola-ul-jaktorowska-4000zl-CID3-ID1bNnlx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:39",
+      "ts": 1786380806,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 39.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-10T18:39:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 47 м², 2 комнаты\n💰 3350 + czynsz 650 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Ciche 2-pokojowe przy M2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-2-pokojowe-przy-m2-CID3-ID1bNnDr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:44",
+      "ts": 1786381123,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3350,
+        "rent": 650,
+        "area": 47.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-10T18:44:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 31 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Przytulne 2 pokoje 31m obok METRO 5 minut WOLA PARK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-31m-obok-metro-5-minut-wola-park-CID3-ID1bNnLV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:46",
+      "ts": 1786381123,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 31.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-10T18:46:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3114,
-    "sent": 745
+    "checks": 3118,
+    "sent": 749
   },
   "initialized": true,
-  "last_check": "2026-08-10T16:43:00",
+  "last_check": "2026-08-10T17:04:10",
   "backoff_until": 1786374740.7376397
 }
