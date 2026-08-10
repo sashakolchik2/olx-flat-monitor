@@ -2015,7 +2015,14 @@
     "1090440155": 1786380806,
     "1090440347": 1786380806,
     "1090441984": 1786381123,
-    "1090441457": 1786381123
+    "1090441457": 1786381123,
+    "1090446685": 1786382388,
+    "1090447027": 1786382388,
+    "1090446859": 1786382388,
+    "1090445880": 1786382388,
+    "1090445276": 1786382388,
+    "1090444787": 1786382388,
+    "1090446562": 1786382708
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2604,45 +2611,13 @@
     "wynajmedwupokojoweobopolonaleakrowodrzakrolew|3100|45.0|krowodrza": 1786380489,
     "wynajem2pokojowegomieszkaniawarszawawolauljak|4000|39.0|wola": 1786380806,
     "przytulne2pokoje31mobokmetro5minutwolapark|2700|31.0|bemowo": 1786381123,
-    "ciche2pokojoweprzym2|3350|47.0|wola": 1786381123
+    "ciche2pokojoweprzym2|3350|47.0|wola": 1786381123,
+    "ladnedwupokojowemieszkaniewsamymcentrumwarsza|2900|39.5|srodmiescie": 1786382388,
+    "mieszkanie2pokojoweprzyparkulazienkikrolewski|2700|30.0|srodmiescie": 1786382388
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 32 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 11 августа\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje przy PKP Warszawa Praga | 32 m² | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-pkp-warszawa-praga-32-m-bez-prowizji-CID3-ID1bNa3u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:02",
-      "ts": 1786367374,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 32.0,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-10T15:02:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 35.77 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 4 августа\n🏢 Этаж: 5\n🏢 агентство\n«Mokotów, Joliot-Curie | 2 pokoje obok Metra Wierzbno | Bez prowizji!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mokotow-joliot-curie-2-pokoje-obok-metra-wierzbno-bez-prowizji-CID3-ID1bN9BH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
-      "ts": 1786367691,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 35.77,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-10T14:54:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3300 + czynsz 630 = <b>3930 zł/мес</b>\n   ≈ с медиа около 4380 zł/мес\n⚡ Свет/медиа: ≈ 450 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Media w cenie! Dostępne od zaraz | 2 POKOJE - Kraków, ul. Romanowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-dostepne-od-zaraz-2-pokoje-krakow-ul-romanowicza-CID3-ID1bNa8y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:03",
       "ts": 1786367691,
@@ -3288,13 +3263,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2700 + czynsz 980 = <b>3680 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe przy parku Łazienki Królewskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-przy-parku-lazienki-krolewskie-CID3-ID1bNoD2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:00",
+      "ts": 1786382388,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 980,
+        "area": 30.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-10T19:00:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 39.5 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Ładne dwupokojowe mieszkanie w samym centrum Warszawy z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-dwupokojowe-mieszkanie-w-samym-centrum-warszawy-z-miejscem-parkingowym-CID3-ID1bNoMM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:03",
+      "ts": 1786382388,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 650,
+        "area": 39.5,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-10T19:03:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3118,
-    "sent": 749
+    "checks": 3122,
+    "sent": 751
   },
   "initialized": true,
-  "last_check": "2026-08-10T17:04:10",
+  "last_check": "2026-08-10T17:25:16",
   "backoff_until": 1786374740.7376397
 }
