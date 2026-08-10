@@ -2035,7 +2035,10 @@
     "1090455076": 1786385245,
     "1090460205": 1786386191,
     "1090459194": 1786386191,
-    "1090458752": 1786386191
+    "1090458752": 1786386191,
+    "1090460885": 1786386831,
+    "1090465251": 1786387463,
+    "1090463987": 1786387463
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2634,28 +2637,12 @@
     "wynajme2pokojezaneksemgaraz|3700|40.0|bielany": 1786384606,
     "babysharkmagicznemieszkaniewpieknychkolorachp|2800|36.0|grzegorzki": 1786385245,
     "2pokzduzymtarasemnaruczaju|3100|39.0|lagiewnikiborekfalec": 1786386191,
-    "bezposrednio2oddzielnepokojepragapoludnie|3000|35.0|pragapoludnie": 1786386191
+    "bezposrednio2oddzielnepokojepragapoludnie|3000|35.0|pragapoludnie": 1786386191,
+    "mieszkaniedowynajeciaraclawickakrakow|3000|34.0|krowodrza": 1786386831
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 3115 + czynsz 410 = <b>3525 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2-pok | 40.98 m2 | Balkon | Pets Friendly | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-40-98-m2-balkon-pets-friendly-bez-prowizji-CID3-ID1bNdDs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:02",
-      "ts": 1786371906,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3115,
-        "rent": null,
-        "area": 40.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-10T16:02:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 410
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 900 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2 pokojowe mieszkanie z balkonem - RUCZAJ - ul. Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-ruczaj-ul-ruczaj-CID3-ID1bNdN4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
       "ts": 1786371906,
@@ -3318,13 +3305,30 @@
       "an": {
         "czynsz_desc": 720
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia Racławicka, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-raclawicka-krakow-CID3-ID1bNsGN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:14",
+      "ts": 1786386831,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 34.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-10T20:14:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3133,
-    "sent": 759
+    "checks": 3137,
+    "sent": 760
   },
   "initialized": true,
-  "last_check": "2026-08-10T18:23:23",
+  "last_check": "2026-08-10T18:44:29",
   "backoff_until": 1786374740.7376397
 }
