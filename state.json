@@ -2044,7 +2044,15 @@
     "1090469510": 1786388410,
     "1090469505": 1786388410,
     "1090469299": 1786388410,
-    "1090469542": 1786388731
+    "1090469542": 1786388731,
+    "1090479680": 1786390625,
+    "1090474325": 1786390625,
+    "1090479172": 1786390625,
+    "1090479564": 1786390625,
+    "1090478965": 1786390625,
+    "1090479958": 1786390945,
+    "1090480607": 1786391262,
+    "1090479615": 1786391262
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2649,79 +2657,15 @@
     "mieszkanienakurdwanowie375mkw|2500|37.5|podgorzeduchackie": 1786388410,
     "mieszkanie2pokojowemysliborska72b|3400|33.0|bialoleka": 1786388410,
     "2pokojowemieszkaniepragapoludnie|2700|37.5|pragapoludnie": 1786388410,
-    "mieszkaniedowynajecia44m|3300|44.0|bialoleka": 1786388731
+    "mieszkaniedowynajecia44m|3300|44.0|bialoleka": 1786388731,
+    "bronowickieogrodyjasnedwanowoczesnepokojezduz|2900|38.0|bronowice": 1786390625,
+    "mieszkanie2pokojeoddzielnakuchniaigarderoba56|3200|56.0|ursus": 1786390625,
+    "2pokojowe4191m2balkoninternetwceniebezposredn|3755|41.91|czyzyny": 1786390945,
+    "mieszkanie2pokojowezakrzowekkapelankakobierzy|3200|32.0|lagiewnikiborekfalec": 1786391262
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4580 zł/мес\n⚡ Свет/медиа: ≈ 580 zł + свет по счётчику\n🌐 Интернет: в цене\n🏢 Этаж: 2\n👤 от собственника\n«Nowe 2 pokoje 38m2 | Bez prowizji | zwierzęta ok | Blisko Promenady»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-38m2-bez-prowizji-zwierzeta-ok-blisko-promenady-CID3-ID1bNfwC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:29",
-      "ts": 1786372880,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": 600,
-        "area": 38.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-10T16:29:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 580
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 36 м², 2 комнаты\n💰 3400 + czynsz 500 = <b>3900 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Np.2 pokojowe mieszkanie w Warszawie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/np-2-pokojowe-mieszkanie-w-warszawie-CID3-ID1bNfYR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:38",
-      "ts": 1786373198,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": 500,
-        "area": 36.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-10T16:38:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3010 + czynsz 380 = <b>3390 zł/мес</b>\n   ≈ с медиа около 3780 zł/мес\n⚡ Свет/медиа: ≈ 390 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2-pok | 36.86 m2 | Balkon | Bezpośrednio | Parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-36-86-m2-balkon-bezposrednio-parking-CID3-ID1bNfZt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:38",
-      "ts": 1786373198,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3010,
-        "rent": 380,
-        "area": 36.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-10T16:38:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 380
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 34 м², 2 комнаты\n💰 3250 + czynsz 530 = <b>3780 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3750 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Piękne 2 pokoje, apartamentowiec, metro Szwedzka, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-2-pokoje-apartamentowiec-metro-szwedzka-bezposrednio-CID3-ID1bNfAf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:31",
-      "ts": 1786373518,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3250,
-        "rent": 530,
-        "area": 34.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-10T16:31:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 530
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 830 = <b>3530 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bNfTU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:36",
       "ts": 1786373518,
@@ -3333,13 +3277,81 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3670 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Bronowickie Ogrody jasne dwa nowoczesne pokoje z dużym balkonem + miejsce parkingowe w garażu - idealne dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bronowickie-ogrody-jasne-dwa-nowoczesne-pokoje-z-duzym-balkonem-miejsce-parkingowe-w-garazu-idealne-dla-pary-CID3-ID1bNvbz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:07",
+      "ts": 1786390625,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 650,
+        "area": 38.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-10T21:07:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 670 = <b>3870 zł/мес</b>\n   ≈ с медиа около 4070 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje oddzielna kuchnia i garderoba 56m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-oddzielna-kuchnia-i-garderoba-56m2-CID3-ID1bNxy4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:31",
+      "ts": 1786390625,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 670,
+        "area": 56.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-10T21:31:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 41.91 м², 2 комнаты\n💰 3755 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2-pokojowe | 41.91 m2 | Balkon | Internet w cenie | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-41-91-m2-balkon-internet-w-cenie-bezposrednio-CID3-ID1bNxEq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:33",
+      "ts": 1786390945,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3755,
+        "rent": null,
+        "area": 41.91,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-10T21:33:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 32 м², 2 комнаты\n💰 3200 + czynsz 590 = <b>3790 zł/мес</b>\n   ≈ с медиа около 4090 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe, Zakrzówek, (Kapelanka/Kobierzyńska)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-zakrzowek-kapelanka-kobierzynska-CID3-ID1bNxOT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:36",
+      "ts": 1786391262,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 590,
+        "area": 32.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-10T21:36:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 590
+      }
     }
   ],
   "stats": {
-    "checks": 3145,
-    "sent": 765
+    "checks": 3149,
+    "sent": 769
   },
   "initialized": true,
-  "last_check": "2026-08-10T19:26:42",
+  "last_check": "2026-08-10T19:47:53",
   "backoff_until": 1786374740.7376397
 }
