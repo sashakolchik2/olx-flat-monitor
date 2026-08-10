@@ -2052,7 +2052,13 @@
     "1090478965": 1786390625,
     "1090479958": 1786390945,
     "1090480607": 1786391262,
-    "1090479615": 1786391262
+    "1090479615": 1786391262,
+    "1090481562": 1786391573,
+    "1090481281": 1786391573,
+    "1090481900": 1786391573,
+    "1090484560": 1786392208,
+    "1090483700": 1786392208,
+    "1090483946": 1786392208
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2661,62 +2667,14 @@
     "bronowickieogrodyjasnedwanowoczesnepokojezduz|2900|38.0|bronowice": 1786390625,
     "mieszkanie2pokojeoddzielnakuchniaigarderoba56|3200|56.0|ursus": 1786390625,
     "2pokojowe4191m2balkoninternetwceniebezposredn|3755|41.91|czyzyny": 1786390945,
-    "mieszkanie2pokojowezakrzowekkapelankakobierzy|3200|32.0|lagiewnikiborekfalec": 1786391262
+    "mieszkanie2pokojowezakrzowekkapelankakobierzy|3200|32.0|lagiewnikiborekfalec": 1786391262,
+    "wynajemmieszkania2pokojowegowoladuchacka|2500|47.0|podgorzeduchackie": 1786391573,
+    "nowoczesne2pokpraskadebnikigarazaktualne|3300|44.04|debniki": 1786391573,
+    "mieszkanie35mkwzwidokiemnaparkrakowieculnowic|2900|55.4|ochota": 1786392208
   },
-  "tg_offset": 654625391,
+  "tg_offset": 654625392,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 830 = <b>3530 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bNfTU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:36",
-      "ts": 1786373518,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 830,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-10T16:36:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 9\n🏢 агентство\n«Idealne*CH Promenada*20 min. do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/idealnech-promenada20-min-do-centrum-CID3-ID1bNgsT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:48",
-      "ts": 1786373518,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 900,
-        "area": 47.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-10T16:48:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 300 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«URSUS-Tomcia Palucha- NOWE-bardzo ciche-wszystko nowe -Ursus-2 pok-42m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursus-tomcia-palucha-nowe-bardzo-ciche-wszystko-nowe-ursus-2-pok-42m-CID3-ID1bNck9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
-      "ts": 1786374775,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 300,
-        "area": 42.0,
-        "district": "Ursus",
-        "business": true,
-        "created_iso": "2026-08-10T15:39:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 558 = <b>3058 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Kraków ul. Czerwieńskiego - nowoczesne mieszkanie 2 pokojowe z balkonem, garaż, komórka. Kompletnie umeblewane, nowe meble i wyposażenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-ul-czerwienskiego-nowoczesne-mieszkanie-2-pokojowe-z-balkonem-garaz-komorka-kompletnie-umeblewane-nowe-meble-i-wyposazenie-CID3-ID1bNgGi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:52",
       "ts": 1786374775,
@@ -3345,13 +3303,64 @@
       "an": {
         "czynsz_desc": 590
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 44.04 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne 2-pok|Praska|Dębniki|garaż! AKTUALNE»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pok-praska-debniki-garaz-aktualne-CID3-ID1bNxZL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:39",
+      "ts": 1786391573,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 44.04,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-10T21:39:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 300
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 783 = <b>3283 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania 2-pokojowego Wola Duchacka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokojowego-wola-duchacka-CID3-ID1bNy4i.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:41",
+      "ts": 1786391573,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 783,
+        "area": 47.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-10T21:41:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 783
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 55.4 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n   ≈ с медиа около 3770 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 35 mkw z widokiem na park, Rakowiec, ul.Nowickiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-35-mkw-z-widokiem-na-park-rakowiec-ul-nowickiego-CID3-ID1bNyCM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:53",
+      "ts": 1786392208,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 670,
+        "area": 55.4,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-10T21:53:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 670
+      }
     }
   ],
   "stats": {
-    "checks": 3149,
-    "sent": 769
+    "checks": 3152,
+    "sent": 772
   },
   "initialized": true,
-  "last_check": "2026-08-10T19:47:53",
+  "last_check": "2026-08-10T20:03:37",
   "backoff_until": 1786374740.7376397
 }
