@@ -1936,7 +1936,13 @@
     "1090376762": 1786364212,
     "1090376891": 1786364530,
     "1090379506": 1786364846,
-    "1090378690": 1786364846
+    "1090378690": 1786364846,
+    "1090380856": 1786365480,
+    "1090381370": 1786365480,
+    "1090380251": 1786365480,
+    "1090383761": 1786366114,
+    "1090383019": 1786366114,
+    "1090382929": 1786366114
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2482,62 +2488,14 @@
     "salwatormieszkaniedowynajecia|3300|45.0|staremiasto": 1786363893,
     "mieszkaniekrakowkijowskaleakrowodrzapark|3500|35.0|krowodrza": 1786364212,
     "mieszkanieulswsebastiana|3400|60.0|staremiasto": 1786364530,
-    "mieszkanie2niezaleznepokojebezprowizjipetsfre|3090|36.0|podgorze": 1786364846
+    "mieszkanie2niezaleznepokojebezprowizjipetsfre|3090|36.0|podgorze": 1786364846,
+    "odwrzesnia2pok42m2ospiastowklima|2699|42.0|mistrzejowice": 1786365480,
+    "bliskometraksieciajanusza|2300|32.0|wola": 1786365480,
+    "przytulnemieszkanieprzygaleriibronowicechelmo|2500|48.0|pradnikbialy": 1786366114
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Metro Wierzbno, zielone osiedle, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-zielone-osiedle-2-pokoje-CID3-ID1bMWsq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:47",
-      "ts": 1786352165,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-10T10:47:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 52 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«Do wynajęcia mieszkanie 2 pokoje, 52m2, Al. Wyzwolenia, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-2-pokoje-52m2-al-wyzwolenia-warszawa-CID3-ID1bMWFe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:50",
-      "ts": 1786352482,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 52.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-10T10:50:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 950 = <b>3650 zł/мес</b>\n   ≈ с медиа около 3707 zł/мес\n⚡ Свет/медиа: ≈ 57 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Czyżyny | 2 pokoje | Osiedle 2 Pułku Lotniczego Orlińskiego | Balkon | Parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-2-pokoje-osiedle-2-pulku-lotniczego-orlinskiego-balkon-parking-CID3-ID1bMW7A.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:41",
-      "ts": 1786352799,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 950,
-        "area": 45.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-10T10:41:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 610 = <b>3510 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Radzikowskiego 108 | sypialnia + salon | 39m2 | 1 piętro | balkon | Willa Słowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/radzikowskiego-108-sypialnia-salon-39m2-1-pietro-balkon-willa-slowicza-CID3-ID1bMWrU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:47",
       "ts": 1786353116,
@@ -3166,13 +3124,64 @@
       "an": {
         "czynsz_desc": 790
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 2300 + czynsz 980 = <b>3280 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Blisko Metra Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/blisko-metra-ksiecia-janusza-CID3-ID1bN7If.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
+      "ts": 1786365480,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 980,
+        "area": 32.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-10T14:21:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2699 + czynsz 650 = <b>3349 zł/мес</b>\n   ≈ с медиа около 3499 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🏢 агентство\n«Od Września/ 2 Pok. 42 M2/ Os. Piastów Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-wrzesnia-2-pok-42-m2-os-piastow-klima-CID3-ID1bN7S0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:22",
+      "ts": 1786365480,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2699,
+        "rent": 650,
+        "area": 42.0,
+        "district": "Mistrzejowice",
+        "business": true,
+        "created_iso": "2026-08-10T14:22:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2500 + czynsz 1135 = <b>3635 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 августа\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przytulne mieszkanie przy Galerii Bronowice - Chełmońskiego - od zaraz!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-przy-galerii-bronowice-chelmonskiego-od-zaraz-CID3-ID1bN8CR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:36",
+      "ts": 1786366114,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1135,
+        "area": 48.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-10T14:36:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1135
+      }
     }
   ],
   "stats": {
-    "checks": 3082,
-    "sent": 706
+    "checks": 3086,
+    "sent": 709
   },
   "initialized": true,
-  "last_check": "2026-08-10T12:32:50",
+  "last_check": "2026-08-10T12:53:57",
   "backoff_until": 1786362903.414346
 }
