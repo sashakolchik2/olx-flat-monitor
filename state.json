@@ -1903,7 +1903,14 @@
     "1090354717": 1786359143,
     "1090355584": 1786359143,
     "1090356092": 1786359143,
-    "1090355813": 1786359143
+    "1090355813": 1786359143,
+    "1090359154": 1786359466,
+    "1090359098": 1786359466,
+    "1090333143": 1786359784,
+    "1090360811": 1786360099,
+    "1090362802": 1786360415,
+    "1090362177": 1786360415,
+    "1090361930": 1786360415
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2431,45 +2438,13 @@
     "nowemieszkanienabialolece44mgarazklimatyzacja|3000|44.0|bialoleka": 1786358509,
     "mokotow36mzwidokiemnaparkbezposrednio2pokoje|3100|36.0|mokotow": 1786359143,
     "dwupokojowezbalkonemnarakowcu|2450|37.0|ochota": 1786359143,
-    "nowoczesne2pokojeprzymetrzebielany|2850|32.0|bielany": 1786359143
+    "nowoczesne2pokojeprzymetrzebielany|2850|32.0|bielany": 1786359143,
+    "2oddzielnepokzduzymbalkonempradnikbialy|2700|50.2|pradnikbialy": 1786359466,
+    "wynajme2pokojowemieszkaniebliskometra|3600|52.0|targowek": 1786360099
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Śródmieście | 2 pokoje | balkon |Torwar»\n🔗 <a href=\"https://www.olx.pl/d/oferta/srodmiescie-2-pokoje-balkon-torwar-CID3-ID1bMNK3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 02:10",
-      "ts": 1786321412,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1000,
-        "area": 37.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-10T02:10:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 990 = <b>3990 zł/мес</b>\n   ≈ с медиа около 4160 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n👤 от собственника\n«2 niezależne pokoje | Praga | Plac Hallera | ZOO | Ciche i zielone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-praga-plac-hallera-zoo-ciche-i-zielone-CID3-ID1bMPLs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:20",
-      "ts": 1786343605,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 990,
-        "area": 50.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-10T08:20:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 990
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 42 м², 2 комнаты\n💰 2400 + czynsz 750 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 750 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie przy parku Jerzmanowskich | 2pok»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-przy-parku-jerzmanowskich-2pok-CID3-ID1bMPRR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:26",
       "ts": 1786343919,
@@ -3115,13 +3090,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 50.2 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 3\n🏢 агентство\n«2 oddzielne pok. z dużym balkonem | Prądnik Biały»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pok-z-duzym-balkonem-pradnik-bialy-CID3-ID1bN2dY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:48",
+      "ts": 1786359466,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 50.2,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-10T12:48:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 52 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-blisko-metra-CID3-ID1bN2EH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:54",
+      "ts": 1786360099,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3600,
+        "rent": null,
+        "area": 52.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-10T12:54:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3066,
-    "sent": 688
+    "checks": 3070,
+    "sent": 690
   },
   "initialized": true,
-  "last_check": "2026-08-10T10:52:37",
+  "last_check": "2026-08-10T11:13:42",
   "backoff_until": 1786315465.9632778
 }
