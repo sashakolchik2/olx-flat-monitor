@@ -2069,7 +2069,8 @@
     "1090489530": 1786394821,
     "1090488842": 1786394821,
     "1090492552": 1786396385,
-    "1090492835": 1786396385
+    "1090492835": 1786396385,
+    "1090495010": 1786397637
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2688,28 +2689,12 @@
     "2pokojowemieszkanie46m2ulbochenkawynajem|3800|46.0|podgorzeduchackie": 1786394508,
     "bezposrednionowemieszkanieztarasem|3300|38.0|grzegorzki": 1786394821,
     "piekne2pokojowemieszkanie32m2pasazpodgorskikr|3200|32.0|podgorze": 1786394821,
-    "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385
+    "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385,
+    "ladnedwupokojowemieszkanieruczajtorfowa|2500|42.0|podgorze": 1786397637
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 53.22 м², 2 комнаты\n💰 3000 + czynsz 623 = <b>3623 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie 2-poziomowe do wynajęcia – ul. Feliksa Wrobela | wysoki standard | 2022/ Płaszów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-poziomowe-do-wynajecia-ul-feliksa-wrobela-wysoki-standard-2022-plaszow-CID3-ID1bNjj0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:36",
-      "ts": 1786377321,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 623,
-        "area": 53.22,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-10T17:36:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 623
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 830 = <b>3030 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na 1 piętrze w 4 piętrowym bloku z balkonem ul. Duża Góra ; A two-room apartment, with a balcony, located on Duża Góra Street.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-1-pietrze-w-4-pietrowym-bloku-z-balkonem-ul-duza-gora-a-two-room-apartment-with-a-balcony-located-on-duza-gora-street-CID3-ID1bNjsS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
       "ts": 1786377637,
@@ -3372,13 +3357,30 @@
       "an": {
         "czynsz_desc": 1000
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 800 zł + свет по счётчику\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Ładne dwupokojowe mieszkanie Ruczaj / Torfowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-dwupokojowe-mieszkanie-ruczaj-torfowa-CID3-ID1bNBzc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:25",
+      "ts": 1786397637,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-10T23:25:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3149,
-    "sent": 779
+    "checks": 3153,
+    "sent": 780
   },
   "initialized": true,
-  "last_check": "2026-08-10T21:13:16",
+  "last_check": "2026-08-10T21:34:06",
   "backoff_until": 1786374740.7376397
 }
