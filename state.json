@@ -2067,7 +2067,9 @@
     "1090489991": 1786394508,
     "1090488521": 1786394508,
     "1090489530": 1786394821,
-    "1090488842": 1786394821
+    "1090488842": 1786394821,
+    "1090492552": 1786396385,
+    "1090492835": 1786396385
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2685,28 +2687,12 @@
     "mieszkaniedowynajeciaosiedlewilnomontwillowsk|3000|43.0|targowek": 1786394194,
     "2pokojowemieszkanie46m2ulbochenkawynajem|3800|46.0|podgorzeduchackie": 1786394508,
     "bezposrednionowemieszkanieztarasem|3300|38.0|grzegorzki": 1786394821,
-    "piekne2pokojowemieszkanie32m2pasazpodgorskikr|3200|32.0|podgorze": 1786394821
+    "piekne2pokojowemieszkanie32m2pasazpodgorskikr|3200|32.0|podgorze": 1786394821,
+    "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 57 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie z klimatyzacją, 57m2, ul. Fr. Nullo ( od Al. Pokoju), 2 niezależne pokoje .»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-klimatyzacja-57m2-ul-fr-nullo-od-al-pokoju-2-niezalezne-pokoje-CID3-ID1bNi2B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
-      "ts": 1786376370,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 57.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-10T17:15:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 53.22 м², 2 комнаты\n💰 3000 + czynsz 623 = <b>3623 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie 2-poziomowe do wynajęcia – ul. Feliksa Wrobela | wysoki standard | 2022/ Płaszów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-poziomowe-do-wynajecia-ul-feliksa-wrobela-wysoki-standard-2022-plaszow-CID3-ID1bNjj0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:36",
       "ts": 1786377321,
@@ -3369,13 +3355,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n👤 от собственника\n«Do WYNAJĘCIA dwupokojowe 48 m Warszawa- Ursynów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-dwupokojowe-48-m-warszawa-ursynow-CID3-ID1bNB07.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:00",
+      "ts": 1786396385,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 48.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-10T23:00:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
     }
   ],
   "stats": {
-    "checks": 3145,
-    "sent": 778
+    "checks": 3149,
+    "sent": 779
   },
   "initialized": true,
-  "last_check": "2026-08-10T20:52:23",
+  "last_check": "2026-08-10T21:13:16",
   "backoff_until": 1786374740.7376397
 }
