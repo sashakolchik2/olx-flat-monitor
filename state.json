@@ -2070,7 +2070,11 @@
     "1090488842": 1786394821,
     "1090492552": 1786396385,
     "1090492835": 1786396385,
-    "1090495010": 1786397637
+    "1090495010": 1786397637,
+    "1090495795": 1786398574,
+    "1090495632": 1786398574,
+    "1090494562": 1786398574,
+    "1090495861": 1786398888
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2690,28 +2694,12 @@
     "bezposrednionowemieszkanieztarasem|3300|38.0|grzegorzki": 1786394821,
     "piekne2pokojowemieszkanie32m2pasazpodgorskikr|3200|32.0|podgorze": 1786394821,
     "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385,
-    "ladnedwupokojowemieszkanieruczajtorfowa|2500|42.0|podgorze": 1786397637
+    "ladnedwupokojowemieszkanieruczajtorfowa|2500|42.0|podgorze": 1786397637,
+    "bezposrednio2pokoje435m²garazbalkonnowybudyne|3500|43.5|bielany": 1786398574
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 830 = <b>3030 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na 1 piętrze w 4 piętrowym bloku z balkonem ul. Duża Góra ; A two-room apartment, with a balcony, located on Duża Góra Street.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-1-pietrze-w-4-pietrowym-bloku-z-balkonem-ul-duza-gora-a-two-room-apartment-with-a-balcony-located-on-duza-gora-street-CID3-ID1bNjsS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
-      "ts": 1786377637,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 830,
-        "area": 50.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-10T17:38:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 47 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 45 m / 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-45-m-2-pokoje-CID3-ID1bNjtt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
       "ts": 1786377957,
@@ -3374,13 +3362,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 43.5 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 15 августа\n🏢 Этаж: 7\n👤 от собственника\n«BEZPOŚREDNIO | 2 pokoje | 43,5 m² | garaż | balkon | nowy budynek | Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-43-5-m-garaz-balkon-nowy-budynek-bielany-CID3-ID1bNBJe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:34",
+      "ts": 1786398574,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 43.5,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-10T23:34:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3153,
-    "sent": 780
+    "checks": 3157,
+    "sent": 781
   },
   "initialized": true,
-  "last_check": "2026-08-10T21:34:06",
+  "last_check": "2026-08-10T21:54:55",
   "backoff_until": 1786374740.7376397
 }
