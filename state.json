@@ -2031,7 +2031,11 @@
     "1090454813": 1786384606,
     "1090453088": 1786384606,
     "1090455766": 1786384927,
-    "1090454722": 1786384927
+    "1090454722": 1786384927,
+    "1090455076": 1786385245,
+    "1090460205": 1786386191,
+    "1090459194": 1786386191,
+    "1090458752": 1786386191
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2627,62 +2631,14 @@
     "mieszkaniezloggiaimiejscemparkingowymorazinte|2500|40.4|bialoleka": 1786383972,
     "mieszkanienawynajemulicalaszkiewiczakrakow|3000|34.0|grzegorzki": 1786384606,
     "wygodnedwapokojestegny|3000|42.0|mokotow": 1786384606,
-    "wynajme2pokojezaneksemgaraz|3700|40.0|bielany": 1786384606
+    "wynajme2pokojezaneksemgaraz|3700|40.0|bielany": 1786384606,
+    "babysharkmagicznemieszkaniewpieknychkolorachp|2800|36.0|grzegorzki": 1786385245,
+    "2pokzduzymtarasemnaruczaju|3100|39.0|lagiewnikiborekfalec": 1786386191,
+    "bezposrednio2oddzielnepokojepragapoludnie|3000|35.0|pragapoludnie": 1786386191
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 723 = <b>3223 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с 15 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Dwupokojowe mieszkanie ul. Młyńska Boczna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-ul-mlynska-boczna-CID3-ID1bNcBt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:44",
-      "ts": 1786371906,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 723,
-        "area": 38.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-10T15:44:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 723
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 720 = <b>3920 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«WYSOKI STANDARD Apartament 2-pokojowy | RAKOWICKA 22D | Steam Park»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wysoki-standard-apartament-2-pokojowy-rakowicka-22d-steam-park-CID3-ID1bNddx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:55",
-      "ts": 1786371906,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 720,
-        "area": 38.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-10T15:55:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 150
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 55 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 900 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje |Parking | Klimatyzacja | Pętla tramwajowa -od 1 września 2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-parking-klimatyzacja-petla-tramwajowa-od-1-wrzesnia-2026-CID3-ID1bNdmS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:57",
-      "ts": 1786371906,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 55.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-10T15:57:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 3115 + czynsz 410 = <b>3525 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2-pok | 40.98 m2 | Balkon | Pets Friendly | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-40-98-m2-balkon-pets-friendly-bez-prowizji-CID3-ID1bNdDs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:02",
       "ts": 1786371906,
@@ -3311,13 +3267,64 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 520 = <b>3320 zł/мес</b>\n   ≈ с медиа около 3470 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«\"Baby Shark\"Magiczne mieszkanie w pięknych kolorach przyjazne zwierzętom PARKING»\n🔗 <a href=\"https://www.olx.pl/d/oferta/baby-shark-magiczne-mieszkanie-w-pieknych-kolorach-przyjazne-zwierzetom-parking-CID3-ID1bNrb6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:48",
+      "ts": 1786385245,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 520,
+        "area": 36.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-10T19:48:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 521
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Bezpośrednio - 2 oddzielne pokoje - Praga-Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-oddzielne-pokoje-praga-poludnie-CID3-ID1bNsfv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:07",
+      "ts": 1786386191,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 35.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-10T20:07:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 720 = <b>3820 zł/мес</b>\n   ≈ с медиа около 4020 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2 pok. z dużym tarasem na Ruczaju»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-z-duzym-tarasem-na-ruczaju-CID3-ID1bNswP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:12",
+      "ts": 1786386191,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 720,
+        "area": 39.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": true,
+        "created_iso": "2026-08-10T20:12:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 720
+      }
     }
   ],
   "stats": {
-    "checks": 3129,
-    "sent": 756
+    "checks": 3133,
+    "sent": 759
   },
   "initialized": true,
-  "last_check": "2026-08-10T18:02:15",
+  "last_check": "2026-08-10T18:23:23",
   "backoff_until": 1786374740.7376397
 }
