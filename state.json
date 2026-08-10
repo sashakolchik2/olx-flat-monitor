@@ -1828,7 +1828,12 @@
     "1090311258": 1786343605,
     "1090311951": 1786343919,
     "1090311655": 1786343919,
-    "1090311740": 1786343919
+    "1090311740": 1786343919,
+    "1090311715": 1786344550,
+    "1090312615": 1786344550,
+    "1090312365": 1786344550,
+    "1090312607": 1786345176,
+    "1090313260": 1786345486
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2321,28 +2326,12 @@
     "2niezaleznepokojepragaplachallerazoocicheizie|3000|50.0|pragapolnoc": 1786343605,
     "nowoczesne2pokojowewyposazone11pietrouj|3000|52.0|debniki": 1786343919,
     "mieszkanieprzyparkujerzmanowskich2pok|2400|42.0|biezanowprokocim": 1786343919,
-    "wynajmemieszkanie2pokojowezogrodkiem|2800|32.68|bialoleka": 1786343919
+    "wynajmemieszkanie2pokojowezogrodkiem|2800|32.68|bialoleka": 1786343919,
+    "dwaoddzielnepokojeplaczawiszy|3000|37.0|ochota": 1786344550
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 860 = <b>3860 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje, Bielany, blisko metra Słodowiec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-bielany-blisko-metra-slodowiec-CID3-ID1bMBa0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:16",
-      "ts": 1786296432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 860,
-        "area": 38.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-09T19:16:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 860
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 1400 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie ul. Górnośląska 1 (Śródmieście)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ul-gornoslaska-1-srodmiescie-CID3-ID1bMBdI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:18",
       "ts": 1786296432,
@@ -3005,13 +2994,30 @@
       "an": {
         "czynsz_desc": 913
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Dwa oddzielne pokoje, plac Zawiszy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-oddzielne-pokoje-plac-zawiszy-CID3-ID1bMQ7l.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:39",
+      "ts": 1786344550,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 37.0,
+        "district": "Ochota",
+        "business": true,
+        "created_iso": "2026-08-10T08:39:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 3027,
-    "sent": 653
+    "checks": 3031,
+    "sent": 654
   },
   "initialized": true,
-  "last_check": "2026-08-10T06:44:04",
+  "last_check": "2026-08-10T07:04:53",
   "backoff_until": 1786315465.9632778
 }
