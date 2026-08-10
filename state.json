@@ -1819,7 +1819,8 @@
     "1090301592": 1786316095,
     "1090301600": 1786317033,
     "1090302025": 1786317348,
-    "1090302899": 1786319535
+    "1090302899": 1786319535,
+    "1090303101": 1786319850
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2306,28 +2307,12 @@
     "przytulne2pokojowemieszkanienabliskiejbialole|2700|34.38|bialoleka": 1786314536,
     "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850,
     "przytulne2pokojezbalkonem38m²ulmokotowska|2300|38.5|srodmiescie": 1786317033,
-    "zoliborz33m22pokojeplacwilsona|2900|33.0|zoliborz": 1786319535
+    "zoliborz33m22pokojeplacwilsona|2900|33.0|zoliborz": 1786319535,
+    "targowek2pokoje37m2metrobrodno|2750|37.0|targowek": 1786319850
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Metro Wierzbno Na Wynajem Dwupokojowe 36 M2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-na-wynajem-dwupokojowe-36-m2-CID3-ID1bMxUx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:04",
-      "ts": 1786292329,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-09T18:04:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajem 38m2/2 pokoje, metro Młociny, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-38m2-2-pokoje-metro-mlociny-bezposrednio-CID3-ID1bMyeI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:12",
       "ts": 1786292329,
@@ -2990,13 +2975,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 37 м², 2 комнаты\n💰 2750 + czynsz 1000 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4900 zł\n📅 Заселение: с 31 августа\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Targówek | 2 pokoje | 37m2 |Metro Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/targowek-2-pokoje-37m2-metro-brodno-CID3-ID1bMNDT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:43",
+      "ts": 1786319850,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 1000,
+        "area": 37.0,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-10T01:43:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2957,
-    "sent": 647
+    "checks": 2961,
+    "sent": 648
   },
   "initialized": true,
-  "last_check": "2026-08-09T23:52:23",
+  "last_check": "2026-08-10T00:13:13",
   "backoff_until": 1786315465.9632778
 }
