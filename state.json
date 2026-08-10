@@ -2074,7 +2074,8 @@
     "1090495795": 1786398574,
     "1090495632": 1786398574,
     "1090494562": 1786398574,
-    "1090495861": 1786398888
+    "1090495861": 1786398888,
+    "1090497037": 1786399834
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2695,28 +2696,12 @@
     "piekne2pokojowemieszkanie32m2pasazpodgorskikr|3200|32.0|podgorze": 1786394821,
     "dowynajeciadwupokojowe48mwarszawaursynow|3000|48.0|ursynow": 1786396385,
     "ladnedwupokojowemieszkanieruczajtorfowa|2500|42.0|podgorze": 1786397637,
-    "bezposrednio2pokoje435m²garazbalkonnowybudyne|3500|43.5|bielany": 1786398574
+    "bezposrednio2pokoje435m²garazbalkonnowybudyne|3500|43.5|bielany": 1786398574,
+    "przytulnyapartament38m2nazielonympowislu|2800|37.5|srodmiescie": 1786399834
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 47 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 45 m / 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-45-m-2-pokoje-CID3-ID1bNjtt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
-      "ts": 1786377957,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 47.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-10T17:38:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 35.47 м², 2 комнаты\n💰 2900 + czynsz 703 = <b>3603 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 240 zł/мес\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje + oddzielna kuchnia! DUŻY BALKON || budynek z 2014 || parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-oddzielna-kuchnia-duzy-balkon-budynek-z-2014-parking-CID3-ID1bNld3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:05",
       "ts": 1786378588,
@@ -3379,13 +3364,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09.2025 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przytulny apartament 38m2 na zielonym Powiślu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulny-apartament-38m2-na-zielonym-powislu-CID3-ID1bNC5T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:02",
+      "ts": 1786399834,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 700,
+        "area": 37.5,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-11T00:02:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3157,
-    "sent": 781
+    "checks": 3161,
+    "sent": 782
   },
   "initialized": true,
-  "last_check": "2026-08-10T21:54:55",
+  "last_check": "2026-08-10T22:15:53",
   "backoff_until": 1786374740.7376397
 }
