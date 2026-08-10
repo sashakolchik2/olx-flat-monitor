@@ -1949,7 +1949,12 @@
     "1090389570": 1786367691,
     "1090388271": 1786367691,
     "1090389908": 1786367691,
-    "1090387533": 1786367691
+    "1090387533": 1786367691,
+    "1090390995": 1786368014,
+    "1090391525": 1786368328,
+    "1090392717": 1786368645,
+    "1090392412": 1786368645,
+    "1090395741": 1786368965
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2501,62 +2506,14 @@
     "przytulnemieszkanieprzygaleriibronowicechelmo|2500|48.0|pradnikbialy": 1786366114,
     "2pokojeprzypkpwarszawapraga32m²bezprowizji|3000|32.0|targowek": 1786367374,
     "mediawceniedostepneodzaraz2pokojekrakowulroma|3300|36.0|podgorze": 1786367691,
-    "mokotowjoliotcurie2pokojeobokmetrawierzbnobez|3000|35.77|mokotow": 1786367691
+    "mokotowjoliotcurie2pokojeobokmetrawierzbnobez|3000|35.77|mokotow": 1786367691,
+    "2pokojezloggiazgoda13centrummetrowidoknapkin|3800|36.0|srodmiescie": 1786368328,
+    "mieszkaniedwupokojowenawynajemwarszawamokotow|2600|38.0|mokotow": 1786368645,
+    "alsolidarnosci1292pokojeosobnakuchniabezprowi|3950|49.58|wola": 1786368645
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Wynajmę dwupokojowe mieszkanie na Gocławiu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupokojowe-mieszkanie-na-goclawiu-CID3-ID1bMVzn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
-      "ts": 1786353435,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 39.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-10T11:08:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 50 м², 2 комнаты\n💰 2400 + czynsz 650 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pok. 50m2. Ul. Pszczelna Ruczaj.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-50m2-ul-pszczelna-ruczaj-CID3-ID1bMVxt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
-      "ts": 1786353756,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2400,
-        "rent": 650,
-        "area": 50.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-10T11:07:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie do wynajęcia od ZARAZ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-od-zaraz-CID3-ID1bMVCn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
-      "ts": 1786353756,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 40.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-10T11:08:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 46 м², 2 комнаты\n💰 3450 + czynsz 490 = <b>3940 zł/мес</b>\n   ≈ с медиа около 4030 zł/мес\n⚡ Свет/медиа: ≈ 90 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4100 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę mieszkanie 46mkw | Praga Południe | Balkon | Parking podziemny | Obok tramwaj, lidl |Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-46mkw-praga-poludnie-balkon-parking-podziemny-obok-tramwaj-lidl-bezposrednio-CID3-ID1bMVF6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:09",
       "ts": 1786353756,
@@ -3185,13 +3142,64 @@
       "an": {
         "czynsz_desc": 630
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 36 м², 2 комнаты\n💰 <b>3800 zł/мес</b> — czynsz включён\n   ≈ с медиа около 3930 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🏢 Этаж: Powyżej 10\n🐾 можно с животными · 👤 от собственника\n«2 pokoje z loggią | Zgoda 13 | Centrum | metro | widok na PKiN»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-loggia-zgoda-13-centrum-metro-widok-na-pkin-CID3-ID1bNaE5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:14",
+      "ts": 1786368328,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 36.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-10T15:14:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 49.58 м², 2 комнаты\n💰 3950 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 550 zł/мес\n🔐 Kaucja (залог): 4550 zł\n📅 Заселение: с 11 августа\n🏢 Этаж: 1\n🏢 агентство\n«Al. Solidarności 129 | 2 pokoje | osobna kuchnia | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/al-solidarnosci-129-2-pokoje-osobna-kuchnia-bez-prowizji-CID3-ID1bNaSo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:18",
+      "ts": 1786368645,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3950,
+        "rent": null,
+        "area": 49.58,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-10T15:18:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 450 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie dwupokojowe na wynajem Warszawa Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-na-wynajem-warszawa-mokotow-CID3-ID1bNaXj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
+      "ts": 1786368645,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 450,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-10T15:20:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 450
+      }
     }
   ],
   "stats": {
-    "checks": 3090,
-    "sent": 712
+    "checks": 3094,
+    "sent": 715
   },
   "initialized": true,
-  "last_check": "2026-08-10T13:15:04",
+  "last_check": "2026-08-10T13:36:11",
   "backoff_until": 1786362903.414346
 }
