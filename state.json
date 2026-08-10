@@ -1840,7 +1840,11 @@
     "1090314856": 1786346426,
     "1090314916": 1786346426,
     "1090316527": 1786346742,
-    "1090315748": 1786346742
+    "1090315748": 1786346742,
+    "1090317341": 1786347056,
+    "1090318133": 1786347368,
+    "1090318603": 1786347368,
+    "1090316873": 1786347993
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2339,45 +2343,13 @@
     "mieszkanie2pokojesaskakepaulafrykanskarogegip|3200|40.0|pragapoludnie": 1786346112,
     "2pok40m2loggiapiwnicaarmiikrajowejbronowice|2500|40.0|bronowice": 1786346426,
     "mieszkaniedwupokojowemetrowilanowska|3500|45.0|mokotow": 1786346426,
-    "salwatorulsyrokomli2pokojowemieszkaniezbalkon|2800|36.0|zwierzyniec": 1786346742
+    "salwatorulsyrokomli2pokojowemieszkaniezbalkon|2800|36.0|zwierzyniec": 1786346742,
+    "nowoczesny2pokojowyapartamentpradnikbialyulbi|2800|40.0|pradnikbialy": 1786347368,
+    "klimatycznemieszkaniewkamienicynagagarina|3000|39.0|mokotow": 1786347993
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Rembertów</b> — 50 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne mieszkania po generalnym remoncie w Starym Rembertowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-mieszkania-po-generalnym-remoncie-w-starym-rembertowie-CID3-ID1bMCYb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:56",
-      "ts": 1786298962,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 50.0,
-        "district": "Rembertów",
-        "business": false,
-        "created_iso": "2026-08-09T19:56:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 1 = <b>3201 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na Bródnie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-brodnie-do-wynajecia-CID3-ID1bMDxM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:08",
-      "ts": 1786299905,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 1,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-09T20:08:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Ciche i słoneczne mieszkanie z miejscem parkingowym (Os. Europejskie)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-i-sloneczne-mieszkanie-z-miejscem-parkingowym-os-europejskie-CID3-ID1bMDM6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:12",
       "ts": 1786299905,
@@ -3023,13 +2995,47 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 718 = <b>3518 zł/мес</b>\n   ≈ с медиа около 3618 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«Nowoczesny 2-pokojowy apartament - Prądnik Biały, ul. Białoprądnicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-2-pokojowy-apartament-pradnik-bialy-ul-bialopradnicka-CID3-ID1bMRyl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:23",
+      "ts": 1786347368,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 718,
+        "area": 40.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-10T09:23:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 718
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 1 = <b>3001 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n👤 от собственника\n«Klimatyczne mieszkanie w kamienicy na Gagarina»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyczne-mieszkanie-w-kamienicy-na-gagarina-CID3-ID1bMRe1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:18",
+      "ts": 1786347993,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1,
+        "area": 39.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-10T09:18:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3035,
-    "sent": 659
+    "checks": 3039,
+    "sent": 661
   },
   "initialized": true,
-  "last_check": "2026-08-10T07:25:50",
+  "last_check": "2026-08-10T07:46:42",
   "backoff_until": 1786315465.9632778
 }
