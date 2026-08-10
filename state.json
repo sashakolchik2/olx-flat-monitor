@@ -1889,7 +1889,9 @@
     "1090344956": 1786355982,
     "1090344979": 1786355982,
     "1090343279": 1786356298,
-    "1090347156": 1786356927
+    "1090347156": 1786356927,
+    "1090350502": 1786357245,
+    "1090350996": 1786357877
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2411,28 +2413,12 @@
     "mieszkaniedowynajeciaulprzewoz32l|2600|34.0|podgorze": 1786354082,
     "mieszkaniedwupokojoweprzymetrzeraclawicka|3000|49.0|mokotow": 1786354082,
     "2niezaleznepokojejasnakuchniablokzwindaosmoza|2800|58.0|pradnikbialy": 1786354400,
-    "dwupokojowekrowodrzaobozna|2400|40.0|krowodrza": 1786356927
+    "dwupokojowekrowodrzaobozna|2400|40.0|krowodrza": 1786356927,
+    "dowynajeciaatrakcyjne2pokojowemieszkanie45m²b|3000|45.0|bemowo": 1786357245
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 680 = <b>3980 zł/мес</b>\n   ≈ с медиа около 4660 zł/мес\n⚡ Свет/медиа: ≈ 680 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Dwupokojowy apartament w centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowy-apartament-w-centrum-krakowa-CID3-ID1bMMY3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
-      "ts": 1786313911,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 680,
-        "area": 42.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-10T00:01:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 34.38 м², 2 комнаты\n💰 2700 + czynsz 1017 = <b>3717 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne 2-pokojowe mieszkanie na bliskiej Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-bliskiej-bialolece-CID3-ID1bMN25.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
       "ts": 1786314536,
@@ -3095,13 +3081,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3750 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Do wynajęcia atrakcyjne 2-pokojowe mieszkanie 45 m² – Bemowo, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-atrakcyjne-2-pokojowe-mieszkanie-45-m-bemowo-warszawa-CID3-ID1bMZYq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:10",
+      "ts": 1786357245,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 45.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-10T12:10:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3059,
-    "sent": 682
+    "checks": 3062,
+    "sent": 683
   },
   "initialized": true,
-  "last_check": "2026-08-10T10:15:36",
+  "last_check": "2026-08-10T10:31:24",
   "backoff_until": 1786315465.9632778
 }
