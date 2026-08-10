@@ -1820,7 +1820,9 @@
     "1090301600": 1786317033,
     "1090302025": 1786317348,
     "1090302899": 1786319535,
-    "1090303101": 1786319850
+    "1090303101": 1786319850,
+    "1090303433": 1786321100,
+    "1090303483": 1786321412
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2308,28 +2310,12 @@
     "nawynajemdwupokojowemieszkaniezoddzielnakuchn|3100|45.57|bemowo": 1786314850,
     "przytulne2pokojezbalkonem38m²ulmokotowska|2300|38.5|srodmiescie": 1786317033,
     "zoliborz33m22pokojeplacwilsona|2900|33.0|zoliborz": 1786319535,
-    "targowek2pokoje37m2metrobrodno|2750|37.0|targowek": 1786319850
+    "targowek2pokoje37m2metrobrodno|2750|37.0|targowek": 1786319850,
+    "srodmiescie2pokojebalkontorwar|2900|37.0|srodmiescie": 1786321412
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajem 38m2/2 pokoje, metro Młociny, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-38m2-2-pokoje-metro-mlociny-bezposrednio-CID3-ID1bMyeI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:12",
-      "ts": 1786292329,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 38.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-09T18:12:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje Saska Kępa do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-saska-kepa-do-wynajecia-CID3-ID1bMygF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:12",
       "ts": 1786293279,
@@ -2992,13 +2978,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Śródmieście | 2 pokoje | balkon |Torwar»\n🔗 <a href=\"https://www.olx.pl/d/oferta/srodmiescie-2-pokoje-balkon-torwar-CID3-ID1bMNK3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 02:10",
+      "ts": 1786321412,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 1000,
+        "area": 37.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-10T02:10:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 2961,
-    "sent": 648
+    "checks": 2965,
+    "sent": 649
   },
   "initialized": true,
-  "last_check": "2026-08-10T00:13:13",
+  "last_check": "2026-08-10T00:34:05",
   "backoff_until": 1786315465.9632778
 }
