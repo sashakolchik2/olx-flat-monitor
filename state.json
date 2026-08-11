@@ -2116,7 +2116,11 @@
     "1090525504": 1786436521,
     "1090525337": 1786436833,
     "1090526801": 1786437144,
-    "1090529356": 1786438394
+    "1090529356": 1786438394,
+    "1090532372": 1786438713,
+    "1090533214": 1786439335,
+    "1090534069": 1786439647,
+    "1090533884": 1786439647
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2761,45 +2765,13 @@
     "slonecznemieszkanienabielanach|2900|44.0|bielany": 1786435889,
     "mieszkanie2pokojowenanowodworachulksiazkowa|2400|39.0|bialoleka": 1786436206,
     "warszawamokotowsadybaulpowsinskawynajme2pokoj|2300|38.0|mokotow": 1786436206,
-    "mieszkanienawynajem|3000|38.0|bielany": 1786437144
+    "mieszkanienawynajem|3000|38.0|bielany": 1786437144,
+    "mieszkanie2pokojowezaneksemkuchennym|2900|52.0|wola": 1786439647,
+    "bardzoprzytulnecichemieszkaniewsercustarejsas|2750|32.0|pragapoludnie": 1786439647
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3670 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Bronowickie Ogrody jasne dwa nowoczesne pokoje z dużym balkonem + miejsce parkingowe w garażu - idealne dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bronowickie-ogrody-jasne-dwa-nowoczesne-pokoje-z-duzym-balkonem-miejsce-parkingowe-w-garazu-idealne-dla-pary-CID3-ID1bNvbz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:07",
-      "ts": 1786392921,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 650,
-        "area": 38.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-10T21:07:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 670 = <b>3870 zł/мес</b>\n   ≈ с медиа около 4070 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje oddzielna kuchnia i garderoba 56m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-oddzielna-kuchnia-i-garderoba-56m2-CID3-ID1bNxy4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:31",
-      "ts": 1786392921,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 670,
-        "area": 56.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-10T21:31:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 41.91 м², 2 комнаты\n💰 3755 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2-pokojowe | 41.91 m2 | Balkon | Internet w cenie | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-41-91-m2-balkon-internet-w-cenie-bezposrednio-CID3-ID1bNxEq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:33",
       "ts": 1786392921,
@@ -3445,13 +3417,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 2750 + czynsz 550 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Bardzo przytulne, ciche mieszkanie w sercu starej Saskiej Kępy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bardzo-przytulne-ciche-mieszkanie-w-sercu-starej-saskiej-kepy-CID3-ID1bNLGc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
+      "ts": 1786439647,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 550,
+        "area": 32.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-11T10:59:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 52 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 2- pokojowe z aneksem kuchennym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-aneksem-kuchennym-CID3-ID1bNLJb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:00",
+      "ts": 1786439647,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 1100,
+        "area": 52.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-11T11:00:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3272,
-    "sent": 805
+    "checks": 3276,
+    "sent": 807
   },
   "initialized": true,
-  "last_check": "2026-08-11T08:53:26",
+  "last_check": "2026-08-11T09:14:18",
   "backoff_until": 1786414856.7723193
 }
