@@ -2277,7 +2277,9 @@
     "1090659695": 1786479192,
     "1090661523": 1786479192,
     "1090660593": 1786479192,
-    "1090660510": 1786479192
+    "1090660510": 1786479192,
+    "1090661447": 1786479512,
+    "1090662700": 1786480458
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3018,28 +3020,12 @@
     "nowe2pokojewwysokimstandardzieulzencowpierwsz|3200|30.0|bemowo": 1786478243,
     "2pokoje20minrondodaszynskiegometrobemowoodwla|2800|25.0|bemowo": 1786478243,
     "2pokojowyapartamentbliskowkdrakowbliskoparkus|3350|41.0|wlochy": 1786479192,
-    "rondowiatraczna2pokoje|3500|47.0|pragapoludnie": 1786479192
+    "rondowiatraczna2pokoje|3500|47.0|pragapoludnie": 1786479192,
+    "jasne2pokzosobnakuchniastaryzoliborzwsm5minme|3250|50.0|zoliborz": 1786479512
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47.8 м², 2 комнаты\n💰 2550 + czynsz 750 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Rondo Wiatraczna - 2 pokoje - 47,8 m² - 3300+media»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rondo-wiatraczna-2-pokoje-47-8-m-3300-media-CID3-ID1bO50X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:50",
-      "ts": 1786460381,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2550,
-        "rent": 750,
-        "area": 47.8,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-11T16:50:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 1100 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 2 pokojowego Kraków w okolicy ul. Królewskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokojowego-krakow-w-okolicy-ul-krolewskiej-CID3-ID1bO5v9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:01",
       "ts": 1786461015,
@@ -3702,13 +3688,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 50 м², 2 комнаты\n💰 3250 + czynsz 750 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 15 августа\n🏢 Этаж: 2\n🏢 агентство\n«Jasne, 2-pok z osobną kuchnią, Stary Żoliborz, WSM - 5min metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-2-pok-z-osobna-kuchnia-stary-zoliborz-wsm-5min-metro-CID3-ID1bOiRF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
+      "ts": 1786479512,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3250,
+        "rent": 750,
+        "area": 50.0,
+        "district": "Żoliborz",
+        "business": true,
+        "created_iso": "2026-08-11T22:07:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3384,
-    "sent": 901
+    "checks": 3388,
+    "sent": 902
   },
   "initialized": true,
-  "last_check": "2026-08-11T20:13:23",
+  "last_check": "2026-08-11T20:34:25",
   "backoff_until": 1786414856.7723193
 }
