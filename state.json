@@ -2204,7 +2204,10 @@
     "1090596208": 1786457226,
     "1090597612": 1786457226,
     "1090599818": 1786457855,
-    "1090601171": 1786458169
+    "1090601171": 1786458169,
+    "1090599925": 1786458487,
+    "1090602449": 1786458803,
+    "1090600722": 1786459118
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2900,62 +2903,14 @@
     "dowynajeciamieszkanie36m2|3300|36.0|bemowo": 1786455948,
     "mieszkanienawynajemwarszawa2pokoje|2700|43.0|ochota": 1786455948,
     "zabiniec772pokojeodzaraz2700zlgaraz|2700|40.0|pradnikbialy": 1786457226,
-    "pragapolnocultarchominska8balkon|2890|39.0|pragapolnoc": 1786458169
+    "pragapolnocultarchominska8balkon|2890|39.0|pragapolnoc": 1786458169,
+    "mieszkaniedowynajeciakrakownowahutaoskazimier|2500|38.0|bienczyce": 1786458487,
+    "przytulne2pokojeklimatyzacjadodyspozycjiduzyt|2600|25.0|pragapolnoc": 1786458803,
+    "nowemieszkanie2pokojebalkonlagiewnikimozliwos|3200|40.0|lagiewnikiborekfalec": 1786459118
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 46.9 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie 2pok. 46 m2 Białołęka ul. Odkryta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2pok-46-m2-bialoleka-ul-odkryta-CID3-ID1bNOp2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
-      "ts": 1786442474,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1000,
-        "area": 46.9,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-11T11:52:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4077 zł/мес\n⚡ Свет/медиа: ≈ 77 zł + свет по счётчику\n🌐 Интернет: 77 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Piękne i wysokie mieszkanie 39 m2. Chłodna, Metro ONZ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-i-wysokie-mieszkanie-39-m2-chlodna-metro-onz-CID3-ID1bNP7x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:05",
-      "ts": 1786443416,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1100,
-        "area": 39.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-11T12:05:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 44 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje w sercu Nowej Huty, os. Centrum B2,Widok na Aleję Róż, 44 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-w-sercu-nowej-huty-os-centrum-b2-widok-na-aleje-roz-44-m-CID3-ID1bNOZW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:03",
-      "ts": 1786443728,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 650,
-        "area": 44.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-08-11T12:03:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«BEZPOŚREDNIO | 2 pokoje + balkon | Wola | Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-balkon-wola-metro-ksiecia-janusza-CID3-ID1bNQe1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:23",
       "ts": 1786444666,
@@ -3584,13 +3539,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia - Kraków, Nowa Huta, os. Kazimierzowskie, 2 pokoje, 38m2,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-nowa-huta-os-kazimierzowskie-2-pokoje-38m2-CID3-ID1bO2Rn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:07",
+      "ts": 1786458487,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": null,
+        "area": 38.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-11T16:07:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 25 м², 2 комнаты\n💰 2600 + czynsz 500 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Przytulne 2 pokoje, klimatyzacja, do dyspozycji duży taras»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-klimatyzacja-do-dyspozycji-duzy-taras-CID3-ID1bO3v5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:20",
+      "ts": 1786458803,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 500,
+        "area": 25.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-11T16:20:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie | 2 pokoje | Balkon | Łagiewniki | Możliwość doposażenia | Garaż |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-balkon-lagiewniki-mozliwosc-doposazenia-garaz-CID3-ID1bO34e.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:11",
+      "ts": 1786459118,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 600,
+        "area": 40.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-11T16:11:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 3326,
-    "sent": 856
+    "checks": 3330,
+    "sent": 859
   },
   "initialized": true,
-  "last_check": "2026-08-11T14:22:59",
+  "last_check": "2026-08-11T14:44:02",
   "backoff_until": 1786414856.7723193
 }
