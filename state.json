@@ -2292,7 +2292,9 @@
     "1090668714": 1786483621,
     "1090669713": 1786483938,
     "1090669144": 1786483938,
-    "1090670513": 1786484886
+    "1090670513": 1786484886,
+    "1090671136": 1786485520,
+    "1090671191": 1786485836
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3042,28 +3044,12 @@
     "wynajmemieszkaniezwidokiem|2800|36.0|staremiasto": 1786482987,
     "wynajmemieszkanieochotaaljerozolimskieprzydwo|2900|37.0|ochota": 1786483621,
     "51m²2pokojealejaslowackiego26wyposazoneodzara|3100|51.0|krowodrza": 1786483938,
-    "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786484886
+    "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786484886,
+    "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786485520
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 68 м², 2 комнаты\n💰 2700 + czynsz 1150 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с мая\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2-pok. 68m2, Krasińskiego, Jubilat, Wawel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-68m2-krasinskiego-jubilat-wawel-CID3-ID1bO8xt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:08",
-      "ts": 1786465748,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1150,
-        "area": 68.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-11T18:08:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1150
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 39.5 м², 2 комнаты\n💰 2700 + czynsz 1043 = <b>3743 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-wola-CID3-ID1bO8Cu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:10",
       "ts": 1786465748,
@@ -3726,13 +3712,30 @@
       "an": {
         "czynsz_desc": 300
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 1500 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 8000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bemowo 2 pokoje Fort Bema; Obr. Tobruku Osmańczyka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-fort-bema-obr-tobruku-osmanczyka-CID3-ID1bOlnV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:50",
+      "ts": 1786485520,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1500,
+        "area": 52.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-11T23:50:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1500
+      }
     }
   ],
   "stats": {
-    "checks": 3403,
-    "sent": 910
+    "checks": 3407,
+    "sent": 911
   },
   "initialized": true,
-  "last_check": "2026-08-11T21:53:30",
+  "last_check": "2026-08-11T22:14:34",
   "backoff_until": 1786414856.7723193
 }
