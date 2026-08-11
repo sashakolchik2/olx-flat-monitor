@@ -2165,7 +2165,11 @@
     "1090561866": 1786447803,
     "1090563562": 1786447803,
     "1090563570": 1786447803,
-    "1090563572": 1786447803
+    "1090563572": 1786447803,
+    "1090566702": 1786448434,
+    "1090566571": 1786448746,
+    "1090567147": 1786449058,
+    "1090566537": 1786449058
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2839,45 +2843,13 @@
     "bezprowizjipetsfriendlytarasymediastalewcenie|2990|36.6|podgorze": 1786447803,
     "mieszkaniezmiejscempostojowymdowynajeciaullas|2900|45.0|grzegorzki": 1786447803,
     "nowemieszkanieprzykantorowickiejwkrakowiepier|2500|42.0|wzgorzakrzeslawickie": 1786447803,
-    "przestronnyapartamentobokchserenady|3100|46.5|pradnikczerwony": 1786447803
+    "przestronnyapartamentobokchserenady|3100|46.5|pradnikczerwony": 1786447803,
+    "mieszkanienawynajem|2800|36.0|pradnikczerwony": 1786448746,
+    "wynajmemieszkanie44m2bliskocentrumochota|3200|44.0|ochota": 1786449058
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Ciche, nowe, 2 pok. mieszkanie 40 m2 na Gocławiu niedaleko Promenady»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-nowe-2-pok-mieszkanie-40-m2-na-goclawiu-niedaleko-promenady-CID3-ID1bNHlP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:20",
-      "ts": 1786434938,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3350,
-        "rent": 550,
-        "area": 40.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-11T09:20:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 830 = <b>3730 zł/мес</b>\n   ≈ с медиа около 4560 zł/мес\n⚡ Свет/медиа: ≈ 830 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n🐾 можно с животными · 👤 от собственника\n«Jasne 2 pokoje, nieprzechodnie, 37m2, Stary Żoliborz, 7 minut do M1 Dw. Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-2-pokoje-nieprzechodnie-37m2-stary-zoliborz-7-minut-do-m1-dw-gdanski-CID3-ID1bNHoc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:21",
-      "ts": 1786434938,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 830,
-        "area": 37.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-11T09:21:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🏢 агентство\n«Mieszkanie, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-CID3-ID1bNHHX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:31",
       "ts": 1786434938,
@@ -3523,13 +3495,47 @@
       "an": {
         "czynsz_desc": 790
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 62 zł/мес\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bNUbp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:32",
+      "ts": 1786448746,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": null,
+        "area": 36.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-11T13:32:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 44 м², 2 комнаты\n💰 3200 + czynsz 1 = <b>3201 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 9\n🏢 агентство\n«Wynajmę mieszkanie (44m2), blisko centrum, Ochota.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-44m2-blisko-centrum-ochota-CID3-ID1bNUaR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:32",
+      "ts": 1786449058,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 1,
+        "area": 44.0,
+        "district": "Ochota",
+        "business": true,
+        "created_iso": "2026-08-11T13:32:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3303,
-    "sent": 834
+    "checks": 3307,
+    "sent": 836
   },
   "initialized": true,
-  "last_check": "2026-08-11T11:35:28",
+  "last_check": "2026-08-11T11:56:17",
   "backoff_until": 1786414856.7723193
 }
