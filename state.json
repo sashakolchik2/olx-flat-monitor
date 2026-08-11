@@ -2243,7 +2243,11 @@
     "1090627266": 1786467334,
     "1090627010": 1786467334,
     "1090628125": 1786467652,
-    "1090627626": 1786467652
+    "1090627626": 1786467652,
+    "1090632635": 1786468913,
+    "1090632438": 1786468913,
+    "1090633892": 1786469231,
+    "1090633420": 1786469231
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2964,62 +2968,14 @@
     "2pokojowemieszkaniewarszawametrosluzew|3000|46.0|mokotow": 1786467334,
     "2oddzielnepokojetuzprzymetrzewawrzyszew|3300|39.0|bielany": 1786467334,
     "mieszkanienawynajem2niezaleznepokojedoskonala|2800|37.5|pragapoludnie": 1786467652,
-    "mieszkanienawynajem|2500|44.0|pragapoludnie": 1786467652
+    "mieszkanienawynajem|2500|44.0|pragapoludnie": 1786467652,
+    "2pokojowemieszkaniezosobnakuchniaibalkonem47m|2800|47.3|pragapoludnie": 1786468913,
+    "2pokojepierwszynajemklimatyzacjaparkingwcenie|3500|38.0|targowek": 1786468913,
+    "wyjatkowemieszkaniewsrodkorondrzewstaranowahu|3290|40.0|nowahuta": 1786469231
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«2 osobne pok | Miejsce par | Mogilska | Wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pok-miejsce-par-mogilska-wyposazone-CID3-ID1bNVQB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:17",
-      "ts": 1786450939,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 38.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-11T14:17:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 200
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe, 52 m², Zakrzowiecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-52-m-zakrzowiecka-CID3-ID1bNX1B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:20",
-      "ts": 1786451874,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 800,
-        "area": 52.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-11T14:20:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 45 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 45 m² | BEZ CZYNSZU | blisko metra | 1. piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-bez-czynszu-blisko-metra-1-pietro-CID3-ID1bNXFH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
-      "ts": 1786452190,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 45.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-11T14:30:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 1350 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n👤 от собственника\n«Słoneczne, przestronne mieszkanie Służew nad Dolinką»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-przestronne-mieszkanie-sluzew-nad-dolinka-CID3-ID1bNYmC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:42",
       "ts": 1786452503,
@@ -3648,13 +3604,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 400 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje | Pierwszy najem | klimatyzacja | parking w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-pierwszy-najem-klimatyzacja-parking-w-cenie-CID3-ID1bObjM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
+      "ts": 1786468913,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 400,
+        "area": 38.0,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-11T19:11:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 400
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47.3 м², 2 комнаты\n💰 2800 + czynsz 1090 = <b>3890 zł/мес</b>\n   ≈ с медиа около 4690 zł/мес\n⚡ Свет/медиа: ≈ 800 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie z osobną kuchnią i balkonem, 47 m², Praga Południe, tramwaj i autobus, od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-osobna-kuchnia-i-balkonem-47-m-praga-poludnie-tramwaj-i-autobus-od-zaraz-CID3-ID1bObmX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:12",
+      "ts": 1786468913,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1090,
+        "area": 47.3,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-11T19:12:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1090
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 40 м², 2 комнаты\n💰 3290 + czynsz 700 = <b>3990 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«Wyjątkowe mieszkanie wśród koron drzew | Stara Nowa Huta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wyjatkowe-mieszkanie-wsrod-koron-drzew-stara-nowa-huta-CID3-ID1bObzC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:17",
+      "ts": 1786469231,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3290,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Nowa Huta",
+        "business": false,
+        "created_iso": "2026-08-11T19:17:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3357,
-    "sent": 881
+    "checks": 3361,
+    "sent": 884
   },
   "initialized": true,
-  "last_check": "2026-08-11T17:06:17",
+  "last_check": "2026-08-11T17:27:21",
   "backoff_until": 1786414856.7723193
 }
