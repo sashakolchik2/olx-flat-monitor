@@ -2094,7 +2094,10 @@
     "1090512321": 1786431161,
     "1090512397": 1786431474,
     "1090513384": 1786431474,
-    "1090513578": 1786431474
+    "1090513578": 1786431474,
+    "1090514115": 1786432109,
+    "1090514813": 1786432424,
+    "1090514457": 1786432424
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2726,45 +2729,13 @@
     "2pokojowemieszkaniewarszawatarchomin|2000|51.0|bialoleka": 1786427712,
     "mieszkaniedowynajecia2pokojewolacentrum|3000|50.0|wola": 1786427712,
     "mieszkaniezogrodkiempokojsalonzkuchnia41m²ose|2900|41.2|debniki": 1786431474,
-    "mieszkanie2pok50m2kabatyursynow|2500|50.0|ursynow": 1786431474
+    "mieszkanie2pok50m2kabatyursynow|2500|50.0|ursynow": 1786431474,
+    "mieszkanie2pokojedowynajecia43mkrakowullaszki|3200|43.0|bronowice": 1786432109,
+    "wynajemmieszkaniawarszawabialolekahemara|2850|38.0|bialoleka": 1786432424
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 40.4 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3530 zł/мес\n⚡ Свет/медиа: ≈ 230 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie z loggią i miejscem parkingowym oraz internetem w cenie- Tarchomin / Nowodwory»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-loggia-i-miejscem-parkingowym-oraz-internetem-w-cenie-tarchomin-nowodwory-CID3-ID1bNqnQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:34",
-      "ts": 1786383972,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 40.4,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-10T19:34:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 40 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokoje z aneksem +garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-z-aneksem-garaz-CID3-ID1bNqF2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:39",
-      "ts": 1786384606,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3700,
-        "rent": null,
-        "area": 40.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-10T19:39:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem, ulica Łaszkiewicza Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ulica-laszkiewicza-krakow-CID3-ID1bNqMv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:41",
       "ts": 1786384606,
@@ -3410,13 +3381,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie 2 pokoje do wynajęcia 43m, Kraków ul.Łaszkiewicza(Mogilska) Garaż Klimatyzacja Komórka lokatorska Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-do-wynajecia-43m-krakow-ul-laszkiewiczamogilska-garaz-klimatyzacja-komorka-lokatorska-bezposrednio-CID3-ID1bNGxl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:52",
+      "ts": 1786432109,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 550,
+        "area": 43.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-11T08:52:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 38 м², 2 комнаты\n💰 2850 + czynsz 700 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n👤 от собственника\n«Wynajem mieszkania Warszawa-Białołęka-Hemara»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-warszawa-bialoleka-hemara-CID3-ID1bNGIB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:59",
+      "ts": 1786432424,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2850,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-11T08:59:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3260,
-    "sent": 792
+    "checks": 3264,
+    "sent": 794
   },
   "initialized": true,
-  "last_check": "2026-08-11T07:03:21",
+  "last_check": "2026-08-11T07:24:19",
   "backoff_until": 1786414856.7723193
 }
