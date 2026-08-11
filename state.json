@@ -2207,7 +2207,12 @@
     "1090601171": 1786458169,
     "1090599925": 1786458487,
     "1090602449": 1786458803,
-    "1090600722": 1786459118
+    "1090600722": 1786459118,
+    "1090606450": 1786459751,
+    "1090605268": 1786459751,
+    "1090606935": 1786460381,
+    "1090607026": 1786460381,
+    "1090608207": 1786460381
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2906,62 +2911,14 @@
     "pragapolnocultarchominska8balkon|2890|39.0|pragapolnoc": 1786458169,
     "mieszkaniedowynajeciakrakownowahutaoskazimier|2500|38.0|bienczyce": 1786458487,
     "przytulne2pokojeklimatyzacjadodyspozycjiduzyt|2600|25.0|pragapolnoc": 1786458803,
-    "nowemieszkanie2pokojebalkonlagiewnikimozliwos|3200|40.0|lagiewnikiborekfalec": 1786459118
+    "nowemieszkanie2pokojebalkonlagiewnikimozliwos|3200|40.0|lagiewnikiborekfalec": 1786459118,
+    "dowynajeciabezposredniodwupokojowepszczelnaru|2900|46.0|lagiewnikiborekfalec": 1786459751,
+    "przytulne2pokojowemieszkaniezduzymbalkonemzlo|2700|36.0|biezanowprokocim": 1786460381,
+    "rondowiatraczna2pokoje478m²3300media|2550|47.8|pragapoludnie": 1786460381
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«BEZPOŚREDNIO | 2 pokoje + balkon | Wola | Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-balkon-wola-metro-ksiecia-janusza-CID3-ID1bNQe1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:23",
-      "ts": 1786444666,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-11T12:23:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, metro Wierzbno, Mokotów, Al. Niepodległości 73»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-metro-wierzbno-mokotow-al-niepodleglosci-73-CID3-ID1bNR4P.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:37",
-      "ts": 1786445290,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 39.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-11T12:37:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe mieszanie po remoncie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszanie-po-remoncie-CID3-ID1bNR8D.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
-      "ts": 1786445290,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-11T12:38:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 950 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🏢 Этаж: 4\n🏢 агентство\n«Nowe| 2-Pokoje | Loggia| Klimatyzacja | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-loggia-klimatyzacja-bezposrednio-CID3-ID1bNRm4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
       "ts": 1786445605,
@@ -3590,13 +3547,64 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 46 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Do wynajęcia bezpośrednio dwupokojowe Pszczelna/Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-dwupokojowe-pszczelna-ruczaj-CID3-ID1bO4yC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:40",
+      "ts": 1786459751,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 670,
+        "area": 46.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-11T16:40:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 550 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Przytulne 2-pokojowe mieszkanie z dużym balkonem | Złocień | 36 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-z-duzym-balkonem-zlocien-36-m-CID3-ID1bO4Gr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:42",
+      "ts": 1786460381,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 550,
+        "area": 36.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-11T16:42:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47.8 м², 2 комнаты\n💰 2550 + czynsz 750 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Rondo Wiatraczna - 2 pokoje - 47,8 m² - 3300+media»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rondo-wiatraczna-2-pokoje-47-8-m-3300-media-CID3-ID1bO50X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:50",
+      "ts": 1786460381,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2550,
+        "rent": 750,
+        "area": 47.8,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-11T16:50:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 3330,
-    "sent": 859
+    "checks": 3334,
+    "sent": 862
   },
   "initialized": true,
-  "last_check": "2026-08-11T14:44:02",
+  "last_check": "2026-08-11T15:05:06",
   "backoff_until": 1786414856.7723193
 }
