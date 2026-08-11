@@ -2212,7 +2212,9 @@
     "1090605268": 1786459751,
     "1090606935": 1786460381,
     "1090607026": 1786460381,
-    "1090608207": 1786460381
+    "1090608207": 1786460381,
+    "1090610141": 1786461015,
+    "1090611252": 1786461645
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2914,28 +2916,12 @@
     "nowemieszkanie2pokojebalkonlagiewnikimozliwos|3200|40.0|lagiewnikiborekfalec": 1786459118,
     "dowynajeciabezposredniodwupokojowepszczelnaru|2900|46.0|lagiewnikiborekfalec": 1786459751,
     "przytulne2pokojowemieszkaniezduzymbalkonemzlo|2700|36.0|biezanowprokocim": 1786460381,
-    "rondowiatraczna2pokoje478m²3300media|2550|47.8|pragapoludnie": 1786460381
+    "rondowiatraczna2pokoje478m²3300media|2550|47.8|pragapoludnie": 1786460381,
+    "wynajemmieszkania2pokojowegokrakowwokolicyulk|2600|52.0|bronowice": 1786461015
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 950 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🏢 Этаж: 4\n🏢 агентство\n«Nowe| 2-Pokoje | Loggia| Klimatyzacja | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-loggia-klimatyzacja-bezposrednio-CID3-ID1bNRm4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
-      "ts": 1786445605,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 950,
-        "area": 42.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-11T12:41:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 38.8 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«2 pokoje przy Szpitalu Bródnowskim od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-szpitalu-brodnowskim-od-wrzesnia-CID3-ID1bNRyg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:44",
       "ts": 1786445920,
@@ -3598,13 +3584,30 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 1100 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 2 pokojowego Kraków w okolicy ul. Królewskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokojowego-krakow-w-okolicy-ul-krolewskiej-CID3-ID1bO5v9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:01",
+      "ts": 1786461015,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 1100,
+        "area": 52.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-11T17:01:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3334,
-    "sent": 862
+    "checks": 3338,
+    "sent": 863
   },
   "initialized": true,
-  "last_check": "2026-08-11T15:05:06",
+  "last_check": "2026-08-11T15:26:06",
   "backoff_until": 1786414856.7723193
 }
