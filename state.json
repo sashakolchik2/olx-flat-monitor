@@ -2279,7 +2279,12 @@
     "1090660593": 1786479192,
     "1090660510": 1786479192,
     "1090661447": 1786479512,
-    "1090662700": 1786480458
+    "1090662700": 1786480458,
+    "1090664631": 1786481089,
+    "1090664910": 1786481089,
+    "1090665208": 1786481408,
+    "1090664932": 1786481408,
+    "1090663945": 1786481723
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3021,45 +3026,13 @@
     "2pokoje20minrondodaszynskiegometrobemowoodwla|2800|25.0|bemowo": 1786478243,
     "2pokojowyapartamentbliskowkdrakowbliskoparkus|3350|41.0|wlochy": 1786479192,
     "rondowiatraczna2pokoje|3500|47.0|pragapoludnie": 1786479192,
-    "jasne2pokzosobnakuchniastaryzoliborzwsm5minme|3250|50.0|zoliborz": 1786479512
+    "jasne2pokzosobnakuchniastaryzoliborzwsm5minme|3250|50.0|zoliborz": 1786479512,
+    "ulswiteziankidabie2pokoje35mkwbezposrednio|2200|35.0|grzegorzki": 1786481089,
+    "wilanowulsarmackataras10mgarazzmeblami|3000|42.0|wilanow": 1786481089
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 1100 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 2 pokojowego Kraków w okolicy ul. Królewskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokojowego-krakow-w-okolicy-ul-krolewskiej-CID3-ID1bO5v9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:01",
-      "ts": 1786461015,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 1100,
-        "area": 52.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-11T17:01:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 6\n🏢 агентство\n«Jana Kazimierza, Widok, Wysokie Piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jana-kazimierza-widok-wysokie-pietro-CID3-ID1bO6HE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:26",
-      "ts": 1786462901,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Wola",
-        "business": true,
-        "created_iso": "2026-08-11T17:26:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 2500 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 47 m2 od właściciela, Kraków, ul. Wileńska 7E»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-47-m2-od-wlasciciela-krakow-ul-wilenska-7e-CID3-ID1bO6XV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:32",
       "ts": 1786463219,
@@ -3705,13 +3678,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2200 + czynsz 884 = <b>3084 zł/мес</b>\n   ≈ с медиа около 3404 zł/мес\n⚡ Свет/медиа: ≈ 320 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«ul. Świtezianki – Dąbie, 2 pokoje, 35 m kw. bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-switezianki-dabie-2-pokoje-35-m-kw-bezposrednio-CID3-ID1bOjH1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:31",
+      "ts": 1786481089,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2200,
+        "rent": 884,
+        "area": 35.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-11T22:31:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 884
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wilanów</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 3\n🏢 агентство\n«Wilanów, ul. Sarmacka, taras 10m, garaż, z meblami»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wilanow-ul-sarmacka-taras-10m-garaz-z-meblami-CID3-ID1bOjLv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:33",
+      "ts": 1786481089,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Wilanów",
+        "business": true,
+        "created_iso": "2026-08-11T22:33:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3388,
-    "sent": 902
+    "checks": 3392,
+    "sent": 904
   },
   "initialized": true,
-  "last_check": "2026-08-11T20:34:25",
+  "last_check": "2026-08-11T20:55:30",
   "backoff_until": 1786414856.7723193
 }
