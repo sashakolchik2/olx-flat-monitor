@@ -2258,6 +2258,7 @@
     "1090643287": 1786472696,
     "1090643952": 1786473014,
     "1090644724": 1786473328,
+<<<<<<< Updated upstream
     "1090647499": 1786474587,
     "1090649204": 1786475217,
     "1090651194": 1786475849,
@@ -2265,6 +2266,18 @@
     "1090651518": 1786476482,
     "1090653265": 1786476482,
     "1090654831": 1786476800
+=======
+    "1090651518": 1786476959,
+    "1090651194": 1786476959,
+    "1090649204": 1786476959,
+    "1090647499": 1786476959,
+    "1090654831": 1786476959,
+    "1090653265": 1786476959,
+    "1090652034": 1786476959,
+    "1090654673": 1786477287,
+    "1090654556": 1786477287,
+    "1090654377": 1786477287
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2994,17 +3007,29 @@
     "mieszkaniewidealnejlokalizacjinawynajem|2800|41.0|ursus": 1786472067,
     "apartament2pokojowy2roomsapartment|3500|38.0|mokotow": 1786472696,
     "mieszkaniedowynajecia40m2zmiejscempostojowymw|3400|40.0|ursus": 1786473328,
+<<<<<<< Updated upstream
     "2pokoje42m²balkonulsliczna34bodwlasciciela|2700|42.0|mistrzejowice": 1786474587,
     "nowoczesne2pokzduzymbalkonemkrowodrzaparkgara|3000|33.41|krowodrza": 1786475217,
     "mieszkanienakozlowcekrakowinternetkablowkakli|2500|36.0|podgorze": 1786475849,
     "mieszkaniedowynajecianawarszawskimbrodnie|3500|47.0|targowek": 1786475849,
     "mieszkanie36mnakozlowcekrakowinternetkablowka|2500|36.0|podgorze": 1786476482,
     "2pokojowemieszkaniezbalkonemnaulicykasprzaka9|3000|40.0|wola": 1786476800
+=======
+    "mieszkanie36mnakozlowcekrakowinternetkablowka|2500|36.0|podgorze": 1786476959,
+    "mieszkanienakozlowcekrakowinternetkablowkakli|2500|36.0|podgorze": 1786476959,
+    "nowoczesne2pokzduzymbalkonemkrowodrzaparkgara|3000|33.41|krowodrza": 1786476959,
+    "2pokoje42m²balkonulsliczna34bodwlasciciela|2700|42.0|mistrzejowice": 1786476959,
+    "2pokojowemieszkaniezbalkonemnaulicykasprzaka9|3000|40.0|wola": 1786476959,
+    "mieszkaniedowynajecianawarszawskimbrodnie|3500|47.0|targowek": 1786476959,
+    "mieszkaniedowynajeciaulslomianakrakowdebnikio|2400|40.0|debniki": 1786477287,
+    "mieszkaniezogrodkiemidealnedlapary|2800|44.0|swoszowice": 1786477287
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 39 м², 2 комнаты\n💰 2890 + czynsz 700 = <b>3590 zł/мес</b>\n   ≈ с медиа около 3740 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🌐 Интернет: 80 zł/мес\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с 31.08\n🏢 Этаж: 3\n🏢 агентство\n«Praga-Północ, ul. Tarchomińska 8, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-polnoc-ul-tarchominska-8-balkon-CID3-ID1bO3bt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
       "ts": 1786458169,
       "city": "warszawa",
@@ -3039,6 +3064,8 @@
       }
     },
     {
+=======
+>>>>>>> Stashed changes
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 25 м², 2 комнаты\n💰 2600 + czynsz 500 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Przytulne 2 pokoje, klimatyzacja, do dyspozycji duży taras»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-klimatyzacja-do-dyspozycji-duzy-taras-CID3-ID1bO3v5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:20",
       "ts": 1786458803,
       "city": "warszawa",
@@ -3584,7 +3611,11 @@
     },
     {
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 751 = <b>3451 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje | 42 m² | balkon | ul. Śliczna 34B | od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-balkon-ul-sliczna-34b-od-wlasciciela-CID3-ID1bOfeH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
+<<<<<<< Updated upstream
       "ts": 1786474587,
+=======
+      "ts": 1786476959,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -3601,7 +3632,11 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 33.41 м², 2 комнаты\n💰 3000 + czynsz 768 = <b>3768 zł/мес</b>\n   ≈ с медиа около 4118 zł/мес\n⚡ Свет/медиа: ≈ 350 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Nowoczesne 2-pok z dużym balkonem Krowodrza Park*garaż* AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pok-z-duzym-balkonem-krowodrza-parkgaraz-agh-CID3-ID1bOfGc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:50",
+<<<<<<< Updated upstream
       "ts": 1786475217,
+=======
+      "ts": 1786476959,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -3618,7 +3653,11 @@
     },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Na Kozłówce Kraków, Internet, kablówka ,klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-kozlowce-krakow-internet-kablowka-klimatyzacja-CID3-ID1bOgci.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:02",
+<<<<<<< Updated upstream
       "ts": 1786475849,
+=======
+      "ts": 1786476959,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3634,6 +3673,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Targówek</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia na Warszawskim Bródnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-warszawskim-brodnie-CID3-ID1bOgpQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:08",
       "ts": 1786475849,
       "city": "warszawa",
@@ -3653,6 +3693,10 @@
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 36m Na Kozłówce Kraków, Internet, kablówka ,klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m-na-kozlowce-krakow-internet-kablowka-klimatyzacja-CID3-ID1bOghv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:04",
       "ts": 1786476482,
+=======
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 36m Na Kozłówce Kraków, Internet, kablówka ,klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m-na-kozlowce-krakow-internet-kablowka-klimatyzacja-CID3-ID1bOghv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:04",
+      "ts": 1786476959,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3668,8 +3712,30 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🏢 Этаж: 10\n👤 от собственника\n«2-pokojowe mieszkanie z balkonem na ulicy Kasprzaka 92- Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-na-ulicy-kasprzaka-92-wola-CID3-ID1bOh8X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
       "ts": 1786476800,
+=======
+      "text": "🏠 <b>Варшава, Targówek</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia na Warszawskim Bródnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-warszawskim-brodnie-CID3-ID1bOgpQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:08",
+      "ts": 1786476959,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 47.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-11T21:08:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🏢 Этаж: 10\n👤 от собственника\n«2-pokojowe mieszkanie z balkonem na ulicy Kasprzaka 92- Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-na-ulicy-kasprzaka-92-wola-CID3-ID1bOh8X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
+      "ts": 1786476959,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3683,6 +3749,7 @@
       "an": {
         "czynsz_desc": null
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -3691,5 +3758,49 @@
   },
   "initialized": true,
   "last_check": "2026-08-11T19:33:29",
+=======
+    },
+    {
+      "text": "🏠 <b>Краков, Swoszowice</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 750 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 210 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie z ogródkiem idealne dla pary!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-ogrodkiem-idealne-dla-pary-CID3-ID1bOh4v.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:22",
+      "ts": 1786477287,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 750,
+        "area": 44.0,
+        "district": "Swoszowice",
+        "business": false,
+        "created_iso": "2026-08-11T21:22:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 40 м², 2 комнаты\n💰 2400 + czynsz 670 = <b>3070 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do wynajęcia ul. Słomiana, Kraków Dębniki, oś. Podwawelskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-ul-slomiana-krakow-debniki-os-podwawelskie-CID3-ID1bOh6p.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:22",
+      "ts": 1786477287,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2400,
+        "rent": 670,
+        "area": 40.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-11T21:22:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    }
+  ],
+  "stats": {
+    "checks": 3380,
+    "sent": 897
+  },
+  "initialized": true,
+  "last_check": "2026-08-11T19:52:13",
+>>>>>>> Stashed changes
   "backoff_until": 1786414856.7723193
 }
