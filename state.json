@@ -2250,7 +2250,12 @@
     "1090633420": 1786469231,
     "1090633795": 1786469550,
     "1090636829": 1786470809,
-    "1090638819": 1786471438
+    "1090638819": 1786471438,
+    "1090641160": 1786471754,
+    "1090641659": 1786472067,
+    "1090641394": 1786472067,
+    "1090643427": 1786472696,
+    "1090643287": 1786472696
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2976,45 +2981,13 @@
     "2pokojepierwszynajemklimatyzacjaparkingwcenie|3500|38.0|targowek": 1786468913,
     "wyjatkowemieszkaniewsrodkorondrzewstaranowahu|3290|40.0|nowahuta": 1786469231,
     "dwupokojowemieszkaniewnowymbudownictwieulkape|2700|52.0|debniki": 1786469550,
-    "wynajemmieszkanie2pokojoweursus|2800|39.0|ursus": 1786470809
+    "wynajemmieszkanie2pokojoweursus|2800|39.0|ursus": 1786470809,
+    "mieszkaniewidealnejlokalizacjinawynajem|2800|41.0|ursus": 1786472067,
+    "apartament2pokojowy2roomsapartment|3500|38.0|mokotow": 1786472696
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 43 м², 2 комнаты\n💰 2700 + czynsz 680 = <b>3380 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie na wynajem, Warszawa, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-warszawa-2-pokoje-CID3-ID1bNYPT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
-      "ts": 1786455948,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 680,
-        "area": 43.0,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-11T14:49:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 70 м², 2 комнаты\n💰 3300 + czynsz 234 = <b>3534 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«Dwupokojowe mieszkanie w kamienicy w pobliżu parku Krakowskiego!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-w-kamienicy-w-poblizu-parku-krakowskiego-CID3-ID1bNYZS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:52",
-      "ts": 1786455948,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 234,
-        "area": 70.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-11T14:52:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 234
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 762 = <b>3562 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2 Pokoje | Duży Balkon | Nowy Blok | Atrakcyjna Lokalizacja | Mpec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-duzy-balkon-nowy-blok-atrakcyjna-lokalizacja-mpec-CID3-ID1bNZ7N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
       "ts": 1786455948,
@@ -3660,13 +3633,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4400 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 800 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie w idealnej lokalizacji na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-idealnej-lokalizacji-na-wynajem-CID3-ID1bOdIw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:06",
+      "ts": 1786472067,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 41.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-11T20:06:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Apartament 2-pokojowy. 2-rooms apartment»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pokojowy-2-rooms-apartment-CID3-ID1bOe8L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:15",
+      "ts": 1786472696,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": 500,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-11T20:15:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3368,
-    "sent": 886
+    "checks": 3372,
+    "sent": 888
   },
   "initialized": true,
-  "last_check": "2026-08-11T18:04:05",
+  "last_check": "2026-08-11T18:25:06",
   "backoff_until": 1786414856.7723193
 }
