@@ -2082,7 +2082,13 @@
     "1090499824": 1786407014,
     "1090500268": 1786408579,
     "1090505925": 1786426455,
-    "1090506458": 1786426770
+    "1090506458": 1786426770,
+    "1090303035": 1786427399,
+    "1090507269": 1786427712,
+    "1090506668": 1786427712,
+    "1090276536": 1786428029,
+    "1090508033": 1786428341,
+    "1090508249": 1786428341
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2710,45 +2716,13 @@
     "mieszkaniedowynajeciaosuroczekrakow|2150|38.0|nowahuta": 1786404830,
     "mieszkaniedowynajecianaosiedlupiastowwkrakowi|2500|35.0|nowahuta": 1786407014,
     "wynajmemieszkaniedwupokojowebielany|3000|38.0|bielany": 1786426455,
-    "wynajmemieszkanie2pokojowebiezanow|3200|54.0|krowodrza": 1786426770
+    "wynajmemieszkanie2pokojowebiezanow|3200|54.0|krowodrza": 1786426770,
+    "2pokojowemieszkaniewarszawatarchomin|2000|51.0|bialoleka": 1786427712,
+    "mieszkaniedowynajecia2pokojewolacentrum|3000|50.0|wola": 1786427712
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 31 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Przytulne 2 pokoje 31m obok METRO 5 minut WOLA PARK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-31m-obok-metro-5-minut-wola-park-CID3-ID1bNnLV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:46",
-      "ts": 1786381123,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 700,
-        "area": 31.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-10T18:46:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2700 + czynsz 980 = <b>3680 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe przy parku Łazienki Królewskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-przy-parku-lazienki-krolewskie-CID3-ID1bNoD2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:00",
-      "ts": 1786382388,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 980,
-        "area": 30.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-10T19:00:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 39.5 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Ładne dwupokojowe mieszkanie w samym centrum Warszawy z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-dwupokojowe-mieszkanie-w-samym-centrum-warszawy-z-miejscem-parkingowym-CID3-ID1bNoMM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:03",
       "ts": 1786382388,
@@ -3394,13 +3368,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 14.08\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia 2 pokoje Wola / Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-wola-centrum-CID3-ID1bNEBe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:33",
+      "ts": 1786427712,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-11T07:33:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 51 м², 2 комнаты\n💰 2000 + czynsz 1200 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe mieszkanie Warszawa Tarchomin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-tarchomin-CID3-ID1bNEKW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:42",
+      "ts": 1786427712,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2000,
+        "rent": 1200,
+        "area": 51.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-11T07:42:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1200
+      }
     }
   ],
   "stats": {
-    "checks": 3245,
-    "sent": 788
+    "checks": 3249,
+    "sent": 790
   },
   "initialized": true,
-  "last_check": "2026-08-11T05:44:51",
+  "last_check": "2026-08-11T06:05:48",
   "backoff_until": 1786414856.7723193
 }
