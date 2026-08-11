@@ -2294,7 +2294,9 @@
     "1090669144": 1786483938,
     "1090670513": 1786484886,
     "1090671136": 1786485520,
-    "1090671191": 1786485836
+    "1090671191": 1786485836,
+    "1090671900": 1786487091,
+    "1090635274": 1786487716
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3045,45 +3047,13 @@
     "wynajmemieszkanieochotaaljerozolimskieprzydwo|2900|37.0|ochota": 1786483621,
     "51m²2pokojealejaslowackiego26wyposazoneodzara|3100|51.0|krowodrza": 1786483938,
     "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786484886,
-    "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786485520
+    "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786485520,
+    "komfortowemieszkanie42m²debnikinowebudownictw|2900|42.0|debniki": 1786487091,
+    "plrudomagalyodzarazbalkonosobnakuchnia2pokoje|3200|46.0|biezanowprokocim": 1786487716
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 39.5 м², 2 комнаты\n💰 2700 + czynsz 1043 = <b>3743 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-wola-CID3-ID1bO8Cu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:10",
-      "ts": 1786465748,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1043,
-        "area": 39.5,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-11T18:10:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe 45m2 Poznańska Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-45m2-poznanska-krakow-CID3-ID1bO8Ot.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:15",
-      "ts": 1786465748,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 650,
-        "area": 46.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-11T18:15:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 39.5 м², 2 комнаты\n💰 2700 + czynsz 1043 = <b>3743 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 9\n👤 от собственника\n«2 pokojowe mieszkanie Warszawa (wola)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-wola-CID3-ID1bO8X0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:17",
       "ts": 1786466068,
@@ -3729,13 +3699,47 @@
       "an": {
         "czynsz_desc": 1500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Komfortowe mieszkanie 42 m² Dębniki Nowe budownictwo Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-42-m-debniki-nowe-budownictwo-klimatyzacja-CID3-ID1bOlAg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
+      "ts": 1786487091,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-12T00:08:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 610 = <b>3810 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«PL/RU Domagały / Od zaraz / Balkon/ Osobna kuchnia / 2 pokoje / Pets +»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ru-domagaly-od-zaraz-balkon-osobna-kuchnia-2-pokoje-pets-CID3-ID1bOc3v.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:28",
+      "ts": 1786487716,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 610,
+        "area": 46.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-11T19:28:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 610
+      }
     }
   ],
   "stats": {
-    "checks": 3407,
-    "sent": 911
+    "checks": 3409,
+    "sent": 913
   },
   "initialized": true,
-  "last_check": "2026-08-11T22:14:34",
-  "backoff_until": 1786414856.7723193
+  "last_check": "2026-08-11T22:35:26",
+  "backoff_until": 1786487708.476625
 }
