@@ -2214,7 +2214,11 @@
     "1090607026": 1786460381,
     "1090608207": 1786460381,
     "1090610141": 1786461015,
-    "1090611252": 1786461645
+    "1090611252": 1786461645,
+    "1090612805": 1786462274,
+    "1090615537": 1786462901,
+    "1090614601": 1786462901,
+    "1090614698": 1786462901
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2917,28 +2921,12 @@
     "dowynajeciabezposredniodwupokojowepszczelnaru|2900|46.0|lagiewnikiborekfalec": 1786459751,
     "przytulne2pokojowemieszkaniezduzymbalkonemzlo|2700|36.0|biezanowprokocim": 1786460381,
     "rondowiatraczna2pokoje478m²3300media|2550|47.8|pragapoludnie": 1786460381,
-    "wynajemmieszkania2pokojowegokrakowwokolicyulk|2600|52.0|bronowice": 1786461015
+    "wynajemmieszkania2pokojowegokrakowwokolicyulk|2600|52.0|bronowice": 1786461015,
+    "janakazimierzawidokwysokiepietro|3300|40.0|wola": 1786462901
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38.8 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«2 pokoje przy Szpitalu Bródnowskim od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-szpitalu-brodnowskim-od-wrzesnia-CID3-ID1bNRyg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:44",
-      "ts": 1786445920,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 38.8,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-11T12:44:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🏢 агентство\n«2-pokojowe. Nowe budownictwo. Dobry standard. Podgórze Duchackie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-nowe-budownictwo-dobry-standard-podgorze-duchackie-CID3-ID1bNRNn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:49",
       "ts": 1786445920,
@@ -3601,13 +3589,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 6\n🏢 агентство\n«Jana Kazimierza, Widok, Wysokie Piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jana-kazimierza-widok-wysokie-pietro-CID3-ID1bO6HE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:26",
+      "ts": 1786462901,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-11T17:26:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3338,
-    "sent": 863
+    "checks": 3341,
+    "sent": 864
   },
   "initialized": true,
-  "last_check": "2026-08-11T15:26:06",
+  "last_check": "2026-08-11T15:41:51",
   "backoff_until": 1786414856.7723193
 }
