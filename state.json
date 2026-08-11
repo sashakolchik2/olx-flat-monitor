@@ -2257,7 +2257,9 @@
     "1090643427": 1786472696,
     "1090643287": 1786472696,
     "1090643952": 1786473014,
-    "1090644724": 1786473328
+    "1090644724": 1786473328,
+    "1090647499": 1786474587,
+    "1090649204": 1786475217
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2986,45 +2988,13 @@
     "wynajemmieszkanie2pokojoweursus|2800|39.0|ursus": 1786470809,
     "mieszkaniewidealnejlokalizacjinawynajem|2800|41.0|ursus": 1786472067,
     "apartament2pokojowy2roomsapartment|3500|38.0|mokotow": 1786472696,
-    "mieszkaniedowynajecia40m2zmiejscempostojowymw|3400|40.0|ursus": 1786473328
+    "mieszkaniedowynajecia40m2zmiejscempostojowymw|3400|40.0|ursus": 1786473328,
+    "2pokoje42m²balkonulsliczna34bodwlasciciela|2700|42.0|mistrzejowice": 1786474587,
+    "nowoczesne2pokzduzymbalkonemkrowodrzaparkgara|3000|33.41|krowodrza": 1786475217
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 54 м², 2 комнаты\n💰 3300 + czynsz 300 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Przestronne 2 pokojowe mieszkanie 54 m2 w atrakcyjnej lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokojowe-mieszkanie-54-m2-w-atrakcyjnej-lokalizacji-CID3-ID1bNZsu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:00",
-      "ts": 1786455948,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 300,
-        "area": 54.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-11T15:00:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«Przestronne, z klimatyzacją 2-pok. Płaszów/Bagry»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-z-klimatyzacja-2-pok-plaszow-bagry-CID3-ID1bNZui.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:00",
-      "ts": 1786455948,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 650,
-        "area": 35.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-11T15:00:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 44 м², 2 комнаты\n💰 2500 + czynsz 870 = <b>3370 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Wygodne 2 pok. z windą| Żoliborz| Metro Marymont»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wygodne-2-pok-z-winda-zoliborz-metro-marymont-CID3-ID1bNZVf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:08",
       "ts": 1786455948,
@@ -3670,13 +3640,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 751 = <b>3451 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje | 42 m² | balkon | ul. Śliczna 34B | od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-balkon-ul-sliczna-34b-od-wlasciciela-CID3-ID1bOfeH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
+      "ts": 1786474587,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 751,
+        "area": 42.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-11T20:39:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": 751
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 33.41 м², 2 комнаты\n💰 3000 + czynsz 768 = <b>3768 zł/мес</b>\n   ≈ с медиа около 4118 zł/мес\n⚡ Свет/медиа: ≈ 350 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Nowoczesne 2-pok z dużym balkonem Krowodrza Park*garaż* AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pok-z-duzym-balkonem-krowodrza-parkgaraz-agh-CID3-ID1bOfGc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:50",
+      "ts": 1786475217,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 768,
+        "area": 33.41,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-11T20:50:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 768
+      }
     }
   ],
   "stats": {
-    "checks": 3376,
-    "sent": 889
+    "checks": 3380,
+    "sent": 891
   },
   "initialized": true,
-  "last_check": "2026-08-11T18:46:05",
+  "last_check": "2026-08-11T19:07:07",
   "backoff_until": 1786414856.7723193
 }
