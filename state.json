@@ -2291,7 +2291,8 @@
     "1090667487": 1786482987,
     "1090668714": 1786483621,
     "1090669713": 1786483938,
-    "1090669144": 1786483938
+    "1090669144": 1786483938,
+    "1090670513": 1786484886
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3040,28 +3041,12 @@
     "2pokoje465m²monteverdiego12osgreenwoodzielona|3000|46.5|bialoleka": 1786482354,
     "wynajmemieszkaniezwidokiem|2800|36.0|staremiasto": 1786482987,
     "wynajmemieszkanieochotaaljerozolimskieprzydwo|2900|37.0|ochota": 1786483621,
-    "51m²2pokojealejaslowackiego26wyposazoneodzara|3100|51.0|krowodrza": 1786483938
+    "51m²2pokojealejaslowackiego26wyposazoneodzara|3100|51.0|krowodrza": 1786483938,
+    "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786484886
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«BEZ PROWIZJI - 2 -pokoje, Sienna, Mirów, Norblin, Metro ONZ, Daszyńskiego, klimatyzacja, od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-2-pokoje-sienna-mirow-norblin-metro-onz-daszynskiego-klimatyzacja-od-wrzesnia-CID3-ID1bO8hI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:03",
-      "ts": 1786465116,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 38.5,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-11T18:03:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 200
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 68 м², 2 комнаты\n💰 2700 + czynsz 1150 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с мая\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2-pok. 68m2, Krasińskiego, Jubilat, Wawel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-68m2-krasinskiego-jubilat-wawel-CID3-ID1bO8xt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:08",
       "ts": 1786465748,
@@ -3724,13 +3709,30 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Bemowo | ul. Kędzierskiego | 2 pokoje | 46 m² | balkon | osobna kuchnia | metro Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-ul-kedzierskiego-2-pokoje-46-m-balkon-osobna-kuchnia-metro-bemowo-CID3-ID1bOldT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:37",
+      "ts": 1786484886,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 850,
+        "area": 46.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-11T23:37:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 300
+      }
     }
   ],
   "stats": {
-    "checks": 3399,
-    "sent": 909
+    "checks": 3403,
+    "sent": 910
   },
   "initialized": true,
-  "last_check": "2026-08-11T21:32:28",
+  "last_check": "2026-08-11T21:53:30",
   "backoff_until": 1786414856.7723193
 }
