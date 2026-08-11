@@ -2132,7 +2132,11 @@
     "1090540567": 1786441527,
     "1090539371": 1786441527,
     "1090542653": 1786442159,
-    "1090541988": 1786442159
+    "1090541988": 1786442159,
+    "1090544116": 1786442474,
+    "1090543884": 1786442474,
+    "1090544352": 1786442474,
+    "1090543678": 1786442474
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2786,62 +2790,14 @@
     "mieszkaniekrakow|2750|33.42|grzegorzki": 1786441527,
     "przytulnemieszkanienawynajem|3000|38.5|bielany": 1786441527,
     "2pokmieszkanieoddzielnepokojesyrokomli0prowiz|2600|43.0|targowek": 1786441527,
-    "nowoczesne2pokojezbalkonem43m²wpelniwyposazon|2500|43.0|lagiewnikiborekfalec": 1786442159
+    "nowoczesne2pokojezbalkonem43m²wpelniwyposazon|2500|43.0|lagiewnikiborekfalec": 1786442159,
+    "2pokojezbalkonempiltza33krakow|2850|53.0|podgorzeduchackie": 1786442474,
+    "mieszkanie2pok46m2bialolekaulodkryta|2500|46.9|bialoleka": 1786442474,
+    "wynajmemieszkanie38m2pokojeursus|3100|38.0|ursus": 1786442474
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia osiedle Wilno, Montwiłłowska, 43 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-osiedle-wilno-montwillowska-43-m2-CID3-ID1bNzy7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:15",
-      "ts": 1786394194,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 43.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-10T22:15:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 46 м², 2 комнаты\n💰 <b>3800 zł/мес</b> — czynsz включён\n   ≈ с медиа около 3990 zł/мес\n⚡ Свет/медиа: ≈ 190 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 135 zł/мес\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe mieszkanie 46m2 ul. Bochenka wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-46m2-ul-bochenka-wynajem-CID3-ID1bNA0t.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:27",
-      "ts": 1786394508,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 46.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-10T22:27:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 50 zł/мес\n📅 Заселение: с 15 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Piękne 2 pokojowe mieszkanie 32m2. Pasaż Podgórski Kraków Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-2-pokojowe-mieszkanie-32m2-pasaz-podgorski-krakow-zablocie-CID3-ID1bNzXI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:26",
-      "ts": 1786394821,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 550,
-        "area": 32.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-10T22:26:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 681 = <b>3981 zł/мес</b>\n   ≈ с медиа около 4201 zł/мес\n⚡ Свет/медиа: ≈ 220 zł/мес\n🏢 Этаж: 5\n👤 от собственника\n«Bezpośrednio- nowe mieszkanie z tarasem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-nowe-mieszkanie-z-tarasem-CID3-ID1bNA8O.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:31",
       "ts": 1786394821,
@@ -3470,13 +3426,64 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 38 м², 2 комнаты\n💰 3100 + czynsz 650 = <b>3750 zł/мес</b>\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 38m. 2 pokoje Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-38m-2-pokoje-ursus-CID3-ID1bNOea.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:49",
+      "ts": 1786442474,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 650,
+        "area": 38.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-11T11:49:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 53 м², 2 комнаты\n💰 2850 + czynsz 910 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 31.08.2026\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje z balkonem | Piltza 33 | Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-piltza-33-krakow-CID3-ID1bNOle.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:51",
+      "ts": 1786442474,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2850,
+        "rent": 910,
+        "area": 53.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-11T11:51:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 46.9 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie 2pok. 46 m2 Białołęka ul. Odkryta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2pok-46-m2-bialoleka-ul-odkryta-CID3-ID1bNOp2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
+      "ts": 1786442474,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1000,
+        "area": 46.9,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-11T11:52:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3284,
-    "sent": 814
+    "checks": 3287,
+    "sent": 817
   },
   "initialized": true,
-  "last_check": "2026-08-11T09:56:08",
+  "last_check": "2026-08-11T10:11:49",
   "backoff_until": 1786414856.7723193
 }
