@@ -2248,7 +2248,9 @@
     "1090632438": 1786468913,
     "1090633892": 1786469231,
     "1090633420": 1786469231,
-    "1090633795": 1786469550
+    "1090633795": 1786469550,
+    "1090636829": 1786470809,
+    "1090638819": 1786471438
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2973,28 +2975,12 @@
     "2pokojowemieszkaniezosobnakuchniaibalkonem47m|2800|47.3|pragapoludnie": 1786468913,
     "2pokojepierwszynajemklimatyzacjaparkingwcenie|3500|38.0|targowek": 1786468913,
     "wyjatkowemieszkaniewsrodkorondrzewstaranowahu|3290|40.0|nowahuta": 1786469231,
-    "dwupokojowemieszkaniewnowymbudownictwieulkape|2700|52.0|debniki": 1786469550
+    "dwupokojowemieszkaniewnowymbudownictwieulkape|2700|52.0|debniki": 1786469550,
+    "wynajemmieszkanie2pokojoweursus|2800|39.0|ursus": 1786470809
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 36 м², 2 комнаты\n💰 3300 + czynsz 570 = <b>3870 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia mieszkanie 36m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-36m2-CID3-ID1bNXrB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:27",
-      "ts": 1786455948,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 570,
-        "area": 36.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-11T14:27:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 570
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 43 м², 2 комнаты\n💰 2700 + czynsz 680 = <b>3380 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie na wynajem, Warszawa, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-warszawa-2-pokoje-CID3-ID1bNYPT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
       "ts": 1786455948,
@@ -3657,13 +3643,30 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem mieszkanie 2 pokojowe URSUS»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkanie-2-pokojowe-ursus-CID3-ID1bOcsB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:38",
+      "ts": 1786470809,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 39.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-11T19:38:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3364,
-    "sent": 885
+    "checks": 3368,
+    "sent": 886
   },
   "initialized": true,
-  "last_check": "2026-08-11T17:43:06",
+  "last_check": "2026-08-11T18:04:05",
   "backoff_until": 1786414856.7723193
 }
