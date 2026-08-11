@@ -2176,7 +2176,10 @@
     "1090568138": 1786449683,
     "1090572839": 1786449999,
     "1090571638": 1786449999,
-    "1090573540": 1786450624
+    "1090573540": 1786450624,
+    "1090576813": 1786450939,
+    "1090574332": 1786450939,
+    "1090577495": 1786451874
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2857,45 +2860,13 @@
     "wygodnemieszkanie34m2zjednasypialniawarszawau|3200|34.0|ursynow": 1786449683,
     "dwupokojowemieszkanie36mztarasem16mbliskometr|3600|36.0|pragapoludnie": 1786449683,
     "mieszkaniezbalkonemzwidokiemnacalykrakow|3300|35.0|grzegorzki": 1786449999,
-    "cicheistylowe2pokzablocieuldekerta|3300|41.24|podgorze": 1786450624
+    "cicheistylowe2pokzablocieuldekerta|3300|41.24|podgorze": 1786450624,
+    "2osobnepokmiejsceparmogilskawyposazone|3000|38.0|pradnikczerwony": 1786450939,
+    "mieszkanie2pokojowe52m²zakrzowiecka|2600|52.0|debniki": 1786451874
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 660 = <b>3360 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 60 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie z balkonem na wynajem SKOROSZE»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-balkonem-na-wynajem-skorosze-CID3-ID1bNIOn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:57",
-      "ts": 1786435889,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 660,
-        "area": 45.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-11T09:57:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": 660
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 39 м², 2 комнаты\n💰 2400 + czynsz 910 = <b>3310 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 2400 zł/мес\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 - pokojowe na Nowodworach ul. Książkowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-nowodworach-ul-ksiazkowa-CID3-ID1bNHeg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:16",
-      "ts": 1786436206,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 910,
-        "area": 39.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-11T09:16:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2300 + czynsz 800 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 22.08.2026\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Warszawa Mokotów (Sadyba), ul.Powsińska , wynajmę 2 pokoje od 22.08.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-mokotow-sadyba-ul-powsinska-wynajme-2-pokoje-od-22-08-CID3-ID1bNJ4C.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:02",
       "ts": 1786436206,
@@ -3541,13 +3512,47 @@
       "an": {
         "czynsz_desc": 230
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«2 osobne pok | Miejsce par | Mogilska | Wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pok-miejsce-par-mogilska-wyposazone-CID3-ID1bNVQB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:17",
+      "ts": 1786450939,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-11T14:17:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe, 52 m², Zakrzowiecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-52-m-zakrzowiecka-CID3-ID1bNX1B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:20",
+      "ts": 1786451874,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 52.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-11T14:20:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3311,
-    "sent": 841
+    "checks": 3315,
+    "sent": 843
   },
   "initialized": true,
-  "last_check": "2026-08-11T12:17:13",
+  "last_check": "2026-08-11T12:38:03",
   "backoff_until": 1786414856.7723193
 }
