@@ -2225,7 +2225,10 @@
     "1090617263": 1786463537,
     "1090617977": 1786463854,
     "1090602388": 1786463854,
-    "1090618864": 1786464170
+    "1090618864": 1786464170,
+    "1090620649": 1786464802,
+    "1090620778": 1786465116,
+    "1090620579": 1786465116
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2934,28 +2937,12 @@
     "mieszkanie2pokojowe38m2wsrodmiesciu3000zl|3000|38.0|srodmiescie": 1786463219,
     "2pokojezkomorkaigarazemnullo30grzegorzkibrakp|2800|34.0|grzegorzki": 1786463537,
     "2pokojezbalkonemigarazemdrjanapiltza33brakpro|2850|53.0|debniki": 1786463854,
-    "nowe2pokojeruczajczerwonemakizostanpierwszymn|2900|34.21|debniki": 1786464170
+    "nowe2pokojeruczajczerwonemakizostanpierwszymn|2900|34.21|debniki": 1786464170,
+    "bezprowizji2pokojesiennamirownorblinmetroonzd|2900|38.5|srodmiescie": 1786465116
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 47.1 м², 2 комнаты\n💰 2400 + czynsz 920 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 2400 zł/мес\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie w kameralnym budynku wśród zieleni!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-kameralnym-budynku-wsrod-zieleni-CID3-ID1bNTp1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
-      "ts": 1786447490,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2400,
-        "rent": 920,
-        "area": 47.1,
-        "district": "Zwierzyniec",
-        "business": true,
-        "created_iso": "2026-08-11T13:19:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 200
-      }
-    },
     {
       "text": "🏠 <b>Краков, Wzgórza Krzesławickie</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 агентство\n«Nowe mieszkanie przy Kantorowickiej w Krakowie/ pierwszy najemca.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-przy-kantorowickiej-w-krakowie-pierwszy-najemca-CID3-ID1bNSXv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:10",
       "ts": 1786447803,
@@ -3618,13 +3605,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«BEZ PROWIZJI - 2 -pokoje, Sienna, Mirów, Norblin, Metro ONZ, Daszyńskiego, klimatyzacja, od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-2-pokoje-sienna-mirow-norblin-metro-onz-daszynskiego-klimatyzacja-od-wrzesnia-CID3-ID1bO8hI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:03",
+      "ts": 1786465116,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 38.5,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-11T18:03:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
     }
   ],
   "stats": {
-    "checks": 3345,
-    "sent": 869
+    "checks": 3349,
+    "sent": 870
   },
   "initialized": true,
-  "last_check": "2026-08-11T16:03:00",
+  "last_check": "2026-08-11T16:23:59",
   "backoff_until": 1786414856.7723193
 }
