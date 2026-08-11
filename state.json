@@ -2090,7 +2090,11 @@
     "1090508033": 1786428341,
     "1090508249": 1786428341,
     "1090509448": 1786429281,
-    "1090509516": 1786429594
+    "1090509516": 1786429594,
+    "1090512321": 1786431161,
+    "1090512397": 1786431474,
+    "1090513384": 1786431474,
+    "1090513578": 1786431474
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -2720,45 +2724,13 @@
     "wynajmemieszkaniedwupokojowebielany|3000|38.0|bielany": 1786426455,
     "wynajmemieszkanie2pokojowebiezanow|3200|54.0|krowodrza": 1786426770,
     "2pokojowemieszkaniewarszawatarchomin|2000|51.0|bialoleka": 1786427712,
-    "mieszkaniedowynajecia2pokojewolacentrum|3000|50.0|wola": 1786427712
+    "mieszkaniedowynajecia2pokojewolacentrum|3000|50.0|wola": 1786427712,
+    "mieszkaniezogrodkiempokojsalonzkuchnia41m²ose|2900|41.2|debniki": 1786431474,
+    "mieszkanie2pok50m2kabatyursynow|2500|50.0|ursynow": 1786431474
   },
   "tg_offset": 654625391,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 39.5 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Ładne dwupokojowe mieszkanie w samym centrum Warszawy z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-dwupokojowe-mieszkanie-w-samym-centrum-warszawy-z-miejscem-parkingowym-CID3-ID1bNoMM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:03",
-      "ts": 1786382388,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 650,
-        "area": 39.5,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-10T19:03:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n🚗 Паркинг: 150 zł/мес\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe mieszkanie z tarasem obok Bonarki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-tarasem-obok-bonarki-CID3-ID1bNq1Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:27",
-      "ts": 1786383655,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 550,
-        "area": 38.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-10T19:27:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 40.4 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3530 zł/мес\n⚡ Свет/медиа: ≈ 230 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie z loggią i miejscem parkingowym oraz internetem w cenie- Tarchomin / Nowodwory»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-loggia-i-miejscem-parkingowym-oraz-internetem-w-cenie-tarchomin-nowodwory-CID3-ID1bNqnQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:34",
       "ts": 1786383972,
@@ -3404,13 +3376,47 @@
       "an": {
         "czynsz_desc": 1200
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 41.2 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie z ogródkiem pokój + salon z kuchnią 41m² - os. Europejskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-ogrodkiem-pokoj-salon-z-kuchnia-41m-os-europejskie-CID3-ID1bNG5D.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:39",
+      "ts": 1786431474,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 670,
+        "area": 41.2,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-11T08:39:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 670
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 1100 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pok. 50 m2, Kabaty, Ursynów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-50-m2-kabaty-ursynow-CID3-ID1bNGoG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:48",
+      "ts": 1786431474,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1100,
+        "area": 50.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-11T08:48:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3257,
-    "sent": 790
+    "checks": 3260,
+    "sent": 792
   },
   "initialized": true,
-  "last_check": "2026-08-11T06:47:33",
+  "last_check": "2026-08-11T07:03:21",
   "backoff_until": 1786414856.7723193
 }
