@@ -2305,7 +2305,11 @@
     "1090677018": 1786502709,
     "1090680249": 1786513430,
     "1090682637": 1786515633,
-    "1090683000": 1786516579
+    "1090683000": 1786516579,
+    "1090651689": 1786517526,
+    "1090686268": 1786517844,
+    "1090685761": 1786517844,
+    "1090687009": 1786518477
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3063,62 +3067,14 @@
     "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241,
     "nowemieszkanie2pokoje37m2instalatorowochotawa|3000|37.0|wlochy": 1786502709,
     "czyzynysoltysowska10f2pokeng|2800|37.0|czyzyny": 1786515633,
-    "2pokoje52m2bezposrednio|2600|52.0|bialoleka": 1786516579
+    "2pokoje52m2bezposrednio|2600|52.0|bialoleka": 1786516579,
+    "mieszkaniesuperlokalizacjamasarskaklimatyzacj|3200|48.0|grzegorzki": 1786517526,
+    "mieszkanie2pokojowenaochocienawynajem|3100|37.0|ochota": 1786517844,
+    "kiwanocudownemieszkanienajemokazjonalny|2990|42.0|bemowo": 1786518477
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«2-pokojowe mieszkanie Warszawa Metro Służew»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-metro-sluzew-CID3-ID1bO9Ym.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:41",
-      "ts": 1786467334,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 950,
-        "area": 46.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-11T18:41:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 5500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bOa4a.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:43",
-      "ts": 1786467652,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 650,
-        "area": 44.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-11T18:43:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n📅 Заселение: с 15.09 ⭐️\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem. 2 niezależne pokoje Doskonała lokalizacja Metro Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-niezalezne-pokoje-doskonala-lokalizacja-metro-brodno-CID3-ID1bOacd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:47",
-      "ts": 1786467652,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 700,
-        "area": 37.5,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-11T18:47:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 400 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje | Pierwszy najem | klimatyzacja | parking w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-pierwszy-najem-klimatyzacja-parking-w-cenie-CID3-ID1bObjM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
       "ts": 1786468913,
@@ -3747,13 +3703,64 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 48 м², 2 комнаты\n💰 <b>3200 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie super lokalizacja masarska klimatyzacja parking podziemny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-super-lokalizacja-masarska-klimatyzacja-parking-podziemny-CID3-ID1bOgkh.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:06",
+      "ts": 1786517526,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 48.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-11T21:06:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3100 + czynsz 520 = <b>3620 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe na Ochocie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-ochocie-na-wynajem-CID3-ID1bOpbP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:44",
+      "ts": 1786517844,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 520,
+        "area": 37.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-12T08:44:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 520
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 2990 + czynsz 804 = <b>3794 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«\"KIWANO\" cudowne mieszkanie - najem okazjonalny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kiwano-cudowne-mieszkanie-najem-okazjonalny-CID3-ID1bOpwX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:56",
+      "ts": 1786518477,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2990,
+        "rent": 804,
+        "area": 42.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-12T08:56:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 804
+      }
     }
   ],
   "stats": {
-    "checks": 3461,
-    "sent": 918
+    "checks": 3465,
+    "sent": 921
   },
   "initialized": true,
-  "last_check": "2026-08-12T06:46:58",
+  "last_check": "2026-08-12T07:08:08",
   "backoff_until": 1786414856.7723193
 }
