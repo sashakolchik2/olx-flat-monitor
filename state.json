@@ -2332,7 +2332,13 @@
     "1090704035": 1786525293,
     "1090704203": 1786525609,
     "1090704350": 1786525925,
-    "1090705084": 1786526238
+    "1090705084": 1786526238,
+    "1090706983": 1786526555,
+    "1090705750": 1786526868,
+    "1090707701": 1786526868,
+    "1090709076": 1786527181,
+    "1090707361": 1786527181,
+    "1090709503": 1786527181
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3110,28 +3116,12 @@
     "2pokojewidokowenowe|2600|35.0|bienczyce": 1786524977,
     "2pokojekomlokatorskabalkonodzaraz|2850|39.0|podgorze": 1786525293,
     "mieszkaniekijowska5swietnalokalizacjakomunika|3800|37.0|krowodrza": 1786525609,
-    "wynajemmieszkaniaplaszowpodgorze|3000|34.0|podgorze": 1786526238
+    "wynajemmieszkaniaplaszowpodgorze|3000|34.0|podgorze": 1786526238,
+    "przytulnemieszkanie40m²targowekmieszkaniowy3m|3200|40.0|targowek": 1786527181
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 30 м², 2 комнаты\n💰 3200 + czynsz 530 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Nowe 2 pokoje w wysokim standardzie – ul. Żeńców | Pierwszy najem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-w-wysokim-standardzie-ul-zencow-pierwszy-najem-CID3-ID1bOiad.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:48",
-      "ts": 1786478243,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 530,
-        "area": 30.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-11T21:48:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Rondo Wiatraczna - 2 pokoje.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rondo-wiatraczna-2-pokoje-CID3-ID1bOiCy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:00",
       "ts": 1786479192,
@@ -3794,13 +3784,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3960 zł/мес\n⚡ Свет/медиа: ≈ 60 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🌐 Интернет: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie 40 m² | Targówek Mieszkaniowy | 3 min do metra | garaż | klimatyzacja | balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-40-m-targowek-mieszkaniowy-3-min-do-metra-garaz-klimatyzacja-balkon-CID3-ID1bOwfS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:21",
+      "ts": 1786527181,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 40.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-12T11:21:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3462,
-    "sent": 938
+    "checks": 3465,
+    "sent": 939
   },
   "initialized": true,
-  "last_check": "2026-08-12T09:17:28",
+  "last_check": "2026-08-12T09:33:10",
   "backoff_until": 1786414856.7723193
 }
