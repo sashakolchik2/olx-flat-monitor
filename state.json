@@ -2338,7 +2338,12 @@
     "1090707701": 1786526868,
     "1090709076": 1786527181,
     "1090707361": 1786527181,
-    "1090709503": 1786527181
+    "1090709503": 1786527181,
+    "1090644848": 1786527498,
+    "1090710765": 1786527811,
+    "1090711743": 1786528126,
+    "1090711402": 1786528126,
+    "1090175884": 1786528126
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3117,45 +3122,13 @@
     "2pokojekomlokatorskabalkonodzaraz|2850|39.0|podgorze": 1786525293,
     "mieszkaniekijowska5swietnalokalizacjakomunika|3800|37.0|krowodrza": 1786525609,
     "wynajemmieszkaniaplaszowpodgorze|3000|34.0|podgorze": 1786526238,
-    "przytulnemieszkanie40m²targowekmieszkaniowy3m|3200|40.0|targowek": 1786527181
+    "przytulnemieszkanie40m²targowekmieszkaniowy3m|3200|40.0|targowek": 1786527181,
+    "wynajme2pokoje41mkwpragapldmscparkingoweklima|3299|41.0|pragapoludnie": 1786527811,
+    "gotoweporemoncie2pokojepiwnica|2500|37.4|ochota": 1786528126
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Rondo Wiatraczna - 2 pokoje.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rondo-wiatraczna-2-pokoje-CID3-ID1bOiCy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:00",
-      "ts": 1786479192,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 47.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-11T22:00:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 41 м², 2 комнаты\n💰 3350 + czynsz 600 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 350 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowy apartament, blisko WKD Raków, blisko Parku Szczęśliwickiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowy-apartament-blisko-wkd-rakow-blisko-parku-szczesliwickiego-CID3-ID1bOiST.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:08",
-      "ts": 1786479192,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3350,
-        "rent": 600,
-        "area": 41.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-11T22:08:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 50 м², 2 комнаты\n💰 3250 + czynsz 750 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 15 августа\n🏢 Этаж: 2\n🏢 агентство\n«Jasne, 2-pok z osobną kuchnią, Stary Żoliborz, WSM - 5min metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-2-pok-z-osobna-kuchnia-stary-zoliborz-wsm-5min-metro-CID3-ID1bOiRF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
       "ts": 1786479512,
@@ -3801,13 +3774,47 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41 м², 2 комнаты\n💰 3299 + czynsz 699 = <b>3998 zł/мес</b>\n   ≈ с медиа около 4688 zł/мес\n⚡ Свет/медиа: ≈ 690 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 690 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokoje 41m kw. Praga Pld, msc parkingowe, klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-41m-kw-praga-pld-msc-parkingowe-klima-CID3-ID1bOwH7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:31",
+      "ts": 1786527811,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3299,
+        "rent": 699,
+        "area": 41.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-12T11:31:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37.4 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 800 zł\n🏢 Этаж: 3\n🏢 агентство\n«Gotowe po remoncie 2 pokoje + piwnica..»\n🔗 <a href=\"https://www.olx.pl/d/oferta/gotowe-po-remoncie-2-pokoje-piwnica-CID3-ID1bOwRo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:34",
+      "ts": 1786528126,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 700,
+        "area": 37.4,
+        "district": "Ochota",
+        "business": true,
+        "created_iso": "2026-08-12T11:34:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
     }
   ],
   "stats": {
-    "checks": 3465,
-    "sent": 939
+    "checks": 3469,
+    "sent": 941
   },
   "initialized": true,
-  "last_check": "2026-08-12T09:33:10",
+  "last_check": "2026-08-12T09:54:08",
   "backoff_until": 1786414856.7723193
 }
