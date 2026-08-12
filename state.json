@@ -2344,53 +2344,6 @@
     "1090711743": 1786528126,
     "1090711402": 1786528126,
     "1090175884": 1786528126,
-<<<<<<< Updated upstream
-    "1090714959": 1786528755,
-    "1090559802": 1786528755,
-    "1090713304": 1786528755,
-    "1090715250": 1786529387,
-    "1090719275": 1786530329,
-    "1090721342": 1786530647,
-    "1090721190": 1786530647,
-    "1090722941": 1786531281,
-    "1090720831": 1786531281,
-    "1090720152": 1786531281,
-    "1090726423": 1786531910,
-    "1090724010": 1786531910,
-    "1090727050": 1786532225,
-    "1090725157": 1786532225,
-    "1090724578": 1786532225,
-    "1090727894": 1786532857,
-    "1090728965": 1786533171,
-    "1090728799": 1786533171,
-    "1090731296": 1786533803,
-    "1090731038": 1786534118,
-    "1090735539": 1786534745,
-    "1090735071": 1786534745,
-    "1090735264": 1786534745,
-    "1090733297": 1786534745,
-    "1090735206": 1786535065,
-    "1090737671": 1786535693,
-    "1090737495": 1786535693,
-    "1090737258": 1786535693,
-    "1090736283": 1786536012,
-    "1090739989": 1786536328,
-    "1090739970": 1786536328,
-    "1090740861": 1786536645,
-    "1090738436": 1786536645,
-    "1090740244": 1786536959,
-    "1090741273": 1786537273,
-    "1090673932": 1786537898,
-    "1090743705": 1786537898,
-    "1090745317": 1786538213,
-    "1090746033": 1786538529,
-    "1090745746": 1786538529,
-    "1090747083": 1786538844,
-    "1090745953": 1786539156,
-    "1090750717": 1786539469,
-    "1090748661": 1786539469,
-    "1090735792": 1786539785
-=======
     "1090750717": 1786539991,
     "1090748661": 1786539991,
     "1090747083": 1786539991,
@@ -2440,8 +2393,10 @@
     "1090751369": 1786540366,
     "1090753515": 1786540686,
     "1090753579": 1786541002,
-    "1090753509": 1786541002
->>>>>>> Stashed changes
+    "1090753509": 1786541002,
+    "1090754803": 1786541638,
+    "1090758507": 1786542270,
+    "1090652116": 1786542270
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3223,37 +3178,6 @@
     "przytulnemieszkanie40m²targowekmieszkaniowy3m|3200|40.0|targowek": 1786527181,
     "wynajme2pokoje41mkwpragapldmscparkingoweklima|3299|41.0|pragapoludnie": 1786527811,
     "gotoweporemoncie2pokojepiwnica|2500|37.4|ochota": 1786528126,
-<<<<<<< Updated upstream
-    "mieszkaniekrakow2pokoje|2700|47.0|pradnikbialy": 1786528755,
-    "2pokoje38m2fredry6lagiewnikikrakowodwrzesniab|3000|38.0|lagiewnikiborekfalec": 1786528755,
-    "wynajemmieszkania37m²warszawawola|3600|37.0|wola": 1786528755,
-    "dwupokojowemieszkanienawynajemprzyplzawiszy|3900|45.0|ochota": 1786529387,
-    "wynajmemieszkaniechlodna11|3000|32.0|wola": 1786530329,
-    "2pokzablociepodgorzebulwarywislanebalkoneng|3100|42.0|grzegorzki": 1786530647,
-    "mieszkanienawynajemczyzynymariidabrowskiej320|3200|47.0|bienczyce": 1786530647,
-    "zwyklaumowapowislepomieszczeniegospodarczezie|2800|31.0|srodmiescie": 1786531281,
-    "mieszkanieplacbohaterowgettapodgorzeod109|2950|30.0|podgorze": 1786531910,
-    "mieszkanie2pokojowestanczykaodzarazukenaghur|3200|37.0|bronowice": 1786532225,
-    "mieszkaniebliskocentrumzmiejscemparkingowym|3000|50.0|wola": 1786532225,
-    "2pokojowemieszkaniepocalkowitymremoncie3minut|3000|30.0|bielany": 1786532857,
-    "2niezaleznepokoje40mkwtuzobokzakrzowka|2800|40.0|lagiewnikiborekfalec": 1786533171,
-    "wynajemmieszkania60m2warszawabielany|3400|60.0|bielany": 1786533171,
-    "dwupokojowemieszkanienawynajemzabiniec|2500|36.0|pradnikbialy": 1786533803,
-    "mieszkaniedowynajeciawbaniosze|2500|50.0|pragapoludnie": 1786534118,
-    "mieszkanie2pokoje41m2garazwcenieursusulquovad|2900|41.0|ursus": 1786534745,
-    "wynajmemieszkaniewarszawaulobywatelska|2700|36.0|wlochy": 1786534745,
-    "2pokojegarazprzycentrumkonesermetrowilenska|2600|31.0|pragapolnoc": 1786534745,
-    "53m²2pokojedozamieszkaniaklimatyzacjabalkonul|2950|53.0|biezanowprokocim": 1786535693,
-    "nowemieszkaniewarszawaulrownolegla16bpierwszy|3200|36.18|wlochy": 1786535693,
-    "wynajmemieszkaniewarszawabialolekaskarbkazgor|3700|55.0|bialoleka": 1786536012,
-    "kampusuj2osobnepokoje|2900|30.0|debniki": 1786536328,
-    "salwatorzwierzynieculsyrokomliujejskiego2poko|3000|63.0|zwierzyniec": 1786536328,
-    "mieszkanie2pokojowezosobnajasnakuchniabalkone|2500|47.0|podgorzeduchackie": 1786536645,
-    "mieszkanienawynajem|3500|31.0|wawer": 1786537898,
-    "slonecznemieszkanie2pokojowezbalkonemnaursyno|2700|45.0|ursynow": 1786538213,
-    "nowe2pokojowemieszkaniezklimatyzacjatuzprzyza|3000|30.0|podgorze": 1786538529,
-    "2niezaleznepokoje50m2podgorzeduchackiekurdwan|2400|50.0|podgorzeduchackie": 1786539469
-=======
     "2niezaleznepokoje50m2podgorzeduchackiekurdwan|2400|50.0|podgorzeduchackie": 1786539991,
     "nowe2pokojowemieszkaniezklimatyzacjatuzprzyza|3000|30.0|podgorze": 1786539991,
     "mieszkanie2pokojowezosobnajasnakuchniabalkone|2500|47.0|podgorzeduchackie": 1786539991,
@@ -3286,117 +3210,13 @@
     "2pokojowemieszkanienawynajem|2800|51.0|lagiewnikiborekfalec": 1786540366,
     "2pokojowe3320m2internetwcenieprzyjaznezwierze|3380|33.2|": 1786540686,
     "dwupokojowemieszkanienaruczajugarazwceniewypo|2800|53.0|debniki": 1786541002,
-    "dwupokojowemieszkaniewzielonejczesciwoli|3000|39.0|wola": 1786541002
->>>>>>> Stashed changes
+    "dwupokojowemieszkaniewzielonejczesciwoli|3000|39.0|wola": 1786541002,
+    "2pokojenabialolecebezposredniobalkongaraz|2700|42.0|bialoleka": 1786541638,
+    "mieszkanie2pokojowedowynajecia|2900|38.5|ochota": 1786542270
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Saska Kępa 2 pokoje, wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/saska-kepa-2-pokoje-wysoki-standard-CID3-ID1bOs3Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:07",
-      "ts": 1786522775,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 39.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-12T10:07:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 36 м², 2 комнаты\n💰 2550 + czynsz 825 = <b>3375 zł/мес</b>\n🚗 Паркинг: 825 zł/мес\n🔐 Kaucja (залог): 2550 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Os. Akademickie 2 pok+ miejsce postojowe w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-akademickie-2-pok-miejsce-postojowe-w-cenie-CID3-ID1bOsce.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:11",
-      "ts": 1786523717,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2550,
-        "rent": 825,
-        "area": 36.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-12T10:11:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 825
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 52 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«Dwa osobne pokoje, Stare Dębniki, Konfederacka, Balkon, Piwnica, Ogrzewanie Miejskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-osobne-pokoje-stare-debniki-konfederacka-balkon-piwnica-ogrzewanie-miejskie-CID3-ID1bOsTn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:29",
-      "ts": 1786524033,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 900,
-        "area": 52.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-12T10:29:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 39 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 650 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2-pokoje Kraków - Dobrego Pasterza 122b - BEZPOŚREDNIO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-krakow-dobrego-pasterza-122b-bezposrednio-CID3-ID1bOth4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:38",
-      "ts": 1786524348,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 650,
-        "area": 39.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-12T10:38:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-=======
->>>>>>> Stashed changes
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 620 = <b>3220 zł/мес</b>\n   ≈ с медиа около 3370 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«2 pokoje | widokowe | nowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-widokowe-nowe-CID3-ID1bOtji.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:38",
-      "ts": 1786524977,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 620,
-        "area": 35.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-12T10:38:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 39 м², 2 комнаты\n💰 2850 + czynsz 550 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 550 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje + kom lokatorska | Balkon | od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-kom-lokatorska-balkon-od-zaraz-CID3-ID1bOtVz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:53",
-      "ts": 1786525293,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2850,
-        "rent": 550,
-        "area": 39.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-12T10:53:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie Kijowska 5 - świetna lokalizacja komunikacyjna Nowe Budownictwo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-kijowska-5-swietna-lokalizacja-komunikacyjna-nowe-budownictwo-CID3-ID1bOtZh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:54",
       "ts": 1786525609,
@@ -3484,11 +3304,7 @@
     },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 780 = <b>3780 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4400 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 Pokoje 38m2 Fredry 6 Łagiewniki Kraków od września BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-38m2-fredry-6-lagiewniki-krakow-od-wrzesnia-bez-prowizji-CID3-ID1bNSqe.html\">Открыть на OLX</a>  ·  добавлено вчера в 13:00",
-<<<<<<< Updated upstream
-      "ts": 1786528755,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3504,10 +3320,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania 37m² Warszawa - Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-37m-warszawa-wola-CID3-ID1bOvm4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:45",
-      "ts": 1786528755,
-=======
       "text": "🏠 <b>Варшава, Wawer</b> — 31 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bOm72.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:25",
       "ts": 1786539991,
       "city": "warszawa",
@@ -3527,7 +3339,6 @@
     {
       "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania 37m² Warszawa - Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-37m-warszawa-wola-CID3-ID1bOvm4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:45",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3544,11 +3355,7 @@
     },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 47 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie Krakow 2 Pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-2-pokoje-CID3-ID1bOvML.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:53",
-<<<<<<< Updated upstream
-      "ts": 1786528755,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3565,11 +3372,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 45 м², 2 комнаты\n💰 <b>3900 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3900 zł\n👤 от собственника\n«Dwupokojowe mieszkanie na wynajem przy pl. Zawiszy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-wynajem-przy-pl-zawiszy-CID3-ID1bOvRs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
-<<<<<<< Updated upstream
-      "ts": 1786529387,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3586,11 +3389,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«wynajmę mieszkanie Chłodna 11»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-chlodna-11-CID3-ID1bOxUn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
-<<<<<<< Updated upstream
-      "ts": 1786530329,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -3607,11 +3406,7 @@
     },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 560 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie na wynajem - Czyżyny - Marii Dąbrowskiej - 3200 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-czyzyny-marii-dabrowskiej-3200-zl-CID3-ID1bOypg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:23",
-<<<<<<< Updated upstream
-      "ts": 1786530647,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3628,11 +3423,7 @@
     },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3100 + czynsz 780 = <b>3880 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2 pok/Zabłocie/ Podgórze/ Bulwary wiślane/ Balkon/ ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-zablocie-podgorze-bulwary-wislane-balkon-eng-CID3-ID1bOyrI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:24",
-<<<<<<< Updated upstream
-      "ts": 1786530647,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3649,11 +3440,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n🏢 агентство\n«Zwykła umowa | Powiśle | Pomieszczenie gospodarcze | Zielona okolica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zwykla-umowa-powisle-pomieszczenie-gospodarcze-zielona-okolica-CID3-ID1bOyRw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:32",
-<<<<<<< Updated upstream
-      "ts": 1786531281,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3669,30 +3456,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 2950 + czynsz 768 = <b>3718 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie / Plac Bohaterow Getta / Podgorze od 1.09»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-plac-bohaterow-getta-podgorze-od-1-09-CID3-ID1bOzLF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:46",
-      "ts": 1786531910,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2950,
-        "rent": 768,
-        "area": 30.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-12T12:46:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n🏢 агентство\n«Mieszkanie blisko Centrum z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-centrum-z-miejscem-parkingowym-CID3-ID1bOzrf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
-      "ts": 1786532225,
-=======
       "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n🏢 агентство\n«Mieszkanie blisko Centrum z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-centrum-z-miejscem-parkingowym-CID3-ID1bOzrf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3709,11 +3474,7 @@
     },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2-pokojowe | Stańczyka | OD ZARAZ | UKEN, AGH, UR»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-stanczyka-od-zaraz-uken-agh-ur-CID3-ID1bOzWM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:49",
-<<<<<<< Updated upstream
-      "ts": 1786532225,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3730,11 +3491,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 490 = <b>3490 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🌐 Интернет: 190 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokojowe mieszkanie po całkowitym remoncie - 3 minuty pieszo do stacji metra Słodowiec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-po-calkowitym-remoncie-3-minuty-pieszo-do-stacji-metra-slodowiec-CID3-ID1bOA9o.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:54",
-<<<<<<< Updated upstream
-      "ts": 1786532857,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3751,11 +3508,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 60 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajem mieszkania 60 m2 Warszawa -Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-60-m2-warszawa-bielany-CID3-ID1bOAnZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:59",
-<<<<<<< Updated upstream
-      "ts": 1786533171,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3772,11 +3525,7 @@
     },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 280 zł + свет по счётчику\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 🏢 агентство\n«2 niezależne pokoje | 40 mkw | tuż obok Zakrzówka!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-40-mkw-tuz-obok-zakrzowka-CID3-ID1bOAqF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:00",
-<<<<<<< Updated upstream
-      "ts": 1786533171,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3792,30 +3541,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Dwupokojowe mieszkanie na wynajem - Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-wynajem-zabiniec-CID3-ID1bOB2g.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:13",
-      "ts": 1786533803,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 500,
-        "area": 36.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-12T13:13:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Baniosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-baniosze-CID3-ID1bOAY6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
-      "ts": 1786534118,
-=======
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Baniosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-baniosze-CID3-ID1bOAY6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3831,10 +3558,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie Warszawa ul. Obywatelska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-ul-obywatelska-CID3-ID1bOC19.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
-      "ts": 1786534745,
-=======
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Dwupokojowe mieszkanie na wynajem - Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-wynajem-zabiniec-CID3-ID1bOB2g.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:13",
       "ts": 1786539991,
       "city": "krakow",
@@ -3854,7 +3577,6 @@
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie Warszawa Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-wlochy-CID3-ID1bOC19.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3871,11 +3593,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 31 м², 2 комнаты\n💰 2600 + czynsz 779 = <b>3379 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje garaż przy Centrum Koneser metro Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-garaz-przy-centrum-koneser-metro-wilenska-CID3-ID1bOC4g.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:32",
-<<<<<<< Updated upstream
-      "ts": 1786534745,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3892,11 +3610,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2- pokoje 41m2+ garaż w cenie - Ursus ul. Quo Vadis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-41m2-garaz-w-cenie-ursus-ul-quo-vadis-CID3-ID1bOC8H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:33",
-<<<<<<< Updated upstream
-      "ts": 1786534745,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -3912,10 +3626,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Włochy</b> — 36.18 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Nowe mieszkanie Warszawa, ul. Równoległa 16B Pierwszy najem, Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-warszawa-ul-rownolegla-16b-pierwszy-najem-klima-CID3-ID1bOCAq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:43",
-      "ts": 1786535693,
-=======
       "text": "🏠 <b>Варшава, Białołęka</b> — 55 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie Warszawa Bialoleka Skarbka z Gor 55m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-bialoleka-skarbka-z-gor-55m2-CID3-ID1bOCkH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:37",
       "ts": 1786539991,
       "city": "warszawa",
@@ -3935,7 +3645,6 @@
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 36.18 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Nowe mieszkanie Warszawa, ul. Równoległa 16B Pierwszy najem, Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-warszawa-ul-rownolegla-16b-pierwszy-najem-klima-CID3-ID1bOCAq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:43",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3952,11 +3661,7 @@
     },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 53 м², 2 комнаты\n💰 2950 + czynsz 230 = <b>3180 zł/мес</b>\n   ≈ с медиа около 3580 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 350 zł\n🏢 Этаж: 3\n🏢 агентство\n«53 M² | 2 Pokoje |Do Zamieszkania| Klimatyzacja | Balkon | Ul. Teligi»\n🔗 <a href=\"https://www.olx.pl/d/oferta/53-m-2-pokoje-do-zamieszkania-klimatyzacja-balkon-ul-teligi-CID3-ID1bOCEf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:44",
-<<<<<<< Updated upstream
-      "ts": 1786535693,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3972,30 +3677,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Białołęka</b> — 55 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie Warszawa Bialoleka Skarbka z Gor 55m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-bialoleka-skarbka-z-gor-55m2-CID3-ID1bOCkH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:37",
-      "ts": 1786536012,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3700,
-        "rent": null,
-        "area": 55.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-12T13:37:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 63 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Salwator Zwierzyniec ul. Syrokomli, Ujejskiego, 2 pokoje + osobna duża kuchnia, 63 m2, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/salwator-zwierzyniec-ul-syrokomli-ujejskiego-2-pokoje-osobna-duza-kuchnia-63-m2-balkon-CID3-ID1bODia.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:57",
-      "ts": 1786536328,
-=======
       "text": "🏠 <b>Краков, Zwierzyniec</b> — 63 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Salwator Zwierzyniec ul. Syrokomli, Ujejskiego, 2 pokoje + osobna duża kuchnia, 63 m2, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/salwator-zwierzyniec-ul-syrokomli-ujejskiego-2-pokoje-osobna-duza-kuchnia-63-m2-balkon-CID3-ID1bODia.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:57",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -4012,11 +3695,7 @@
     },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 3\n👤 от собственника\n«Kampus UJ, 2 osobne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kampus-uj-2-osobne-pokoje-CID3-ID1bODit.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:58",
-<<<<<<< Updated upstream
-      "ts": 1786536328,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4033,11 +3712,7 @@
     },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 950 = <b>3450 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe z osobną jasną kuchnią, balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-osobna-jasna-kuchnia-balkonem-CID3-ID1bODvx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
-<<<<<<< Updated upstream
-      "ts": 1786536645,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4053,30 +3728,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Wawer</b> — 31 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bOm72.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:25",
-      "ts": 1786537898,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 31.0,
-        "district": "Wawer",
-        "business": true,
-        "created_iso": "2026-08-12T01:25:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 890 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 2\n🏢 агентство\n«Słoneczne mieszkanie 2-pokojowe z balkonem na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-2-pokojowe-z-balkonem-na-ursynowie-CID3-ID1bOEGp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
-      "ts": 1786538213,
-=======
       "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 890 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 2\n🏢 агентство\n«Słoneczne mieszkanie 2-pokojowe z balkonem na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-2-pokojowe-z-balkonem-na-ursynowie-CID3-ID1bOEGp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -4093,11 +3746,7 @@
     },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Nowe, 2-pokojowe mieszkanie z klimatyzacją – tuż przy Zalewie Bagry»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-klimatyzacja-tuz-przy-zalewie-bagry-CID3-ID1bOERX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
-<<<<<<< Updated upstream
-      "ts": 1786538529,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4114,11 +3763,7 @@
     },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 50 м², 2 комнаты\n💰 2400 + czynsz 870 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje*50m2*Podgórze Duchackie*Kurdwanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje50m2podgorze-duchackiekurdwanow-CID3-ID1bOFyl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:42",
-<<<<<<< Updated upstream
-      "ts": 1786539469,
-=======
       "ts": 1786539991,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -4132,16 +3777,6 @@
       "an": {
         "czynsz_desc": 870
       }
-<<<<<<< Updated upstream
-    }
-  ],
-  "stats": {
-    "checks": 3505,
-    "sent": 970
-  },
-  "initialized": true,
-  "last_check": "2026-08-12T13:03:12",
-=======
     },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 51 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«2 pokojowe mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-CID3-ID1bOG9Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:55",
@@ -4227,14 +3862,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 агентство\n«2 pokoje na Białołęce | BEZPOŚREDNIO | Balkon | Garaż |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-na-bialolece-bezposrednio-balkon-garaz-CID3-ID1bOH9p.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:16",
+      "ts": 1786541638,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 42.0,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-12T15:16:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 1015 = <b>3915 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-CID3-ID1bOgra.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:08",
+      "ts": 1786542270,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 1015,
+        "area": 38.5,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-11T21:08:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1015
+      }
     }
   ],
   "stats": {
-    "checks": 3473,
-    "sent": 974
+    "checks": 3477,
+    "sent": 976
   },
   "initialized": true,
-  "last_check": "2026-08-12T13:23:34",
->>>>>>> Stashed changes
+  "last_check": "2026-08-12T13:44:40",
   "backoff_until": 1786414856.7723193
 }
