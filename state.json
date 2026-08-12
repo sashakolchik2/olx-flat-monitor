@@ -2450,7 +2450,14 @@
     "1090821284": 1786561962,
     "1090825845": 1786562593,
     "1090826451": 1786562905,
-    "1090826385": 1786562905
+    "1090826385": 1786562905,
+    "1090829672": 1786563536,
+    "1090826558": 1786563536,
+    "1090829892": 1786563536,
+    "1090830954": 1786563854,
+    "1090831755": 1786564166,
+    "1090833018": 1786564478,
+    "1090831929": 1786564478
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3293,79 +3300,15 @@
     "mieszkanienawynajemwolaodmalowane|2700|39.0|wola": 1786561334,
     "wynajmenowyapartamentmieszkanie2pokojewysokis|3300|33.0|pradnikczerwony": 1786561962,
     "mieszkanie50m2campusujbobrzynskiegozmiejscemp|2800|50.0|debniki": 1786561962,
-    "mieszkaniepradnikbialypachonskiegobezprowizji|3000|38.5|pradnikbialy": 1786562905
+    "mieszkaniepradnikbialypachonskiegobezprowizji|3000|38.5|pradnikbialy": 1786562905,
+    "cichemieszkanie2pokoje61m2oszabiniecbliskocen|2500|60.0|pradnikbialy": 1786563536,
+    "bezprowizjiwysokistandardcichejasnegarazzablo|3350|43.0|podgorze": 1786563536,
+    "m22pokojewarszawasrodmiesciecentrummetroonzda|3200|42.0|wola": 1786563536,
+    "wynajem34m22pokojewisniowastarymokotow|2800|34.0|mokotow": 1786564478
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 63 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Salwator Zwierzyniec ul. Syrokomli, Ujejskiego, 2 pokoje + osobna duża kuchnia, 63 m2, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/salwator-zwierzyniec-ul-syrokomli-ujejskiego-2-pokoje-osobna-duza-kuchnia-63-m2-balkon-CID3-ID1bODia.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:57",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 580,
-        "area": 63.0,
-        "district": "Zwierzyniec",
-        "business": true,
-        "created_iso": "2026-08-12T13:57:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 380
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 3\n👤 от собственника\n«Kampus UJ, 2 osobne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kampus-uj-2-osobne-pokoje-CID3-ID1bODit.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:58",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 700,
-        "area": 30.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-12T13:58:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 950 = <b>3450 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe z osobną jasną kuchnią, balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-osobna-jasna-kuchnia-balkonem-CID3-ID1bODvx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 950,
-        "area": 47.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-12T14:02:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 890 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 2\n🏢 агентство\n«Słoneczne mieszkanie 2-pokojowe z balkonem na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-2-pokojowe-z-balkonem-na-ursynowie-CID3-ID1bOEGp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
-      "ts": 1786539991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 890,
-        "area": 45.0,
-        "district": "Ursynów",
-        "business": true,
-        "created_iso": "2026-08-12T14:25:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 890
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Nowe, 2-pokojowe mieszkanie z klimatyzacją – tuż przy Zalewie Bagry»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-klimatyzacja-tuz-przy-zalewie-bagry-CID3-ID1bOERX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
       "ts": 1786539991,
@@ -3977,13 +3920,81 @@
       "an": {
         "czynsz_desc": 520
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«bez prowizji*wysoki standard*ciche* jasne*garaż*Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizjiwysoki-standardciche-jasnegarazzablocie-CID3-ID1bOZOK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:13",
+      "ts": 1786563536,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3350,
+        "rent": 550,
+        "area": 43.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-12T21:13:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2500 + czynsz 750 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Ciche mieszkanie 2 pokoje 61 m2-os. Żabiniec blisko Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-mieszkanie-2-pokoje-61-m2-os-zabiniec-blisko-centrum-CID3-ID1bP0CY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:28",
+      "ts": 1786563536,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 750,
+        "area": 60.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-12T21:28:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 715 = <b>3915 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 8\n👤 от собственника\n«M2 2-pokoje Warszawa, Śródmieście, Centrum, Metro ONZ/Daszyńskiego ul.Srebrna Bezpośrednio.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/m2-2-pokoje-warszawa-srodmiescie-centrum-metro-onz-daszynskiego-ul-srebrna-bezposrednio-CID3-ID1bP0Gv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:29",
+      "ts": 1786563536,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 715,
+        "area": 42.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-12T21:29:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«Wynajem 34m2, 2 pokoje Wiśniowa Stary Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-34m2-2-pokoje-wisniowa-stary-mokotow-CID3-ID1bP1dn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:39",
+      "ts": 1786564478,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 500,
+        "area": 34.0,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-12T21:39:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3508,
-    "sent": 1003
+    "checks": 3512,
+    "sent": 1007
   },
   "initialized": true,
-  "last_check": "2026-08-12T19:33:49",
+  "last_check": "2026-08-12T19:54:48",
   "backoff_until": 1786414856.7723193
 }
