@@ -2419,7 +2419,9 @@
     "1090781338": 1786549555,
     "1090780952": 1786549555,
     "1090784308": 1786550191,
-    "1090784033": 1786550506
+    "1090784033": 1786550506,
+    "1090790389": 1786551768,
+    "1090789101": 1786551768
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3248,45 +3250,13 @@
     "wynajmemieszkanie2oddzielnepokoje47m2wkrakowi|3200|47.0|czyzyny": 1786549237,
     "pieknemieszkanie2pokojesadyba|2800|30.0|mokotow": 1786549555,
     "mieszkanienawynajem|3800|40.0|pragapoludnie": 1786549555,
-    "przytulnemieszkanie38m²wroclawskanowa5dzielni|3000|38.0|krowodrza": 1786550506
+    "przytulnemieszkanie38m²wroclawskanowa5dzielni|3000|38.0|krowodrza": 1786550506,
+    "komfortoweznaroznymbalkonem|2799|35.12|bialoleka": 1786551768,
+    "mieszkanienawynajemwolakolo30m2najemokazjonal|2600|30.0|wola": 1786551768
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n🏢 агентство\n«Zwykła umowa | Powiśle | Pomieszczenie gospodarcze | Zielona okolica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zwykla-umowa-powisle-pomieszczenie-gospodarcze-zielona-okolica-CID3-ID1bOyRw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:32",
-      "ts": 1786539991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1000,
-        "area": 31.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-12T12:32:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n🏢 агентство\n«Mieszkanie blisko Centrum z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-centrum-z-miejscem-parkingowym-CID3-ID1bOzrf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
-      "ts": 1786539991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 50.0,
-        "district": "Wola",
-        "business": true,
-        "created_iso": "2026-08-12T12:41:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2-pokojowe | Stańczyka | OD ZARAZ | UKEN, AGH, UR»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-stanczyka-od-zaraz-uken-agh-ur-CID3-ID1bOzWM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:49",
       "ts": 1786539991,
@@ -3932,13 +3902,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 30 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: с 20 августа\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem Wola/Koło 30m2 - najem okazjonalny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-wola-kolo-30m2-najem-okazjonalny-CID3-ID1bOQ4B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:09",
+      "ts": 1786551768,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 30.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-12T18:09:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 35.12 м², 2 комнаты\n💰 2799 + czynsz 258 = <b>3057 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«Komfortowe z narożnym balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-z-naroznym-balkonem-CID3-ID1bOQpn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:15",
+      "ts": 1786551768,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2799,
+        "rent": 258,
+        "area": 35.12,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-12T18:15:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3504,
-    "sent": 989
+    "checks": 3507,
+    "sent": 991
   },
   "initialized": true,
-  "last_check": "2026-08-12T16:07:11",
+  "last_check": "2026-08-12T16:23:01",
   "backoff_until": 1786414856.7723193
 }
