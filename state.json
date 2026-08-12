@@ -2309,7 +2309,8 @@
     "1090651689": 1786517526,
     "1090686268": 1786517844,
     "1090685761": 1786517844,
-    "1090687009": 1786518477
+    "1090687009": 1786518477,
+    "1090688274": 1786518797
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3070,28 +3071,12 @@
     "2pokoje52m2bezposrednio|2600|52.0|bialoleka": 1786516579,
     "mieszkaniesuperlokalizacjamasarskaklimatyzacj|3200|48.0|grzegorzki": 1786517526,
     "mieszkanie2pokojowenaochocienawynajem|3100|37.0|ochota": 1786517844,
-    "kiwanocudownemieszkanienajemokazjonalny|2990|42.0|bemowo": 1786518477
+    "kiwanocudownemieszkanienajemokazjonalny|2990|42.0|bemowo": 1786518477,
+    "mieszkanienawynajemkrakowpradnikbialy|3000|40.0|pradnikbialy": 1786518797
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 400 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje | Pierwszy najem | klimatyzacja | parking w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-pierwszy-najem-klimatyzacja-parking-w-cenie-CID3-ID1bObjM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
-      "ts": 1786468913,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 400,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-11T19:11:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 400
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 47.3 м², 2 комнаты\n💰 2800 + czynsz 1090 = <b>3890 zł/мес</b>\n   ≈ с медиа около 4690 zł/мес\n⚡ Свет/медиа: ≈ 800 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie z osobną kuchnią i balkonem, 47 m², Praga Południe, tramwaj i autobus, od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-osobna-kuchnia-i-balkonem-47-m-praga-poludnie-tramwaj-i-autobus-od-zaraz-CID3-ID1bObmX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:12",
       "ts": 1786468913,
@@ -3754,13 +3739,30 @@
       "an": {
         "czynsz_desc": 804
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem Kraków, Prądnik Biały»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-pradnik-bialy-CID3-ID1bOpQm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:07",
+      "ts": 1786518797,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 40.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-12T09:07:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3465,
-    "sent": 921
+    "checks": 3466,
+    "sent": 922
   },
   "initialized": true,
-  "last_check": "2026-08-12T07:08:08",
+  "last_check": "2026-08-12T07:13:27",
   "backoff_until": 1786414856.7723193
 }
