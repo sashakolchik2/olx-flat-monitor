@@ -2381,7 +2381,13 @@
     "1090741273": 1786537273,
     "1090673932": 1786537898,
     "1090743705": 1786537898,
-    "1090745317": 1786538213
+    "1090745317": 1786538213,
+    "1090746033": 1786538529,
+    "1090745746": 1786538529,
+    "1090747083": 1786538844,
+    "1090745953": 1786539156,
+    "1090750717": 1786539469,
+    "1090748661": 1786539469
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3189,45 +3195,13 @@
     "salwatorzwierzynieculsyrokomliujejskiego2poko|3000|63.0|zwierzyniec": 1786536328,
     "mieszkanie2pokojowezosobnajasnakuchniabalkone|2500|47.0|podgorzeduchackie": 1786536645,
     "mieszkanienawynajem|3500|31.0|wawer": 1786537898,
-    "slonecznemieszkanie2pokojowezbalkonemnaursyno|2700|45.0|ursynow": 1786538213
+    "slonecznemieszkanie2pokojowezbalkonemnaursyno|2700|45.0|ursynow": 1786538213,
+    "nowe2pokojowemieszkaniezklimatyzacjatuzprzyza|3000|30.0|podgorze": 1786538529,
+    "2niezaleznepokoje50m2podgorzeduchackiekurdwan|2400|50.0|podgorzeduchackie": 1786539469
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 6\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bOrnL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:50",
-      "ts": 1786521830,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 650,
-        "area": 42.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-12T09:50:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie 53 m2 od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-53-m2-od-wrzesnia-CID3-ID1bOrwj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:53",
-      "ts": 1786522458,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 53.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-12T09:53:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Saska Kępa 2 pokoje, wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/saska-kepa-2-pokoje-wysoki-standard-CID3-ID1bOs3Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:07",
       "ts": 1786522775,
@@ -3873,13 +3847,47 @@
       "an": {
         "czynsz_desc": 890
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Nowe, 2-pokojowe mieszkanie z klimatyzacją – tuż przy Zalewie Bagry»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-klimatyzacja-tuz-przy-zalewie-bagry-CID3-ID1bOERX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
+      "ts": 1786538529,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 500,
+        "area": 30.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-12T14:28:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 50 м², 2 комнаты\n💰 2400 + czynsz 870 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje*50m2*Podgórze Duchackie*Kurdwanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje50m2podgorze-duchackiekurdwanow-CID3-ID1bOFyl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:42",
+      "ts": 1786539469,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2400,
+        "rent": 870,
+        "area": 50.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-12T14:42:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 870
+      }
     }
   ],
   "stats": {
-    "checks": 3500,
-    "sent": 968
+    "checks": 3504,
+    "sent": 970
   },
   "initialized": true,
-  "last_check": "2026-08-12T12:37:01",
+  "last_check": "2026-08-12T12:57:57",
   "backoff_until": 1786414856.7723193
 }
