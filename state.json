@@ -2460,7 +2460,10 @@
     "1090831929": 1786564478,
     "1090838433": 1786566374,
     "1090837487": 1786566374,
-    "1090840051": 1786566999
+    "1090840051": 1786566999,
+    "1090841751": 1786567940,
+    "1090841880": 1786567940,
+    "1090842235": 1786568255
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3308,28 +3311,12 @@
     "bezprowizjiwysokistandardcichejasnegarazzablo|3350|43.0|podgorze": 1786563536,
     "m22pokojewarszawasrodmiesciecentrummetroonzda|3200|42.0|wola": 1786563536,
     "wynajem34m22pokojewisniowastarymokotow|2800|34.0|mokotow": 1786564478,
-    "mieszkaniedowynajecia2pokojewarszawabielany|3450|38.0|bielany": 1786566999
+    "mieszkaniedowynajecia2pokojewarszawabielany|3450|38.0|bielany": 1786566999,
+    "zoliborz2pokojewkamienicybalkonwidoknazielenb|3700|40.0|zoliborz": 1786567940
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 50 м², 2 комнаты\n💰 2400 + czynsz 870 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje*50m2*Podgórze Duchackie*Kurdwanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje50m2podgorze-duchackiekurdwanow-CID3-ID1bOFyl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:42",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2400,
-        "rent": 870,
-        "area": 50.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-12T14:42:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 870
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 51 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«2 pokojowe mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-CID3-ID1bOG9Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:55",
       "ts": 1786540366,
@@ -3992,13 +3979,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 40 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Żoliborz | 2 pokoje w kamienicy | Balkon | Widok na zieleń |blisko Metra Dw. Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zoliborz-2-pokoje-w-kamienicy-balkon-widok-na-zielen-blisko-metra-dw-gdanski-CID3-ID1bP3LN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
+      "ts": 1786567940,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3700,
+        "rent": null,
+        "area": 40.0,
+        "district": "Żoliborz",
+        "business": true,
+        "created_iso": "2026-08-12T22:41:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3520,
-    "sent": 1008
+    "checks": 3524,
+    "sent": 1009
   },
   "initialized": true,
-  "last_check": "2026-08-12T20:36:48",
+  "last_check": "2026-08-12T20:57:42",
   "backoff_until": 1786414856.7723193
 }
