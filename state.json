@@ -2421,7 +2421,11 @@
     "1090784308": 1786550191,
     "1090784033": 1786550506,
     "1090790389": 1786551768,
-    "1090789101": 1786551768
+    "1090789101": 1786551768,
+    "1090790400": 1786552090,
+    "1090793574": 1786553036,
+    "1090793721": 1786553036,
+    "1090792837": 1786553036
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3252,62 +3256,14 @@
     "mieszkanienawynajem|3800|40.0|pragapoludnie": 1786549555,
     "przytulnemieszkanie38m²wroclawskanowa5dzielni|3000|38.0|krowodrza": 1786550506,
     "komfortoweznaroznymbalkonem|2799|35.12|bialoleka": 1786551768,
-    "mieszkanienawynajemwolakolo30m2najemokazjonal|2600|30.0|wola": 1786551768
+    "mieszkanienawynajemwolakolo30m2najemokazjonal|2600|30.0|wola": 1786551768,
+    "mieszkanie2pokojowe345m²wrazzmiejscemparkingo|2700|34.5|debniki": 1786552090,
+    "ladne46mulsiewna30b|2900|46.0|pradnikbialy": 1786553036,
+    "badzpierwszymnajemcanowe2pokojezgarazemm2|2950|37.0|bemowo": 1786553036
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2-pokojowe | Stańczyka | OD ZARAZ | UKEN, AGH, UR»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-stanczyka-od-zaraz-uken-agh-ur-CID3-ID1bOzWM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:49",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 37.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-12T12:49:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 490 = <b>3490 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🌐 Интернет: 190 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokojowe mieszkanie po całkowitym remoncie - 3 minuty pieszo do stacji metra Słodowiec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-po-calkowitym-remoncie-3-minuty-pieszo-do-stacji-metra-slodowiec-CID3-ID1bOA9o.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:54",
-      "ts": 1786539991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 490,
-        "area": 30.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-12T12:54:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 60 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajem mieszkania 60 m2 Warszawa -Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-60-m2-warszawa-bielany-CID3-ID1bOAnZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:59",
-      "ts": 1786539991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": null,
-        "area": 60.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-12T12:59:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 280 zł + свет по счётчику\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 🏢 агентство\n«2 niezależne pokoje | 40 mkw | tuż obok Zakrzówka!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-40-mkw-tuz-obok-zakrzowka-CID3-ID1bOAqF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:00",
       "ts": 1786539991,
@@ -3936,13 +3892,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 34.5 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe 34,5m² wraz z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-34-5m-wraz-z-miejscem-parkingowym-CID3-ID1bOQpy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:15",
+      "ts": 1786552090,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 500,
+        "area": 34.5,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-12T18:15:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 46 м², 2 комнаты\n💰 2900 + czynsz 680 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«ŁADNE 46 m - Ul. Siewna 30B»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-46-m-ul-siewna-30b-CID3-ID1bOReK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:32",
+      "ts": 1786553036,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 680,
+        "area": 46.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-12T18:32:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 680
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 37 м², 2 комнаты\n💰 2950 + czynsz 600 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Bądź pierwszym najemcą! Nowe 2pokoje z garażem!M2!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/badz-pierwszym-najemca-nowe-2pokoje-z-garazem-m2-CID3-ID1bORh7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:33",
+      "ts": 1786553036,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-12T18:33:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 3507,
-    "sent": 991
+    "checks": 3511,
+    "sent": 994
   },
   "initialized": true,
-  "last_check": "2026-08-12T16:23:01",
+  "last_check": "2026-08-12T16:44:09",
   "backoff_until": 1786414856.7723193
 }
