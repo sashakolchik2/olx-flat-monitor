@@ -2367,7 +2367,11 @@
     "1090735539": 1786534745,
     "1090735071": 1786534745,
     "1090735264": 1786534745,
-    "1090733297": 1786534745
+    "1090733297": 1786534745,
+    "1090735206": 1786535065,
+    "1090737671": 1786535693,
+    "1090737495": 1786535693,
+    "1090737258": 1786535693
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3167,45 +3171,13 @@
     "mieszkaniedowynajeciawbaniosze|2500|50.0|pragapoludnie": 1786534118,
     "mieszkanie2pokoje41m2garazwcenieursusulquovad|2900|41.0|ursus": 1786534745,
     "wynajmemieszkaniewarszawaulobywatelska|2700|36.0|wlochy": 1786534745,
-    "2pokojegarazprzycentrumkonesermetrowilenska|2600|31.0|pragapolnoc": 1786534745
+    "2pokojegarazprzycentrumkonesermetrowilenska|2600|31.0|pragapolnoc": 1786534745,
+    "53m²2pokojedozamieszkaniaklimatyzacjabalkonul|2950|53.0|biezanowprokocim": 1786535693,
+    "nowemieszkaniewarszawaulrownolegla16bpierwszy|3200|36.18|wlochy": 1786535693
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 2990 + czynsz 804 = <b>3794 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«\"KIWANO\" cudowne mieszkanie - najem okazjonalny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kiwano-cudowne-mieszkanie-najem-okazjonalny-CID3-ID1bOpwX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:56",
-      "ts": 1786518980,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2990,
-        "rent": 804,
-        "area": 42.0,
-        "district": "Bemowo",
-        "business": true,
-        "created_iso": "2026-08-12T08:56:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 804
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem Kraków, Prądnik Biały»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-pradnik-bialy-CID3-ID1bOpQm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:07",
-      "ts": 1786518980,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 40.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-12T09:07:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 690 = <b>3690 zł/мес</b>\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Duże, dwupokojowe mieszkanie osiedle Avia z ogródkiem !!!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/duze-dwupokojowe-mieszkanie-osiedle-avia-z-ogrodkiem-CID3-ID1bOqnd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:22",
       "ts": 1786520246,
@@ -3851,13 +3823,47 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 36.18 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Nowe mieszkanie Warszawa, ul. Równoległa 16B Pierwszy najem, Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-warszawa-ul-rownolegla-16b-pierwszy-najem-klima-CID3-ID1bOCAq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:43",
+      "ts": 1786535693,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 36.18,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-12T13:43:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 53 м², 2 комнаты\n💰 2950 + czynsz 230 = <b>3180 zł/мес</b>\n   ≈ с медиа около 3580 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 350 zł\n🏢 Этаж: 3\n🏢 агентство\n«53 M² | 2 Pokoje |Do Zamieszkania| Klimatyzacja | Balkon | Ul. Teligi»\n🔗 <a href=\"https://www.olx.pl/d/oferta/53-m-2-pokoje-do-zamieszkania-klimatyzacja-balkon-ul-teligi-CID3-ID1bOCEf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:44",
+      "ts": 1786535693,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 230,
+        "area": 53.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-12T13:44:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 230
+      }
     }
   ],
   "stats": {
-    "checks": 3489,
-    "sent": 960
+    "checks": 3492,
+    "sent": 962
   },
   "initialized": true,
-  "last_check": "2026-08-12T11:39:18",
+  "last_check": "2026-08-12T11:55:05",
   "backoff_until": 1786414856.7723193
 }
