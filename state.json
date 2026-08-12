@@ -2427,7 +2427,8 @@
     "1090793721": 1786553036,
     "1090792837": 1786553036,
     "1090793243": 1786553358,
-    "1090794759": 1786553672
+    "1090794759": 1786553672,
+    "1090801260": 1786555248
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3261,28 +3262,12 @@
     "mieszkanienawynajemwolakolo30m2najemokazjonal|2600|30.0|wola": 1786551768,
     "mieszkanie2pokojowe345m²wrazzmiejscemparkingo|2700|34.5|debniki": 1786552090,
     "ladne46mulsiewna30b|2900|46.0|pradnikbialy": 1786553036,
-    "badzpierwszymnajemcanowe2pokojezgarazemm2|2950|37.0|bemowo": 1786553036
+    "badzpierwszymnajemcanowe2pokojezgarazemm2|2950|37.0|bemowo": 1786553036,
+    "mieszkaniedowynajeciaodwrzesniakrakowullasowk|3090|28.0|podgorze": 1786555248
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 280 zł + свет по счётчику\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 🏢 агентство\n«2 niezależne pokoje | 40 mkw | tuż obok Zakrzówka!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-40-mkw-tuz-obok-zakrzowka-CID3-ID1bOAqF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:00",
-      "ts": 1786539991,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 620,
-        "area": 40.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": true,
-        "created_iso": "2026-08-12T13:00:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 620
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Baniosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-baniosze-CID3-ID1bOAY6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
       "ts": 1786539991,
@@ -3945,13 +3930,30 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 28 м², 2 комнаты\n💰 3090 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia od WRZESNIA – Kraków, ul. Lasówka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-od-wrzesnia-krakow-ul-lasowka-CID3-ID1bOTeI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:09",
+      "ts": 1786555248,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3090,
+        "rent": null,
+        "area": 28.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-12T19:09:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3515,
-    "sent": 994
+    "checks": 3519,
+    "sent": 995
   },
   "initialized": true,
-  "last_check": "2026-08-12T17:05:10",
+  "last_check": "2026-08-12T17:26:15",
   "backoff_until": 1786414856.7723193
 }
