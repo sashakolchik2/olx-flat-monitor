@@ -2377,7 +2377,11 @@
     "1090739970": 1786536328,
     "1090740861": 1786536645,
     "1090738436": 1786536645,
-    "1090740244": 1786536959
+    "1090740244": 1786536959,
+    "1090741273": 1786537273,
+    "1090673932": 1786537898,
+    "1090743705": 1786537898,
+    "1090745317": 1786538213
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3183,45 +3187,13 @@
     "wynajmemieszkaniewarszawabialolekaskarbkazgor|3700|55.0|bialoleka": 1786536012,
     "kampusuj2osobnepokoje|2900|30.0|debniki": 1786536328,
     "salwatorzwierzynieculsyrokomliujejskiego2poko|3000|63.0|zwierzyniec": 1786536328,
-    "mieszkanie2pokojowezosobnajasnakuchniabalkone|2500|47.0|podgorzeduchackie": 1786536645
+    "mieszkanie2pokojowezosobnajasnakuchniabalkone|2500|47.0|podgorzeduchackie": 1786536645,
+    "mieszkanienawynajem|3500|31.0|wawer": 1786537898,
+    "slonecznemieszkanie2pokojowezbalkonemnaursyno|2700|45.0|ursynow": 1786538213
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2600 + czynsz 550 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3280 zł/мес\n⚡ Свет/медиа: ≈ 130 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie 48 m2 dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-48-m2-dla-studentow-CID3-ID1bOqUC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:37",
-      "ts": 1786520879,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 550,
-        "area": 48.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-12T09:37:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Targówek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-targowek-CID3-ID1bO5aU.html\">Открыть на OLX</a>  ·  добавлено вчера в 16:53",
-      "ts": 1786521197,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 36.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-11T16:53:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 6\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bOrnL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:50",
       "ts": 1786521830,
@@ -3867,13 +3839,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 31 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bOm72.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:25",
+      "ts": 1786537898,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 31.0,
+        "district": "Wawer",
+        "business": true,
+        "created_iso": "2026-08-12T01:25:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 890 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 2\n🏢 агентство\n«Słoneczne mieszkanie 2-pokojowe z balkonem na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-2-pokojowe-z-balkonem-na-ursynowie-CID3-ID1bOEGp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
+      "ts": 1786538213,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 890,
+        "area": 45.0,
+        "district": "Ursynów",
+        "business": true,
+        "created_iso": "2026-08-12T14:25:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 890
+      }
     }
   ],
   "stats": {
-    "checks": 3496,
-    "sent": 966
+    "checks": 3500,
+    "sent": 968
   },
   "initialized": true,
-  "last_check": "2026-08-12T12:16:06",
+  "last_check": "2026-08-12T12:37:01",
   "backoff_until": 1786414856.7723193
 }
