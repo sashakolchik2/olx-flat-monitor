@@ -2301,7 +2301,8 @@
     "1090676263": 1786498608,
     "1090676442": 1786498608,
     "1090676523": 1786499241,
-    "1090676577": 1786499558
+    "1090676577": 1786499558,
+    "1090677018": 1786502709
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3056,28 +3057,12 @@
     "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786497970,
     "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786497970,
     "nowemieszkanie2pokoje40m2wysokistandardklimat|3200|40.0|ursus": 1786498608,
-    "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241
+    "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241,
+    "nowemieszkanie2pokoje37m2instalatorowochotawa|3000|37.0|wlochy": 1786502709
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 50 zł + свет по счётчику\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 17 августа\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmię mieszkanie na ul.Malborskiej w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajmie-mieszkanie-na-ul-malborskiej-w-krakowie-CID3-ID1bO9lC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:26",
-      "ts": 1786466068,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 500,
-        "area": 40.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-11T18:26:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bO9Oz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:37",
       "ts": 1786467018,
@@ -3740,13 +3725,30 @@
       "an": {
         "czynsz_desc": 200
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 12 августа\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Nowe Mieszkanie 2 pokoje 37m2 Instalatorów Ochota Warszawa Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-37m2-instalatorow-ochota-warszawa-garaz-CID3-ID1bOmUO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 04:38",
+      "ts": 1786502709,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 37.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-12T04:38:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3411,
-    "sent": 915
+    "checks": 3415,
+    "sent": 916
   },
   "initialized": true,
-  "last_check": "2026-08-12T02:24:17",
+  "last_check": "2026-08-12T02:45:20",
   "backoff_until": 1786414856.7723193
 }
