@@ -2292,14 +2292,6 @@
     "1090668714": 1786483621,
     "1090669713": 1786483938,
     "1090669144": 1786483938,
-<<<<<<< Updated upstream
-    "1090670513": 1786484886,
-    "1090671136": 1786485520,
-    "1090671191": 1786485836,
-    "1090671900": 1786487091,
-    "1090635274": 1786487716,
-    "1090673750": 1786491196
-=======
     "1090673750": 1786497970,
     "1090635274": 1786497970,
     "1090671900": 1786497970,
@@ -2307,8 +2299,9 @@
     "1090671136": 1786497970,
     "1090670513": 1786497970,
     "1090676263": 1786498608,
-    "1090676442": 1786498608
->>>>>>> Stashed changes
+    "1090676442": 1786498608,
+    "1090676523": 1786499241,
+    "1090676577": 1786499558
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3058,59 +3051,16 @@
     "wynajmemieszkaniezwidokiem|2800|36.0|staremiasto": 1786482987,
     "wynajmemieszkanieochotaaljerozolimskieprzydwo|2900|37.0|ochota": 1786483621,
     "51m²2pokojealejaslowackiego26wyposazoneodzara|3100|51.0|krowodrza": 1786483938,
-<<<<<<< Updated upstream
-    "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786484886,
-    "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786485520,
-    "komfortowemieszkanie42m²debnikinowebudownictw|2900|42.0|debniki": 1786487091,
-    "plrudomagalyodzarazbalkonosobnakuchnia2pokoje|3200|46.0|biezanowprokocim": 1786487716
-=======
     "plrudomagalyodzarazbalkonosobnakuchnia2pokoje|3200|46.0|biezanowprokocim": 1786497970,
     "komfortowemieszkanie42m²debnikinowebudownictw|2900|42.0|debniki": 1786497970,
     "bemowo2pokojefortbemaobrtobrukuosmanczyka|2500|52.0|bemowo": 1786497970,
     "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786497970,
-    "nowemieszkanie2pokoje40m2wysokistandardklimat|3200|40.0|ursus": 1786498608
->>>>>>> Stashed changes
+    "nowemieszkanie2pokoje40m2wysokistandardklimat|3200|40.0|ursus": 1786498608,
+    "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Wola</b> — 39.5 м², 2 комнаты\n💰 2700 + czynsz 1043 = <b>3743 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 9\n👤 от собственника\n«2 pokojowe mieszkanie Warszawa (wola)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-wola-CID3-ID1bO8X0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:17",
-      "ts": 1786466068,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1043,
-        "area": 39.5,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-11T18:17:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-=======
->>>>>>> Stashed changes
-      "text": "🏠 <b>Краков, Czyżyny</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 750 = <b>3700 zł/мес</b>\n   ≈ с медиа около 4450 zł/мес\n⚡ Свет/медиа: ≈ 750 zł + свет по счётчику\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 2950 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia Kraków, Osiedle Botanika»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-osiedle-botanika-CID3-ID1bO95n.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:21",
-      "ts": 1786466068,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2950,
-        "rent": 750,
-        "area": 38.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-11T18:21:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 50 zł + свет по счётчику\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 17 августа\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmię mieszkanie na ul.Malborskiej w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajmie-mieszkanie-na-ul-malborskiej-w-krakowie-CID3-ID1bO9lC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:26",
       "ts": 1786466068,
@@ -3690,10 +3640,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Bemowo</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Bemowo | ul. Kędzierskiego | 2 pokoje | 46 m² | balkon | osobna kuchnia | metro Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-ul-kedzierskiego-2-pokoje-46-m-balkon-osobna-kuchnia-metro-bemowo-CID3-ID1bOldT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:37",
-      "ts": 1786484886,
-=======
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 610 = <b>3810 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«PL/RU Domagały / Od zaraz / Balkon/ Osobna kuchnia / 2 pokoje / Pets +»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ru-domagaly-od-zaraz-balkon-osobna-kuchnia-2-pokoje-pets-CID3-ID1bOc3v.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:28",
       "ts": 1786497970,
       "city": "krakow",
@@ -3713,7 +3659,6 @@
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Bemowo | ul. Kędzierskiego | 2 pokoje | 46 m² | balkon | osobna kuchnia | metro Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-ul-kedzierskiego-2-pokoje-46-m-balkon-osobna-kuchnia-metro-bemowo-CID3-ID1bOldT.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:37",
       "ts": 1786497970,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -3729,13 +3674,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Bemowo</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 1500 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 8000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bemowo 2 pokoje Fort Bema; Obr. Tobruku Osmańczyka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-fort-bema-obr-tobruku-osmanczyka-CID3-ID1bOlnV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:50",
-      "ts": 1786485520,
-=======
       "text": "🏠 <b>Варшава, Bemowo</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 1500 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 8000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bemowo 2 pokoje Fort Bema; Obr. Tobruku Osmańczyka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-fort-bema-obr-tobruku-osmanczyka-CID3-ID1bOlnV.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:50",
       "ts": 1786497970,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3752,11 +3692,7 @@
     },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Komfortowe mieszkanie 42 m² Dębniki Nowe budownictwo Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-42-m-debniki-nowe-budownictwo-klimatyzacja-CID3-ID1bOlAg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
-<<<<<<< Updated upstream
-      "ts": 1786487091,
-=======
       "ts": 1786497970,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -3772,22 +3708,6 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 610 = <b>3810 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«PL/RU Domagały / Od zaraz / Balkon/ Osobna kuchnia / 2 pokoje / Pets +»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ru-domagaly-od-zaraz-balkon-osobna-kuchnia-2-pokoje-pets-CID3-ID1bOc3v.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:28",
-      "ts": 1786487716,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 610,
-        "area": 46.0,
-        "district": "Bieżanów-Prokocim",
-        "business": true,
-        "created_iso": "2026-08-11T19:28:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 610
-=======
       "text": "🏠 <b>Варшава, Ursus</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: с 15 августа\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Nowe Mieszkanie 2 pokoje 40m2 wysoki standard klimatyzacja Ursus Habicha 4 Garaż, komórka lokatorska Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-40m2-wysoki-standard-klimatyzacja-ursus-habicha-4-garaz-komorka-lokatorska-warszawa-CID3-ID1bOmLv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:22",
       "ts": 1786498608,
       "city": "warszawa",
@@ -3802,24 +3722,31 @@
       },
       "an": {
         "czynsz_desc": 800
->>>>>>> Stashed changes
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 26 августа\n🏢 Этаж: 3\n👤 от собственника\n«Nowe Mieszkanie 2 pokoje 39m2 Praga Południe Jana Nowaka Jeziorańskiego 13 Garaż Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-39m2-praga-poludnie-jana-nowaka-jezioranskiego-13-garaz-warszawa-CID3-ID1bOmMP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:31",
+      "ts": 1786499241,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 800,
+        "area": 39.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-12T03:31:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
       }
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 3441,
-    "sent": 913
+    "checks": 3407,
+    "sent": 915
   },
   "initialized": true,
-  "last_check": "2026-08-12T01:24:03",
-  "backoff_until": 1786487708.476625
-=======
-    "checks": 3403,
-    "sent": 914
-  },
-  "initialized": true,
-  "last_check": "2026-08-12T01:42:13",
+  "last_check": "2026-08-12T02:03:16",
   "backoff_until": 1786414856.7723193
->>>>>>> Stashed changes
 }
