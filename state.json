@@ -2317,7 +2317,11 @@
     "1090690936": 1786520561,
     "1090692382": 1786520879,
     "1090691366": 1786520879,
-    "1090608824": 1786521197
+    "1090608824": 1786521197,
+    "1090694189": 1786521830,
+    "1090694480": 1786521830,
+    "1090694657": 1786522458,
+    "1090696188": 1786522458
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3085,45 +3089,13 @@
     "mieszkanie2pokojepragapoludnieulminskagarazwc|3000|38.0|pragapoludnie": 1786520561,
     "2pokojowemieszkanie48m2dlastudentow|2600|48.0|pradnikbialy": 1786520879,
     "spokojnemieszkanienasaskiejkepie|3150|38.0|pragapoludnie": 1786520879,
-    "mieszkaniedowynajeciawarszawatargowek|3200|36.0|pragapolnoc": 1786521197
+    "mieszkaniedowynajeciawarszawatargowek|3200|36.0|pragapolnoc": 1786521197,
+    "wynajemmieszkania|3200|42.0|ursus": 1786521830,
+    "wynajmemieszkanie53m2odwrzesnia|3200|53.0|debniki": 1786522458
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 40 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajęcia 40m2 z miejscem postojowym w garażu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-40m2-z-miejscem-postojowym-w-garazu-CID3-ID1bOewV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:23",
-      "ts": 1786473328,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3400,
-        "rent": 600,
-        "area": 40.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-11T20:23:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 751 = <b>3451 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje | 42 m² | balkon | ul. Śliczna 34B | od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-balkon-ul-sliczna-34b-od-wlasciciela-CID3-ID1bOfeH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
-      "ts": 1786476959,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 751,
-        "area": 42.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-11T20:39:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 751
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 33.41 м², 2 комнаты\n💰 3000 + czynsz 768 = <b>3768 zł/мес</b>\n   ≈ с медиа около 4118 zł/мес\n⚡ Свет/медиа: ≈ 350 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Nowoczesne 2-pok z dużym balkonem Krowodrza Park*garaż* AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pok-z-duzym-balkonem-krowodrza-parkgaraz-agh-CID3-ID1bOfGc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:50",
       "ts": 1786476959,
@@ -3769,13 +3741,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 6\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bOrnL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:50",
+      "ts": 1786521830,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 650,
+        "area": 42.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-12T09:50:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie 53 m2 od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-53-m2-od-wrzesnia-CID3-ID1bOrwj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:53",
+      "ts": 1786522458,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 53.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-12T09:53:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3446,
-    "sent": 928
+    "checks": 3450,
+    "sent": 930
   },
   "initialized": true,
-  "last_check": "2026-08-12T07:53:30",
+  "last_check": "2026-08-12T08:14:28",
   "backoff_until": 1786414856.7723193
 }
