@@ -2471,7 +2471,9 @@
     "1090844990": 1786569823,
     "1090844757": 1786570138,
     "1090847093": 1786571703,
-    "1090848233": 1786572334
+    "1090848233": 1786572334,
+    "1090849693": 1786574210,
+    "1090849602": 1786574210
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3325,28 +3327,12 @@
     "bezposredniomarszalkowska111a2100|2600|35.0|": 1786568569,
     "mieszkanieulkondratowiczametro|3000|34.0|targowek": 1786569823,
     "mieszkanieulsandomierskastaremiastowysokistan|2410|30.0|staremiasto": 1786570138,
-    "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786572334
+    "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786572334,
+    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786574210
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 агентство\n«2 pokoje na Białołęce | BEZPOŚREDNIO | Balkon | Garaż |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-na-bialolece-bezposrednio-balkon-garaz-CID3-ID1bOH9p.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:16",
-      "ts": 1786541638,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-12T15:16:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 1015 = <b>3915 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-CID3-ID1bOgra.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:08",
       "ts": 1786542270,
@@ -4009,13 +3995,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37.5 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4600 zł\n📅 Заселение: с 31 августа\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Praga-Południe | ul. Międzynarodowa | 2 pokoje | 37,5 m² | balkon | osobna kuchnia | zwierzęta | 10 min do centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-ul-miedzynarodowa-2-pokoje-37-5-m-balkon-osobna-kuchnia-zwierzeta-10-min-do-centrum-CID3-ID1bP5Oq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:17",
+      "ts": 1786574210,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 750,
+        "area": 37.5,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-13T00:17:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 300
+      }
     }
   ],
   "stats": {
-    "checks": 3539,
-    "sent": 1014
+    "checks": 3543,
+    "sent": 1015
   },
   "initialized": true,
-  "last_check": "2026-08-12T22:16:07",
+  "last_check": "2026-08-12T22:37:00",
   "backoff_until": 1786414856.7723193
 }
