@@ -2343,7 +2343,11 @@
     "1090710765": 1786527811,
     "1090711743": 1786528126,
     "1090711402": 1786528126,
-    "1090175884": 1786528126
+    "1090175884": 1786528126,
+    "1090714959": 1786528755,
+    "1090559802": 1786528755,
+    "1090713304": 1786528755,
+    "1090715250": 1786529387
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3124,79 +3128,15 @@
     "wynajemmieszkaniaplaszowpodgorze|3000|34.0|podgorze": 1786526238,
     "przytulnemieszkanie40m²targowekmieszkaniowy3m|3200|40.0|targowek": 1786527181,
     "wynajme2pokoje41mkwpragapldmscparkingoweklima|3299|41.0|pragapoludnie": 1786527811,
-    "gotoweporemoncie2pokojepiwnica|2500|37.4|ochota": 1786528126
+    "gotoweporemoncie2pokojepiwnica|2500|37.4|ochota": 1786528126,
+    "mieszkaniekrakow2pokoje|2700|47.0|pradnikbialy": 1786528755,
+    "2pokoje38m2fredry6lagiewnikikrakowodwrzesniab|3000|38.0|lagiewnikiborekfalec": 1786528755,
+    "wynajemmieszkania37m²warszawawola|3600|37.0|wola": 1786528755,
+    "dwupokojowemieszkanienawynajemprzyplzawiszy|3900|45.0|ochota": 1786529387
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 50 м², 2 комнаты\n💰 3250 + czynsz 750 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 15 августа\n🏢 Этаж: 2\n🏢 агентство\n«Jasne, 2-pok z osobną kuchnią, Stary Żoliborz, WSM - 5min metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-2-pok-z-osobna-kuchnia-stary-zoliborz-wsm-5min-metro-CID3-ID1bOiRF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
-      "ts": 1786479512,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3250,
-        "rent": 750,
-        "area": 50.0,
-        "district": "Żoliborz",
-        "business": true,
-        "created_iso": "2026-08-11T22:07:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2200 + czynsz 884 = <b>3084 zł/мес</b>\n   ≈ с медиа около 3404 zł/мес\n⚡ Свет/медиа: ≈ 320 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«ul. Świtezianki – Dąbie, 2 pokoje, 35 m kw. bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-switezianki-dabie-2-pokoje-35-m-kw-bezposrednio-CID3-ID1bOjH1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:31",
-      "ts": 1786481089,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2200,
-        "rent": 884,
-        "area": 35.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-11T22:31:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 884
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wilanów</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 3\n🏢 агентство\n«Wilanów, ul. Sarmacka, taras 10m, garaż, z meblami»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wilanow-ul-sarmacka-taras-10m-garaz-z-meblami-CID3-ID1bOjLv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:33",
-      "ts": 1786481089,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 42.0,
-        "district": "Wilanów",
-        "business": true,
-        "created_iso": "2026-08-11T22:33:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 46.5 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje 46,5 m² | Monteverdiego 12, os. Greenwood | Zielona Białołęka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-46-5-m-monteverdiego-12-os-greenwood-zielona-bialoleka-CID3-ID1bOkju.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:54",
-      "ts": 1786482354,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 46.5,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-11T22:54:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 47 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie wynajem Krakow Lobzow/Bronowce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-krakow-lobzow-bronowce-CID3-ID1bOkmv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:56",
       "ts": 1786482354,
@@ -3808,13 +3748,81 @@
       "an": {
         "czynsz_desc": 200
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 780 = <b>3780 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4400 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 Pokoje 38m2 Fredry 6 Łagiewniki Kraków od września BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-38m2-fredry-6-lagiewniki-krakow-od-wrzesnia-bez-prowizji-CID3-ID1bNSqe.html\">Открыть на OLX</a>  ·  добавлено вчера в 13:00",
+      "ts": 1786528755,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 780,
+        "area": 38.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-11T13:00:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 780
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania 37m² Warszawa - Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-37m-warszawa-wola-CID3-ID1bOvm4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:45",
+      "ts": 1786528755,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3600,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-12T11:45:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 47 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie Krakow 2 Pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-2-pokoje-CID3-ID1bOvML.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:53",
+      "ts": 1786528755,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 47.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-12T11:53:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 45 м², 2 комнаты\n💰 <b>3900 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3900 zł\n👤 от собственника\n«Dwupokojowe mieszkanie na wynajem przy pl. Zawiszy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-wynajem-przy-pl-zawiszy-CID3-ID1bOvRs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
+      "ts": 1786529387,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3900,
+        "rent": null,
+        "area": 45.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-12T11:55:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3469,
-    "sent": 941
+    "checks": 3473,
+    "sent": 945
   },
   "initialized": true,
-  "last_check": "2026-08-12T09:54:08",
+  "last_check": "2026-08-12T10:15:09",
   "backoff_until": 1786414856.7723193
 }
