@@ -2473,7 +2473,11 @@
     "1090847093": 1786571703,
     "1090848233": 1786572334,
     "1090849693": 1786574210,
-    "1090849602": 1786574210
+    "1090849602": 1786574210,
+    "1090850071": 1786574526,
+    "1090850099": 1786574838,
+    "1090850174": 1786574838,
+    "1090850148": 1786574838
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3328,45 +3332,13 @@
     "mieszkanieulkondratowiczametro|3000|34.0|targowek": 1786569823,
     "mieszkanieulsandomierskastaremiastowysokistan|2410|30.0|staremiasto": 1786570138,
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786572334,
-    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786574210
+    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786574210,
+    "dowynajeciazadbaneodswiezonemieszkanieopowier|2600|32.0|krowodrza": 1786574838,
+    "2pokoje37mwynajmegrojeckarogbanachataniood1pa|2600|37.0|ochota": 1786574838
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 1015 = <b>3915 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-CID3-ID1bOgra.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:08",
-      "ts": 1786542270,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 1015,
-        "area": 38.5,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-11T21:08:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1015
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 3400 + czynsz 575 = <b>3975 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje (50m²) + osobna kuchnia | Jeżewskiego przy Parku | Po remoncie | Metro Kabaty»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-50m-osobna-kuchnia-jezewskiego-przy-parku-po-remoncie-metro-kabaty-CID3-ID1bOJpy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:01",
-      "ts": 1786544483,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": 575,
-        "area": 50.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-12T16:01:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 575
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-CID3-ID1bOK8U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
       "ts": 1786545432,
@@ -4012,13 +3984,47 @@
       "an": {
         "czynsz_desc": 300
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 32 м², 2 комнаты\n💰 2600 + czynsz 790 = <b>3390 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia zadbane, odświeżone mieszkanie o powierzchni 32 m², położone na parterze przy ul. Wrocławskiej w Krakowie, w dzielnicy Krowodrza.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-zadbane-odswiezone-mieszkanie-o-powierzchni-32-m-polozone-na-parterze-przy-ul-wroclawskiej-w-krakowie-w-dzielnicy-krowodrza-CID3-ID1bP5Vr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:32",
+      "ts": 1786574838,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 790,
+        "area": 32.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-13T00:32:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 760 = <b>3360 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3360 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje, 37m, wynajmę, Grójecka róg Banacha, tanio, od 1 października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-37m-wynajme-grojecka-rog-banacha-tanio-od-1-pazdziernika-CID3-ID1bP5Xe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:33",
+      "ts": 1786574838,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 760,
+        "area": 37.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-13T00:33:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3543,
-    "sent": 1015
+    "checks": 3547,
+    "sent": 1017
   },
   "initialized": true,
-  "last_check": "2026-08-12T22:37:00",
+  "last_check": "2026-08-12T22:57:54",
   "backoff_until": 1786414856.7723193
 }
