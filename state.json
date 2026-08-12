@@ -2350,7 +2350,15 @@
     "1090715250": 1786529387,
     "1090719275": 1786530329,
     "1090721342": 1786530647,
-    "1090721190": 1786530647
+    "1090721190": 1786530647,
+    "1090722941": 1786531281,
+    "1090720831": 1786531281,
+    "1090720152": 1786531281,
+    "1090726423": 1786531910,
+    "1090724010": 1786531910,
+    "1090727050": 1786532225,
+    "1090725157": 1786532225,
+    "1090724578": 1786532225
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3138,79 +3146,15 @@
     "dwupokojowemieszkanienawynajemprzyplzawiszy|3900|45.0|ochota": 1786529387,
     "wynajmemieszkaniechlodna11|3000|32.0|wola": 1786530329,
     "2pokzablociepodgorzebulwarywislanebalkoneng|3100|42.0|grzegorzki": 1786530647,
-    "mieszkanienawynajemczyzynymariidabrowskiej320|3200|47.0|bienczyce": 1786530647
+    "mieszkanienawynajemczyzynymariidabrowskiej320|3200|47.0|bienczyce": 1786530647,
+    "zwyklaumowapowislepomieszczeniegospodarczezie|2800|31.0|srodmiescie": 1786531281,
+    "mieszkanieplacbohaterowgettapodgorzeod109|2950|30.0|podgorze": 1786531910,
+    "mieszkanie2pokojowestanczykaodzarazukenaghur|3200|37.0|bronowice": 1786532225,
+    "mieszkaniebliskocentrumzmiejscemparkingowym|3000|50.0|wola": 1786532225
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 51 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🌐 Интернет: 100 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«51 m² | 2 pokoje | Aleja Słowackiego 26 | Wyposażone | Od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/51-m-2-pokoje-aleja-slowackiego-26-wyposazone-od-zaraz-CID3-ID1bOkRO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:18",
-      "ts": 1786483938,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 600,
-        "area": 51.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-11T23:18:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 610 = <b>3810 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«PL/RU Domagały / Od zaraz / Balkon/ Osobna kuchnia / 2 pokoje / Pets +»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ru-domagaly-od-zaraz-balkon-osobna-kuchnia-2-pokoje-pets-CID3-ID1bOc3v.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:28",
-      "ts": 1786497970,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 610,
-        "area": 46.0,
-        "district": "Bieżanów-Prokocim",
-        "business": true,
-        "created_iso": "2026-08-11T19:28:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 610
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Bemowo | ul. Kędzierskiego | 2 pokoje | 46 m² | balkon | osobna kuchnia | metro Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-ul-kedzierskiego-2-pokoje-46-m-balkon-osobna-kuchnia-metro-bemowo-CID3-ID1bOldT.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:37",
-      "ts": 1786497970,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 46.0,
-        "district": "Bemowo",
-        "business": true,
-        "created_iso": "2026-08-11T23:37:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 1500 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 8000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bemowo 2 pokoje Fort Bema; Obr. Tobruku Osmańczyka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-fort-bema-obr-tobruku-osmanczyka-CID3-ID1bOlnV.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:50",
-      "ts": 1786497970,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1500,
-        "area": 52.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-11T23:50:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Komfortowe mieszkanie 42 m² Dębniki Nowe budownictwo Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-42-m-debniki-nowe-budownictwo-klimatyzacja-CID3-ID1bOlAg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
       "ts": 1786497970,
@@ -3822,13 +3766,81 @@
       "an": {
         "czynsz_desc": 780
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n🏢 агентство\n«Zwykła umowa | Powiśle | Pomieszczenie gospodarcze | Zielona okolica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zwykla-umowa-powisle-pomieszczenie-gospodarcze-zielona-okolica-CID3-ID1bOyRw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:32",
+      "ts": 1786531281,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1000,
+        "area": 31.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-12T12:32:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 2950 + czynsz 768 = <b>3718 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie / Plac Bohaterow Getta / Podgorze od 1.09»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-plac-bohaterow-getta-podgorze-od-1-09-CID3-ID1bOzLF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:46",
+      "ts": 1786531910,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2950,
+        "rent": 768,
+        "area": 30.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-12T12:46:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n🏢 агентство\n«Mieszkanie blisko Centrum z miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-centrum-z-miejscem-parkingowym-CID3-ID1bOzrf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
+      "ts": 1786532225,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-12T12:41:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2-pokojowe | Stańczyka | OD ZARAZ | UKEN, AGH, UR»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-stanczyka-od-zaraz-uken-agh-ur-CID3-ID1bOzWM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:49",
+      "ts": 1786532225,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 37.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-12T12:49:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3477,
-    "sent": 948
+    "checks": 3481,
+    "sent": 952
   },
   "initialized": true,
-  "last_check": "2026-08-12T10:36:14",
+  "last_check": "2026-08-12T10:57:16",
   "backoff_until": 1786414856.7723193
 }
