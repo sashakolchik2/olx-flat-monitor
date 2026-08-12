@@ -2361,7 +2361,13 @@
     "1090724578": 1786532225,
     "1090727894": 1786532857,
     "1090728965": 1786533171,
-    "1090728799": 1786533171
+    "1090728799": 1786533171,
+    "1090731296": 1786533803,
+    "1090731038": 1786534118,
+    "1090735539": 1786534745,
+    "1090735071": 1786534745,
+    "1090735264": 1786534745,
+    "1090733297": 1786534745
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3156,96 +3162,16 @@
     "mieszkaniebliskocentrumzmiejscemparkingowym|3000|50.0|wola": 1786532225,
     "2pokojowemieszkaniepocalkowitymremoncie3minut|3000|30.0|bielany": 1786532857,
     "2niezaleznepokoje40mkwtuzobokzakrzowka|2800|40.0|lagiewnikiborekfalec": 1786533171,
-    "wynajemmieszkania60m2warszawabielany|3400|60.0|bielany": 1786533171
+    "wynajemmieszkania60m2warszawabielany|3400|60.0|bielany": 1786533171,
+    "dwupokojowemieszkanienawynajemzabiniec|2500|36.0|pradnikbialy": 1786533803,
+    "mieszkaniedowynajeciawbaniosze|2500|50.0|pragapoludnie": 1786534118,
+    "mieszkanie2pokoje41m2garazwcenieursusulquovad|2900|41.0|ursus": 1786534745,
+    "wynajmemieszkaniewarszawaulobywatelska|2700|36.0|wlochy": 1786534745,
+    "2pokojegarazprzycentrumkonesermetrowilenska|2600|31.0|pragapolnoc": 1786534745
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 12 августа\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Nowe Mieszkanie 2 pokoje 37m2 Instalatorów Ochota Warszawa Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-37m2-instalatorow-ochota-warszawa-garaz-CID3-ID1bOmUO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 04:38",
-      "ts": 1786502709,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 37.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-12T04:38:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 48 м², 2 комнаты\n💰 <b>3200 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie super lokalizacja masarska klimatyzacja parking podziemny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-super-lokalizacja-masarska-klimatyzacja-parking-podziemny-CID3-ID1bOgkh.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:06",
-      "ts": 1786518980,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 48.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-11T21:06:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n   ≈ с медиа около 3820 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Czyżyny | Sołtysowska 10F | 2 Pok | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-soltysowska-10f-2-pok-eng-CID3-ID1bOonr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
-      "ts": 1786518980,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 37.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-12T08:09:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 500 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«2 Pokoje, 52m2, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-52m2-bezposrednio-CID3-ID1bOoti.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:14",
-      "ts": 1786518980,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 500,
-        "area": 52.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-12T08:14:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3100 + czynsz 520 = <b>3620 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe na Ochocie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-ochocie-na-wynajem-CID3-ID1bOpbP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:44",
-      "ts": 1786518980,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 520,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-12T08:44:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 520
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 2990 + czynsz 804 = <b>3794 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«\"KIWANO\" cudowne mieszkanie - najem okazjonalny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kiwano-cudowne-mieszkanie-najem-okazjonalny-CID3-ID1bOpwX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:56",
       "ts": 1786518980,
@@ -3840,13 +3766,98 @@
       "an": {
         "czynsz_desc": 620
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Dwupokojowe mieszkanie na wynajem - Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-wynajem-zabiniec-CID3-ID1bOB2g.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:13",
+      "ts": 1786533803,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 500,
+        "area": 36.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-12T13:13:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Baniosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-baniosze-CID3-ID1bOAY6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
+      "ts": 1786534118,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 500,
+        "area": 50.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-12T13:12:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajme mieszkanie Warszawa ul. Obywatelska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-ul-obywatelska-CID3-ID1bOC19.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
+      "ts": 1786534745,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 36.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-12T13:31:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 31 м², 2 комнаты\n💰 2600 + czynsz 779 = <b>3379 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje garaż przy Centrum Koneser metro Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-garaz-przy-centrum-koneser-metro-wilenska-CID3-ID1bOC4g.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:32",
+      "ts": 1786534745,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 779,
+        "area": 31.0,
+        "district": "Praga-Północ",
+        "business": true,
+        "created_iso": "2026-08-12T13:32:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 779
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2- pokoje 41m2+ garaż w cenie - Ursus ul. Quo Vadis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-41m2-garaz-w-cenie-ursus-ul-quo-vadis-CID3-ID1bOC8H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:33",
+      "ts": 1786534745,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 650,
+        "area": 41.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-12T13:33:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3485,
-    "sent": 955
+    "checks": 3489,
+    "sent": 960
   },
   "initialized": true,
-  "last_check": "2026-08-12T11:18:15",
+  "last_check": "2026-08-12T11:39:18",
   "backoff_until": 1786414856.7723193
 }
