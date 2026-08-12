@@ -2347,7 +2347,10 @@
     "1090714959": 1786528755,
     "1090559802": 1786528755,
     "1090713304": 1786528755,
-    "1090715250": 1786529387
+    "1090715250": 1786529387,
+    "1090719275": 1786530329,
+    "1090721342": 1786530647,
+    "1090721190": 1786530647
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3132,62 +3135,14 @@
     "mieszkaniekrakow2pokoje|2700|47.0|pradnikbialy": 1786528755,
     "2pokoje38m2fredry6lagiewnikikrakowodwrzesniab|3000|38.0|lagiewnikiborekfalec": 1786528755,
     "wynajemmieszkania37m²warszawawola|3600|37.0|wola": 1786528755,
-    "dwupokojowemieszkanienawynajemprzyplzawiszy|3900|45.0|ochota": 1786529387
+    "dwupokojowemieszkanienawynajemprzyplzawiszy|3900|45.0|ochota": 1786529387,
+    "wynajmemieszkaniechlodna11|3000|32.0|wola": 1786530329,
+    "2pokzablociepodgorzebulwarywislanebalkoneng|3100|42.0|grzegorzki": 1786530647,
+    "mieszkanienawynajemczyzynymariidabrowskiej320|3200|47.0|bienczyce": 1786530647
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 47 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie wynajem Krakow Lobzow/Bronowce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-krakow-lobzow-bronowce-CID3-ID1bOkmv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:56",
-      "ts": 1786482354,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 47.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-11T22:56:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 9\n👤 от собственника\n«wynajmę mieszkanie z widokiem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-z-widokiem-CID3-ID1bOkr5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:59",
-      "ts": 1786482987,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 600,
-        "area": 36.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-11T22:59:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 955 = <b>3855 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Wynajmę mieszkanie Ochota, al. Jerozolimskie przy Dworcu Zachodnim»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-ochota-al-jerozolimskie-przy-dworcu-zachodnim-CID3-ID1bOkKS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:12",
-      "ts": 1786483621,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 955,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-11T23:12:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 955
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 51 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🌐 Интернет: 100 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«51 m² | 2 pokoje | Aleja Słowackiego 26 | Wyposażone | Od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/51-m-2-pokoje-aleja-slowackiego-26-wyposazone-od-zaraz-CID3-ID1bOkRO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:18",
       "ts": 1786483938,
@@ -3816,13 +3771,64 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«wynajmę mieszkanie Chłodna 11»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-chlodna-11-CID3-ID1bOxUn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
+      "ts": 1786530329,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-12T12:14:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 560 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie na wynajem - Czyżyny - Marii Dąbrowskiej - 3200 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-czyzyny-marii-dabrowskiej-3200-zl-CID3-ID1bOypg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:23",
+      "ts": 1786530647,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 560,
+        "area": 47.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-12T12:23:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 560
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3100 + czynsz 780 = <b>3880 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2 pok/Zabłocie/ Podgórze/ Bulwary wiślane/ Balkon/ ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-zablocie-podgorze-bulwary-wislane-balkon-eng-CID3-ID1bOyrI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:24",
+      "ts": 1786530647,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 780,
+        "area": 42.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-12T12:24:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 780
+      }
     }
   ],
   "stats": {
-    "checks": 3473,
-    "sent": 945
+    "checks": 3477,
+    "sent": 948
   },
   "initialized": true,
-  "last_check": "2026-08-12T10:15:09",
+  "last_check": "2026-08-12T10:36:14",
   "backoff_until": 1786414856.7723193
 }
