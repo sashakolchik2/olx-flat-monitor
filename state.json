@@ -2304,7 +2304,8 @@
     "1090676577": 1786499558,
     "1090677018": 1786502709,
     "1090680249": 1786513430,
-    "1090682637": 1786515633
+    "1090682637": 1786515633,
+    "1090683000": 1786516579
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3061,28 +3062,12 @@
     "nowemieszkanie2pokoje40m2wysokistandardklimat|3200|40.0|ursus": 1786498608,
     "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241,
     "nowemieszkanie2pokoje37m2instalatorowochotawa|3000|37.0|wlochy": 1786502709,
-    "czyzynysoltysowska10f2pokeng|2800|37.0|czyzyny": 1786515633
+    "czyzynysoltysowska10f2pokeng|2800|37.0|czyzyny": 1786515633,
+    "2pokoje52m2bezposrednio|2600|52.0|bialoleka": 1786516579
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 39 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 oddzielne pokoje tuż przy metrze Wawrzyszew»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-tuz-przy-metrze-wawrzyszew-CID3-ID1bO9Ue.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:39",
-      "ts": 1786467334,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 600,
-        "area": 39.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-11T18:39:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«2-pokojowe mieszkanie Warszawa Metro Służew»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-metro-sluzew-CID3-ID1bO9Ym.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:41",
       "ts": 1786467334,
@@ -3745,13 +3730,30 @@
       "an": {
         "czynsz_desc": 850
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 500 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«2 Pokoje, 52m2, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-52m2-bezposrednio-CID3-ID1bOoti.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:14",
+      "ts": 1786516579,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 500,
+        "area": 52.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-12T08:14:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3457,
-    "sent": 917
+    "checks": 3461,
+    "sent": 918
   },
   "initialized": true,
-  "last_check": "2026-08-12T06:25:57",
+  "last_check": "2026-08-12T06:46:58",
   "backoff_until": 1786414856.7723193
 }
