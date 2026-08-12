@@ -2303,7 +2303,8 @@
     "1090676523": 1786499241,
     "1090676577": 1786499558,
     "1090677018": 1786502709,
-    "1090680249": 1786513430
+    "1090680249": 1786513430,
+    "1090682637": 1786515633
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3059,28 +3060,12 @@
     "bemowoulkedzierskiego2pokoje46m²balkonosobnak|2800|46.0|bemowo": 1786497970,
     "nowemieszkanie2pokoje40m2wysokistandardklimat|3200|40.0|ursus": 1786498608,
     "nowemieszkanie2pokoje39m2pragapoludniejananow|3100|39.0|pragapoludnie": 1786499241,
-    "nowemieszkanie2pokoje37m2instalatorowochotawa|3000|37.0|wlochy": 1786502709
+    "nowemieszkanie2pokoje37m2instalatorowochotawa|3000|37.0|wlochy": 1786502709,
+    "czyzynysoltysowska10f2pokeng|2800|37.0|czyzyny": 1786515633
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bO9Oz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:37",
-      "ts": 1786467018,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 40.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-11T18:37:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 39 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 oddzielne pokoje tuż przy metrze Wawrzyszew»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-tuz-przy-metrze-wawrzyszew-CID3-ID1bO9Ue.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:39",
       "ts": 1786467334,
@@ -3743,13 +3728,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n   ≈ с медиа около 3820 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Czyżyny | Sołtysowska 10F | 2 Pok | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-soltysowska-10f-2-pok-eng-CID3-ID1bOonr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
+      "ts": 1786515633,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 850,
+        "area": 37.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-12T08:09:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 3453,
-    "sent": 916
+    "checks": 3457,
+    "sent": 917
   },
   "initialized": true,
-  "last_check": "2026-08-12T06:04:57",
+  "last_check": "2026-08-12T06:25:57",
   "backoff_until": 1786414856.7723193
 }
