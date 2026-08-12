@@ -2400,7 +2400,12 @@
     "1090647755": 1786542589,
     "1090764439": 1786544483,
     "1090763790": 1786544483,
-    "1090763492": 1786544483
+    "1090763492": 1786544483,
+    "1090766304": 1786545432,
+    "1090768856": 1786545432,
+    "1090769664": 1786545749,
+    "1090768533": 1786545749,
+    "1090768606": 1786545749
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3217,62 +3222,14 @@
     "dwupokojowemieszkaniewzielonejczesciwoli|3000|39.0|wola": 1786541002,
     "2pokojenabialolecebezposredniobalkongaraz|2700|42.0|bialoleka": 1786541638,
     "mieszkanie2pokojowedowynajecia|2900|38.5|ochota": 1786542270,
-    "2pokoje50m²osobnakuchniajezewskiegoprzyparkup|3400|50.0|ursynow": 1786544483
+    "2pokoje50m²osobnakuchniajezewskiegoprzyparkup|3400|50.0|ursynow": 1786544483,
+    "mieszkanie2pokojowenawynajem|2900|32.0|pradnikczerwony": 1786545432,
+    "2pokojowekomfortowemieszkanienabemowie|2600|50.0|bemowo": 1786545749,
+    "2poziomowemieszkanienatarchominie2pokoje|3000|62.0|bialoleka": 1786545749
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 7 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajem mieszkania Płaszów/Podgórze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-plaszow-podgorze-CID3-ID1bOudu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
-      "ts": 1786526238,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 34.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-12T10:59:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3960 zł/мес\n⚡ Свет/медиа: ≈ 60 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🌐 Интернет: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie 40 m² | Targówek Mieszkaniowy | 3 min do metra | garaż | klimatyzacja | balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-40-m-targowek-mieszkaniowy-3-min-do-metra-garaz-klimatyzacja-balkon-CID3-ID1bOwfS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:21",
-      "ts": 1786527181,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 40.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-12T11:21:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41 м², 2 комнаты\n💰 3299 + czynsz 699 = <b>3998 zł/мес</b>\n   ≈ с медиа около 4688 zł/мес\n⚡ Свет/медиа: ≈ 690 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 690 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokoje 41m kw. Praga Pld, msc parkingowe, klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-41m-kw-praga-pld-msc-parkingowe-klima-CID3-ID1bOwH7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:31",
-      "ts": 1786527811,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3299,
-        "rent": 699,
-        "area": 41.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-12T11:31:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37.4 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 800 zł\n🏢 Этаж: 3\n🏢 агентство\n«Gotowe po remoncie 2 pokoje + piwnica..»\n🔗 <a href=\"https://www.olx.pl/d/oferta/gotowe-po-remoncie-2-pokoje-piwnica-CID3-ID1bOwRo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:34",
       "ts": 1786528126,
@@ -3901,13 +3858,64 @@
       "an": {
         "czynsz_desc": 575
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-CID3-ID1bOK8U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
+      "ts": 1786545432,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-12T16:15:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 62 м², 2 комнаты\n💰 3000 + czynsz 894 = <b>3894 zł/мес</b>\n🚗 Паркинг: 675 zł/мес\n🏢 Этаж: 3\n🏢 агентство\n«2-poziomowe mieszkanie na Tarchominie, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-poziomowe-mieszkanie-na-tarchominie-2-pokoje-CID3-ID1bOKK2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:28",
+      "ts": 1786545749,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 894,
+        "area": 62.0,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-12T16:28:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 675
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 981 = <b>3581 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«2-pokojowe komfortowe mieszkanie na Bemowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-komfortowe-mieszkanie-na-bemowie-CID3-ID1bOL16.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:33",
+      "ts": 1786545749,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 981,
+        "area": 50.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-12T16:33:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3485,
-    "sent": 977
+    "checks": 3488,
+    "sent": 980
   },
   "initialized": true,
-  "last_check": "2026-08-12T14:26:48",
+  "last_check": "2026-08-12T14:42:41",
   "backoff_until": 1786414856.7723193
 }
