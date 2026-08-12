@@ -2358,7 +2358,10 @@
     "1090724010": 1786531910,
     "1090727050": 1786532225,
     "1090725157": 1786532225,
-    "1090724578": 1786532225
+    "1090724578": 1786532225,
+    "1090727894": 1786532857,
+    "1090728965": 1786533171,
+    "1090728799": 1786533171
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3150,62 +3153,14 @@
     "zwyklaumowapowislepomieszczeniegospodarczezie|2800|31.0|srodmiescie": 1786531281,
     "mieszkanieplacbohaterowgettapodgorzeod109|2950|30.0|podgorze": 1786531910,
     "mieszkanie2pokojowestanczykaodzarazukenaghur|3200|37.0|bronowice": 1786532225,
-    "mieszkaniebliskocentrumzmiejscemparkingowym|3000|50.0|wola": 1786532225
+    "mieszkaniebliskocentrumzmiejscemparkingowym|3000|50.0|wola": 1786532225,
+    "2pokojowemieszkaniepocalkowitymremoncie3minut|3000|30.0|bielany": 1786532857,
+    "2niezaleznepokoje40mkwtuzobokzakrzowka|2800|40.0|lagiewnikiborekfalec": 1786533171,
+    "wynajemmieszkania60m2warszawabielany|3400|60.0|bielany": 1786533171
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Komfortowe mieszkanie 42 m² Dębniki Nowe budownictwo Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-42-m-debniki-nowe-budownictwo-klimatyzacja-CID3-ID1bOlAg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:08",
-      "ts": 1786497970,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-12T00:08:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: с 15 августа\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Nowe Mieszkanie 2 pokoje 40m2 wysoki standard klimatyzacja Ursus Habicha 4 Garaż, komórka lokatorska Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-40m2-wysoki-standard-klimatyzacja-ursus-habicha-4-garaz-komorka-lokatorska-warszawa-CID3-ID1bOmLv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:22",
-      "ts": 1786498608,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-12T03:22:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 26 августа\n🏢 Этаж: 3\n👤 от собственника\n«Nowe Mieszkanie 2 pokoje 39m2 Praga Południe Jana Nowaka Jeziorańskiego 13 Garaż Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-39m2-praga-poludnie-jana-nowaka-jezioranskiego-13-garaz-warszawa-CID3-ID1bOmMP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:31",
-      "ts": 1786499241,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-12T03:31:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 200
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 12 августа\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Nowe Mieszkanie 2 pokoje 37m2 Instalatorów Ochota Warszawa Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-37m2-instalatorow-ochota-warszawa-garaz-CID3-ID1bOmUO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 04:38",
       "ts": 1786502709,
@@ -3834,13 +3789,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 490 = <b>3490 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🌐 Интернет: 190 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokojowe mieszkanie po całkowitym remoncie - 3 minuty pieszo do stacji metra Słodowiec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-po-calkowitym-remoncie-3-minuty-pieszo-do-stacji-metra-slodowiec-CID3-ID1bOA9o.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:54",
+      "ts": 1786532857,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 490,
+        "area": 30.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-12T12:54:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 60 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajem mieszkania 60 m2 Warszawa -Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-60-m2-warszawa-bielany-CID3-ID1bOAnZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:59",
+      "ts": 1786533171,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 60.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-12T12:59:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 280 zł + свет по счётчику\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 🏢 агентство\n«2 niezależne pokoje | 40 mkw | tuż obok Zakrzówka!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-40-mkw-tuz-obok-zakrzowka-CID3-ID1bOAqF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:00",
+      "ts": 1786533171,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 620,
+        "area": 40.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": true,
+        "created_iso": "2026-08-12T13:00:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 620
+      }
     }
   ],
   "stats": {
-    "checks": 3481,
-    "sent": 952
+    "checks": 3485,
+    "sent": 955
   },
   "initialized": true,
-  "last_check": "2026-08-12T10:57:16",
+  "last_check": "2026-08-12T11:18:15",
   "backoff_until": 1786414856.7723193
 }
