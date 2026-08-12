@@ -2467,7 +2467,9 @@
     "1090842636": 1786568569,
     "1090842044": 1786568569,
     "1090840644": 1786568569,
-    "1090842280": 1786568569
+    "1090842280": 1786568569,
+    "1090844990": 1786569823,
+    "1090844757": 1786570138
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3318,45 +3320,13 @@
     "mieszkaniedowynajecia2pokojewarszawabielany|3450|38.0|bielany": 1786566999,
     "zoliborz2pokojewkamienicybalkonwidoknazielenb|3700|40.0|zoliborz": 1786567940,
     "mieszkanie41m2klimeckiegobalkonmiejscepostojo|3000|41.0|podgorze": 1786568569,
-    "bezposredniomarszalkowska111a2100|2600|35.0|": 1786568569
+    "bezposredniomarszalkowska111a2100|2600|35.0|": 1786568569,
+    "mieszkanieulkondratowiczametro|3000|34.0|targowek": 1786569823,
+    "mieszkanieulsandomierskastaremiastowysokistan|2410|30.0|staremiasto": 1786570138
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава</b> — 33.2 м², 2 комнаты\n💰 3380 + czynsz 490 = <b>3870 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🌐 Интернет: в цене\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokojowe | 33.20 m2 | Internet w cenie | Przyjazne zwierzętom| PROMO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-33-20-m2-internet-w-cenie-przyjazne-zwierzetom-promo-CID3-ID1bOGOD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:08",
-      "ts": 1786540686,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3380,
-        "rent": 490,
-        "area": 33.2,
-        "district": "",
-        "business": true,
-        "created_iso": "2026-08-12T15:08:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 490
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Dwupokojowe mieszkanie w zielonej części Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-w-zielonej-czesci-woli-CID3-ID1bOGOx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:08",
-      "ts": 1786541002,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 740,
-        "area": 39.0,
-        "district": "Wola",
-        "business": true,
-        "created_iso": "2026-08-12T15:08:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 740
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 53 м², 2 комнаты\n💰 2800 + czynsz 910 = <b>3710 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 3\n🏢 агентство\n«Dwupokojowe mieszkanie na Ruczaju / garaż w cenie / wyposażone i umeblowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-ruczaju-garaz-w-cenie-wyposazone-i-umeblowane-CID3-ID1bOGPF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:09",
       "ts": 1786541002,
@@ -4002,13 +3972,47 @@
       "an": {
         "czynsz_desc": 550
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie ul. Kondratowicza, Metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-kondratowicza-metro-CID3-ID1bP4C2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:11",
+      "ts": 1786569823,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 34.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-12T23:11:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 30 м², 2 комнаты\n💰 2410 + czynsz 690 = <b>3100 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«Mieszkanie | ul. Sandomierska |Stare Miasto | wysoki standard | Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-sandomierska-stare-miasto-wysoki-standard-klimatyzacja-CID3-ID1bP4yh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:08",
+      "ts": 1786570138,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2410,
+        "rent": 690,
+        "area": 30.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-12T23:08:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 690
+      }
     }
   ],
   "stats": {
-    "checks": 3527,
-    "sent": 1011
+    "checks": 3531,
+    "sent": 1013
   },
   "initialized": true,
-  "last_check": "2026-08-12T21:13:24",
+  "last_check": "2026-08-12T21:34:19",
   "backoff_until": 1786414856.7723193
 }
