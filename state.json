@@ -2600,7 +2600,11 @@
     "1090958699": 1786633459,
     "1090961994": 1786634397,
     "1090959724": 1786634397,
-    "1090962317": 1786634710
+    "1090962317": 1786634710,
+    "1090963540": 1786635023,
+    "1090963672": 1786635335,
+    "1090963282": 1786635335,
+    "1090955523": 1786635963
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3517,45 +3521,13 @@
     "mieszkanienawynajem2pok48mprzymetrzelazurowai|3000|48.0|bemowo": 1786630332,
     "mieszkaniedwupokojowenawynajem5miesiecyochota|2900|38.0|mokotow": 1786631585,
     "2pokoje2balkonyparkingklimatyzacjatramwajwola|3000|52.0|podgorzeduchackie": 1786633459,
-    "2pokojowemieszkanienamokotowie|2700|39.0|mokotow": 1786634397
+    "2pokojowemieszkanienamokotowie|2700|39.0|mokotow": 1786634397,
+    "wynajemmieszkaniazbalkonemwsrodmiesciu|4000|40.0|srodmiescie": 1786635335,
+    "dwupokojowetuzprzymetrzebrodno|2400|37.5|targowek": 1786635335
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«2 pokojowe z balkonem ( zwierzolubne : )»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-balkonem-zwierzolubne-CID3-ID1bO7Nf.html\">Открыть на OLX</a>  ·  добавлено 11.08 17:51",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 750,
-        "area": 40.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-11T17:51:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 60 м², 2 комнаты\n💰 3400 + czynsz 250 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 6800 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 агентство\n«Mieszkanie Dwupokojowe Z Ogrodem | 60M² | Kraków, Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-z-ogrodem-60m-krakow-bielany-CID3-ID1bPisJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:47",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3400,
-        "rent": 250,
-        "area": 60.0,
-        "district": "Zwierzyniec",
-        "business": true,
-        "created_iso": "2026-08-13T11:47:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 618 = <b>3418 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Żabiniec, 2 osobne pokoje, idealne dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zabiniec-2-osobne-pokoje-idealne-dla-studentow-CID3-ID1bPkjQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:21",
       "ts": 1786624026,
@@ -4201,13 +4173,47 @@
       "an": {
         "czynsz_desc": 920
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 37.5 м², 2 комнаты\n💰 2400 + czynsz 1100 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Dwupokojowe tuż przy metrze Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-tuz-przy-metrze-brodno-CID3-ID1bPznY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:19",
+      "ts": 1786635335,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 1100,
+        "area": 37.5,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-13T17:19:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1100
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 30 июля\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania z balkonem w Śródmieściu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-z-balkonem-w-srodmiesciu-CID3-ID1bPzug.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:21",
+      "ts": 1786635335,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-13T17:21:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3646,
-    "sent": 1077
+    "checks": 3650,
+    "sent": 1079
   },
   "initialized": true,
-  "last_check": "2026-08-13T15:25:16",
+  "last_check": "2026-08-13T15:46:10",
   "backoff_until": 1786612967.7557585
 }
