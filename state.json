@@ -2655,7 +2655,8 @@
     "1091021025": 1786652034,
     "1091020349": 1786652353,
     "1091022712": 1786652670,
-    "1091023997": 1786653302
+    "1091023997": 1786653302,
+    "1091028485": 1786654565
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3604,28 +3605,12 @@
     "wynajmebezposredniodwupokojowemieszkanienagor|2200|31.0|mokotow": 1786652034,
     "nawynajem2pokoje36mapartamentyrakow|3200|36.0|wlochy": 1786652353,
     "2pokojowemieszkaniezbalkonemwnowejkamienicypr|3175|32.69|pragapolnoc": 1786652670,
-    "wynajemmieszkania|2300|38.0|grzegorzki": 1786653302
+    "wynajemmieszkania|2300|38.0|grzegorzki": 1786653302,
+    "2pokojowemieszkanienawynajemulpoznanskakrakow|3000|40.0|krowodrza": 1786654565
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2900 + czynsz 990 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Mieszknie do wynajęcia na kameralnym osiedlu 45m, Białołęka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszknie-do-wynajecia-na-kameralnym-osiedlu-45m-bialoleka-CID3-ID1bPuc9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:34",
-      "ts": 1786629391,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 990,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-13T15:34:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 990
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40.73 м², 2 комнаты\n💰 3200 + czynsz 530 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Zamieszkaj po swojemu – Krowodrza/Wybickiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zamieszkaj-po-swojemu-krowodrza-wybickiego-CID3-ID1bPuKv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:45",
       "ts": 1786629704,
@@ -4288,13 +4273,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 480 = <b>3480 zł/мес</b>\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe mieszkanie na WYNAJEM Ul. Poznańska KRAKÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-ul-poznanska-krakow-CID3-ID1bPQlD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:43",
+      "ts": 1786654565,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 480,
+        "area": 40.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-13T22:43:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3676,
-    "sent": 1109
+    "checks": 3680,
+    "sent": 1110
   },
   "initialized": true,
-  "last_check": "2026-08-13T20:35:11",
+  "last_check": "2026-08-13T20:56:16",
   "backoff_until": 1786650126.0948234
 }
