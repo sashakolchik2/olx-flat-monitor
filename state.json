@@ -2604,7 +2604,12 @@
     "1090963540": 1786635023,
     "1090963672": 1786635335,
     "1090963282": 1786635335,
-    "1090955523": 1786635963
+    "1090955523": 1786635963,
+    "1090966633": 1786636276,
+    "1090955746": 1786636590,
+    "1090967483": 1786636901,
+    "1090970300": 1786636901,
+    "1090969419": 1786637215
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3523,45 +3528,13 @@
     "2pokoje2balkonyparkingklimatyzacjatramwajwola|3000|52.0|podgorzeduchackie": 1786633459,
     "2pokojowemieszkanienamokotowie|2700|39.0|mokotow": 1786634397,
     "wynajemmieszkaniazbalkonemwsrodmiesciu|4000|40.0|srodmiescie": 1786635335,
-    "dwupokojowetuzprzymetrzebrodno|2400|37.5|targowek": 1786635335
+    "dwupokojowetuzprzymetrzebrodno|2400|37.5|targowek": 1786635335,
+    "witastwoszastaremiasto41m1salonoddzielnasypia|3300|41.0|staremiasto": 1786636276,
+    "wlascicielwynajmiemieszkaniedwupokojowezbalko|2800|55.0|grzegorzki": 1786636901
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 618 = <b>3418 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Żabiniec, 2 osobne pokoje, idealne dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zabiniec-2-osobne-pokoje-idealne-dla-studentow-CID3-ID1bPkjQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:21",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 618,
-        "area": 45.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-13T12:21:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 300 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3200 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 8\n🐾 можно с животными · 👤 от собственника\n«Warszawa/Bródno ul. Toruńska 46m2, dwupokojowe. Wolne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-brodno-ul-torunska-46m2-dwupokojowe-wolne-CID3-ID1bPkoo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:22",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 300,
-        "area": 46.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-13T12:22:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 2750 + czynsz 418 = <b>3168 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3438 zł\n🏢 Этаж: 8\n🏢 агентство\n«Najem już od 6 m-cy I Bezpośrednio I Meble i AGD»\n🔗 <a href=\"https://www.olx.pl/d/oferta/najem-juz-od-6-m-cy-i-bezposrednio-i-meble-i-agd-CID3-ID1bPkVx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:33",
       "ts": 1786624026,
@@ -4207,13 +4180,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«Wita Stwosza | Stare miasto | 41m1 | salon + oddzielna sypialnia | NOWE | last floor»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wita-stwosza-stare-miasto-41m1-salon-oddzielna-sypialnia-nowe-last-floor-CID3-ID1bPAg1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
+      "ts": 1786636276,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 500,
+        "area": 41.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-13T17:38:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Właściciel wynajmie mieszkanie dwu pokojowe z balkonem grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-mieszkanie-dwu-pokojowe-z-balkonem-grzegorzki-CID3-ID1bPAtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:43",
+      "ts": 1786636901,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 500,
+        "area": 55.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-13T17:43:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3650,
-    "sent": 1079
+    "checks": 3654,
+    "sent": 1081
   },
   "initialized": true,
-  "last_check": "2026-08-13T15:46:10",
+  "last_check": "2026-08-13T16:07:02",
   "backoff_until": 1786612967.7557585
 }
