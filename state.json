@@ -2536,7 +2536,14 @@
     "1090908931": 1786618008,
     "1090908107": 1786618008,
     "1090908894": 1786618327,
-    "1090905648": 1786618327
+    "1090905648": 1786618327,
+    "1090912477": 1786619267,
+    "1090618889": 1786619267,
+    "1090911443": 1786619267,
+    "1090911310": 1786619267,
+    "1090911601": 1786619267,
+    "1090911061": 1786619267,
+    "1090913788": 1786619895
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3420,79 +3427,15 @@
     "najemjuzod6mcyibezposrednioimebleiagd|2750|46.0|biezanowprokocim": 1786618008,
     "osobnasypialniaparkingduzakuchnia54m2zwierzet|1999|54.0|wawer": 1786618008,
     "mieszkanie37m²nawynajemmkabaty290m|2800|37.0|ursynow": 1786618327,
-    "warszawabrodnoultorunska46m2dwupokojowewolne|2800|46.0|targowek": 1786618327
+    "warszawabrodnoultorunska46m2dwupokojowewolne|2800|46.0|targowek": 1786618327,
+    "przestronnejasne2pokojowemieszkaniezbalkonem5|2800|54.0|czyzyny": 1786619267,
+    "2pokojowezbalkonemzwierzolubne|2600|40.0|pradnikbialy": 1786619267,
+    "przestronnybalkonobokmetrabezprowizji|3370|47.5|bielany": 1786619267,
+    "mirow2pokojeciche|3500|40.0|srodmiescie": 1786619895
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2500 + czynsz 750 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Ciche mieszkanie 2 pokoje 61 m2-os. Żabiniec blisko Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-mieszkanie-2-pokoje-61-m2-os-zabiniec-blisko-centrum-CID3-ID1bP0CY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:28",
-      "ts": 1786563536,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 750,
-        "area": 60.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-12T21:28:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 715 = <b>3915 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 8\n👤 от собственника\n«M2 2-pokoje Warszawa, Śródmieście, Centrum, Metro ONZ/Daszyńskiego ul.Srebrna Bezpośrednio.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/m2-2-pokoje-warszawa-srodmiescie-centrum-metro-onz-daszynskiego-ul-srebrna-bezposrednio-CID3-ID1bP0Gv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:29",
-      "ts": 1786563536,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 715,
-        "area": 42.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-12T21:29:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«Wynajem 34m2, 2 pokoje Wiśniowa Stary Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-34m2-2-pokoje-wisniowa-stary-mokotow-CID3-ID1bP1dn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:39",
-      "ts": 1786564478,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 500,
-        "area": 34.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-12T21:39:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3450 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia 2 pokoje Warszawa Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-warszawa-bielany-CID3-ID1bP3kn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:28",
-      "ts": 1786566999,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3450,
-        "rent": null,
-        "area": 38.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-12T22:28:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 40 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Żoliborz | 2 pokoje w kamienicy | Balkon | Widok na zieleń |blisko Metra Dw. Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zoliborz-2-pokoje-w-kamienicy-balkon-widok-na-zielen-blisko-metra-dw-gdanski-CID3-ID1bP3LN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
       "ts": 1786567940,
@@ -4104,13 +4047,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«2 pokojowe z balkonem ( zwierzolubne : )»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-balkonem-zwierzolubne-CID3-ID1bO7Nf.html\">Открыть на OLX</a>  ·  добавлено 11.08 17:51",
+      "ts": 1786619267,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 750,
+        "area": 40.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-11T17:51:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 47.5 м², 2 комнаты\n💰 3370 + czynsz 415 = <b>3785 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4212 zł\n🏢 Этаж: 6\n🏢 агентство\n«Przestronny balkon | Obok metra | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronny-balkon-obok-metra-bez-prowizji-CID3-ID1bPlVp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:53",
+      "ts": 1786619267,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3370,
+        "rent": 415,
+        "area": 47.5,
+        "district": "Bielany",
+        "business": true,
+        "created_iso": "2026-08-13T12:53:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": 415
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 54 м², 2 комнаты\n💰 2800 + czynsz 950 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 25.08.2026\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Przestronne, jasne 2-pokojowe mieszkanie z balkonem 54m2 / Osiedle Kolorowe (Kraków / Nowa Huta)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-jasne-2-pokojowe-mieszkanie-z-balkonem-54m2-osiedle-kolorowe-krakow-nowa-huta-CID3-ID1bPmax.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:58",
+      "ts": 1786619267,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 950,
+        "area": 54.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-13T12:58:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«Mirów, 2 pokoje, ciche»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mirow-2-pokoje-ciche-CID3-ID1bPmwG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:04",
+      "ts": 1786619895,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 500,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-13T13:04:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3623,
-    "sent": 1044
+    "checks": 3627,
+    "sent": 1048
   },
   "initialized": true,
-  "last_check": "2026-08-13T10:57:30",
+  "last_check": "2026-08-13T11:18:24",
   "backoff_until": 1786612967.7557585
 }
