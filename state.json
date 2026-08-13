@@ -2647,7 +2647,10 @@
     "1091004858": 1786647923,
     "1091008162": 1786648558,
     "1091007609": 1786648558,
-    "1091011520": 1786649193
+    "1091011520": 1786649193,
+    "1091011331": 1786650135,
+    "1091014243": 1786650135,
+    "1091013239": 1786650135
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3590,45 +3593,13 @@
     "mieszkanie2pokojowepoddasze456m2klimatyzacjas|2600|45.0|debniki": 1786647923,
     "mieszkanie2pokojoweporemonciestaraochotablisk|3000|38.0|ochota": 1786647923,
     "mieszkaniedowynajecia|2300|48.0|bienczyce": 1786648558,
-    "wynajme2pokojowemetroslodowiec|2500|37.0|bielany": 1786649193
+    "wynajme2pokojowemetroslodowiec|2500|37.0|bielany": 1786649193,
+    "2pokojowemieszkanieal29listopada52m2balkon|2850|52.0|pradnikczerwony": 1786650135,
+    "dowynajeciaprzytulne2pokojeprzyplacunarutowic|3200|31.0|ochota": 1786650135
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 56 м², 2 комнаты\n💰 2800 + czynsz 933 = <b>3733 zł/мес</b>\n   ≈ с медиа около 3883 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🌐 Интернет: 90 zł/мес\n🏢 Этаж: 3\n🏢 агентство\n«Olsza ok. 29-Listopada 2-pokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/olsza-ok-29-listopada-2-pokojowe-do-wynajecia-CID3-ID1bPsfH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:55",
-      "ts": 1786626573,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 933,
-        "area": 56.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-13T14:55:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 29 м², 2 комнаты\n💰 3350 + czynsz 577 = <b>3927 zł/мес</b>\n   ≈ с медиа около 4077 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: 250 zł/мес\n🌐 Интернет: 50 zł/мес\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2-pokojowe mieszkanie z tarasem Rakowicka 20G»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-tarasem-rakowicka-20g-CID3-ID1bPsLY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:06",
-      "ts": 1786627198,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3350,
-        "rent": 577,
-        "area": 29.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-13T15:06:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 37.5 м², 2 комнаты\n💰 2650 + czynsz 660 = <b>3310 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie dwupokojowe Kraków Rżąka, ul. Rydygiera - na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-krakow-rzaka-ul-rydygiera-na-wynajem-CID3-ID1bPsUF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:08",
       "ts": 1786627198,
@@ -4274,13 +4245,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 2850 + czynsz 580 = <b>3430 zł/мес</b>\n   ≈ с медиа около 4010 zł/мес\n⚡ Свет/медиа: ≈ 580 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2850 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie, al. 29 listopada, 52 m2, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-al-29-listopada-52-m2-balkon-CID3-ID1bPLSX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:21",
+      "ts": 1786650135,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2850,
+        "rent": 580,
+        "area": 52.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-13T21:21:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": 580
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 31 м², 2 комнаты\n💰 3200 + czynsz 512 = <b>3712 zł/мес</b>\n   ≈ с медиа около 3912 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia przytulne 2 pokoje przy Placu Narutowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-przytulne-2-pokoje-przy-placu-narutowicza-CID3-ID1bPMDW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:34",
+      "ts": 1786650135,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 512,
+        "area": 31.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-13T21:34:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 511
+      }
     }
   ],
   "stats": {
-    "checks": 3665,
-    "sent": 1103
+    "checks": 3669,
+    "sent": 1105
   },
   "initialized": true,
-  "last_check": "2026-08-13T19:31:59",
+  "last_check": "2026-08-13T19:58:14",
   "backoff_until": 1786650126.0948234
 }
