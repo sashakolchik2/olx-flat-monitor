@@ -2530,7 +2530,13 @@
     "1090900798": 1786616447,
     "1090904082": 1786616758,
     "1090905366": 1786617070,
-    "1090903545": 1786617070
+    "1090903545": 1786617070,
+    "1090907138": 1786617696,
+    "1090907765": 1786618008,
+    "1090908931": 1786618008,
+    "1090908107": 1786618008,
+    "1090908894": 1786618327,
+    "1090905648": 1786618327
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3410,79 +3416,15 @@
     "2pokojewidokoweipieknebliskotramwaj|2600|36.0|bienczyce": 1786614563,
     "mieszkaniedwupokojowezogrodem60m²krakowbielan|3400|60.0|zwierzyniec": 1786615197,
     "wynajmemieszkanie|3699|37.0|wola": 1786615822,
-    "zabiniec2osobnepokojeidealnedlastudentow|2800|45.0|krowodrza": 1786617070
+    "zabiniec2osobnepokojeidealnedlastudentow|2800|45.0|krowodrza": 1786617070,
+    "najemjuzod6mcyibezposrednioimebleiagd|2750|46.0|biezanowprokocim": 1786618008,
+    "osobnasypialniaparkingduzakuchnia54m2zwierzet|1999|54.0|wawer": 1786618008,
+    "mieszkanie37m²nawynajemmkabaty290m|2800|37.0|ursynow": 1786618327,
+    "warszawabrodnoultorunska46m2dwupokojowewolne|2800|46.0|targowek": 1786618327
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 50 m2 Campus UJ Bobrzyńskiego z miejscem postojowym w garażu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50-m2-campus-uj-bobrzynskiego-z-miejscem-postojowym-w-garazu-CID3-ID1bOYrG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:49",
-      "ts": 1786561962,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1000,
-        "area": 50.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-12T20:49:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę Nowy Apartament / Mieszkanie 2-pokoje Wysoki Standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-nowy-apartament-mieszkanie-2-pokoje-wysoki-standard-CID3-ID1bOZjF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:03",
-      "ts": 1786561962,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 500,
-        "area": 33.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-12T21:03:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 38.5 м², 2 комнаты\n💰 3000 + czynsz 520 = <b>3520 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 80 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Prądnik Biały, Pachonskiego - bez prowizji.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-pradnik-bialy-pachonskiego-bez-prowizji-CID3-ID1bOZLX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:12",
-      "ts": 1786562905,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 520,
-        "area": 38.5,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-12T21:12:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": 520
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«bez prowizji*wysoki standard*ciche* jasne*garaż*Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizjiwysoki-standardciche-jasnegarazzablocie-CID3-ID1bOZOK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:13",
-      "ts": 1786563536,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3350,
-        "rent": 550,
-        "area": 43.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-12T21:13:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2500 + czynsz 750 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Ciche mieszkanie 2 pokoje 61 m2-os. Żabiniec blisko Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-mieszkanie-2-pokoje-61-m2-os-zabiniec-blisko-centrum-CID3-ID1bP0CY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:28",
       "ts": 1786563536,
@@ -4094,13 +4036,81 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 2750 + czynsz 418 = <b>3168 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3438 zł\n🏢 Этаж: 8\n🏢 агентство\n«Najem już od 6 m-cy I Bezpośrednio I Meble i AGD»\n🔗 <a href=\"https://www.olx.pl/d/oferta/najem-juz-od-6-m-cy-i-bezposrednio-i-meble-i-agd-CID3-ID1bPkVx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:33",
+      "ts": 1786618008,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 418,
+        "area": 46.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-13T12:33:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 418
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 54 м², 2 комнаты\n💰 1999 + czynsz 1300 = <b>3299 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Osobna Sypialnia | Parking | Duża Kuchnia | 54 m2 | Zwierzeta Akceptowalne | Ogród ogólnodostepny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/osobna-sypialnia-parking-duza-kuchnia-54-m2-zwierzeta-akceptowalne-ogrod-ogolnodostepny-CID3-ID1bPlfl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:39",
+      "ts": 1786618008,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 1999,
+        "rent": 1300,
+        "area": 54.0,
+        "district": "Wawer",
+        "business": true,
+        "created_iso": "2026-08-13T12:39:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1300
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 300 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3200 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 8\n🐾 можно с животными · 👤 от собственника\n«Warszawa/Bródno ul. Toruńska 46m2, dwupokojowe. Wolne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-brodno-ul-torunska-46m2-dwupokojowe-wolne-CID3-ID1bPkoo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:22",
+      "ts": 1786618327,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 300,
+        "area": 46.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-13T12:22:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 727 = <b>3527 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 37 m² na wynajem – M Kabaty - 290m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-37-m-na-wynajem-m-kabaty-290m-CID3-ID1bPleK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:39",
+      "ts": 1786618327,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 727,
+        "area": 37.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-13T12:39:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3619,
-    "sent": 1040
+    "checks": 3623,
+    "sent": 1044
   },
   "initialized": true,
-  "last_check": "2026-08-13T10:36:30",
+  "last_check": "2026-08-13T10:57:30",
   "backoff_until": 1786612967.7557585
 }
