@@ -2470,6 +2470,7 @@
     "1090842280": 1786568569,
     "1090844990": 1786569823,
     "1090844757": 1786570138,
+<<<<<<< Updated upstream
     "1090847093": 1786571703,
     "1090848233": 1786572334,
     "1090849693": 1786574210,
@@ -2479,6 +2480,16 @@
     "1090850174": 1786574838,
     "1090850148": 1786574838,
     "1090850462": 1786575781
+=======
+    "1090850099": 1786582009,
+    "1090849693": 1786582009,
+    "1090848233": 1786582009,
+    "1090850462": 1786582009,
+    "1090850174": 1786582009,
+    "1090850071": 1786582009,
+    "1090849602": 1786582009,
+    "1090847093": 1786582009
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3332,15 +3343,41 @@
     "bezposredniomarszalkowska111a2100|2600|35.0|": 1786568569,
     "mieszkanieulkondratowiczametro|3000|34.0|targowek": 1786569823,
     "mieszkanieulsandomierskastaremiastowysokistan|2410|30.0|staremiasto": 1786570138,
+<<<<<<< Updated upstream
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786572334,
     "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786574210,
     "dowynajeciazadbaneodswiezonemieszkanieopowier|2600|32.0|krowodrza": 1786574838,
     "2pokoje37mwynajmegrojeckarogbanachataniood1pa|2600|37.0|ochota": 1786574838
+=======
+    "dowynajeciazadbaneodswiezonemieszkanieopowier|2600|32.0|krowodrza": 1786582009,
+    "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786582009,
+    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
+=======
+      "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 3400 + czynsz 575 = <b>3975 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje (50m²) + osobna kuchnia | Jeżewskiego przy Parku | Po remoncie | Metro Kabaty»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-50m-osobna-kuchnia-jezewskiego-przy-parku-po-remoncie-metro-kabaty-CID3-ID1bOJpy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:01",
+      "ts": 1786544483,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 575,
+        "area": 50.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-12T16:01:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 575
+      }
+    },
+    {
+>>>>>>> Stashed changes
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-CID3-ID1bOK8U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
       "ts": 1786545432,
       "city": "krakow",
@@ -3953,8 +3990,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Czyżyny</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 46M2 osobna kuchnia dwa oddzielne pokoje centralna park galicyjska kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-46m2-osobna-kuchnia-dwa-oddzielne-pokoje-centralna-park-galicyjska-krakow-CID3-ID1bP5sl.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:51",
       "ts": 1786572334,
+=======
+      "text": "🏠 <b>Краков, Czyżyny</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 46M2 osobna kuchnia dwa oddzielne pokoje GARAŻ PODZIEMNY centralna park galicyjska kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-46m2-osobna-kuchnia-dwa-oddzielne-pokoje-garaz-podziemny-centralna-park-galicyjska-krakow-CID3-ID1bP5sl.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:51",
+      "ts": 1786582009,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -3966,12 +4008,20 @@
         "created_iso": "2026-08-12T23:51:30+02:00"
       },
       "an": {
+<<<<<<< Updated upstream
         "czynsz_desc": null
+=======
+        "czynsz_desc": 600
+>>>>>>> Stashed changes
       }
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 37.5 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4600 zł\n📅 Заселение: с 31 августа\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Praga-Południe | ul. Międzynarodowa | 2 pokoje | 37,5 m² | balkon | osobna kuchnia | zwierzęta | 10 min do centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-ul-miedzynarodowa-2-pokoje-37-5-m-balkon-osobna-kuchnia-zwierzeta-10-min-do-centrum-CID3-ID1bP5Oq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:17",
+<<<<<<< Updated upstream
       "ts": 1786574210,
+=======
+      "ts": 1786582009,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3988,7 +4038,11 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 32 м², 2 комнаты\n💰 2600 + czynsz 790 = <b>3390 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia zadbane, odświeżone mieszkanie o powierzchni 32 m², położone na parterze przy ul. Wrocławskiej w Krakowie, w dzielnicy Krowodrza.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-zadbane-odswiezone-mieszkanie-o-powierzchni-32-m-polozone-na-parterze-przy-ul-wroclawskiej-w-krakowie-w-dzielnicy-krowodrza-CID3-ID1bP5Vr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:32",
+<<<<<<< Updated upstream
       "ts": 1786574838,
+=======
+      "ts": 1786582009,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -4002,6 +4056,7 @@
       "an": {
         "czynsz_desc": null
       }
+<<<<<<< Updated upstream
     },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 760 = <b>3360 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3360 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje, 37m, wynajmę, Grójecka róg Banacha, tanio, od 1 października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-37m-wynajme-grojecka-rog-banacha-tanio-od-1-pazdziernika-CID3-ID1bP5Xe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:33",
@@ -4027,5 +4082,15 @@
   },
   "initialized": true,
   "last_check": "2026-08-13T00:42:12",
+=======
+    }
+  ],
+  "stats": {
+    "checks": 3535,
+    "sent": 1016
+  },
+  "initialized": true,
+  "last_check": "2026-08-13T01:02:37",
+>>>>>>> Stashed changes
   "backoff_until": 1786414856.7723193
 }
