@@ -2526,7 +2526,11 @@
     "1090894443": 1786614563,
     "1090898229": 1786615197,
     "1090897483": 1786615510,
-    "1090899939": 1786615822
+    "1090899939": 1786615822,
+    "1090900798": 1786616447,
+    "1090904082": 1786616758,
+    "1090905366": 1786617070,
+    "1090903545": 1786617070
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3405,28 +3409,12 @@
     "38m2poktargowekbrodnobliskostacjimetrobrodno2|2500|38.0|targowek": 1786614246,
     "2pokojewidokoweipieknebliskotramwaj|2600|36.0|bienczyce": 1786614563,
     "mieszkaniedwupokojowezogrodem60m²krakowbielan|3400|60.0|zwierzyniec": 1786615197,
-    "wynajmemieszkanie|3699|37.0|wola": 1786615822
+    "wynajmemieszkanie|3699|37.0|wola": 1786615822,
+    "zabiniec2osobnepokojeidealnedlastudentow|2800|45.0|krowodrza": 1786617070
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem WOLA - odmalowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-wola-odmalowane-CID3-ID1bOYrA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:49",
-      "ts": 1786561334,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 700,
-        "area": 39.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-12T20:49:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 50 m2 Campus UJ Bobrzyńskiego z miejscem postojowym w garażu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50-m2-campus-uj-bobrzynskiego-z-miejscem-postojowym-w-garazu-CID3-ID1bOYrG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:49",
       "ts": 1786561962,
@@ -4089,13 +4077,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 618 = <b>3418 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Żabiniec, 2 osobne pokoje, idealne dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zabiniec-2-osobne-pokoje-idealne-dla-studentow-CID3-ID1bPkjQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:21",
+      "ts": 1786617070,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 618,
+        "area": 45.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-13T12:21:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3615,
-    "sent": 1039
+    "checks": 3619,
+    "sent": 1040
   },
   "initialized": true,
-  "last_check": "2026-08-13T10:15:41",
+  "last_check": "2026-08-13T10:36:30",
   "backoff_until": 1786612967.7557585
 }
