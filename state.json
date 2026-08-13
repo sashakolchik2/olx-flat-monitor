@@ -2641,7 +2641,12 @@
     "1090996009": 1786645700,
     "1090996742": 1786646337,
     "1090999568": 1786646970,
-    "1091000097": 1786647287
+    "1091000097": 1786647287,
+    "1091005475": 1786647923,
+    "1091006144": 1786647923,
+    "1091004858": 1786647923,
+    "1091008162": 1786648558,
+    "1091007609": 1786648558
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3580,62 +3585,14 @@
     "jagiellyursusodswiezone2pokoje28m²miejscepark|2800|28.0|ursus": 1786645700,
     "mieszkaniedowynajecia2pokoje|4000|38.0|ursynow": 1786646337,
     "mieszkanie34m2aviakrakow|2500|34.0|czyzyny": 1786646970,
-    "mieszkanie2pokojewarszawabialolekanowodworyul|3000|40.0|bialoleka": 1786647287
+    "mieszkanie2pokojewarszawabialolekanowodworyul|3000|40.0|bialoleka": 1786647287,
+    "mieszkanie2pokojowepoddasze456m2klimatyzacjas|2600|45.0|debniki": 1786647923,
+    "mieszkanie2pokojoweporemonciestaraochotablisk|3000|38.0|ochota": 1786647923,
+    "mieszkaniedowynajecia|2300|48.0|bienczyce": 1786648558
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 50 м², 2 комнаты\n💰 2999 + czynsz 730 = <b>3729 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2 Osobne Pokoje | Osobna kuchnia | 50 m2 | Winda | Piwnica | Balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-osobna-kuchnia-50-m2-winda-piwnica-balkon-CID3-ID1bPq1x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:12",
-      "ts": 1786624378,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2999,
-        "rent": 730,
-        "area": 50.0,
-        "district": "Żoliborz",
-        "business": true,
-        "created_iso": "2026-08-13T14:12:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": 730
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 47.5 м², 2 комнаты\n💰 2500 + czynsz 850 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«ul.Sołtysowska, 47.5 m2, 2 pokoje, kuchnia, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-soltysowska-47-5-m2-2-pokoje-kuchnia-balkon-CID3-ID1bPqEH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:24",
-      "ts": 1786624692,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 850,
-        "area": 47.5,
-        "district": "Nowa Huta",
-        "business": true,
-        "created_iso": "2026-08-13T14:24:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 1050 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 40 m² na wynajem – bezpośrednio od właściciela, bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40-m-na-wynajem-bezposrednio-od-wlasciciela-bez-prowizji-CID3-ID1bPqXs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
-      "ts": 1786625320,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1050,
-        "area": 40.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-13T14:30:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1050
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n👤 от собственника\n«Mieszkanie do wynajęcia .»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bPqZE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:31",
       "ts": 1786625320,
@@ -4264,13 +4221,64 @@
       "an": {
         "czynsz_desc": 1000
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 45 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 6 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe + poddasze, 45+6 m2, klimatyzacja - Szuwarowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-poddasze-45-6-m2-klimatyzacja-szuwarowa-CID3-ID1bPKmw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:55",
+      "ts": 1786647923,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 45.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-13T20:55:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2 pokojowe po remoncie Stara Ochota, blisko centrum W-wy.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-po-remoncie-stara-ochota-blisko-centrum-w-wy-CID3-ID1bPKxi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:58",
+      "ts": 1786647923,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 950,
+        "area": 38.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-13T20:58:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 48 м², 2 комнаты\n💰 2300 + czynsz 800 = <b>3100 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bPKUW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:04",
+      "ts": 1786648558,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 800,
+        "area": 48.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-13T21:04:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3658,
-    "sent": 1099
+    "checks": 3662,
+    "sent": 1102
   },
   "initialized": true,
-  "last_check": "2026-08-13T18:54:58",
+  "last_check": "2026-08-13T19:16:08",
   "backoff_until": 1786612967.7557585
 }
