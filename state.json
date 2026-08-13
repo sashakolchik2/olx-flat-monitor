@@ -2632,7 +2632,9 @@
     "1090985766": 1786642846,
     "1090988107": 1786643160,
     "1090988646": 1786643160,
-    "1090988357": 1786643160
+    "1090988357": 1786643160,
+    "1090990394": 1786643789,
+    "1090992595": 1786644101
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3564,28 +3566,12 @@
     "wynajmeprzytulnemieszkanie35m²warszawaulbatal|3000|35.0|bemowo": 1786641283,
     "jasnemieszkaniedowynajeciaulwloska|2600|36.0|podgorzeduchackie": 1786642846,
     "nowoczesnyapartamentzogrodkiem2pokojelema|3000|45.0|": 1786643160,
-    "mieszkaniedowynajecia|4000|44.0|mokotow": 1786643160
+    "mieszkaniedowynajecia|4000|44.0|mokotow": 1786643160,
+    "mieszkanie2pokojowe2pokojewapartamentowcubial|2500|35.0|bialoleka": 1786644101
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 750 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem – 2 pokoje, 46 m² + garaż – Ebejot, Skorosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokoje-46-m-garaz-ebejot-skorosze-CID3-ID1bPnAy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 46.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-13T13:23:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wilanów</b> — 41.1 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: в цене\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia WILANÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-wilanow-CID3-ID1bPnBx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
       "ts": 1786624026,
@@ -4248,13 +4234,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3140 zł/мес\n⚡ Свет/медиа: ≈ 40 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 40 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe / 2 pokoje w apartamentowcu Białołęka - Nowodwory»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-2-pokoje-w-apartamentowcu-bialoleka-nowodwory-CID3-ID1bPH0L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:55",
+      "ts": 1786644101,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 35.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-13T19:55:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 3673,
-    "sent": 1092
+    "checks": 3677,
+    "sent": 1093
   },
   "initialized": true,
-  "last_check": "2026-08-13T17:46:11",
+  "last_check": "2026-08-13T18:07:01",
   "backoff_until": 1786612967.7557585
 }
