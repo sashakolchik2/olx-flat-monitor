@@ -2478,7 +2478,8 @@
     "1090850071": 1786582009,
     "1090849602": 1786582009,
     "1090847093": 1786582009,
-    "1090853238": 1786586069
+    "1090853238": 1786586069,
+    "1090858054": 1786599168
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3335,28 +3336,12 @@
     "dowynajeciazadbaneodswiezonemieszkanieopowier|2600|32.0|krowodrza": 1786582009,
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786582009,
     "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009,
-    "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069
+    "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069,
+    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786599168
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-CID3-ID1bOK8U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
-      "ts": 1786545432,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 500,
-        "area": 32.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-12T16:15:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 62 м², 2 комнаты\n💰 3000 + czynsz 894 = <b>3894 zł/мес</b>\n🚗 Паркинг: 675 zł/мес\n🏢 Этаж: 3\n🏢 агентство\n«2-poziomowe mieszkanie na Tarchominie, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-poziomowe-mieszkanie-na-tarchominie-2-pokoje-CID3-ID1bOKK2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:28",
       "ts": 1786545749,
@@ -4019,13 +4004,30 @@
       "an": {
         "czynsz_desc": 665
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 760 = <b>3760 zł/мес</b>\n🏢 Этаж: 7\n👤 от собственника\n«Dwa pokoje, ciche , super lokalizacja 200 m od stacji metra Wierzbno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-ciche-super-lokalizacja-200-m-od-stacji-metra-wierzbno-CID3-ID1bP80K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:12",
+      "ts": 1786599168,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 760,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-13T07:12:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3586,
-    "sent": 1017
+    "checks": 3590,
+    "sent": 1018
   },
   "initialized": true,
-  "last_check": "2026-08-13T05:27:42",
+  "last_check": "2026-08-13T05:48:35",
   "backoff_until": 1786414856.7723193
 }
