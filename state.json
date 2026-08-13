@@ -2659,7 +2659,11 @@
     "1091028485": 1786654565,
     "1091029591": 1786655201,
     "1091031281": 1786655517,
-    "1091032032": 1786655835
+    "1091032032": 1786655835,
+    "1091033224": 1786656468,
+    "1091033071": 1786656786,
+    "1091032797": 1786656786,
+    "1091033749": 1786657102
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3611,62 +3615,14 @@
     "wynajemmieszkania|2300|38.0|grzegorzki": 1786653302,
     "2pokojowemieszkanienawynajemulpoznanskakrakow|3000|40.0|krowodrza": 1786654565,
     "przytulnemieszkanie2pokojowezbalkonem|3400|40.0|bemowo": 1786655517,
-    "mieszkanie2pokojowezduzymtarasembronowice|3200|38.0|bronowice": 1786655835
+    "mieszkanie2pokojowezduzymtarasembronowice|3200|38.0|bronowice": 1786655835,
+    "mieszkaniedwupokojwezablociepierwszynajem|3100|36.0|podgorze": 1786656468,
+    "dowynajecia2pokojezprywatnymogrodkiemrzaka442|3200|44.23|biezanowprokocim": 1786656786,
+    "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«BEZPOŚREDNIO | BEZ PROWIZJI | Saska Kępa 44 m² – po remoncie! Przyjazne dla studentów i zwierząt!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-bez-prowizji-saska-kepa-44-m-po-remoncie-przyjazne-dla-studentow-i-zwierzat-CID3-ID1bPwA2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:02",
-      "ts": 1786630332,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1000,
-        "area": 44.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-13T16:02:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37.55 м², 2 комнаты\n💰 3099 + czynsz 540 = <b>3639 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Lokal 2-pokojowy – Przyjaźni polsko-węgierskiej 6A/304 – bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lokal-2-pokojowy-przyjazni-polsko-wegierskiej-6a-304-bez-prowizji-CID3-ID1bPwBr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:03",
-      "ts": 1786630332,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3099,
-        "rent": 540,
-        "area": 37.55,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-13T16:03:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 540
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 646 = <b>3546 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3550 zł\n📅 Заселение: с 25.08.2026\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie dwupokojowe na wynajem 5 miesięcy Ochota Park Szczęśliwicki WUM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-na-wynajem-5-miesiecy-ochota-park-szczesliwicki-wum-CID3-ID1bPvz2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:21",
-      "ts": 1786631585,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 646,
-        "area": 38.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-13T16:21:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 646
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4330 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje | 2 balkony | parking | klimatyzacja | tramwaj | Wola Duchacka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-2-balkony-parking-klimatyzacja-tramwaj-wola-duchacka-CID3-ID1bPyjO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:56",
       "ts": 1786633459,
@@ -4295,13 +4251,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3100 + czynsz 640 = <b>3740 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dwupokojwe zabłocie | Pierwszy najem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojwe-zablocie-pierwszy-najem-CID3-ID1bPRA4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:17",
+      "ts": 1786656468,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": null,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-13T23:17:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 640
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 44.23 м², 2 комнаты\n💰 3200 + czynsz 500 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia 2 pokoje z prywatnym ogródkiem | Rżąka | 44,23 m² | Dla szukających lokum na stałe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokoje-z-prywatnym-ogrodkiem-rzaka-44-23-m-dla-szukajacych-lokum-na-stale-CID3-ID1bPRxB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:15",
+      "ts": 1786656786,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 500,
+        "area": 44.23,
+        "district": "Bieżanów-Prokocim",
+        "business": false,
+        "created_iso": "2026-08-13T23:15:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 1000 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Zwierzęta akceptowane | 2 pokoje | 50m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zwierzeta-akceptowane-2-pokoje-50m2-CID3-ID1bPRIx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:23",
+      "ts": 1786657102,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Rembertów",
+        "business": true,
+        "created_iso": "2026-08-13T23:23:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3684,
-    "sent": 1112
+    "checks": 3688,
+    "sent": 1115
   },
   "initialized": true,
-  "last_check": "2026-08-13T21:17:24",
+  "last_check": "2026-08-13T21:38:31",
   "backoff_until": 1786650126.0948234
 }
