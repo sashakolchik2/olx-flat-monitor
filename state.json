@@ -2559,7 +2559,11 @@
     "1090916342": 1786622096,
     "1090921771": 1786622407,
     "1090922714": 1786622407,
-    "1090923726": 1786622407
+    "1090923726": 1786622407,
+    "1090924819": 1786623034,
+    "1090925594": 1786623034,
+    "1090925344": 1786623034,
+    "1090926183": 1786623347
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3458,28 +3462,12 @@
     "rydlowkadebnikipodgorze2pokoje37m2klimatyzacj|2900|37.0|lagiewnikiborekfalec": 1786621153,
     "mieszkaniedowynajeciawilanow|4000|41.1|wilanow": 1786621471,
     "2pokojowemieszkanie325mkwulbanachawkrakowiemi|2700|32.5|pradnikbialy": 1786622407,
-    "dwupokojowezosobnakuchniamogilska27opowierzch|3200|40.0|grzegorzki": 1786622407
+    "dwupokojowezosobnakuchniamogilska27opowierzch|3200|40.0|grzegorzki": 1786622407,
+    "dowynajeciaswietne2pokojowemieszkaniezloggiaw|3200|53.0|staremiasto": 1786623034
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3199 + czynsz 700 = <b>3899 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«PREMIUM|Garaż|2pok|Krowodrza|Kijowska|EDISON|40m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/premium-garaz-2pok-krowodrza-kijowska-edison-40m2-CID3-ID1bP8Yg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
-      "ts": 1786603018,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3199,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-13T08:10:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 53 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Przestronne 2 pokoje 53 m² Metro Płocka Wynajem od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokoje-53-m-metro-plocka-wynajem-od-pazdziernika-CID3-ID1bPanL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:02",
       "ts": 1786605516,
@@ -4142,13 +4130,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia świetne 2-pokojowe mieszkanie z loggią w sercu Krakowa – Nowy Kleparz / Dworzec Towarowy!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-swietne-2-pokojowe-mieszkanie-z-loggia-w-sercu-krakowa-nowy-kleparz-dworzec-towarowy-CID3-ID1bPpnB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:00",
+      "ts": 1786623034,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 53.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-13T14:00:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3635,
-    "sent": 1059
+    "checks": 3638,
+    "sent": 1060
   },
   "initialized": true,
-  "last_check": "2026-08-13T12:00:17",
+  "last_check": "2026-08-13T12:15:54",
   "backoff_until": 1786612967.7557585
 }
