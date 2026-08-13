@@ -2577,7 +2577,10 @@
     "1090935273": 1786626573,
     "1090938401": 1786627198,
     "1090937862": 1786627198,
-    "1090938794": 1786627198
+    "1090938794": 1786627198,
+    "1090940507": 1786627826,
+    "1090942713": 1786628450,
+    "1090943887": 1786628763
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3483,45 +3486,13 @@
     "mieszkanie40m²nawynajembezposrednioodwlascici|2700|40.0|podgorze": 1786625320,
     "olszaok29listopada2pokojowedowynajecia|2800|56.0|pradnikczerwony": 1786626573,
     "mieszkaniedwupokojowekrakowrzakaulrydygierana|2650|37.5|biezanowprokocim": 1786627198,
-    "2pokojowemieszkanieztarasemrakowicka20g|3350|29.0|grzegorzki": 1786627198
+    "2pokojowemieszkanieztarasemrakowicka20g|3350|29.0|grzegorzki": 1786627198,
+    "komfortowemieszkaniedowynajeciamokotowwarszaw|3000|38.0|mokotow": 1786628450,
+    "wynajemcentrumdozamieszkania|3000|39.0|wola": 1786628763
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 1220 = <b>3720 zł/мес</b>\n   ≈ с медиа около 4620 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Oferuję do wynajęcia przestronne i jasne 2-pokojowe mieszkanie, zlokalizowane w cichej i zielonej okolicy Grochowa przy ul. Grenadierów 44B.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/oferuje-do-wynajecia-przestronne-i-jasne-2-pokojowe-mieszkanie-zlokalizowane-w-cichej-i-zielonej-okolicy-grochowa-przy-ul-grenadierow-44b-CID3-ID1bPe7L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:32",
-      "ts": 1786610503,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1220,
-        "area": 41.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-13T10:32:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 32.5 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«Przestronne 2-pokojowe mieszkanie z balkonem | Warszawa – ul. Wiśniowa 54»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokojowe-mieszkanie-z-balkonem-warszawa-ul-wisniowa-54-CID3-ID1bPeVG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:47",
-      "ts": 1786612988,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 600,
-        "area": 32.5,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-13T10:47:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: с 31 августа\n🏢 Этаж: 3\n👤 от собственника\n«[2 pokoje] [Metro Bemowo] [Prywatnie] [Nowe osiedle] [Garaż]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-metro-bemowo-prywatnie-nowe-osiedle-garaz-CID3-ID1bPf2j.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:49",
       "ts": 1786612988,
@@ -4167,13 +4138,47 @@
       "an": {
         "czynsz_desc": 660
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Komfortowe mieszkanie do wynajęcia, Mokotów, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-do-wynajecia-mokotow-warszawa-CID3-ID1bPu2d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:31",
+      "ts": 1786628450,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-13T15:31:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 877 = <b>3877 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1\n👤 от собственника\n«WYNAJEM CENTRUM do zamieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-centrum-do-zamieszkania-CID3-ID1bPul9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:36",
+      "ts": 1786628763,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 877,
+        "area": 39.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-13T15:36:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3623,
-    "sent": 1066
+    "checks": 3627,
+    "sent": 1068
   },
   "initialized": true,
-  "last_check": "2026-08-13T13:25:19",
+  "last_check": "2026-08-13T13:46:12",
   "backoff_until": 1786612967.7557585
 }
