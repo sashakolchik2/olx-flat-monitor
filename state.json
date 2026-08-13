@@ -2590,7 +2590,9 @@
     "1090948654": 1786630332,
     "1090947272": 1786630332,
     "1090951274": 1786631273,
-    "1090949979": 1786631273
+    "1090949979": 1786631273,
+    "1090952436": 1786631585,
+    "1090953650": 1786631899
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3504,28 +3506,12 @@
     "zamieszkajposwojemukrowodrzawybickiego|3200|40.73|krowodrza": 1786629704,
     "lokal2pokojowyprzyjaznipolskowegierskiej6a304|3099|37.55|podgorzeduchackie": 1786630332,
     "bezposredniobezprowizjisaskakepa44m²poremonci|2800|44.0|srodmiescie": 1786630332,
-    "mieszkanienawynajem2pok48mprzymetrzelazurowai|3000|48.0|bemowo": 1786630332
+    "mieszkanienawynajem2pok48mprzymetrzelazurowai|3000|48.0|bemowo": 1786630332,
+    "mieszkaniedwupokojowenawynajem5miesiecyochota|2900|38.0|mokotow": 1786631585
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 1250 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 4\n🏢 агентство\n«Ochota-Wawelska- pow,40m2-2pok-b.ladne-2600zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ochota-wawelska-pow-40m2-2pok-b-ladne-2600zl-CID3-ID1bPhLK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:35",
-      "ts": 1786614246,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 1250,
-        "area": 40.0,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-13T11:35:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 250
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 46 м², 2 комнаты\n💰 3100 + czynsz 738 = <b>3838 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-CID3-ID1bPi5Z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:41",
       "ts": 1786614246,
@@ -4188,13 +4174,30 @@
       "an": {
         "czynsz_desc": 540
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 646 = <b>3546 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3550 zł\n📅 Заселение: с 25.08.2026\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie dwupokojowe na wynajem 5 miesięcy Ochota Park Szczęśliwicki WUM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-na-wynajem-5-miesiecy-ochota-park-szczesliwicki-wum-CID3-ID1bPvz2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:21",
+      "ts": 1786631585,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 646,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-13T16:21:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 646
+      }
     }
   ],
   "stats": {
-    "checks": 3635,
-    "sent": 1074
+    "checks": 3638,
+    "sent": 1075
   },
   "initialized": true,
-  "last_check": "2026-08-13T14:27:59",
+  "last_check": "2026-08-13T14:43:37",
   "backoff_until": 1786612967.7557585
 }
