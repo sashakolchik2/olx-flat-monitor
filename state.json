@@ -2479,9 +2479,18 @@
     "1090849602": 1786582009,
     "1090847093": 1786582009,
     "1090853238": 1786586069,
+<<<<<<< Updated upstream
     "1090858054": 1786599168,
     "1090861686": 1786601979,
     "1090861744": 1786602292
+=======
+    "1090861686": 1786603018,
+    "1090861744": 1786603018,
+    "1090858054": 1786603018,
+    "1090863101": 1786603334,
+    "1090864349": 1786603645,
+    "1090863933": 1786603645
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3339,9 +3348,15 @@
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786582009,
     "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009,
     "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069,
+<<<<<<< Updated upstream
     "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786599168,
     "2pokoddzielne47m2centrumkosciuszkipepsiabb|3099|47.0|zwierzyniec": 1786601979,
     "premiumgaraz2pokkrowodrzakijowskaedison40m2|3199|40.0|krowodrza": 1786602292
+=======
+    "2pokoddzielne47m2centrumkosciuszkipepsiabb|3099|47.0|zwierzyniec": 1786603018,
+    "premiumgaraz2pokkrowodrzakijowskaedison40m2|3199|40.0|krowodrza": 1786603018,
+    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786603018
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625393,
   "paused": false,
@@ -3977,7 +3992,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 760 = <b>3760 zł/мес</b>\n🏢 Этаж: 7\n👤 от собственника\n«Dwa pokoje, ciche , super lokalizacja 200 m od stacji metra Wierzbno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-ciche-super-lokalizacja-200-m-od-stacji-metra-wierzbno-CID3-ID1bP80K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:12",
+<<<<<<< Updated upstream
       "ts": 1786599168,
+=======
+      "ts": 1786603018,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -3994,7 +4013,11 @@
     },
     {
       "text": "🏠 <b>Краков, Zwierzyniec</b> — 47 м², 2 комнаты\n💰 3099 + czynsz 700 = <b>3799 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«2pok|Oddzielne|47m2|Centrum|Kościuszki|Pepsi|ABB»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-oddzielne-47m2-centrum-kosciuszki-pepsi-abb-CID3-ID1bP8Xk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
+<<<<<<< Updated upstream
       "ts": 1786601979,
+=======
+      "ts": 1786603018,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4011,7 +4034,11 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3199 + czynsz 700 = <b>3899 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«PREMIUM|Garaż|2pok|Krowodrza|Kijowska|EDISON|40m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/premium-garaz-2pok-krowodrza-kijowska-edison-40m2-CID3-ID1bP8Yg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
+<<<<<<< Updated upstream
       "ts": 1786602292,
+=======
+      "ts": 1786603018,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4028,10 +4055,18 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 3599,
     "sent": 1020
   },
   "initialized": true,
   "last_check": "2026-08-13T06:35:26",
+=======
+    "checks": 3582,
+    "sent": 1020
+  },
+  "initialized": true,
+  "last_check": "2026-08-13T06:52:43",
+>>>>>>> Stashed changes
   "backoff_until": 1786414856.7723193
 }
