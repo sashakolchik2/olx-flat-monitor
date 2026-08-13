@@ -2663,7 +2663,8 @@
     "1091033224": 1786656468,
     "1091033071": 1786656786,
     "1091032797": 1786656786,
-    "1091033749": 1786657102
+    "1091033749": 1786657102,
+    "1091036309": 1786659630
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3618,28 +3619,12 @@
     "mieszkanie2pokojowezduzymtarasembronowice|3200|38.0|bronowice": 1786655835,
     "mieszkaniedwupokojwezablociepierwszynajem|3100|36.0|podgorze": 1786656468,
     "dowynajecia2pokojezprywatnymogrodkiemrzaka442|3200|44.23|biezanowprokocim": 1786656786,
-    "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102
+    "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102,
+    "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786659630
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4330 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje | 2 balkony | parking | klimatyzacja | tramwaj | Wola Duchacka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-2-balkony-parking-klimatyzacja-tramwaj-wola-duchacka-CID3-ID1bPyjO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:56",
-      "ts": 1786633459,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 730,
-        "area": 52.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-13T16:56:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 2700 + czynsz 920 = <b>3620 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3900 zł\n🏢 Этаж: 5\n🏢 агентство\n«2 pokojowe mieszkanie na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-mokotowie-CID3-ID1bPz3c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:12",
       "ts": 1786634397,
@@ -4302,13 +4287,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bPSnP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
+      "ts": 1786659630,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 52.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-14T00:01:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3695,
-    "sent": 1115
+    "checks": 3699,
+    "sent": 1116
   },
   "initialized": true,
-  "last_check": "2026-08-13T22:15:21",
+  "last_check": "2026-08-13T22:36:25",
   "backoff_until": 1786650126.0948234
 }
