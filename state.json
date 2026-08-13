@@ -2523,7 +2523,10 @@
     "1090895564": 1786614246,
     "1090894674": 1786614246,
     "1090894072": 1786614246,
-    "1090894443": 1786614563
+    "1090894443": 1786614563,
+    "1090898229": 1786615197,
+    "1090897483": 1786615510,
+    "1090899939": 1786615822
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3400,45 +3403,13 @@
     "mieszkaniekrakow|3100|46.0|bronowice": 1786614246,
     "ochotawawelskapow40m22pokbladne2600zl|2600|40.0|ochota": 1786614246,
     "38m2poktargowekbrodnobliskostacjimetrobrodno2|2500|38.0|targowek": 1786614246,
-    "2pokojewidokoweipieknebliskotramwaj|2600|36.0|bienczyce": 1786614563
+    "2pokojewidokoweipieknebliskotramwaj|2600|36.0|bienczyce": 1786614563,
+    "mieszkaniedwupokojowezogrodem60m²krakowbielan|3400|60.0|zwierzyniec": 1786615197,
+    "wynajmemieszkanie|3699|37.0|wola": 1786615822
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: нет\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie 2-pok. 43 m2 do wynajęcia 3 min. tram do metra. Wólczyńska x Conrada od 1.09.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-43-m2-do-wynajecia-3-min-tram-do-metra-wolczynska-x-conrada-od-1-09-CID3-ID1bOVvh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:16",
-      "ts": 1786561001,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 43.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-12T20:16:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 780 = <b>3280 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bOXJH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:37",
-      "ts": 1786561001,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 780,
-        "area": 47.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-12T20:37:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 780
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem WOLA - odmalowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-wola-odmalowane-CID3-ID1bOYrA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:49",
       "ts": 1786561334,
@@ -4084,13 +4055,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Zwierzyniec</b> — 60 м², 2 комнаты\n💰 3400 + czynsz 250 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 6800 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 агентство\n«Mieszkanie Dwupokojowe Z Ogrodem | 60M² | Kraków, Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-z-ogrodem-60m-krakow-bielany-CID3-ID1bPisJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:47",
+      "ts": 1786615197,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3400,
+        "rent": 250,
+        "area": 60.0,
+        "district": "Zwierzyniec",
+        "business": true,
+        "created_iso": "2026-08-13T11:47:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3699 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bPiUj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
+      "ts": 1786615822,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3699,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-13T11:55:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3611,
-    "sent": 1037
+    "checks": 3615,
+    "sent": 1039
   },
   "initialized": true,
-  "last_check": "2026-08-13T09:54:50",
+  "last_check": "2026-08-13T10:15:41",
   "backoff_until": 1786612967.7557585
 }
