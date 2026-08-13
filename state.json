@@ -2477,7 +2477,8 @@
     "1090850174": 1786582009,
     "1090850071": 1786582009,
     "1090849602": 1786582009,
-    "1090847093": 1786582009
+    "1090847093": 1786582009,
+    "1090853238": 1786586069
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3333,28 +3334,12 @@
     "mieszkanieulsandomierskastaremiastowysokistan|2410|30.0|staremiasto": 1786570138,
     "dowynajeciazadbaneodswiezonemieszkanieopowier|2600|32.0|krowodrza": 1786582009,
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786582009,
-    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009
+    "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009,
+    "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 3400 + czynsz 575 = <b>3975 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje (50m²) + osobna kuchnia | Jeżewskiego przy Parku | Po remoncie | Metro Kabaty»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-50m-osobna-kuchnia-jezewskiego-przy-parku-po-remoncie-metro-kabaty-CID3-ID1bOJpy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:01",
-      "ts": 1786544483,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": 575,
-        "area": 50.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-12T16:01:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 575
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-CID3-ID1bOK8U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
       "ts": 1786545432,
@@ -4017,13 +4002,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 665 = <b>3165 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«Nowoczesne 2-pokojowe mieszkanie po remoncie | os. Strusia 18 | 38 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-po-remoncie-os-strusia-18-38-m-CID3-ID1bP6L4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:36",
+      "ts": 1786586069,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 665,
+        "area": 38.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-13T03:36:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 665
+      }
     }
   ],
   "stats": {
-    "checks": 3543,
-    "sent": 1016
+    "checks": 3547,
+    "sent": 1017
   },
   "initialized": true,
-  "last_check": "2026-08-13T01:44:12",
+  "last_check": "2026-08-13T02:05:01",
   "backoff_until": 1786414856.7723193
 }
