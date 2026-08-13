@@ -2584,7 +2584,13 @@
     "1090942956": 1786629078,
     "1090943329": 1786629391,
     "1090946481": 1786629704,
-    "1090945460": 1786629704
+    "1090945460": 1786629704,
+    "1090948741": 1786630332,
+    "1090947758": 1786630332,
+    "1090948654": 1786630332,
+    "1090947272": 1786630332,
+    "1090951274": 1786631273,
+    "1090949979": 1786631273
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3495,62 +3501,14 @@
     "wynajemcentrumdozamieszkania|3000|39.0|wola": 1786628763,
     "slonecznemieszkanieprzyulslicznej|2500|50.0|grzegorzki": 1786629078,
     "mieszkniedowynajecianakameralnymosiedlu45mbia|2900|45.0|bialoleka": 1786629391,
-    "zamieszkajposwojemukrowodrzawybickiego|3200|40.73|krowodrza": 1786629704
+    "zamieszkajposwojemukrowodrzawybickiego|3200|40.73|krowodrza": 1786629704,
+    "lokal2pokojowyprzyjaznipolskowegierskiej6a304|3099|37.55|podgorzeduchackie": 1786630332,
+    "bezposredniobezprowizjisaskakepa44m²poremonci|2800|44.0|srodmiescie": 1786630332,
+    "mieszkanienawynajem2pok48mprzymetrzelazurowai|3000|48.0|bemowo": 1786630332
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 20 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«kawalerka z osobna kuchnia - Księdza Jerzego Popiełuszki 2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kawalerka-z-osobna-kuchnia-ksiedza-jerzego-popieluszki-2-CID3-ID1bPg1c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
-      "ts": 1786612988,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 20.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-13T11:07:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 922 = <b>3422 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n👤 от собственника\n«Czyżyny | Orlińskiego | 38m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-orlinskiego-38m2-CID3-ID1bPgka.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:12",
-      "ts": 1786612988,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 922,
-        "area": 38.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-13T11:12:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 922
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с марта\n🏢 Этаж: 10\n👤 от собственника\n«38 m, 2 pok., Targówek/Bródno, blisko stacji Metro Bródno, 2500 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/38-m-2-pok-targowek-brodno-blisko-stacji-metro-brodno-2500-zl-CID3-ID1bPhxo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:31",
-      "ts": 1786614246,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-13T11:31:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 1250 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 4\n🏢 агентство\n«Ochota-Wawelska- pow,40m2-2pok-b.ladne-2600zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ochota-wawelska-pow-40m2-2pok-b-ladne-2600zl-CID3-ID1bPhLK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:35",
       "ts": 1786614246,
@@ -4179,13 +4137,64 @@
       "an": {
         "czynsz_desc": 530
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem, 2 pok., 48m, przy metrze Lazurowa i WAT»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-pok-48m-przy-metrze-lazurowa-i-wat-CID3-ID1bPwdK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:54",
+      "ts": 1786630332,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 950,
+        "area": 48.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-13T15:54:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«BEZPOŚREDNIO | BEZ PROWIZJI | Saska Kępa 44 m² – po remoncie! Przyjazne dla studentów i zwierząt!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-bez-prowizji-saska-kepa-44-m-po-remoncie-przyjazne-dla-studentow-i-zwierzat-CID3-ID1bPwA2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:02",
+      "ts": 1786630332,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1000,
+        "area": 44.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-13T16:02:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37.55 м², 2 комнаты\n💰 3099 + czynsz 540 = <b>3639 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Lokal 2-pokojowy – Przyjaźni polsko-węgierskiej 6A/304 – bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lokal-2-pokojowy-przyjazni-polsko-wegierskiej-6a-304-bez-prowizji-CID3-ID1bPwBr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:03",
+      "ts": 1786630332,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3099,
+        "rent": 540,
+        "area": 37.55,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-13T16:03:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 540
+      }
     }
   ],
   "stats": {
-    "checks": 3631,
-    "sent": 1071
+    "checks": 3635,
+    "sent": 1074
   },
   "initialized": true,
-  "last_check": "2026-08-13T14:07:05",
+  "last_check": "2026-08-13T14:27:59",
   "backoff_until": 1786612967.7557585
 }
