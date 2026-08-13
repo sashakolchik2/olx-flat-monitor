@@ -2626,7 +2626,13 @@
     "1090983399": 1786641283,
     "1090982284": 1786641283,
     "1090981562": 1786641283,
-    "1090981205": 1786641283
+    "1090981205": 1786641283,
+    "1090986960": 1786642536,
+    "1090986126": 1786642846,
+    "1090985766": 1786642846,
+    "1090988107": 1786643160,
+    "1090988646": 1786643160,
+    "1090988357": 1786643160
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3555,62 +3561,14 @@
     "mieszkanieosiedlewilno|2900|55.0|targowek": 1786640032,
     "mieszkaniebezposrednio2pokojekrakowruczaj|2800|58.0|debniki": 1786641283,
     "2pokojowemieszkanie48m²nowahutaosogrodowe|2800|48.0|nowahuta": 1786641283,
-    "wynajmeprzytulnemieszkanie35m²warszawaulbatal|3000|35.0|bemowo": 1786641283
+    "wynajmeprzytulnemieszkanie35m²warszawaulbatal|3000|35.0|bemowo": 1786641283,
+    "jasnemieszkaniedowynajeciaulwloska|2600|36.0|podgorzeduchackie": 1786642846,
+    "nowoczesnyapartamentzogrodkiem2pokojelema|3000|45.0|": 1786643160,
+    "mieszkaniedowynajecia|4000|44.0|mokotow": 1786643160
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 900 zł + свет по счётчику\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie Warszawa, Okrąg - Powiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-okrag-powisle-CID3-ID1bPmZv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 50.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-13T13:12:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 580 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie salon z aneksem + osobna sypialnia, po remoncie, kamienica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-salon-z-aneksem-osobna-sypialnia-po-remoncie-kamienica-CID3-ID1bPn5e.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:14",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 580,
-        "area": 30.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-13T13:14:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Rydlówka, Dębniki - Podgórze 2pokoje 37m2 klimatyzacja, garaż, garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rydlowka-debniki-podgorze-2pokoje-37m2-klimatyzacja-garaz-garderoba-CID3-ID1bPnux.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:21",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 700,
-        "area": 37.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": true,
-        "created_iso": "2026-08-13T13:21:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 750 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem – 2 pokoje, 46 m² + garaż – Ebejot, Skorosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokoje-46-m-garaz-ebejot-skorosze-CID3-ID1bPnAy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
       "ts": 1786624026,
@@ -4239,13 +4197,64 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 523 = <b>3123 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Jasne mieszkanie do wynajęcia ul. Włoska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-mieszkanie-do-wynajecia-ul-wloska-CID3-ID1bPFkq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:22",
+      "ts": 1786642846,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 523,
+        "area": 36.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-13T19:22:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 523
+      }
+    },
+    {
+      "text": "🏠 <b>Краков</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 550 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с мая\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Nowoczesny apartament z ogródkiem, 2 pokoje, Lema»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-apartament-z-ogrodkiem-2-pokoje-lema-CID3-ID1bPFQn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:33",
+      "ts": 1786643160,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 550,
+        "area": 45.0,
+        "district": "",
+        "business": true,
+        "created_iso": "2026-08-13T19:33:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 44 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bPFZ4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:36",
+      "ts": 1786643160,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 44.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-13T19:36:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3669,
-    "sent": 1089
+    "checks": 3673,
+    "sent": 1092
   },
   "initialized": true,
-  "last_check": "2026-08-13T17:25:18",
+  "last_check": "2026-08-13T17:46:11",
   "backoff_until": 1786612967.7557585
 }
