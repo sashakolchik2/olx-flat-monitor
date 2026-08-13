@@ -2616,7 +2616,12 @@
     "1090972694": 1786638467,
     "1090972161": 1786638467,
     "1090974032": 1786639094,
-    "1090975538": 1786639094
+    "1090975538": 1786639094,
+    "1090977418": 1786640032,
+    "1090976931": 1786640032,
+    "1090978444": 1786640032,
+    "1090980772": 1786640347,
+    "1090979876": 1786640347
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3540,45 +3545,13 @@
     "wlascicielwynajmiemieszkaniedwupokojowezbalko|2800|55.0|grzegorzki": 1786636901,
     "wlascicielwynajmie2pokmlynskakrakow|2500|35.0|grzegorzki": 1786637840,
     "2pokoje50m²balkongarazpodziemnybialolekaulodk|3000|50.0|bialoleka": 1786637840,
-    "nawynajem2pokojowemieszkanienaosiedluwilno|3000|31.0|targowek": 1786638467
+    "nawynajem2pokojowemieszkanienaosiedluwilno|3000|31.0|targowek": 1786638467,
+    "wlascicielwynajmie2pokruczajkrakow|2300|35.0|lagiewnikiborekfalec": 1786640032,
+    "mieszkanieosiedlewilno|2900|55.0|targowek": 1786640032
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 47.5 м², 2 комнаты\n💰 3370 + czynsz 415 = <b>3785 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4212 zł\n🏢 Этаж: 6\n🏢 агентство\n«Przestronny balkon | Obok metra | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronny-balkon-obok-metra-bez-prowizji-CID3-ID1bPlVp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:53",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3370,
-        "rent": 415,
-        "area": 47.5,
-        "district": "Bielany",
-        "business": true,
-        "created_iso": "2026-08-13T12:53:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 415
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 54 м², 2 комнаты\n💰 2800 + czynsz 950 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3880 zł/мес\n⚡ Свет/медиа: ≈ 130 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 25.08.2026\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Przestronne, jasne 2-pokojowe mieszkanie z balkonem 54m2 / Osiedle Kolorowe (Kraków / Nowa Huta)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-jasne-2-pokojowe-mieszkanie-z-balkonem-54m2-osiedle-kolorowe-krakow-nowa-huta-CID3-ID1bPmax.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:58",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 950,
-        "area": 54.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-13T12:58:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«Mirów, 2 pokoje, ciche, po remoncie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mirow-2-pokoje-ciche-po-remoncie-CID3-ID1bPmwG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:04",
       "ts": 1786624026,
@@ -4224,13 +4197,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 920 = <b>3820 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 920 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie osiedle Wilno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-wilno-CID3-ID1bPCV7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:34",
+      "ts": 1786640032,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 920,
+        "area": 55.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-13T18:34:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 920
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 35 м², 2 комнаты\n💰 2300 + czynsz 720 = <b>3020 zł/мес</b>\n   ≈ с медиа около 3080 zł/мес\n⚡ Свет/медиа: ≈ 60 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«właściciel wynajmie 2- pok. Ruczaj Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pok-ruczaj-krakow-CID3-ID1bPD3Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
+      "ts": 1786640032,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2300,
+        "rent": 720,
+        "area": 35.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-13T18:36:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3662,
-    "sent": 1084
+    "checks": 3665,
+    "sent": 1086
   },
   "initialized": true,
-  "last_check": "2026-08-13T16:48:46",
+  "last_check": "2026-08-13T17:04:25",
   "backoff_until": 1786612967.7557585
 }
