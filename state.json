@@ -2650,7 +2650,9 @@
     "1091011520": 1786649193,
     "1091011331": 1786650135,
     "1091014243": 1786650135,
-    "1091013239": 1786650135
+    "1091013239": 1786650135,
+    "1091018385": 1786651404,
+    "1091021025": 1786652034
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3595,28 +3597,12 @@
     "mieszkaniedowynajecia|2300|48.0|bienczyce": 1786648558,
     "wynajme2pokojowemetroslodowiec|2500|37.0|bielany": 1786649193,
     "2pokojowemieszkanieal29listopada52m2balkon|2850|52.0|pradnikczerwony": 1786650135,
-    "dowynajeciaprzytulne2pokojeprzyplacunarutowic|3200|31.0|ochota": 1786650135
+    "dowynajeciaprzytulne2pokojeprzyplacunarutowic|3200|31.0|ochota": 1786650135,
+    "wynajmebezposredniodwupokojowemieszkanienagor|2200|31.0|mokotow": 1786652034
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 37.5 м², 2 комнаты\n💰 2650 + czynsz 660 = <b>3310 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie dwupokojowe Kraków Rżąka, ul. Rydygiera - na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-krakow-rzaka-ul-rydygiera-na-wynajem-CID3-ID1bPsUF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:08",
-      "ts": 1786627198,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 660,
-        "area": 37.5,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-13T15:08:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 660
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Komfortowe mieszkanie do wynajęcia, Mokotów, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-do-wynajecia-mokotow-warszawa-CID3-ID1bPu2d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:31",
       "ts": 1786628450,
@@ -4279,13 +4265,30 @@
       "an": {
         "czynsz_desc": 511
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 31 м², 2 комнаты\n💰 2200 + czynsz 900 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę bezpośrednio dwupokojowe mieszkanie na Górnym Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezposrednio-dwupokojowe-mieszkanie-na-gornym-mokotowie-CID3-ID1bPOpj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
+      "ts": 1786652034,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 900,
+        "area": 31.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-13T22:07:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3669,
-    "sent": 1105
+    "checks": 3672,
+    "sent": 1106
   },
   "initialized": true,
-  "last_check": "2026-08-13T19:58:14",
+  "last_check": "2026-08-13T20:14:04",
   "backoff_until": 1786650126.0948234
 }
