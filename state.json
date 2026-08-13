@@ -2479,7 +2479,9 @@
     "1090849602": 1786582009,
     "1090847093": 1786582009,
     "1090853238": 1786586069,
-    "1090858054": 1786599168
+    "1090858054": 1786599168,
+    "1090861686": 1786601979,
+    "1090861744": 1786602292
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3337,45 +3339,13 @@
     "mieszkanie46m2osobnakuchniadwaoddzielnepokoje|3300|46.0|czyzyny": 1786582009,
     "pragapoludnieulmiedzynarodowa2pokoje375m²balk|2600|37.5|pragapoludnie": 1786582009,
     "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069,
-    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786599168
+    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786599168,
+    "2pokoddzielne47m2centrumkosciuszkipepsiabb|3099|47.0|zwierzyniec": 1786601979,
+    "premiumgaraz2pokkrowodrzakijowskaedison40m2|3199|40.0|krowodrza": 1786602292
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 62 м², 2 комнаты\n💰 3000 + czynsz 894 = <b>3894 zł/мес</b>\n🚗 Паркинг: 675 zł/мес\n🏢 Этаж: 3\n🏢 агентство\n«2-poziomowe mieszkanie na Tarchominie, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-poziomowe-mieszkanie-na-tarchominie-2-pokoje-CID3-ID1bOKK2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:28",
-      "ts": 1786545749,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 894,
-        "area": 62.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-12T16:28:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 675
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 981 = <b>3581 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«2-pokojowe komfortowe mieszkanie na Bemowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-komfortowe-mieszkanie-na-bemowie-CID3-ID1bOL16.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:33",
-      "ts": 1786545749,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 981,
-        "area": 50.0,
-        "district": "Bemowo",
-        "business": true,
-        "created_iso": "2026-08-12T16:33:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 800 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje 43m2 osiedle Zielona Italia Obywatelska 3 Warszawa Włochy Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-43m2-osiedle-zielona-italia-obywatelska-3-warszawa-wlochy-garaz-CID3-ID1bOLdx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:38",
       "ts": 1786546070,
@@ -4021,13 +3991,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Zwierzyniec</b> — 47 м², 2 комнаты\n💰 3099 + czynsz 700 = <b>3799 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«2pok|Oddzielne|47m2|Centrum|Kościuszki|Pepsi|ABB»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-oddzielne-47m2-centrum-kosciuszki-pepsi-abb-CID3-ID1bP8Xk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
+      "ts": 1786601979,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3099,
+        "rent": 700,
+        "area": 47.0,
+        "district": "Zwierzyniec",
+        "business": true,
+        "created_iso": "2026-08-13T08:09:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 760
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3199 + czynsz 700 = <b>3899 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«PREMIUM|Garaż|2pok|Krowodrza|Kijowska|EDISON|40m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/premium-garaz-2pok-krowodrza-kijowska-edison-40m2-CID3-ID1bP8Yg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
+      "ts": 1786602292,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3199,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-13T08:10:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 3593,
-    "sent": 1018
+    "checks": 3597,
+    "sent": 1020
   },
   "initialized": true,
-  "last_check": "2026-08-13T06:04:11",
+  "last_check": "2026-08-13T06:25:01",
   "backoff_until": 1786414856.7723193
 }
