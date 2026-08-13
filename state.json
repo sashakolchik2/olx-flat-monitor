@@ -2553,7 +2553,13 @@
     "1090919125": 1786621153,
     "1090918853": 1786621153,
     "1090917561": 1786621153,
-    "1090917762": 1786621153
+    "1090917762": 1786621153,
+    "1090919106": 1786621471,
+    "1090917995": 1786621471,
+    "1090916342": 1786622096,
+    "1090921771": 1786622407,
+    "1090922714": 1786622407,
+    "1090923726": 1786622407
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3449,62 +3455,14 @@
     "wynajem2pokoje46m²garazebejotskorosze|3500|46.0|ursus": 1786620840,
     "dwupokojowekrowodrzaoboznanowykleparz|2400|40.0|krowodrza": 1786621153,
     "2pokibalkonimiejscapostigrzegorzki|3000|40.0|grzegorzki": 1786621153,
-    "rydlowkadebnikipodgorze2pokoje37m2klimatyzacj|2900|37.0|lagiewnikiborekfalec": 1786621153
+    "rydlowkadebnikipodgorze2pokoje37m2klimatyzacj|2900|37.0|lagiewnikiborekfalec": 1786621153,
+    "mieszkaniedowynajeciawilanow|4000|41.1|wilanow": 1786621471,
+    "2pokojowemieszkanie325mkwulbanachawkrakowiemi|2700|32.5|pradnikbialy": 1786622407,
+    "dwupokojowezosobnakuchniamogilska27opowierzch|3200|40.0|grzegorzki": 1786622407
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 665 = <b>3165 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«Nowoczesne 2-pokojowe mieszkanie po remoncie | os. Strusia 18 | 38 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-po-remoncie-os-strusia-18-38-m-CID3-ID1bP6L4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 03:36",
-      "ts": 1786586069,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 665,
-        "area": 38.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-13T03:36:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 665
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 760 = <b>3760 zł/мес</b>\n🏢 Этаж: 7\n👤 от собственника\n«Dwa pokoje, ciche , super lokalizacja 200 m od stacji metra Wierzbno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-ciche-super-lokalizacja-200-m-od-stacji-metra-wierzbno-CID3-ID1bP80K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:12",
-      "ts": 1786603018,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 760,
-        "area": 38.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-13T07:12:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 47 м², 2 комнаты\n💰 3099 + czynsz 700 = <b>3799 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n🏢 агентство\n«2pok|Oddzielne|47m2|Centrum|Kościuszki|Pepsi|ABB»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-oddzielne-47m2-centrum-kosciuszki-pepsi-abb-CID3-ID1bP8Xk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
-      "ts": 1786603018,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3099,
-        "rent": 700,
-        "area": 47.0,
-        "district": "Zwierzyniec",
-        "business": true,
-        "created_iso": "2026-08-13T08:09:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 760
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3199 + czynsz 700 = <b>3899 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«PREMIUM|Garaż|2pok|Krowodrza|Kijowska|EDISON|40m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/premium-garaz-2pok-krowodrza-kijowska-edison-40m2-CID3-ID1bP8Yg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
       "ts": 1786603018,
@@ -4133,13 +4091,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wilanów</b> — 41.1 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: в цене\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia WILANÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-wilanow-CID3-ID1bPnBx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
+      "ts": 1786621471,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 41.1,
+        "district": "Wilanów",
+        "business": false,
+        "created_iso": "2026-08-13T13:23:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 32.5 м², 2 комнаты\n💰 2700 + czynsz 480 = <b>3180 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe mieszkanie - 32,5 mkw, ul. Banacha w Krakowie, miejsce postojowe w garażu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-32-5-mkw-ul-banacha-w-krakowie-miejsce-postojowe-w-garazu-CID3-ID1bPoAr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:43",
+      "ts": 1786622407,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 480,
+        "area": 32.5,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-13T13:43:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 761 = <b>3961 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Dwupokojowe z osobna kuchnią. Mogilska 27 o powierzchni 40m^2, Bez Prowizji, Widok na zieleń, Zwierzak OK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-z-osobna-kuchnia-mogilska-27-o-powierzchni-40m2-bez-prowizji-widok-na-zielen-zwierzak-ok-CID3-ID1bPoPE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:48",
+      "ts": 1786622407,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 761,
+        "area": 40.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-13T13:48:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3631,
-    "sent": 1056
+    "checks": 3635,
+    "sent": 1059
   },
   "initialized": true,
-  "last_check": "2026-08-13T11:39:25",
+  "last_check": "2026-08-13T12:00:17",
   "backoff_until": 1786612967.7557585
 }
