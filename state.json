@@ -2621,7 +2621,12 @@
     "1090976931": 1786640032,
     "1090978444": 1786640032,
     "1090980772": 1786640347,
-    "1090979876": 1786640347
+    "1090979876": 1786640347,
+    "1090983026": 1786641283,
+    "1090983399": 1786641283,
+    "1090982284": 1786641283,
+    "1090981562": 1786641283,
+    "1090981205": 1786641283
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3547,62 +3552,14 @@
     "2pokoje50m²balkongarazpodziemnybialolekaulodk|3000|50.0|bialoleka": 1786637840,
     "nawynajem2pokojowemieszkanienaosiedluwilno|3000|31.0|targowek": 1786638467,
     "wlascicielwynajmie2pokruczajkrakow|2300|35.0|lagiewnikiborekfalec": 1786640032,
-    "mieszkanieosiedlewilno|2900|55.0|targowek": 1786640032
+    "mieszkanieosiedlewilno|2900|55.0|targowek": 1786640032,
+    "mieszkaniebezposrednio2pokojekrakowruczaj|2800|58.0|debniki": 1786641283,
+    "2pokojowemieszkanie48m²nowahutaosogrodowe|2800|48.0|nowahuta": 1786641283,
+    "wynajmeprzytulnemieszkanie35m²warszawaulbatal|3000|35.0|bemowo": 1786641283
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«Mirów, 2 pokoje, ciche, po remoncie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mirow-2-pokoje-ciche-po-remoncie-CID3-ID1bPmwG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:04",
-      "ts": 1786624026,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 500,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-13T13:04:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajem 2 pokojowe mieszkanie ul. Centralna Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowe-mieszkanie-ul-centralna-krakow-CID3-ID1bPmHU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:07",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 580,
-        "area": 42.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-13T13:07:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 580
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 2750 + czynsz 750 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2pok, 34m2, *Mogilska Tower* Balkon, Parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-34m2-mogilska-tower-balkon-parking-CID3-ID1bPmYS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
-      "ts": 1786624026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2750,
-        "rent": 750,
-        "area": 34.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-13T13:12:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 900 zł + свет по счётчику\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie Warszawa, Okrąg - Powiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-warszawa-okrag-powisle-CID3-ID1bPmZv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:12",
       "ts": 1786624026,
@@ -4231,13 +4188,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę przytulne mieszkanie 35 m² – Warszawa, ul. Batalionów Chłopskich 91 | Cicha okolica + Metro od jesieni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-przytulne-mieszkanie-35-m-warszawa-ul-batalionow-chlopskich-91-cicha-okolica-metro-od-jesieni-CID3-ID1bPEks.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:02",
+      "ts": 1786641283,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 35.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-13T19:02:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 58 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie bezpośrednio 2 pokoje Kraków Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-bezposrednio-2-pokoje-krakow-ruczaj-CID3-ID1bPEvq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:06",
+      "ts": 1786641283,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 600,
+        "area": 58.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-13T19:06:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2-pokojowe mieszkanie | 48 m² | Nowa Huta | Os. Ogrodowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-48-m-nowa-huta-os-ogrodowe-CID3-ID1bPECr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:08",
+      "ts": 1786641283,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 48.0,
+        "district": "Nowa Huta",
+        "business": true,
+        "created_iso": "2026-08-13T19:08:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3665,
-    "sent": 1086
+    "checks": 3669,
+    "sent": 1089
   },
   "initialized": true,
-  "last_check": "2026-08-13T17:04:25",
+  "last_check": "2026-08-13T17:25:18",
   "backoff_until": 1786612967.7557585
 }
