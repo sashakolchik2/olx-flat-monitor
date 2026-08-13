@@ -2592,7 +2592,12 @@
     "1090951274": 1786631273,
     "1090949979": 1786631273,
     "1090952436": 1786631585,
-    "1090953650": 1786631899
+    "1090953650": 1786631899,
+    "1090955602": 1786632524,
+    "1090959180": 1786633459,
+    "1090959009": 1786633459,
+    "1090958542": 1786633459,
+    "1090958699": 1786633459
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3507,28 +3512,12 @@
     "lokal2pokojowyprzyjaznipolskowegierskiej6a304|3099|37.55|podgorzeduchackie": 1786630332,
     "bezposredniobezprowizjisaskakepa44m²poremonci|2800|44.0|srodmiescie": 1786630332,
     "mieszkanienawynajem2pok48mprzymetrzelazurowai|3000|48.0|bemowo": 1786630332,
-    "mieszkaniedwupokojowenawynajem5miesiecyochota|2900|38.0|mokotow": 1786631585
+    "mieszkaniedwupokojowenawynajem5miesiecyochota|2900|38.0|mokotow": 1786631585,
+    "2pokoje2balkonyparkingklimatyzacjatramwajwola|3000|52.0|podgorzeduchackie": 1786633459
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 46 м², 2 комнаты\n💰 3100 + czynsz 738 = <b>3838 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-CID3-ID1bPi5Z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:41",
-      "ts": 1786614246,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 738,
-        "area": 46.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-13T11:41:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 620 = <b>3220 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n🏢 агентство\n«2 pokoje | widokowe i piękne | blisko tramwaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-widokowe-i-piekne-blisko-tramwaj-CID3-ID1bPhtF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:30",
       "ts": 1786614563,
@@ -4191,13 +4180,30 @@
       "an": {
         "czynsz_desc": 646
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4330 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje | 2 balkony | parking | klimatyzacja | tramwaj | Wola Duchacka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-2-balkony-parking-klimatyzacja-tramwaj-wola-duchacka-CID3-ID1bPyjO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:56",
+      "ts": 1786633459,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 730,
+        "area": 52.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-13T16:56:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3638,
-    "sent": 1075
+    "checks": 3642,
+    "sent": 1076
   },
   "initialized": true,
-  "last_check": "2026-08-13T14:43:37",
+  "last_check": "2026-08-13T15:04:28",
   "backoff_until": 1786612967.7557585
 }
