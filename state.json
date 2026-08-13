@@ -2485,7 +2485,11 @@
     "1090863101": 1786603334,
     "1090864349": 1786603645,
     "1090863933": 1786603645,
-    "1090866435": 1786604581
+    "1090866435": 1786604581,
+    "1090867169": 1786605516,
+    "1090870217": 1786606140,
+    "1090869696": 1786606450,
+    "1090868892": 1786606450
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3345,62 +3349,14 @@
     "nowoczesne2pokojowemieszkanieporemoncieosstru|2500|38.0|mistrzejowice": 1786586069,
     "2pokoddzielne47m2centrumkosciuszkipepsiabb|3099|47.0|zwierzyniec": 1786603018,
     "premiumgaraz2pokkrowodrzakijowskaedison40m2|3199|40.0|krowodrza": 1786603018,
-    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786603018
+    "dwapokojecichesuperlokalizacja200modstacjimet|3000|38.0|mokotow": 1786603018,
+    "przestronne2pokoje53m²metroplockawynajemodpaz|3500|53.0|wola": 1786605516,
+    "2pokojowemieszkanieprzygaleriikazimierz|2900|42.0|grzegorzki": 1786606450,
+    "wynajme2pokojepodgorzeduchackie|2500|49.0|podgorzeduchackie": 1786606450
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 800 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje 43m2 osiedle Zielona Italia Obywatelska 3 Warszawa Włochy Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-43m2-osiedle-zielona-italia-obywatelska-3-warszawa-wlochy-garaz-CID3-ID1bOLdx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:38",
-      "ts": 1786546070,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 800,
-        "area": 43.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-12T16:38:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 35 м², 2 комнаты\n💰 3250 + czynsz 650 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«PIĘKNE, NOWE 2 pok. 35m2_Domaniewska_Mordor_przy Marynarskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-nowe-2-pok-35m2-domaniewska-mordor-przy-marynarskiej-CID3-ID1bOLJi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:47",
-      "ts": 1786546701,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3250,
-        "rent": 650,
-        "area": 35.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-12T16:47:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 3100 + czynsz 720 = <b>3820 zł/мес</b>\n   ≈ с медиа около 4020 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«45m2|W-Wa Żerań|-10% na 2 lata|PRIV|2008 r.|ogród|wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/45m2-w-wa-zeran-10-na-2-lata-priv-2008-r-ogrod-wysoki-standard-CID3-ID1bOLXq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
-      "ts": 1786546701,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 720,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-12T16:51:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 660 = <b>3660 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 11.10 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia Kapelanka bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-kapelanka-bezposrednio-CID3-ID1bOLVQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:50",
       "ts": 1786547020,
@@ -4029,13 +3985,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 53 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Przestronne 2 pokoje 53 m² Metro Płocka Wynajem od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokoje-53-m-metro-plocka-wynajem-od-pazdziernika-CID3-ID1bPanL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:02",
+      "ts": 1786605516,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 53.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-13T09:02:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 49 м², 2 комнаты\n💰 2500 + czynsz 840 = <b>3340 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajmę - 2 pokoje, Podgórze Duchackie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-podgorze-duchackie-CID3-ID1bPaPy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:15",
+      "ts": 1786606450,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 840,
+        "area": 49.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-13T09:15:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 840
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 620 = <b>3520 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowe mieszkanie przy Galerii Kazimierz!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-przy-galerii-kazimierz-CID3-ID1bPb2v.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:21",
+      "ts": 1786606450,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 620,
+        "area": 42.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-13T09:21:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 620
+      }
     }
   ],
   "stats": {
-    "checks": 3586,
-    "sent": 1020
+    "checks": 3590,
+    "sent": 1023
   },
   "initialized": true,
-  "last_check": "2026-08-13T07:13:30",
+  "last_check": "2026-08-13T07:34:21",
   "backoff_until": 1786414856.7723193
 }
