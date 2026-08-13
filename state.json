@@ -2500,7 +2500,13 @@
     "1090875958": 1786608952,
     "1090879846": 1786610190,
     "1090879781": 1786610190,
-    "1090879032": 1786610190
+    "1090879032": 1786610190,
+    "1090878799": 1786610503,
+    "1090881553": 1786610503,
+    "1090881213": 1786610503,
+    "1090883299": 1786610820,
+    "1090883657": 1786610820,
+    "1090882056": 1786610820
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3364,62 +3370,14 @@
     "przestronne2pokoje53m²metroplockawynajemodpaz|3500|53.0|wola": 1786605516,
     "2pokojowemieszkanieprzygaleriikazimierz|2900|42.0|grzegorzki": 1786606450,
     "wynajme2pokojepodgorzeduchackie|2500|49.0|podgorzeduchackie": 1786606450,
-    "wynajmemieszkanie46mkw|2600|46.0|wola": 1786608326
+    "wynajmemieszkanie46mkw|2600|46.0|wola": 1786608326,
+    "centrum2pokojebalkonoddzielnakuchniasymfonicz|2000|45.0|krowodrza": 1786610503,
+    "oferujedowynajeciaprzestronneijasne2pokojowem|2500|41.0|pragapoludnie": 1786610503,
+    "2pokojezbalkonemprzyulindirygandhi35naursynow|2600|35.0|ursynow": 1786610503
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 7\n🏢 агентство\n«2-pokojowe mieszkanie dla studentów – Krowodrza | ul. Zakątek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-dla-studentow-krowodrza-ul-zakatek-CID3-ID1bOM3y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:52",
-      "ts": 1786547020,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-12T16:52:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 590 = <b>3790 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie 2 oddzielne pokoje 47 m2 w Krakowie oś. Avia, Czyżyny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-oddzielne-pokoje-47-m2-w-krakowie-os-avia-czyzyny-CID3-ID1bONFi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:23",
-      "ts": 1786549237,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 590,
-        "area": 47.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-12T17:23:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 690
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4050 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 15.09 ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bONXa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:29",
-      "ts": 1786549555,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 40.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-12T17:29:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 30 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🌐 Интернет: в цене\n🏢 Этаж: 1\n👤 от собственника\n«PIĘKNE mieszkanie 2 pokoje Sadyba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-mieszkanie-2-pokoje-sadyba-CID3-ID1bOOcs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:34",
       "ts": 1786549555,
@@ -4048,13 +4006,64 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 2000 + czynsz 1300 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«centrum, 2 pokoje, balkon, oddzielna kuchnia, Symfoniczna, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/centrum-2-pokoje-balkon-oddzielna-kuchnia-symfoniczna-krakow-CID3-ID1bPdpl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:18",
+      "ts": 1786610503,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2000,
+        "rent": 1300,
+        "area": 45.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-13T10:18:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1300
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 670 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 агентство\n«2 pokoje z balkonem przy ul. Indiry Gandhi 35 na Ursynowie, Metro Imielin | BRAK PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-przy-ul-indiry-gandhi-35-na-ursynowie-metro-imielin-brak-prowizji-CID3-ID1bPe2h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
+      "ts": 1786610503,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 670,
+        "area": 35.0,
+        "district": "Ursynów",
+        "business": true,
+        "created_iso": "2026-08-13T10:30:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 1220 = <b>3720 zł/мес</b>\n   ≈ с медиа около 4620 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Oferuję do wynajęcia przestronne i jasne 2-pokojowe mieszkanie, zlokalizowane w cichej i zielonej okolicy Grochowa przy ul. Grenadierów 44B.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/oferuje-do-wynajecia-przestronne-i-jasne-2-pokojowe-mieszkanie-zlokalizowane-w-cichej-i-zielonej-okolicy-grochowa-przy-ul-grenadierow-44b-CID3-ID1bPe7L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:32",
+      "ts": 1786610503,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1220,
+        "area": 41.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-13T10:32:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3599,
-    "sent": 1024
+    "checks": 3603,
+    "sent": 1027
   },
   "initialized": true,
-  "last_check": "2026-08-13T08:36:37",
+  "last_check": "2026-08-13T08:57:29",
   "backoff_until": 1786610166.045324
 }
