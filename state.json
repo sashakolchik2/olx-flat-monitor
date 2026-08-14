@@ -2753,7 +2753,11 @@
     "1091117297": 1786714341,
     "1091118540": 1786714341,
     "1091120515": 1786714966,
-    "1091120245": 1786714966
+    "1091120245": 1786714966,
+    "1091123036": 1786716216,
+    "1091124323": 1786716528,
+    "1091123298": 1786716528,
+    "1091122607": 1786716528
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3759,45 +3763,13 @@
     "mieszkanie2pokojoweruczaj|3000|49.0|debniki": 1786714024,
     "czarnowiejska2pokojeprzyagh|2800|31.0|krowodrza": 1786714024,
     "lokal2pokojowyprzyjaznipolskowegierskiej6a606|2999|37.26|podgorze": 1786714341,
-    "mieszkanie41m²2pokkwielkiegobezposrednio|3000|41.0|krowodrza": 1786714966
+    "mieszkanie41m²2pokkwielkiegobezposrednio|3000|41.0|krowodrza": 1786714966,
+    "saskakepaalstanowzjednoczonych202oddzielnepok|2800|37.0|pragapoludnie": 1786716528,
+    "2pokoje54m2garaz2loggieofertaprywatna|3000|54.2|bialoleka": 1786716528
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Azory Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-azory-krowodrza-CID3-ID1bQ0mU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:33",
-      "ts": 1786697130,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-14T10:33:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2 – pokojowe z balkonem i podwójnym miejscem postojowym | 40 m2 | Tauron Arena | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-balkonem-i-podwojnym-miejscem-postojowym-40-m2-tauron-arena-bez-prowizji-CID3-ID1bQ0z3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:37",
-      "ts": 1786697447,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": null,
-        "area": 40.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-14T10:37:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4330 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 pokojowe z 2 balkonami i miejscem postojowym | 52 m2 | Klimatyzacja |os. Na Kozłówce | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-2-balkonami-i-miejscem-postojowym-52-m2-klimatyzacja-os-na-kozlowce-bez-prowizji-CID3-ID1bQ0b3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:28",
       "ts": 1786697763,
@@ -4443,13 +4415,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 54.2 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje, 54m2 + garaż + 2 loggie, oferta prywatna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-54m2-garaz-2-loggie-oferta-prywatna-CID3-ID1bQf0S.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:54",
+      "ts": 1786716528,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 900,
+        "area": 54.2,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-14T15:54:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4800 zł\n🏢 Этаж: 10\n👤 от собственника\n«Saska Kępa, al. Stanów Zjednoczonych 20, 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/saska-kepa-al-stanow-zjednoczonych-20-2-oddzielne-pokoje-CID3-ID1bQfhp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:00",
+      "ts": 1786716528,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1000,
+        "area": 37.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-14T16:00:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
     }
   ],
   "stats": {
-    "checks": 3811,
-    "sent": 1166
+    "checks": 3815,
+    "sent": 1168
   },
   "initialized": true,
-  "last_check": "2026-08-14T13:48:06",
+  "last_check": "2026-08-14T14:08:58",
   "backoff_until": 1786688273.3955767
 }
