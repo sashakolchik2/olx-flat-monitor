@@ -2815,7 +2815,8 @@
     "1091189588": 1786743521,
     "1091188953": 1786743837,
     "1091190259": 1786744464,
-    "1091190351": 1786744464
+    "1091190351": 1786744464,
+    "1091192128": 1786746973
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3857,28 +3858,12 @@
     "mieszkanie2pokojowedowynajecianabemowie|3000|41.0|bemowo": 1786743521,
     "rakowicka54m²2pokojeuekgarazpodziemnycentrum|3000|54.0|grzegorzki": 1786743837,
     "mieszkanienawynajemkrakowpradnikczerwonyulkwa|3000|60.0|pradnikczerwony": 1786744464,
-    "atrakcyjnemieszkanie2pokojowe|2800|45.0|pragapoludnie": 1786744464
+    "atrakcyjnemieszkanie2pokojowe|2800|45.0|pragapoludnie": 1786744464,
+    "kawalerka34m²zbalkonemursynowulnugatmetroimie|2450|34.0|ursynow": 1786746973
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 830 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«mieszkanie 2 pokojowe Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ruczaj-CID3-ID1bQcny.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:50",
-      "ts": 1786714024,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 830,
-        "area": 49.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-14T14:50:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Czarnowiejska 2 pokoje przy AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czarnowiejska-2-pokoje-przy-agh-CID3-ID1bQd6Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:07",
       "ts": 1786714024,
@@ -4541,13 +4526,30 @@
       "an": {
         "czynsz_desc": 912
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 34 м², Kawalerka\n💰 2450 + czynsz 650 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«Kawalerka 34 m² z balkonem | Ursynów, ul. Nugat | metro Imielin | od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kawalerka-34-m-z-balkonem-ursynow-ul-nugat-metro-imielin-od-wrzesnia-CID3-ID1bQvW2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:22",
+      "ts": 1786746973,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2450,
+        "rent": 650,
+        "area": 34.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-15T00:22:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3888,
-    "sent": 1202
+    "checks": 3892,
+    "sent": 1203
   },
   "initialized": true,
-  "last_check": "2026-08-14T22:15:28",
+  "last_check": "2026-08-14T22:36:22",
   "backoff_until": 1786688273.3955767
 }
