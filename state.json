@@ -2749,7 +2749,11 @@
     "1091113815": 1786713082,
     "1091115449": 1786713710,
     "1091113172": 1786714024,
-    "1091115988": 1786714024
+    "1091115988": 1786714024,
+    "1091117297": 1786714341,
+    "1091118540": 1786714341,
+    "1091120515": 1786714966,
+    "1091120245": 1786714966
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3753,45 +3757,13 @@
     "bemowo2pokojowemieszkanie43m²fortbemaoddzieln|4000|43.0|zoliborz": 1786713082,
     "ursynow2pokojowezszybkimdojazdemdometra|3000|42.0|ursynow": 1786713710,
     "mieszkanie2pokojoweruczaj|3000|49.0|debniki": 1786714024,
-    "czarnowiejska2pokojeprzyagh|2800|31.0|krowodrza": 1786714024
+    "czarnowiejska2pokojeprzyagh|2800|31.0|krowodrza": 1786714024,
+    "lokal2pokojowyprzyjaznipolskowegierskiej6a606|2999|37.26|podgorze": 1786714341,
+    "mieszkanie41m²2pokkwielkiegobezposrednio|3000|41.0|krowodrza": 1786714966
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie z balkonem i miejscem postojowym na Targówku»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-i-miejscem-postojowym-na-targowku-CID3-ID1bPZM9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:17",
-      "ts": 1786696182,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 850,
-        "area": 43.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-14T10:17:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 39 м², 2 комнаты\n💰 3800 + czynsz 1 = <b>3801 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bQ000.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
-      "ts": 1786696814,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": 1,
-        "area": 39.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-14T10:23:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Azory Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-azory-krowodrza-CID3-ID1bQ0mU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:33",
       "ts": 1786697130,
@@ -4437,13 +4409,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 37.26 м², 2 комнаты\n💰 2999 + czynsz 536 = <b>3535 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 6\n🏢 агентство\n«Lokal 2-pokojowy – Przyjaźni polsko-węgierskiej 6A/606 – bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lokal-2-pokojowy-przyjazni-polsko-wegierskiej-6a-606-bez-prowizji-CID3-ID1bQdM8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:23",
+      "ts": 1786714341,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2999,
+        "rent": 536,
+        "area": 37.26,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-14T15:23:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 536
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 41m² 2 pok. K. Wielkiego Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41m-2-pok-k-wielkiego-bezposrednio-CID3-ID1bQehZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:36",
+      "ts": 1786714966,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 41.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-14T15:36:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 3807,
-    "sent": 1164
+    "checks": 3811,
+    "sent": 1166
   },
   "initialized": true,
-  "last_check": "2026-08-14T13:27:15",
+  "last_check": "2026-08-14T13:48:06",
   "backoff_until": 1786688273.3955767
 }
