@@ -2685,7 +2685,11 @@
     "1091062336": 1786695550,
     "1091063620": 1786695550,
     "1091060508": 1786695550,
-    "1091064725": 1786696182
+    "1091064725": 1786696182,
+    "1091065584": 1786696814,
+    "1091067004": 1786697130,
+    "1091067757": 1786697447,
+    "1091066269": 1786697763
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3650,79 +3654,15 @@
     "mieszkaniedowynajecia|3600|60.0|podgorze": 1786693661,
     "dowynajeciamieszkaniedwupokojowepodgorzeducha|2400|43.0|podgorzeduchackie": 1786694607,
     "okazjasuperprzytulnemieszkaniedlasinglalubpar|2800|30.0|pragapoludnie": 1786694923,
-    "2pokojowemieszkaniezbalkonemimiejscempostojow|2800|43.0|targowek": 1786696182
+    "2pokojowemieszkaniezbalkonemimiejscempostojow|2800|43.0|targowek": 1786696182,
+    "wynajemmieszkania|3800|39.0|srodmiescie": 1786696814,
+    "mieszkanieazorykrowodrza|2500|37.0|pradnikbialy": 1786697130,
+    "2pokojowezbalkonemipodwojnymmiejscempostojowy|3100|40.0|grzegorzki": 1786697447,
+    "2pokojowez2balkonamiimiejscempostojowym52m2kl|3000|52.0|podgorzeduchackie": 1786697763
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 35 м², 2 комнаты\n💰 2300 + czynsz 720 = <b>3020 zł/мес</b>\n   ≈ с медиа около 3080 zł/мес\n⚡ Свет/медиа: ≈ 60 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«właściciel wynajmie 2- pok. Ruczaj Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pok-ruczaj-krakow-CID3-ID1bPD3Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2300,
-        "rent": 720,
-        "area": 35.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-13T18:36:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę przytulne mieszkanie 35 m² – Warszawa, ul. Batalionów Chłopskich 91 | Cicha okolica + Metro od jesieni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-przytulne-mieszkanie-35-m-warszawa-ul-batalionow-chlopskich-91-cicha-okolica-metro-od-jesieni-CID3-ID1bPEks.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:02",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 35.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-13T19:02:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 58 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie bezpośrednio 2 pokoje Kraków Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-bezposrednio-2-pokoje-krakow-ruczaj-CID3-ID1bPEvq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:06",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 600,
-        "area": 58.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-13T19:06:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2-pokojowe mieszkanie | 48 m² | Nowa Huta | Os. Ogrodowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-48-m-nowa-huta-os-ogrodowe-CID3-ID1bPECr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:08",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 48.0,
-        "district": "Nowa Huta",
-        "business": true,
-        "created_iso": "2026-08-13T19:08:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 523 = <b>3123 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Jasne mieszkanie do wynajęcia ul. Włoska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-mieszkanie-do-wynajecia-ul-wloska-CID3-ID1bPFkq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:22",
       "ts": 1786645035,
@@ -4334,13 +4274,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 39 м², 2 комнаты\n💰 3800 + czynsz 1 = <b>3801 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bQ000.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
+      "ts": 1786696814,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": 1,
+        "area": 39.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-14T10:23:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Azory Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-azory-krowodrza-CID3-ID1bQ0mU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:33",
+      "ts": 1786697130,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-14T10:33:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2 – pokojowe z balkonem i podwójnym miejscem postojowym | 40 m2 | Tauron Arena | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-balkonem-i-podwojnym-miejscem-postojowym-40-m2-tauron-arena-bez-prowizji-CID3-ID1bQ0z3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:37",
+      "ts": 1786697447,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": null,
+        "area": 40.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-14T10:37:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4330 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2 pokojowe z 2 balkonami i miejscem postojowym | 52 m2 | Klimatyzacja |os. Na Kozłówce | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-2-balkonami-i-miejscem-postojowym-52-m2-klimatyzacja-os-na-kozlowce-bez-prowizji-CID3-ID1bQ0b3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:28",
+      "ts": 1786697763,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 730,
+        "area": 52.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-14T10:28:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3771,
-    "sent": 1125
+    "checks": 3775,
+    "sent": 1129
   },
   "initialized": true,
-  "last_check": "2026-08-14T08:35:06",
+  "last_check": "2026-08-14T08:56:12",
   "backoff_until": 1786688273.3955767
 }
