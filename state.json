@@ -2806,7 +2806,10 @@
     "1091182428": 1786739441,
     "1091182203": 1786739754,
     "1091184456": 1786739754,
-    "1091184291": 1786740071
+    "1091184291": 1786740071,
+    "1091186234": 1786741327,
+    "1091186290": 1786741639,
+    "1091185609": 1786741639
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3841,28 +3844,12 @@
     "dowynajeciadwopokojowemieszkaniewcentrumkrako|2400|46.0|grzegorzki": 1786738811,
     "wynajme2pokojowemieszkanie37m2warszawaaljeroz|3200|37.0|ochota": 1786739126,
     "mieszkaniewscislymcentrumkrakowa|2990|38.0|grzegorzki": 1786739754,
-    "2pokojezgarazemibalkonemwarszawabialolekazera|2950|34.0|bialoleka": 1786740071
+    "2pokojezgarazemibalkonemwarszawabialolekazera|2950|34.0|bialoleka": 1786740071,
+    "wynajmemieszkaniesadyba|2500|39.0|mokotow": 1786741639
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 564 = <b>3764 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje z ogródkiem - BOREK FAŁĘCKI - ul. Zagrodzkiego - PARKING»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-ogrodkiem-borek-falecki-ul-zagrodzkiego-parking-CID3-ID1bQblE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
-      "ts": 1786711514,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 564,
-        "area": 47.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": true,
-        "created_iso": "2026-08-14T14:28:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": 564
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 51 м², 2 комнаты\n💰 3300 + czynsz 507 = <b>3807 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Unikatowe mieszkanie na wynajem Kazimierz Stare Miasto ul. Miodowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/unikatowe-mieszkanie-na-wynajem-kazimierz-stare-miasto-ul-miodowa-CID3-ID1bQbIM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:36",
       "ts": 1786711830,
@@ -4525,13 +4512,30 @@
       "an": {
         "czynsz_desc": 691
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 21 августа\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie Sadyba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-sadyba-CID3-ID1bQwoS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:48",
+      "ts": 1786741639,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 700,
+        "area": 39.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-14T22:48:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3873,
-    "sent": 1195
+    "checks": 3877,
+    "sent": 1196
   },
   "initialized": true,
-  "last_check": "2026-08-14T20:56:59",
+  "last_check": "2026-08-14T21:17:52",
   "backoff_until": 1786688273.3955767
 }
