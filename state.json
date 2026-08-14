@@ -2666,15 +2666,11 @@
     "1091033749": 1786657102,
     "1091036309": 1786666045,
     "1090862012": 1786682120,
-<<<<<<< Updated upstream
-    "1091047690": 1786685898,
-    "1091047972": 1786686530,
-    "1091048529": 1786686846
-=======
     "1091047690": 1786687056,
     "1091048529": 1786687056,
-    "1091047972": 1786687056
->>>>>>> Stashed changes
+    "1091047972": 1786687056,
+    "1091049715": 1786688299,
+    "1091049665": 1786688299
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3631,49 +3627,13 @@
     "dowynajecia2pokojezprywatnymogrodkiemrzaka442|3200|44.23|biezanowprokocim": 1786656786,
     "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102,
     "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786666045,
-<<<<<<< Updated upstream
-    "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786685898
-=======
-    "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786687056
->>>>>>> Stashed changes
+    "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786687056,
+    "wynajme2pokojowe40m2zbalkonemwindawapartament|2900|40.0|bialoleka": 1786688299,
+    "2pokojezbalkonemnowyrakowwlochy39m²|3200|39.0|wlochy": 1786688299
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 37.5 м², 2 комнаты\n💰 2400 + czynsz 1100 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Dwupokojowe tuż przy metrze Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-tuz-przy-metrze-brodno-CID3-ID1bPznY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:19",
-      "ts": 1786635335,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 1100,
-        "area": 37.5,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-13T17:19:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1100
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 30 июля\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania z balkonem w Śródmieściu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-z-balkonem-w-srodmiesciu-CID3-ID1bPzug.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:21",
-      "ts": 1786635335,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-13T17:21:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«Wita Stwosza | Stare miasto | 41m1 | salon + oddzielna sypialnia | NOWE | last floor»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wita-stwosza-stare-miasto-41m1-salon-oddzielna-sypialnia-nowe-last-floor-CID3-ID1bPAg1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
       "ts": 1786645035,
@@ -4305,11 +4265,7 @@
     },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 350 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Prądnik Biały ul. Radzikowskiego, dwa osobne pokoje, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-bialy-ul-radzikowskiego-dwa-osobne-pokoje-balkon-CID3-ID1bPWlo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:23",
-<<<<<<< Updated upstream
-      "ts": 1786685898,
-=======
       "ts": 1786687056,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4323,22 +4279,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 39 м², 2 комнаты\n💰 3200 + czynsz 538 = <b>3738 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje z balkonem | Nowy Raków, Włochy | 39 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-nowy-rakow-wlochy-39-m-CID3-ID1bPWRf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:02",
+      "ts": 1786688299,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 538,
+        "area": 39.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-14T08:02:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 538
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 450 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę 2-pokojowe 40 m2 z balkonem, windą w apartamentowcu Hemara, nowoczesne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-40-m2-z-balkonem-winda-w-apartamentowcu-hemara-nowoczesne-CID3-ID1bPWS3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:02",
+      "ts": 1786688299,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 450,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-14T08:02:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 3755,
-    "sent": 1117
+    "checks": 3748,
+    "sent": 1119
   },
   "initialized": true,
-  "last_check": "2026-08-14T05:54:13",
-  "backoff_until": 1786650126.0948234
-=======
-    "checks": 3744,
-    "sent": 1117
-  },
-  "initialized": true,
-  "last_check": "2026-08-14T05:57:46",
+  "last_check": "2026-08-14T06:34:17",
   "backoff_until": 1786688273.3955767
->>>>>>> Stashed changes
 }
