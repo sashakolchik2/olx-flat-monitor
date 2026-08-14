@@ -2734,7 +2734,13 @@
     "1091101780": 1786709013,
     "1091102959": 1786709013,
     "1091106094": 1786709952,
-    "1091104800": 1786709952
+    "1091104800": 1786709952,
+    "1091107864": 1786710578,
+    "1091106960": 1786710578,
+    "1091109068": 1786711203,
+    "1091109210": 1786711514,
+    "1091108920": 1786711514,
+    "1091109266": 1786711514
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3727,62 +3733,14 @@
     "komfortowe2pokojezduzymbalkonem|2400|45.0|targowek": 1786708065,
     "mieszkanienawynajemosobnasypialniauldrweckakl|3500|33.0|pragapoludnie": 1786708065,
     "2pokojowemieszkaniezklimatyzacjanawynajemprzy|2400|45.0|podgorzeduchackie": 1786709013,
-    "wynajmeprzytulnemieszkanienaosiedluzabiniec|2600|45.0|pradnikbialy": 1786709952
+    "wynajmeprzytulnemieszkanienaosiedluzabiniec|2600|45.0|pradnikbialy": 1786709952,
+    "mieszkaniedowynajecia2pokojeursusosiedlegawra|2500|37.5|ursus": 1786710578,
+    "2pokojezogrodkiemborekfaleckiulzagrodzkiegopa|3200|47.0|lagiewnikiborekfalec": 1786711514,
+    "stylowe2pokojowezbalkonemglowackiegoklimatyza|3350|45.0|krowodrza": 1786711514
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 44.23 м², 2 комнаты\n💰 3200 + czynsz 500 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia 2 pokoje z prywatnym ogródkiem | Rżąka | 44,23 m² | Dla szukających lokum na stałe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokoje-z-prywatnym-ogrodkiem-rzaka-44-23-m-dla-szukajacych-lokum-na-stale-CID3-ID1bPRxB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:15",
-      "ts": 1786656786,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 500,
-        "area": 44.23,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-13T23:15:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Rembertów</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 1000 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Zwierzęta akceptowane | 2 pokoje | 50m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zwierzeta-akceptowane-2-pokoje-50m2-CID3-ID1bPRIx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:23",
-      "ts": 1786657102,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 1000,
-        "area": 50.0,
-        "district": "Rembertów",
-        "business": true,
-        "created_iso": "2026-08-13T23:23:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bPSnP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
-      "ts": 1786666045,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 52.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-14T00:01:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 350 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Prądnik Biały ul. Radzikowskiego, dwa osobne pokoje, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-bialy-ul-radzikowskiego-dwa-osobne-pokoje-balkon-CID3-ID1bPWlo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:23",
       "ts": 1786687056,
@@ -4411,13 +4369,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 37.5 м², 2 комнаты\n💰 2500 + czynsz 770 = <b>3270 zł/мес</b>\n   ≈ с медиа около 3570 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia, 2 pokoje, Ursus, Osiedle Gawra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-ursus-osiedle-gawra-CID3-ID1bQaLm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:15",
+      "ts": 1786710578,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 770,
+        "area": 37.5,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-14T14:15:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3350 + czynsz 600 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Stylowe 2-pokojowe z balkonem | Głowackiego | Klimatyzacja | Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-2-pokojowe-z-balkonem-glowackiego-klimatyzacja-garderoba-CID3-ID1bQbgY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:26",
+      "ts": 1786711514,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3350,
+        "rent": 600,
+        "area": 45.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-14T14:26:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 564 = <b>3764 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje z ogródkiem - BOREK FAŁĘCKI - ul. Zagrodzkiego - PARKING»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-ogrodkiem-borek-falecki-ul-zagrodzkiego-parking-CID3-ID1bQblE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
+      "ts": 1786711514,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 564,
+        "area": 47.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": true,
+        "created_iso": "2026-08-14T14:28:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 564
+      }
     }
   ],
   "stats": {
-    "checks": 3795,
-    "sent": 1153
+    "checks": 3799,
+    "sent": 1156
   },
   "initialized": true,
-  "last_check": "2026-08-14T12:24:31",
+  "last_check": "2026-08-14T12:45:24",
   "backoff_until": 1786688273.3955767
 }
