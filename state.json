@@ -2805,7 +2805,8 @@
     "1091182051": 1786739126,
     "1091182428": 1786739441,
     "1091182203": 1786739754,
-    "1091184456": 1786739754
+    "1091184456": 1786739754,
+    "1091184291": 1786740071
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3839,28 +3840,12 @@
     "mieszkanienawynajemulmarcinazwrocimowic|3200|41.0|bialoleka": 1786735368,
     "dowynajeciadwopokojowemieszkaniewcentrumkrako|2400|46.0|grzegorzki": 1786738811,
     "wynajme2pokojowemieszkanie37m2warszawaaljeroz|3200|37.0|ochota": 1786739126,
-    "mieszkaniewscislymcentrumkrakowa|2990|38.0|grzegorzki": 1786739754
+    "mieszkaniewscislymcentrumkrakowa|2990|38.0|grzegorzki": 1786739754,
+    "2pokojezgarazemibalkonemwarszawabialolekazera|2950|34.0|bialoleka": 1786740071
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3350 + czynsz 600 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Stylowe 2-pokojowe z balkonem | Głowackiego | Klimatyzacja | Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-2-pokojowe-z-balkonem-glowackiego-klimatyzacja-garderoba-CID3-ID1bQbgY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:26",
-      "ts": 1786711514,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3350,
-        "rent": 600,
-        "area": 45.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-14T14:26:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 564 = <b>3764 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje z ogródkiem - BOREK FAŁĘCKI - ul. Zagrodzkiego - PARKING»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-ogrodkiem-borek-falecki-ul-zagrodzkiego-parking-CID3-ID1bQblE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
       "ts": 1786711514,
@@ -4523,13 +4508,30 @@
       "an": {
         "czynsz_desc": 250
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 34 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje z garażem i balkonem, Warszawa Białołęka, Żerań, 34 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-garazem-i-balkonem-warszawa-bialoleka-zeran-34-m2-CID3-ID1bQuSD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:30",
+      "ts": 1786740071,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 692,
+        "area": 34.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-14T22:30:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 691
+      }
     }
   ],
   "stats": {
-    "checks": 3869,
-    "sent": 1194
+    "checks": 3873,
+    "sent": 1195
   },
   "initialized": true,
-  "last_check": "2026-08-14T20:36:04",
+  "last_check": "2026-08-14T20:56:59",
   "backoff_until": 1786688273.3955767
 }
