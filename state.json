@@ -2772,7 +2772,12 @@
     "1091129877": 1786718728,
     "1091132115": 1786719354,
     "1091131633": 1786719354,
-    "1091133613": 1786719983
+    "1091133613": 1786719983,
+    "1091134168": 1786720298,
+    "1091134232": 1786720609,
+    "1091135934": 1786720922,
+    "1091135394": 1786720922,
+    "1091137464": 1786721237
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3791,62 +3796,14 @@
     "mieszkanienawynajem|2900|49.0|podgorze": 1786718728,
     "mieszkanie2pokojowewspokojnejkameralnejokolic|3000|50.0|krowodrza": 1786719354,
     "nowe2pokojowemieszkaniezklimatyzacjadoskonala|3150|42.0|pradnikbialy": 1786719354,
-    "nowemieszkanie2pokojoweursusherbuoksza|3300|45.0|ursus": 1786719983
+    "nowemieszkanie2pokojoweursusherbuoksza|3300|45.0|ursus": 1786719983,
+    "ulaugustynkawichurylokietka2pokojowe65m2|2700|65.0|krowodrza": 1786720609,
+    "nowe38m²sosnowieckagarazbalkon|2800|38.0|bronowice": 1786720922,
+    "cichadwupokojowakawalerkawcentrumbezoplatyage|3100|30.0|srodmiescie": 1786721237
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 38.64 м², 2 комнаты\n💰 3900 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4550 zł/мес\n⚡ Свет/медиа: ≈ 650 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4550 zł\n🏢 Этаж: 5\n🏢 агентство\n«Okrzei 18 | 2 pokoje przy Porcie Praskim | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/okrzei-18-2-pokoje-przy-porcie-praskim-bez-prowizji-CID3-ID1bQ2Gn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:24",
-      "ts": 1786700315,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3900,
-        "rent": null,
-        "area": 38.64,
-        "district": "Praga-Północ",
-        "business": true,
-        "created_iso": "2026-08-14T11:24:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 54 м², 2 комнаты\n💰 <b>3600 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«mieszkanie do wynajęcia, od 1 września, 2 pokoje, 54m2, centrum Warszawy, Ochota»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-od-1-wrzesnia-2-pokoje-54m2-centrum-warszawy-ochota-CID3-ID1bQ2zq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:22",
-      "ts": 1786700949,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 54.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-14T11:22:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 45 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n🏢 агентство\n«Mieszkanie, 45 m2 z balkonem, Warszawa, ul. Cmentarna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-45-m2-z-balkonem-warszawa-ul-cmentarna-CID3-ID1bQ39S.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:34",
-      "ts": 1786700949,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 500,
-        "area": 45.0,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-14T11:34:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 30 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 400 zł + свет по счётчику\n🏢 Этаж: 2\n👤 от собственника\n«mieszkanie dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-CID3-ID1bQ3O0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:48",
       "ts": 1786701583,
@@ -4475,13 +4432,64 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 65 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«ul. Augustynka-Wichury - Łokietka - 2-pokojowe 65m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-augustynka-wichury-lokietka-2-pokojowe-65m2-CID3-ID1bQhRe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:58",
+      "ts": 1786720609,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 65.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-14T16:58:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Nowe 38 m² | Sosnowiecka | Garaż | Balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-38-m-sosnowiecka-garaz-balkon-CID3-ID1bQiiG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:07",
+      "ts": 1786720922,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 650,
+        "area": 38.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-14T17:07:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 3100 + czynsz 560 = <b>3660 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«cicha dwupokojowa kawalerka w Centrum / bez opłaty agencji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/cicha-dwupokojowa-kawalerka-w-centrum-bez-oplaty-agencji-CID3-ID1bQiHm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
+      "ts": 1786721237,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 560,
+        "area": 30.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-14T17:15:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 560
+      }
     }
   ],
   "stats": {
-    "checks": 3826,
-    "sent": 1179
+    "checks": 3830,
+    "sent": 1182
   },
   "initialized": true,
-  "last_check": "2026-08-14T15:06:31",
+  "last_check": "2026-08-14T15:27:26",
   "backoff_until": 1786688273.3955767
 }
