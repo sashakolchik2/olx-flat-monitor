@@ -2671,7 +2671,9 @@
     "1091047972": 1786687056,
     "1091049715": 1786688299,
     "1091049665": 1786688299,
-    "1091053295": 1786690508
+    "1091053295": 1786690508,
+    "1091053958": 1786690824,
+    "1091054405": 1786691139
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3630,28 +3632,12 @@
     "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786666045,
     "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786687056,
     "wynajme2pokojowe40m2zbalkonemwindawapartament|2900|40.0|bialoleka": 1786688299,
-    "2pokojezbalkonemnowyrakowwlochy39m²|3200|39.0|wlochy": 1786688299
+    "2pokojezbalkonemnowyrakowwlochy39m²|3200|39.0|wlochy": 1786688299,
+    "swietnakomunikacjaiwygodnalokalizacja|2600|36.0|podgorze": 1786691139
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 4\n🏢 агентство\n«Wita Stwosza | Stare miasto | 41m1 | salon + oddzielna sypialnia | NOWE | last floor»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wita-stwosza-stare-miasto-41m1-salon-oddzielna-sypialnia-nowe-last-floor-CID3-ID1bPAg1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:38",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 500,
-        "area": 41.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-13T17:38:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Właściciel wynajmie mieszkanie dwu pokojowe z balkonem grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-mieszkanie-dwu-pokojowe-z-balkonem-grzegorzki-CID3-ID1bPAtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:43",
       "ts": 1786645035,
@@ -4314,13 +4300,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 890 = <b>3490 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«Świetna komunikacja I wygodna lokalizacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/swietna-komunikacja-i-wygodna-lokalizacja-CID3-ID1bPX5H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:56",
+      "ts": 1786691139,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": null,
+        "area": 36.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-14T08:56:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 890
+      }
     }
   ],
   "stats": {
-    "checks": 3752,
-    "sent": 1119
+    "checks": 3756,
+    "sent": 1120
   },
   "initialized": true,
-  "last_check": "2026-08-14T06:55:15",
+  "last_check": "2026-08-14T07:16:15",
   "backoff_until": 1786688273.3955767
 }
