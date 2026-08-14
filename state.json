@@ -2797,7 +2797,8 @@
     "1091168021": 1786733484,
     "1091168452": 1786734113,
     "1091169933": 1786734425,
-    "1091169702": 1786734425
+    "1091169702": 1786734425,
+    "1091172026": 1786735368
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3827,28 +3828,12 @@
     "sloneczne2pokojowemieszkaniedowynajeciabielan|3000|43.0|bielany": 1786729079,
     "2pokojekuchniascislecentrum|3000|36.0|srodmiescie": 1786730025,
     "wynajmemieszkanie2pokojemetrobemowogarazpodzi|3000|41.0|bemowo": 1786733484,
-    "wynajemmieszkaniedwaoddzielnepokoje|2200|50.0|bienczyce": 1786734425
+    "wynajemmieszkaniedwaoddzielnepokoje|2200|50.0|bienczyce": 1786734425,
+    "mieszkanienawynajemulmarcinazwrocimowic|3200|41.0|bialoleka": 1786735368
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 44 м², 2 комнаты\n💰 2999 + czynsz 165 = <b>3164 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Słoneczne mieszkanie w kamienicy | Galeria Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-w-kamienicy-galeria-wilenska-CID3-ID1bQ7vg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:06",
-      "ts": 1786708065,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2999,
-        "rent": 165,
-        "area": 44.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-14T13:06:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 165
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowe mieszkanie z klimatyzacją na wynajem przy ul. Łużyckiej, 45.00 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-klimatyzacja-na-wynajem-przy-ul-luzyckiej-45-00-m2-CID3-ID1bQ9pO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
       "ts": 1786709013,
@@ -4511,13 +4496,30 @@
       "an": {
         "czynsz_desc": 892
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 41 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem ul. Marcina z Wrocimowic»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-marcina-z-wrocimowic-CID3-ID1bQrGO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:06",
+      "ts": 1786735368,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 41.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-14T21:06:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3854,
-    "sent": 1190
+    "checks": 3858,
+    "sent": 1191
   },
   "initialized": true,
-  "last_check": "2026-08-14T19:17:40",
+  "last_check": "2026-08-14T19:38:34",
   "backoff_until": 1786688273.3955767
 }
