@@ -2689,7 +2689,14 @@
     "1091065584": 1786696814,
     "1091067004": 1786697130,
     "1091067757": 1786697447,
-    "1091066269": 1786697763
+    "1091066269": 1786697763,
+    "1091069903": 1786698395,
+    "1091068967": 1786698395,
+    "1091071093": 1786698395,
+    "1091071582": 1786698713,
+    "1091071665": 1786698713,
+    "1091070861": 1786698713,
+    "1091073655": 1786699033
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3658,79 +3665,15 @@
     "wynajemmieszkania|3800|39.0|srodmiescie": 1786696814,
     "mieszkanieazorykrowodrza|2500|37.0|pradnikbialy": 1786697130,
     "2pokojowezbalkonemipodwojnymmiejscempostojowy|3100|40.0|grzegorzki": 1786697447,
-    "2pokojowez2balkonamiimiejscempostojowym52m2kl|3000|52.0|podgorzeduchackie": 1786697763
+    "2pokojowez2balkonamiimiejscempostojowym52m2kl|3000|52.0|podgorzeduchackie": 1786697763,
+    "mieszkanie2pokojebezposredniopierwszynajem250|2900|35.5|bemowo": 1786698395,
+    "47m2pokojepogeneralnymremoncieoskrakowiakow|2600|47.0|bienczyce": 1786698713,
+    "mieszkanie41m2nawynajem|3150|41.0|targowek": 1786698713,
+    "dowynajecia2pokojowemieszkanieulbelwederska|2800|37.0|mokotow": 1786698713
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 523 = <b>3123 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Jasne mieszkanie do wynajęcia ul. Włoska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-mieszkanie-do-wynajecia-ul-wloska-CID3-ID1bPFkq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:22",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 523,
-        "area": 36.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-13T19:22:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 523
-      }
-    },
-    {
-      "text": "🏠 <b>Краков</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 550 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с мая\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Nowoczesny apartament z ogródkiem, 2 pokoje, Lema»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-apartament-z-ogrodkiem-2-pokoje-lema-CID3-ID1bPFQn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:33",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 550,
-        "area": 45.0,
-        "district": "",
-        "business": true,
-        "created_iso": "2026-08-13T19:33:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 44 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bPFZ4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:36",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 44.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-13T19:36:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3140 zł/мес\n⚡ Свет/медиа: ≈ 40 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 40 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe / 2 pokoje w apartamentowcu Białołęka - Nowodwory»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-2-pokoje-w-apartamentowcu-bialoleka-nowodwory-CID3-ID1bPH0L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:55",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 600,
-        "area": 35.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-13T19:55:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 54 м², 2 комнаты\n💰 2900 + czynsz 580 = <b>3480 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 54m2 z tarasem, ul. Myczkowskiego Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-54m2-z-tarasem-ul-myczkowskiego-krakow-CID3-ID1bPHHQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:08",
       "ts": 1786645382,
@@ -4342,13 +4285,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 35.5 м², 2 комнаты\n💰 2900 + czynsz 665 = <b>3565 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje, bezpośrednio, pierwszy najem, 250 m od metra Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-bezposrednio-pierwszy-najem-250-m-od-metra-bemowo-CID3-ID1bQ0Sz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:45",
+      "ts": 1786698395,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 665,
+        "area": 35.5,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-14T10:45:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 665
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 677 = <b>3477 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 17.07\n🏢 Этаж: 9\n👤 от собственника\n«Do wynajęcia 2 pokojowe mieszkanie ul.Belwederska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-ul-belwederska-CID3-ID1bQ1n7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:56",
+      "ts": 1786698713,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 677,
+        "area": 37.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-14T10:56:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 677
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 47 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«47m 2 pokoje po generalnym remoncie, os. Krakowiaków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/47m-2-pokoje-po-generalnym-remoncie-os-krakowiakow-CID3-ID1bQ1yK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:00",
+      "ts": 1786698713,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 700,
+        "area": 47.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-14T11:00:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 41 м², 2 комнаты\n💰 3150 + czynsz 810 = <b>3960 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 41 m2 na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41-m2-na-wynajem-CID3-ID1bQ1A5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:01",
+      "ts": 1786698713,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 810,
+        "area": 41.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-14T11:01:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 810
+      }
     }
   ],
   "stats": {
-    "checks": 3775,
-    "sent": 1129
+    "checks": 3779,
+    "sent": 1133
   },
   "initialized": true,
-  "last_check": "2026-08-14T08:56:12",
+  "last_check": "2026-08-14T09:17:20",
   "backoff_until": 1786688273.3955767
 }
