@@ -2712,7 +2712,9 @@
     "1091077045": 1786700949,
     "1091075468": 1786700949,
     "1091081117": 1786701583,
-    "1091080216": 1786701583
+    "1091080216": 1786701583,
+    "1091083131": 1786702530,
+    "1091082583": 1786702530
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3695,28 +3697,12 @@
     "okrzei182pokojeprzyporciepraskimbezprowizji|3900|38.64|pragapolnoc": 1786700315,
     "mieszkanie45m2zbalkonemwarszawaulcmentarna|3500|45.0|targowek": 1786700949,
     "mieszkaniedowynajeciaod1wrzesnia2pokoje54m2ce|3600|54.0|ochota": 1786700949,
-    "mieszkaniedwupokojowe|3500|30.0|ochota": 1786701583
+    "mieszkaniedwupokojowe|3500|30.0|ochota": 1786701583,
+    "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786702530
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 2850 + czynsz 580 = <b>3430 zł/мес</b>\n   ≈ с медиа около 4010 zł/мес\n⚡ Свет/медиа: ≈ 580 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2850 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie, al. 29 listopada, 52 m2, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-al-29-listopada-52-m2-balkon-CID3-ID1bPLSX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:21",
-      "ts": 1786650135,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2850,
-        "rent": 580,
-        "area": 52.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-13T21:21:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 580
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 31 м², 2 комнаты\n💰 3200 + czynsz 512 = <b>3712 zł/мес</b>\n   ≈ с медиа около 3912 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia przytulne 2 pokoje przy Placu Narutowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-przytulne-2-pokoje-przy-placu-narutowicza-CID3-ID1bPMDW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:34",
       "ts": 1786650135,
@@ -4379,13 +4365,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 550 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Stylowe mieszkanie, nowy blok, Prokocim, standard i wyposażenie premium»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-mieszkanie-nowy-blok-prokocim-standard-i-wyposazenie-premium-CID3-ID1bQ4z1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
+      "ts": 1786702530,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 550,
+        "area": 39.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-14T12:04:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
     }
   ],
   "stats": {
-    "checks": 3787,
-    "sent": 1143
+    "checks": 3790,
+    "sent": 1144
   },
   "initialized": true,
-  "last_check": "2026-08-14T09:59:52",
+  "last_check": "2026-08-14T10:15:39",
   "backoff_until": 1786688273.3955767
 }
