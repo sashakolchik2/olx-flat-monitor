@@ -2673,7 +2673,10 @@
     "1091049665": 1786688299,
     "1091053295": 1786690508,
     "1091053958": 1786690824,
-    "1091054405": 1786691139
+    "1091054405": 1786691139,
+    "1091055948": 1786692084,
+    "1091057092": 1786692716,
+    "1091056615": 1786693031
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3633,28 +3636,12 @@
     "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786687056,
     "wynajme2pokojowe40m2zbalkonemwindawapartament|2900|40.0|bialoleka": 1786688299,
     "2pokojezbalkonemnowyrakowwlochy39m²|3200|39.0|wlochy": 1786688299,
-    "swietnakomunikacjaiwygodnalokalizacja|2600|36.0|podgorze": 1786691139
+    "swietnakomunikacjaiwygodnalokalizacja|2600|36.0|podgorze": 1786691139,
+    "mieszkanieursuszgarazemmiejscempostojowymikom|2850|63.0|ursus": 1786692084
   },
   "tg_offset": 654625393,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Właściciel wynajmie mieszkanie dwu pokojowe z balkonem grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-mieszkanie-dwu-pokojowe-z-balkonem-grzegorzki-CID3-ID1bPAtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:43",
-      "ts": 1786645035,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 500,
-        "area": 55.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-13T17:43:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3080 zł/мес\n⚡ Свет/медиа: ≈ 80 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«właściciel wynajmie 2-pok. młyńska Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pok-mlynska-krakow-CID3-ID1bPBwo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:05",
       "ts": 1786645035,
@@ -4317,13 +4304,30 @@
       "an": {
         "czynsz_desc": 890
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 63 м², 2 комнаты\n💰 2850 + czynsz 1000 = <b>3850 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie Ursus z garażem, miejscem postojowym i komórką w cenie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ursus-z-garazem-miejscem-postojowym-i-komorka-w-cenie-CID3-ID1bPXuA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:10",
+      "ts": 1786692084,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2850,
+        "rent": 1000,
+        "area": 63.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-14T09:10:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3756,
-    "sent": 1120
+    "checks": 3760,
+    "sent": 1121
   },
   "initialized": true,
-  "last_check": "2026-08-14T07:16:15",
+  "last_check": "2026-08-14T07:37:18",
   "backoff_until": 1786688273.3955767
 }
