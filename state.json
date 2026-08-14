@@ -2713,6 +2713,7 @@
     "1091075468": 1786700949,
     "1091081117": 1786701583,
     "1091080216": 1786701583,
+<<<<<<< Updated upstream
     "1091083131": 1786702530,
     "1091082583": 1786702530,
     "1091082280": 1786702848,
@@ -2731,6 +2732,28 @@
     "1091094492": 1786706320,
     "1091095200": 1786706952,
     "1091096108": 1786707266
+=======
+    "1091093775": 1786708065,
+    "1091092986": 1786708065,
+    "1091092283": 1786708065,
+    "1091087329": 1786708065,
+    "1091086980": 1786708065,
+    "1091085219": 1786708065,
+    "1091083131": 1786708065,
+    "1091082280": 1786708065,
+    "1091082583": 1786708065,
+    "1091096108": 1786708065,
+    "1091095200": 1786708065,
+    "1091094492": 1786708065,
+    "1091091871": 1786708065,
+    "1091089713": 1786708065,
+    "1091089395": 1786708065,
+    "1091086410": 1786708065,
+    "1091085754": 1786708065,
+    "1091084497": 1786708065,
+    "1091101780": 1786709013,
+    "1091102959": 1786709013
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3714,6 +3737,7 @@
     "mieszkanie45m2zbalkonemwarszawaulcmentarna|3500|45.0|targowek": 1786700949,
     "mieszkaniedowynajeciaod1wrzesnia2pokoje54m2ce|3600|54.0|ochota": 1786700949,
     "mieszkaniedwupokojowe|3500|30.0|ochota": 1786701583,
+<<<<<<< Updated upstream
     "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786702530,
     "mieszkaniedowynajecianasalwatorze|2950|38.0|staremiasto": 1786702848,
     "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786703478,
@@ -3722,11 +3746,23 @@
     "52m2zogrodkiemklimatyzacjapetfriendlyulkparys|3000|52.47|debniki": 1786705687,
     "komfortowe2pokojezduzymbalkonem|2400|45.0|targowek": 1786705687,
     "slonecznemieszkaniewkamienicygaleriawilenska|2999|44.0|pragapolnoc": 1786706320
+=======
+    "52m2zogrodkiemklimatyzacjapetfriendlyulkparys|3000|52.47|debniki": 1786708065,
+    "krakowgrzegorzkikazimierz5min2pokojowemieszka|2600|37.0|grzegorzki": 1786708065,
+    "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786708065,
+    "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786708065,
+    "mieszkaniedowynajecianasalwatorze|2950|38.0|staremiasto": 1786708065,
+    "slonecznemieszkaniewkamienicygaleriawilenska|2999|44.0|pragapolnoc": 1786708065,
+    "komfortowe2pokojezduzymbalkonem|2400|45.0|targowek": 1786708065,
+    "mieszkanienawynajemosobnasypialniauldrweckakl|3500|33.0|pragapoludnie": 1786708065,
+    "2pokojowemieszkaniezklimatyzacjanawynajemprzy|2400|45.0|podgorzeduchackie": 1786709013
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2-pokojowe z dużym tarasem – Bronowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-duzym-tarasem-bronowice-CID3-ID1bPRgQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:06",
       "ts": 1786655835,
       "city": "krakow",
@@ -3744,6 +3780,8 @@
       }
     },
     {
+=======
+>>>>>>> Stashed changes
       "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3100 + czynsz 640 = <b>3740 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dwupokojwe zabłocie | Pierwszy najem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojwe-zablocie-pierwszy-najem-CID3-ID1bPRA4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:17",
       "ts": 1786656468,
       "city": "krakow",
@@ -4271,6 +4309,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 550 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Stylowe mieszkanie, nowy blok, Prokocim, standard i wyposażenie premium»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-mieszkanie-nowy-blok-prokocim-standard-i-wyposazenie-premium-CID3-ID1bQ4z1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
       "ts": 1786702530,
       "city": "krakow",
@@ -4290,6 +4329,10 @@
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajecia na Salwatorze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-salwatorze-CID3-ID1bQ4li.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:59",
       "ts": 1786702848,
+=======
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajecia na Salwatorze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-salwatorze-CID3-ID1bQ4li.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:59",
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4305,8 +4348,30 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Czyżyny</b> — 39 м², 2 комнаты\n💰 3400 + czynsz 500 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: в цене\n📅 Заселение: с 26.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok.+balkon+miejsce parkingowe; Kraków ul. Osiedle Akademickie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-balkon-miejsce-parkingowe-krakow-ul-osiedle-akademickie-CID3-ID1bQ56H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:16",
       "ts": 1786703478,
+=======
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 550 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Stylowe mieszkanie, nowy blok, Prokocim, standard i wyposażenie premium»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-mieszkanie-nowy-blok-prokocim-standard-i-wyposazenie-premium-CID3-ID1bQ4z1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
+      "ts": 1786708065,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 550,
+        "area": 39.0,
+        "district": "Bieżanów-Prokocim",
+        "business": true,
+        "created_iso": "2026-08-14T12:04:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 39 м², 2 комнаты\n💰 3400 + czynsz 500 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: в цене\n📅 Заселение: с 26.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok.+balkon+miejsce parkingowe; Kraków ul. Osiedle Akademickie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-balkon-miejsce-parkingowe-krakow-ul-osiedle-akademickie-CID3-ID1bQ56H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:16",
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4323,7 +4388,11 @@
     },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Kraków, Grzegórzki (Kazimierz 5min), 2 pokojowe mieszkanie - w pełni wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-grzegorzki-kazimierz-5min-2-pokojowe-mieszkanie-w-pelni-wyposazone-CID3-ID1bQ5z6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:26",
+<<<<<<< Updated upstream
       "ts": 1786704425,
+=======
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4340,7 +4409,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3500 + czynsz 450 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem - osobna sypialnia, ul. Drwęcka, kliamtyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-osobna-sypialnia-ul-drwecka-kliamtyzacja-CID3-ID1bQ6hb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:39",
+<<<<<<< Updated upstream
       "ts": 1786705055,
+=======
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -4357,7 +4430,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Komfortowe 2 pokoje z dużym balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokoje-z-duzym-balkonem-CID3-ID1bQ6PZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:51",
+<<<<<<< Updated upstream
       "ts": 1786705687,
+=======
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -4374,7 +4451,11 @@
     },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 52.47 м², 2 комнаты\n💰 3000 + czynsz 845 = <b>3845 zł/мес</b>\n   ≈ с медиа около 3978 zł/мес\n⚡ Свет/медиа: ≈ 133 zł/мес\n🌐 Интернет: 133 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«52m2 z ogródkiem, klimatyzacja, pet friendly, ul. K. Paryskiej 52»\n🔗 <a href=\"https://www.olx.pl/d/oferta/52m2-z-ogrodkiem-klimatyzacja-pet-friendly-ul-k-paryskiej-52-CID3-ID1bQ77Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
+<<<<<<< Updated upstream
       "ts": 1786705687,
+=======
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4391,7 +4472,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 44 м², 2 комнаты\n💰 2999 + czynsz 165 = <b>3164 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Słoneczne mieszkanie w kamienicy | Galeria Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-w-kamienicy-galeria-wilenska-CID3-ID1bQ7vg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:06",
+<<<<<<< Updated upstream
       "ts": 1786706320,
+=======
+      "ts": 1786708065,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -4405,6 +4490,7 @@
       "an": {
         "czynsz_desc": 165
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -4413,5 +4499,32 @@
   },
   "initialized": true,
   "last_check": "2026-08-14T11:45:05",
+=======
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowe mieszkanie z klimatyzacją na wynajem przy ul. Łużyckiej, 45.00 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-klimatyzacja-na-wynajem-przy-ul-luzyckiej-45-00-m2-CID3-ID1bQ9pO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
+      "ts": 1786709013,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 800,
+        "area": 45.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-14T13:46:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    }
+  ],
+  "stats": {
+    "checks": 3791,
+    "sent": 1152
+  },
+  "initialized": true,
+  "last_check": "2026-08-14T12:03:42",
+>>>>>>> Stashed changes
   "backoff_until": 1786688273.3955767
 }
