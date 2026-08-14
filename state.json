@@ -2740,7 +2740,9 @@
     "1091109068": 1786711203,
     "1091109210": 1786711514,
     "1091108920": 1786711514,
-    "1091109266": 1786711514
+    "1091109266": 1786711514,
+    "1091110644": 1786711830,
+    "1091111729": 1786712456
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3736,45 +3738,13 @@
     "wynajmeprzytulnemieszkanienaosiedluzabiniec|2600|45.0|pradnikbialy": 1786709952,
     "mieszkaniedowynajecia2pokojeursusosiedlegawra|2500|37.5|ursus": 1786710578,
     "2pokojezogrodkiemborekfaleckiulzagrodzkiegopa|3200|47.0|lagiewnikiborekfalec": 1786711514,
-    "stylowe2pokojowezbalkonemglowackiegoklimatyza|3350|45.0|krowodrza": 1786711514
+    "stylowe2pokojowezbalkonemglowackiegoklimatyza|3350|45.0|krowodrza": 1786711514,
+    "unikatowemieszkanienawynajemkazimierzstaremia|3300|51.0|staremiasto": 1786711830,
+    "2pokojezablociebezprowizjiprzyjaznezwierzetom|3090|32.0|podgorze": 1786712456
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 350 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Prądnik Biały ul. Radzikowskiego, dwa osobne pokoje, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-bialy-ul-radzikowskiego-dwa-osobne-pokoje-balkon-CID3-ID1bPWlo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:23",
-      "ts": 1786687056,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 750,
-        "area": 60.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-14T07:23:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 39 м², 2 комнаты\n💰 3200 + czynsz 538 = <b>3738 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje z balkonem | Nowy Raków, Włochy | 39 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-nowy-rakow-wlochy-39-m-CID3-ID1bPWRf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:02",
-      "ts": 1786688299,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 538,
-        "area": 39.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-14T08:02:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 538
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 450 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę 2-pokojowe 40 m2 z balkonem, windą w apartamentowcu Hemara, nowoczesne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-40-m2-z-balkonem-winda-w-apartamentowcu-hemara-nowoczesne-CID3-ID1bPWS3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:02",
       "ts": 1786688299,
@@ -4420,13 +4390,47 @@
       "an": {
         "czynsz_desc": 564
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 51 м², 2 комнаты\n💰 3300 + czynsz 507 = <b>3807 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Unikatowe mieszkanie na wynajem Kazimierz Stare Miasto ul. Miodowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/unikatowe-mieszkanie-na-wynajem-kazimierz-stare-miasto-ul-miodowa-CID3-ID1bQbIM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:36",
+      "ts": 1786711830,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 507,
+        "area": 51.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-14T14:36:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 507
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3090 + czynsz 500 = <b>3590 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2 Pokoje | Zabłocie | Bez Prowizji | Przyjazne zwierzętom | Od Zaraz | MEDIA W CENIE!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-zablocie-bez-prowizji-przyjazne-zwierzetom-od-zaraz-media-w-cenie-CID3-ID1bQc0h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
+      "ts": 1786712456,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3090,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-14T14:41:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3799,
-    "sent": 1156
+    "checks": 3803,
+    "sent": 1158
   },
   "initialized": true,
-  "last_check": "2026-08-14T12:45:24",
+  "last_check": "2026-08-14T13:06:16",
   "backoff_until": 1786688273.3955767
 }
