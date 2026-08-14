@@ -2664,11 +2664,7 @@
     "1091033071": 1786656786,
     "1091032797": 1786656786,
     "1091033749": 1786657102,
-<<<<<<< Updated upstream
-    "1091036309": 1786659630
-=======
     "1091036309": 1786666045
->>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3624,11 +3620,7 @@
     "mieszkaniedwupokojwezablociepierwszynajem|3100|36.0|podgorze": 1786656468,
     "dowynajecia2pokojezprywatnymogrodkiemrzaka442|3200|44.23|biezanowprokocim": 1786656786,
     "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102,
-<<<<<<< Updated upstream
-    "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786659630
-=======
     "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786666045
->>>>>>> Stashed changes
   },
   "tg_offset": 654625393,
   "paused": false,
@@ -4298,11 +4290,7 @@
     },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bPSnP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:01",
-<<<<<<< Updated upstream
-      "ts": 1786659630,
-=======
       "ts": 1786666045,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4319,18 +4307,10 @@
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 3716,
+    "checks": 3696,
     "sent": 1116
   },
   "initialized": true,
-  "last_check": "2026-08-14T00:05:48",
-=======
-    "checks": 3692,
-    "sent": 1116
-  },
-  "initialized": true,
-  "last_check": "2026-08-14T00:23:17",
->>>>>>> Stashed changes
+  "last_check": "2026-08-14T00:44:18",
   "backoff_until": 1786650126.0948234
 }
