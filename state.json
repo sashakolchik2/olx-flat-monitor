@@ -2761,7 +2761,15 @@
     "1091124787": 1786716844,
     "1091126049": 1786717468,
     "1091124781": 1786717468,
-    "1091126225": 1786717468
+    "1091126225": 1786717468,
+    "1091126811": 1786717785,
+    "1091127642": 1786718099,
+    "1091129766": 1786718411,
+    "1091128911": 1786718411,
+    "1091127904": 1786718411,
+    "1091118184": 1786718411,
+    "1091129692": 1786718728,
+    "1091129877": 1786718728
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3772,96 +3780,16 @@
     "2pokoje54m2garaz2loggieofertaprywatna|3000|54.2|bialoleka": 1786716528,
     "dwupokojowemieszkaniewdobrzeskomunikowanejlok|2400|38.0|debniki": 1786716844,
     "bezposrednio2pokojezbalkonemgaraz|2750|36.0|biezanowprokocim": 1786717468,
-    "mieszkanie2pokojoweprzyalkrasinskiegokrakowko|3850|52.0|staremiasto": 1786717468
+    "mieszkanie2pokojoweprzyalkrasinskiegokrakowko|3850|52.0|staremiasto": 1786717468,
+    "wynajmekomfortowewpelniumeblowanemieszkanieta|3500|42.0|targowek": 1786717785,
+    "wynajme2pokojowemieszkanieulciesielskiegoblis|3000|34.0|czyzyny": 1786718411,
+    "ignacegokrasickiego2pokojowenawynajemodzaraz|2900|43.0|podgorze": 1786718411,
+    "mieszkaniebliskoaghukendwapokoje|2600|35.0|bronowice": 1786718411,
+    "mieszkanienawynajem|2900|49.0|podgorze": 1786718728
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 47 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«47m 2 pokoje po generalnym remoncie, os. Krakowiaków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/47m-2-pokoje-po-generalnym-remoncie-os-krakowiakow-CID3-ID1bQ1yK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:00",
-      "ts": 1786698713,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 47.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-14T11:00:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 41 м², 2 комнаты\n💰 3150 + czynsz 810 = <b>3960 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 41 m2 na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41-m2-na-wynajem-CID3-ID1bQ1A5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:01",
-      "ts": 1786698713,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3150,
-        "rent": 810,
-        "area": 41.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-14T11:01:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 810
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 40.49 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 13 августа\n🏢 Этаж: 3\n🏢 агентство\n«Bielany | 2 pokoje | 2 garaże | Metro Młociny | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bielany-2-pokoje-2-garaze-metro-mlociny-bez-prowizji-CID3-ID1bQ2pE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:18",
-      "ts": 1786699664,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 40.49,
-        "district": "Bielany",
-        "business": true,
-        "created_iso": "2026-08-14T11:18:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 34.4 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 13 августа\n🏢 Этаж: 6\n🏢 агентство\n«Śródmieście Marszałkowska | 2 osobne pokoje przy Metrze | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/srodmiescie-marszalkowska-2-osobne-pokoje-przy-metrze-bez-prowizji-CID3-ID1bQ2qQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:18",
-      "ts": 1786699664,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 34.4,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-14T11:18:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 660 = <b>3560 zł/мес</b>\n   ≈ с медиа около 4220 zł/мес\n⚡ Свет/медиа: ≈ 660 zł + свет по счётчику\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie -Warszawa / Białołęka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-bialoleka-CID3-ID1bQ2ne.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
-      "ts": 1786699992,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 660,
-        "area": 32.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-14T11:17:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 560 = <b>3460 zł/мес</b>\n   ≈ с медиа около 3560 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 70 zł/мес\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 9\n🐾 можно с животными · 👤 от собственника\n«Wyremontowane mieszkanie 2-pokojowe - Neseberska - Dolny Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wyremontowane-mieszkanie-2-pokojowe-neseberska-dolny-mokotow-CID3-ID1bQ2HN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:25",
       "ts": 1786699992,
@@ -4456,13 +4384,98 @@
       "an": {
         "czynsz_desc": 550
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 42 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę komfortowe, w pełni umeblowane mieszkanie – Targówek/Zacisze, 6 minut od metra Trocka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-komfortowe-w-pelni-umeblowane-mieszkanie-targowek-zacisze-6-minut-od-metra-trocka-CID3-ID1bQfWx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
+      "ts": 1786717785,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 42.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-14T16:15:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3300 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🌐 Интернет: 70 zł/мес\n👤 от собственника\n«Mieszkanie blisko AGH UKEN dwa pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-agh-uken-dwa-pokoje-CID3-ID1bQdGo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:21",
+      "ts": 1786718411,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 35.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-14T15:21:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 740 = <b>3640 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«Ignacego Krasickiego 2-pokojowe na wynajem od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ignacego-krasickiego-2-pokojowe-na-wynajem-od-zaraz-CID3-ID1bQgda.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:20",
+      "ts": 1786718411,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 740,
+        "area": 43.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-14T16:20:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę 2- pokojowe mieszkanie, ul. Ciesielskiego (blisko PK i AWF) od 01.10.2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ul-ciesielskiego-blisko-pk-i-awf-od-01-10-2026-CID3-ID1bQgHc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:31",
+      "ts": 1786718411,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 34.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-14T16:31:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 49 м², 2 комнаты\n💰 2900 + czynsz 480 = <b>3380 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bQgG0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:30",
+      "ts": 1786718728,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 480,
+        "area": 49.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-14T16:30:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3818,
-    "sent": 1171
+    "checks": 3822,
+    "sent": 1176
   },
   "initialized": true,
-  "last_check": "2026-08-14T14:24:38",
+  "last_check": "2026-08-14T14:45:36",
   "backoff_until": 1786688273.3955767
 }
