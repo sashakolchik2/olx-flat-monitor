@@ -2723,7 +2723,12 @@
     "1091089395": 1786704111,
     "1091087329": 1786704425,
     "1091086980": 1786704425,
-    "1091089713": 1786705055
+    "1091089713": 1786705055,
+    "1091092283": 1786705373,
+    "1091092986": 1786705687,
+    "1091091871": 1786705687,
+    "1091093775": 1786706005,
+    "1091094492": 1786706320
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3711,62 +3716,14 @@
     "mieszkaniedowynajecianasalwatorze|2950|38.0|staremiasto": 1786702848,
     "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786703478,
     "krakowgrzegorzkikazimierz5min2pokojowemieszka|2600|37.0|grzegorzki": 1786704425,
-    "mieszkanienawynajemosobnasypialniauldrweckakl|3500|33.0|pragapoludnie": 1786705055
+    "mieszkanienawynajemosobnasypialniauldrweckakl|3500|33.0|pragapoludnie": 1786705055,
+    "52m2zogrodkiemklimatyzacjapetfriendlyulkparys|3000|52.47|debniki": 1786705687,
+    "komfortowe2pokojezduzymbalkonem|2400|45.0|targowek": 1786705687,
+    "slonecznemieszkaniewkamienicygaleriawilenska|2999|44.0|pragapolnoc": 1786706320
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2300 + czynsz 703 = <b>3003 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bPPbf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:21",
-      "ts": 1786653302,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2300,
-        "rent": 703,
-        "area": 38.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-13T22:21:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 480 = <b>3480 zł/мес</b>\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe mieszkanie na WYNAJEM Ul. Poznańska KRAKÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-ul-poznanska-krakow-CID3-ID1bPQlD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:43",
-      "ts": 1786654565,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 480,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-13T22:43:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 40 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Przytulne mieszkanie 2-pokojowe z balkonem.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-2-pokojowe-z-balkonem-CID3-ID1bPR4J.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:00",
-      "ts": 1786655517,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": 600,
-        "area": 40.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-13T23:00:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2-pokojowe z dużym tarasem – Bronowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-duzym-tarasem-bronowice-CID3-ID1bPRgQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:06",
       "ts": 1786655835,
@@ -4395,13 +4352,64 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Komfortowe 2 pokoje z dużym balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokoje-z-duzym-balkonem-CID3-ID1bQ6PZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:51",
+      "ts": 1786705687,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2400,
+        "rent": 800,
+        "area": 45.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-14T12:51:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 52.47 м², 2 комнаты\n💰 3000 + czynsz 845 = <b>3845 zł/мес</b>\n   ≈ с медиа около 3978 zł/мес\n⚡ Свет/медиа: ≈ 133 zł/мес\n🌐 Интернет: 133 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«52m2 z ogródkiem, klimatyzacja, pet friendly, ul. K. Paryskiej 52»\n🔗 <a href=\"https://www.olx.pl/d/oferta/52m2-z-ogrodkiem-klimatyzacja-pet-friendly-ul-k-paryskiej-52-CID3-ID1bQ77Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
+      "ts": 1786705687,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 845,
+        "area": 52.47,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-14T12:57:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 845
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 44 м², 2 комнаты\n💰 2999 + czynsz 165 = <b>3164 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Słoneczne mieszkanie w kamienicy | Galeria Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-w-kamienicy-galeria-wilenska-CID3-ID1bQ7vg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:06",
+      "ts": 1786706320,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2999,
+        "rent": 165,
+        "area": 44.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-14T13:06:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 165
+      }
     }
   ],
   "stats": {
-    "checks": 3798,
-    "sent": 1148
+    "checks": 3802,
+    "sent": 1151
   },
   "initialized": true,
-  "last_check": "2026-08-14T10:57:44",
+  "last_check": "2026-08-14T11:18:49",
   "backoff_until": 1786688273.3955767
 }
