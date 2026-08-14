@@ -2800,7 +2800,12 @@
     "1091169702": 1786734425,
     "1091172026": 1786735368,
     "1091176055": 1786736621,
-    "1091177965": 1786737560
+    "1091177965": 1786737560,
+    "1091181738": 1786738811,
+    "1091182051": 1786739126,
+    "1091182428": 1786739441,
+    "1091182203": 1786739754,
+    "1091184456": 1786739754
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3831,62 +3836,14 @@
     "2pokojekuchniascislecentrum|3000|36.0|srodmiescie": 1786730025,
     "wynajmemieszkanie2pokojemetrobemowogarazpodzi|3000|41.0|bemowo": 1786733484,
     "wynajemmieszkaniedwaoddzielnepokoje|2200|50.0|bienczyce": 1786734425,
-    "mieszkanienawynajemulmarcinazwrocimowic|3200|41.0|bialoleka": 1786735368
+    "mieszkanienawynajemulmarcinazwrocimowic|3200|41.0|bialoleka": 1786735368,
+    "dowynajeciadwopokojowemieszkaniewcentrumkrako|2400|46.0|grzegorzki": 1786738811,
+    "wynajme2pokojowemieszkanie37m2warszawaaljeroz|3200|37.0|ochota": 1786739126,
+    "mieszkaniewscislymcentrumkrakowa|2990|38.0|grzegorzki": 1786739754
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowe mieszkanie z klimatyzacją na wynajem przy ul. Łużyckiej, 45.00 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-klimatyzacja-na-wynajem-przy-ul-luzyckiej-45-00-m2-CID3-ID1bQ9pO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
-      "ts": 1786709013,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 800,
-        "area": 45.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-14T13:46:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę przytulne mieszkanie na osiedlu Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-przytulne-mieszkanie-na-osiedlu-zabiniec-CID3-ID1bQaxo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:10",
-      "ts": 1786709952,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 45.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-14T14:10:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 37.5 м², 2 комнаты\n💰 2500 + czynsz 770 = <b>3270 zł/мес</b>\n   ≈ с медиа около 3570 zł/мес\n⚡ Свет/медиа: ≈ 300 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia, 2 pokoje, Ursus, Osiedle Gawra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-ursus-osiedle-gawra-CID3-ID1bQaLm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:15",
-      "ts": 1786710578,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 770,
-        "area": 37.5,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-14T14:15:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3350 + czynsz 600 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Stylowe 2-pokojowe z balkonem | Głowackiego | Klimatyzacja | Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-2-pokojowe-z-balkonem-glowackiego-klimatyzacja-garderoba-CID3-ID1bQbgY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:26",
       "ts": 1786711514,
@@ -4515,13 +4472,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 46 м², 2 комнаты\n💰 2400 + czynsz 700 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 1\n👤 от собственника\n«Do wynajęcia dwópokojowe mieszkanie w centrum Krakowa bez pośredników»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-dwopokojowe-mieszkanie-w-centrum-krakowa-bez-posrednikow-CID3-ID1bQuds.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:10",
+      "ts": 1786738811,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 700,
+        "area": 46.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-14T22:10:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie (37m2) | Warszawa (Al. Jerozolimskie 135, róg Spiskiej blisko Pl. Narutowicza) | Dla 2 studentek lub młodych pracujących»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-37m2-warszawa-al-jerozolimskie-135-rog-spiskiej-blisko-pl-narutowicza-dla-2-studentek-lub-mlodych-pracujacych-CID3-ID1bQuiw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:12",
+      "ts": 1786739126,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-14T22:12:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2990 + czynsz 250 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 4 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie w ścisłym Centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-scislym-centrum-krakowa-CID3-ID1bQukX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:13",
+      "ts": 1786739754,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2990,
+        "rent": 250,
+        "area": 38.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-14T22:13:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 250
+      }
     }
   ],
   "stats": {
-    "checks": 3865,
-    "sent": 1191
+    "checks": 3869,
+    "sent": 1194
   },
   "initialized": true,
-  "last_check": "2026-08-14T20:15:03",
+  "last_check": "2026-08-14T20:36:04",
   "backoff_until": 1786688273.3955767
 }
