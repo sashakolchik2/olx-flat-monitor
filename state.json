@@ -2794,7 +2794,10 @@
     "1091142088": 1786729079,
     "1091159821": 1786730025,
     "1091163397": 1786732220,
-    "1091168021": 1786733484
+    "1091168021": 1786733484,
+    "1091168452": 1786734113,
+    "1091169933": 1786734425,
+    "1091169702": 1786734425
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3823,28 +3826,12 @@
     "mieszkanie36mbalkonwidokporemoncieodwrzesnia|2800|36.0|pragapoludnie": 1786729079,
     "sloneczne2pokojowemieszkaniedowynajeciabielan|3000|43.0|bielany": 1786729079,
     "2pokojekuchniascislecentrum|3000|36.0|srodmiescie": 1786730025,
-    "wynajmemieszkanie2pokojemetrobemowogarazpodzi|3000|41.0|bemowo": 1786733484
+    "wynajmemieszkanie2pokojemetrobemowogarazpodzi|3000|41.0|bemowo": 1786733484,
+    "wynajemmieszkaniedwaoddzielnepokoje|2200|50.0|bienczyce": 1786734425
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 52.47 м², 2 комнаты\n💰 3000 + czynsz 845 = <b>3845 zł/мес</b>\n   ≈ с медиа около 3978 zł/мес\n⚡ Свет/медиа: ≈ 133 zł/мес\n🌐 Интернет: 133 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«52m2 z ogródkiem, klimatyzacja, pet friendly, ul. K. Paryskiej 52»\n🔗 <a href=\"https://www.olx.pl/d/oferta/52m2-z-ogrodkiem-klimatyzacja-pet-friendly-ul-k-paryskiej-52-CID3-ID1bQ77Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
-      "ts": 1786708065,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 845,
-        "area": 52.47,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-14T12:57:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 845
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 44 м², 2 комнаты\n💰 2999 + czynsz 165 = <b>3164 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Słoneczne mieszkanie w kamienicy | Galeria Wileńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-w-kamienicy-galeria-wilenska-CID3-ID1bQ7vg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:06",
       "ts": 1786708065,
@@ -4507,13 +4494,30 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 892 = <b>3092 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkanie dwa oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkanie-dwa-oddzielne-pokoje-CID3-ID1bQr93.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:54",
+      "ts": 1786734425,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2200,
+        "rent": 892,
+        "area": 50.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-14T20:54:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 892
+      }
     }
   ],
   "stats": {
-    "checks": 3850,
-    "sent": 1189
+    "checks": 3854,
+    "sent": 1190
   },
   "initialized": true,
-  "last_check": "2026-08-14T18:56:45",
+  "last_check": "2026-08-14T19:17:40",
   "backoff_until": 1786688273.3955767
 }
