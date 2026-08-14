@@ -2678,7 +2678,13 @@
     "1091057092": 1786692716,
     "1091056615": 1786693031,
     "1091058482": 1786693661,
-    "1090864421": 1786693661
+    "1090864421": 1786693661,
+    "1091060873": 1786694607,
+    "1091060875": 1786694607,
+    "1091062239": 1786694923,
+    "1091062336": 1786695550,
+    "1091063620": 1786695550,
+    "1091060508": 1786695550
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3640,45 +3646,13 @@
     "2pokojezbalkonemnowyrakowwlochy39m²|3200|39.0|wlochy": 1786688299,
     "swietnakomunikacjaiwygodnalokalizacja|2600|36.0|podgorze": 1786691139,
     "mieszkanieursuszgarazemmiejscempostojowymikom|2850|63.0|ursus": 1786692084,
-    "mieszkaniedowynajecia|3600|60.0|podgorze": 1786693661
+    "mieszkaniedowynajecia|3600|60.0|podgorze": 1786693661,
+    "dowynajeciamieszkaniedwupokojowepodgorzeducha|2400|43.0|podgorzeduchackie": 1786694607,
+    "okazjasuperprzytulnemieszkaniedlasinglalubpar|2800|30.0|pragapoludnie": 1786694923
   },
-  "tg_offset": 654625393,
+  "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 970 = <b>3970 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje | 50 m² | Balkon | Garaż podziemny | Białołęka, ul. Odkryta | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-50-m-balkon-garaz-podziemny-bialoleka-ul-odkryta-bezposrednio-CID3-ID1bPBCR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:07",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 970,
-        "area": 50.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-13T18:07:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 970
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 31 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Na wynajem 2pokojowe mieszkanie na osiedlu Wilno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-2pokojowe-mieszkanie-na-osiedlu-wilno-CID3-ID1bPBHb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:09",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 31.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-13T18:09:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 920 = <b>3820 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 920 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie osiedle Wilno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-wilno-CID3-ID1bPCV7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:34",
       "ts": 1786645035,
@@ -4324,13 +4298,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 43 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 350 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia mieszkanie dwupokojowe | Podgórze Duchackie | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-dwupokojowe-podgorze-duchackie-garaz-CID3-ID1bPYM1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:50",
+      "ts": 1786694607,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 800,
+        "area": 43.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-14T09:50:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 30 м², 2 комнаты\n💰 2800 + czynsz 680 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«Okazja. Super przytulne mieszkanie dla singla lub pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/okazja-super-przytulne-mieszkanie-dla-singla-lub-pary-CID3-ID1bPZ83.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:01",
+      "ts": 1786694923,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 680,
+        "area": 30.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-14T10:01:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3764,
-    "sent": 1122
+    "checks": 3768,
+    "sent": 1124
   },
   "initialized": true,
-  "last_check": "2026-08-14T07:58:18",
+  "last_check": "2026-08-14T08:19:17",
   "backoff_until": 1786688273.3955767
 }
