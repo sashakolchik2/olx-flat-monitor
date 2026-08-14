@@ -2812,7 +2812,10 @@
     "1091185609": 1786741639,
     "1091188269": 1786742892,
     "1091188801": 1786743207,
-    "1091189588": 1786743521
+    "1091189588": 1786743521,
+    "1091188953": 1786743837,
+    "1091190259": 1786744464,
+    "1091190351": 1786744464
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3851,62 +3854,14 @@
     "wynajmemieszkaniesadyba|2500|39.0|mokotow": 1786741639,
     "mieszkaniedwapokojeprzywat|3300|39.0|bemowo": 1786742892,
     "metrobrodno2oddzielnenieprzechodniepokojewyso|2900|29.0|targowek": 1786743207,
-    "mieszkanie2pokojowedowynajecianabemowie|3000|41.0|bemowo": 1786743521
+    "mieszkanie2pokojowedowynajecianabemowie|3000|41.0|bemowo": 1786743521,
+    "rakowicka54m²2pokojeuekgarazpodziemnycentrum|3000|54.0|grzegorzki": 1786743837,
+    "mieszkanienawynajemkrakowpradnikczerwonyulkwa|3000|60.0|pradnikczerwony": 1786744464,
+    "atrakcyjnemieszkanie2pokojowe|2800|45.0|pragapoludnie": 1786744464
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 47 м², 2 комнаты\n💰 <b>3000 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🌐 Интернет: 48 zł/мес\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajecia mieszkanie 47m Na granicy Kraków-wieliczka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-47m-na-granicy-krakow-wieliczka-CID3-ID1bQcCx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:56",
-      "ts": 1786713082,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 47.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-14T14:56:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 450 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowe mieszkanie Lubomirskiego UKEN/ Dworzec/ Galeria Krakowska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-lubomirskiego-uken-dworzec-galeria-krakowska-CID3-ID1bQcCM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:56",
-      "ts": 1786713082,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 450,
-        "area": 45.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-14T14:56:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 460
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Ursynów 2 pokojowe z szybkim dojazdem do metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursynow-2-pokojowe-z-szybkim-dojazdem-do-metra-CID3-ID1bQcYh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:04",
-      "ts": 1786713710,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 42.0,
-        "district": "Ursynów",
-        "business": true,
-        "created_iso": "2026-08-14T15:04:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 830 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«mieszkanie 2 pokojowe Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ruczaj-CID3-ID1bQcny.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:50",
       "ts": 1786714024,
@@ -4535,13 +4490,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 54 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Rakowicka | 54 m² | 2 pokoje | UEK | garaż podziemny | centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-54-m-2-pokoje-uek-garaz-podziemny-centrum-CID3-ID1bQv5P.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:22",
+      "ts": 1786743837,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 950,
+        "area": 54.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-14T23:22:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 60 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem - Kraków - Prądnik Czerwony, ul. Kwartowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-pradnik-czerwony-ul-kwartowa-CID3-ID1bQvqT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:42",
+      "ts": 1786744464,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 60.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-14T23:42:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 912 = <b>3712 zł/мес</b>\n   ≈ с медиа около 4446 zł/мес\n⚡ Свет/медиа: ≈ 734 zł/мес\n🏢 Этаж: 9\n👤 от собственника\n«Atrakcyjne mieszkanie 2-pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/atrakcyjne-mieszkanie-2-pokojowe-CID3-ID1bQvsn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:44",
+      "ts": 1786744464,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 912,
+        "area": 45.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-14T23:44:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 912
+      }
     }
   ],
   "stats": {
-    "checks": 3881,
-    "sent": 1199
+    "checks": 3885,
+    "sent": 1202
   },
   "initialized": true,
-  "last_check": "2026-08-14T21:38:50",
+  "last_check": "2026-08-14T21:59:48",
   "backoff_until": 1786688273.3955767
 }
