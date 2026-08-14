@@ -2769,7 +2769,10 @@
     "1091127904": 1786718411,
     "1091118184": 1786718411,
     "1091129692": 1786718728,
-    "1091129877": 1786718728
+    "1091129877": 1786718728,
+    "1091132115": 1786719354,
+    "1091131633": 1786719354,
+    "1091133613": 1786719983
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3785,62 +3788,14 @@
     "wynajme2pokojowemieszkanieulciesielskiegoblis|3000|34.0|czyzyny": 1786718411,
     "ignacegokrasickiego2pokojowenawynajemodzaraz|2900|43.0|podgorze": 1786718411,
     "mieszkaniebliskoaghukendwapokoje|2600|35.0|bronowice": 1786718411,
-    "mieszkanienawynajem|2900|49.0|podgorze": 1786718728
+    "mieszkanienawynajem|2900|49.0|podgorze": 1786718728,
+    "mieszkanie2pokojowewspokojnejkameralnejokolic|3000|50.0|krowodrza": 1786719354,
+    "nowe2pokojowemieszkaniezklimatyzacjadoskonala|3150|42.0|pradnikbialy": 1786719354,
+    "nowemieszkanie2pokojoweursusherbuoksza|3300|45.0|ursus": 1786719983
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 560 = <b>3460 zł/мес</b>\n   ≈ с медиа около 3560 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 70 zł/мес\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 9\n🐾 можно с животными · 👤 от собственника\n«Wyremontowane mieszkanie 2-pokojowe - Neseberska - Dolny Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wyremontowane-mieszkanie-2-pokojowe-neseberska-dolny-mokotow-CID3-ID1bQ2HN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:25",
-      "ts": 1786699992,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 560,
-        "area": 35.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-14T11:25:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 560
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 41.87 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Bez prowizji | 2 pokoje | balkon | klimatyzacja | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-2-pokoje-balkon-klimatyzacja-garaz-CID3-ID1bQ2I0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:25",
-      "ts": 1786699992,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1000,
-        "area": 41.87,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-14T11:25:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: 350 zł/мес\n📅 Заселение: с 17.08.2026\n🏢 Этаж: 6\n👤 от собственника\n«2 pokoje / Zabłocie / Romanowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-zablocie-romanowicza-CID3-ID1bQ2Mi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:26",
-      "ts": 1786699992,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 30.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-14T11:26:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 38.64 м², 2 комнаты\n💰 3900 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4550 zł/мес\n⚡ Свет/медиа: ≈ 650 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4550 zł\n🏢 Этаж: 5\n🏢 агентство\n«Okrzei 18 | 2 pokoje przy Porcie Praskim | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/okrzei-18-2-pokoje-przy-porcie-praskim-bez-prowizji-CID3-ID1bQ2Gn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:24",
       "ts": 1786700315,
@@ -4469,13 +4424,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 42 м², 2 комнаты\n💰 3150 + czynsz 750 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Nowe 2-pokojowe mieszkanie z klimatyzacją, doskonała lokalizacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-klimatyzacja-doskonala-lokalizacja-CID3-ID1bQhbj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:42",
+      "ts": 1786719354,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 750,
+        "area": 42.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-14T16:42:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 200 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe w spokojnej, kameralnej okolicy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-spokojnej-kameralnej-okolicy-CID3-ID1bQhj5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:45",
+      "ts": 1786719354,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 200,
+        "area": 50.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-14T16:45:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 45 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie 2 pokojowe ursus herbu oksza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokojowe-ursus-herbu-oksza-CID3-ID1bQhHf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:54",
+      "ts": 1786719983,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-14T16:54:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3822,
-    "sent": 1176
+    "checks": 3826,
+    "sent": 1179
   },
   "initialized": true,
-  "last_check": "2026-08-14T14:45:36",
+  "last_check": "2026-08-14T15:06:31",
   "backoff_until": 1786688273.3955767
 }
