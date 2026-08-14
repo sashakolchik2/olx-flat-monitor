@@ -2666,9 +2666,15 @@
     "1091033749": 1786657102,
     "1091036309": 1786666045,
     "1090862012": 1786682120,
+<<<<<<< Updated upstream
     "1091047690": 1786685898,
     "1091047972": 1786686530,
     "1091048529": 1786686846
+=======
+    "1091047690": 1786687056,
+    "1091048529": 1786687056,
+    "1091047972": 1786687056
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3625,7 +3631,11 @@
     "dowynajecia2pokojezprywatnymogrodkiemrzaka442|3200|44.23|biezanowprokocim": 1786656786,
     "zwierzetaakceptowane2pokoje50m2|2600|50.0|rembertow": 1786657102,
     "wynajemmieszkania|3000|52.0|pradnikczerwony": 1786666045,
+<<<<<<< Updated upstream
     "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786685898
+=======
+    "pradnikbialyulradzikowskiegodwaosobnepokojeba|2700|60.0|pradnikbialy": 1786687056
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625393,
   "paused": false,
@@ -4295,7 +4305,11 @@
     },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 60 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 350 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🏢 агентство\n«Prądnik Biały ul. Radzikowskiego, dwa osobne pokoje, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-bialy-ul-radzikowskiego-dwa-osobne-pokoje-balkon-CID3-ID1bPWlo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:23",
+<<<<<<< Updated upstream
       "ts": 1786685898,
+=======
+      "ts": 1786687056,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4312,10 +4326,19 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 3755,
     "sent": 1117
   },
   "initialized": true,
   "last_check": "2026-08-14T05:54:13",
   "backoff_until": 1786650126.0948234
+=======
+    "checks": 3744,
+    "sent": 1117
+  },
+  "initialized": true,
+  "last_check": "2026-08-14T05:57:46",
+  "backoff_until": 1786688273.3955767
+>>>>>>> Stashed changes
 }
