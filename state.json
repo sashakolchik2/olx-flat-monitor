@@ -2684,7 +2684,8 @@
     "1091062239": 1786694923,
     "1091062336": 1786695550,
     "1091063620": 1786695550,
-    "1091060508": 1786695550
+    "1091060508": 1786695550,
+    "1091064725": 1786696182
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3648,28 +3649,12 @@
     "mieszkanieursuszgarazemmiejscempostojowymikom|2850|63.0|ursus": 1786692084,
     "mieszkaniedowynajecia|3600|60.0|podgorze": 1786693661,
     "dowynajeciamieszkaniedwupokojowepodgorzeducha|2400|43.0|podgorzeduchackie": 1786694607,
-    "okazjasuperprzytulnemieszkaniedlasinglalubpar|2800|30.0|pragapoludnie": 1786694923
+    "okazjasuperprzytulnemieszkaniedlasinglalubpar|2800|30.0|pragapoludnie": 1786694923,
+    "2pokojowemieszkaniezbalkonemimiejscempostojow|2800|43.0|targowek": 1786696182
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 920 = <b>3820 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 920 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie osiedle Wilno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-wilno-CID3-ID1bPCV7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:34",
-      "ts": 1786645035,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 920,
-        "area": 55.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-13T18:34:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 920
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 35 м², 2 комнаты\n💰 2300 + czynsz 720 = <b>3020 zł/мес</b>\n   ≈ с медиа около 3080 zł/мес\n⚡ Свет/медиа: ≈ 60 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«właściciel wynajmie 2- pok. Ruczaj Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pok-ruczaj-krakow-CID3-ID1bPD3Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
       "ts": 1786645035,
@@ -4332,13 +4317,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 850 = <b>3650 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie z balkonem i miejscem postojowym na Targówku»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-i-miejscem-postojowym-na-targowku-CID3-ID1bPZM9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:17",
+      "ts": 1786696182,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 850,
+        "area": 43.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-14T10:17:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3768,
-    "sent": 1124
+    "checks": 3771,
+    "sent": 1125
   },
   "initialized": true,
-  "last_check": "2026-08-14T08:19:17",
+  "last_check": "2026-08-14T08:35:06",
   "backoff_until": 1786688273.3955767
 }
