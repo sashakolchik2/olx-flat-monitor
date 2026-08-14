@@ -2714,7 +2714,12 @@
     "1091081117": 1786701583,
     "1091080216": 1786701583,
     "1091083131": 1786702530,
-    "1091082583": 1786702530
+    "1091082583": 1786702530,
+    "1091082280": 1786702848,
+    "1091085219": 1786703478,
+    "1091085754": 1786703478,
+    "1091084497": 1786703478,
+    "1091086410": 1786703794
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3698,45 +3703,13 @@
     "mieszkanie45m2zbalkonemwarszawaulcmentarna|3500|45.0|targowek": 1786700949,
     "mieszkaniedowynajeciaod1wrzesnia2pokoje54m2ce|3600|54.0|ochota": 1786700949,
     "mieszkaniedwupokojowe|3500|30.0|ochota": 1786701583,
-    "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786702530
+    "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786702530,
+    "mieszkaniedowynajecianasalwatorze|2950|38.0|staremiasto": 1786702848,
+    "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786703478
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 31 м², 2 комнаты\n💰 3200 + czynsz 512 = <b>3712 zł/мес</b>\n   ≈ с медиа около 3912 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia przytulne 2 pokoje przy Placu Narutowicza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-przytulne-2-pokoje-przy-placu-narutowicza-CID3-ID1bPMDW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:34",
-      "ts": 1786650135,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 512,
-        "area": 31.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-13T21:34:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 511
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 31 м², 2 комнаты\n💰 2200 + czynsz 900 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę bezpośrednio dwupokojowe mieszkanie na Górnym Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezposrednio-dwupokojowe-mieszkanie-na-gornym-mokotowie-CID3-ID1bPOpj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
-      "ts": 1786652034,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 900,
-        "area": 31.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-13T22:07:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Na wynajem - 2 pokoje - 36m - Apartamenty Rakow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-2-pokoje-36m-apartamenty-rakow-CID3-ID1bPOep.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:03",
       "ts": 1786652353,
@@ -4382,13 +4355,47 @@
       "an": {
         "czynsz_desc": 550
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajecia na Salwatorze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-salwatorze-CID3-ID1bQ4li.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:59",
+      "ts": 1786702848,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 692,
+        "area": 38.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-14T11:59:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 39 м², 2 комнаты\n💰 3400 + czynsz 500 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: в цене\n📅 Заселение: с 26.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok.+balkon+miejsce parkingowe; Kraków ul. Osiedle Akademickie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-balkon-miejsce-parkingowe-krakow-ul-osiedle-akademickie-CID3-ID1bQ56H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:16",
+      "ts": 1786703478,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 500,
+        "area": 39.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-14T12:16:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3790,
-    "sent": 1144
+    "checks": 3794,
+    "sent": 1146
   },
   "initialized": true,
-  "last_check": "2026-08-14T10:15:39",
+  "last_check": "2026-08-14T10:36:41",
   "backoff_until": 1786688273.3955767
 }
