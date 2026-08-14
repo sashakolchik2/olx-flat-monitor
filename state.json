@@ -2783,6 +2783,7 @@
     "1091141214": 1786722487,
     "1091140262": 1786722487,
     "1091139747": 1786722487,
+<<<<<<< Updated upstream
     "1091143324": 1786723114,
     "1091142088": 1786723114,
     "1091141758": 1786723425,
@@ -2791,6 +2792,18 @@
     "1091146739": 1786724362,
     "1091152153": 1786726553,
     "1091155309": 1786727801
+=======
+    "1091141758": 1786729079,
+    "1091156743": 1786729079,
+    "1091155309": 1786729079,
+    "1091152153": 1786729079,
+    "1091146566": 1786729079,
+    "1091146739": 1786729079,
+    "1091144059": 1786729079,
+    "1091143324": 1786729079,
+    "1091142088": 1786729079,
+    "1091159821": 1786730025
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3813,15 +3826,25 @@
     "ulaugustynkawichurylokietka2pokojowe65m2|2700|65.0|krowodrza": 1786720609,
     "nowe38m²sosnowieckagarazbalkon|2800|38.0|bronowice": 1786720922,
     "cichadwupokojowakawalerkawcentrumbezoplatyage|3100|30.0|srodmiescie": 1786721237,
+<<<<<<< Updated upstream
     "sloneczne2pokojeprzyplantachswgertrudystaremi|2800|55.0|staremiasto": 1786723425,
     "mieszkanie36mbalkonwidokporemoncieodwrzesnia|2800|36.0|pragapoludnie": 1786724362,
     "sloneczne2pokojowemieszkaniedowynajeciabielan|3000|43.0|bielany": 1786724362,
     "umeblowane2pokbliskoparkuszczesliwickiego|3100|37.0|ochota": 1786726553
+=======
+    "sloneczne2pokojeprzyplantachswgertrudystaremi|2800|55.0|staremiasto": 1786729079,
+    "dowynajeciadlapierwszegonajemcydwupokojowyapa|3200|29.0|mokotow": 1786729079,
+    "umeblowane2pokbliskoparkuszczesliwickiego|3100|37.0|ochota": 1786729079,
+    "mieszkanie36mbalkonwidokporemoncieodwrzesnia|2800|36.0|pragapoludnie": 1786729079,
+    "sloneczne2pokojowemieszkaniedowynajeciabielan|3000|43.0|bielany": 1786729079,
+    "2pokojekuchniascislecentrum|3000|36.0|srodmiescie": 1786730025
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Grzegórzki</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Kraków, Grzegórzki (Kazimierz 5min), 2 pokojowe mieszkanie - w pełni wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-grzegorzki-kazimierz-5min-2-pokojowe-mieszkanie-w-pelni-wyposazone-CID3-ID1bQ5z6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:26",
       "ts": 1786708065,
       "city": "krakow",
@@ -3856,6 +3879,8 @@
       }
     },
     {
+=======
+>>>>>>> Stashed changes
       "text": "🏠 <b>Варшава, Targówek</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Komfortowe 2 pokoje z dużym balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokoje-z-duzym-balkonem-CID3-ID1bQ6PZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:51",
       "ts": 1786708065,
       "city": "warszawa",
@@ -4435,7 +4460,11 @@
     },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne 2 pokoje przy Plantach / Św. Gertrudy / Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-przy-plantach-sw-gertrudy-stare-miasto-CID3-ID1bQjOC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:40",
+<<<<<<< Updated upstream
       "ts": 1786723425,
+=======
+      "ts": 1786729079,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4452,7 +4481,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 36 m | Balkon | Widok | Po remoncie | Od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36-m-balkon-widok-po-remoncie-od-wrzesnia-CID3-ID1bQl4a.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:10",
+<<<<<<< Updated upstream
       "ts": 1786724362,
+=======
+      "ts": 1786729079,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -4469,7 +4502,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 7\n👤 от собственника\n«Słoneczne 2-pokojowe mieszkanie do wynajęcia – Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokojowe-mieszkanie-do-wynajecia-bielany-CID3-ID1bQl6X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:11",
+<<<<<<< Updated upstream
       "ts": 1786724362,
+=======
+      "ts": 1786729079,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -4486,7 +4523,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n🏢 агентство\n«Umeblowane, 2 pok, blisko Parku Szczęśliwickiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/umeblowane-2-pok-blisko-parku-szczesliwickiego-CID3-ID1bQmvh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:48",
+<<<<<<< Updated upstream
       "ts": 1786726553,
+=======
+      "ts": 1786729079,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -4500,6 +4541,7 @@
       "an": {
         "czynsz_desc": null
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -4508,5 +4550,49 @@
   },
   "initialized": true,
   "last_check": "2026-08-14T17:32:23",
+=======
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 29 м², 2 комнаты\n💰 3200 + czynsz 500 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Do wynajęcia dla pierwszego najemcy dwupokojowy apartament ul Jana III Sobieskiego na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajeciadla-pierwszego-najemcydwupokojowy-apartament-ul-jana-iii-sobieskiego-na-mokotowie-CID3-ID1bQnIj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:22",
+      "ts": 1786729079,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 500,
+        "area": 29.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-14T19:22:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 pokoje + kuchnia, ścisłe Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-kuchnia-scisle-centrum-CID3-ID1bQowX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:44",
+      "ts": 1786730025,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 36.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-14T19:44:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    }
+  ],
+  "stats": {
+    "checks": 3838,
+    "sent": 1188
+  },
+  "initialized": true,
+  "last_check": "2026-08-14T17:53:55",
+>>>>>>> Stashed changes
   "backoff_until": 1786688273.3955767
 }
