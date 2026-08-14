@@ -2782,7 +2782,11 @@
     "1091138509": 1786721864,
     "1091141214": 1786722487,
     "1091140262": 1786722487,
-    "1091139747": 1786722487
+    "1091139747": 1786722487,
+    "1091143324": 1786723114,
+    "1091142088": 1786723114,
+    "1091141758": 1786723425,
+    "1091144059": 1786723737
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3804,28 +3808,12 @@
     "nowemieszkanie2pokojoweursusherbuoksza|3300|45.0|ursus": 1786719983,
     "ulaugustynkawichurylokietka2pokojowe65m2|2700|65.0|krowodrza": 1786720609,
     "nowe38m²sosnowieckagarazbalkon|2800|38.0|bronowice": 1786720922,
-    "cichadwupokojowakawalerkawcentrumbezoplatyage|3100|30.0|srodmiescie": 1786721237
+    "cichadwupokojowakawalerkawcentrumbezoplatyage|3100|30.0|srodmiescie": 1786721237,
+    "sloneczne2pokojeprzyplantachswgertrudystaremi|2800|55.0|staremiasto": 1786723425
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 30 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 400 zł + свет по счётчику\n🏢 Этаж: 2\n👤 от собственника\n«mieszkanie dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-CID3-ID1bQ3O0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:48",
-      "ts": 1786701583,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 30.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-14T11:48:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajecia na Salwatorze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-salwatorze-CID3-ID1bQ4li.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:59",
       "ts": 1786708065,
@@ -4488,13 +4476,30 @@
       "an": {
         "czynsz_desc": 560
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne 2 pokoje przy Plantach / Św. Gertrudy / Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-przy-plantach-sw-gertrudy-stare-miasto-CID3-ID1bQjOC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:40",
+      "ts": 1786723425,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 400,
+        "area": 55.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-14T17:40:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 400
+      }
     }
   ],
   "stats": {
-    "checks": 3834,
-    "sent": 1182
+    "checks": 3838,
+    "sent": 1183
   },
   "initialized": true,
-  "last_check": "2026-08-14T15:48:14",
+  "last_check": "2026-08-14T16:09:04",
   "backoff_until": 1786688273.3955767
 }
