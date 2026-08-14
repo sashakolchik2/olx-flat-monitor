@@ -2809,7 +2809,10 @@
     "1091184291": 1786740071,
     "1091186234": 1786741327,
     "1091186290": 1786741639,
-    "1091185609": 1786741639
+    "1091185609": 1786741639,
+    "1091188269": 1786742892,
+    "1091188801": 1786743207,
+    "1091189588": 1786743521
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3845,62 +3848,14 @@
     "wynajme2pokojowemieszkanie37m2warszawaaljeroz|3200|37.0|ochota": 1786739126,
     "mieszkaniewscislymcentrumkrakowa|2990|38.0|grzegorzki": 1786739754,
     "2pokojezgarazemibalkonemwarszawabialolekazera|2950|34.0|bialoleka": 1786740071,
-    "wynajmemieszkaniesadyba|2500|39.0|mokotow": 1786741639
+    "wynajmemieszkaniesadyba|2500|39.0|mokotow": 1786741639,
+    "mieszkaniedwapokojeprzywat|3300|39.0|bemowo": 1786742892,
+    "metrobrodno2oddzielnenieprzechodniepokojewyso|2900|29.0|targowek": 1786743207,
+    "mieszkanie2pokojowedowynajecianabemowie|3000|41.0|bemowo": 1786743521
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 51 м², 2 комнаты\n💰 3300 + czynsz 507 = <b>3807 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Unikatowe mieszkanie na wynajem Kazimierz Stare Miasto ul. Miodowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/unikatowe-mieszkanie-na-wynajem-kazimierz-stare-miasto-ul-miodowa-CID3-ID1bQbIM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:36",
-      "ts": 1786711830,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 507,
-        "area": 51.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-14T14:36:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 507
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3090 + czynsz 500 = <b>3590 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2 Pokoje | Zabłocie | Bez Prowizji | Przyjazne zwierzętom | Od Zaraz | MEDIA W CENIE!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-zablocie-bez-prowizji-przyjazne-zwierzetom-od-zaraz-media-w-cenie-CID3-ID1bQc0h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
-      "ts": 1786712456,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3090,
-        "rent": 500,
-        "area": 32.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-14T14:41:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 43 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bemowo 2-pokojowe mieszkanie 43 m² | Fort Bema | oddzielna kuchnia | dostępne od 17.08»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokojowe-mieszkanie-43-m-fort-bema-oddzielna-kuchnia-dostepne-od-17-08-CID3-ID1bQcxW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
-      "ts": 1786713082,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 43.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-14T14:54:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 47 м², 2 комнаты\n💰 <b>3000 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🌐 Интернет: 48 zł/мес\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Do wynajecia mieszkanie 47m Na granicy Kraków-wieliczka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-47m-na-granicy-krakow-wieliczka-CID3-ID1bQcCx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:56",
       "ts": 1786713082,
@@ -4529,13 +4484,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 39 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«mieszkanie dwa pokoje przy WAT»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwa-pokoje-przy-wat-CID3-ID1bQwUN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:13",
+      "ts": 1786742892,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": null,
+        "area": 39.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-14T23:13:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 29 м², 2 комнаты\n💰 2900 + czynsz 730 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 1500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Metro Bródno 2 oddzielne nieprzechodnie pokoje, Wysockiego 14»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-brodno-2-oddzielne-nieprzechodnie-pokoje-wysockiego-14-CID3-ID1bQv3n.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:21",
+      "ts": 1786743207,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 730,
+        "area": 29.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-14T23:21:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia na Bemowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-na-bemowie-CID3-ID1bQvg4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:31",
+      "ts": 1786743521,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 41.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-14T23:31:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3877,
-    "sent": 1196
+    "checks": 3881,
+    "sent": 1199
   },
   "initialized": true,
-  "last_check": "2026-08-14T21:17:52",
+  "last_check": "2026-08-14T21:38:50",
   "backoff_until": 1786688273.3955767
 }
