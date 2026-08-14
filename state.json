@@ -2719,7 +2719,11 @@
     "1091085219": 1786703478,
     "1091085754": 1786703478,
     "1091084497": 1786703478,
-    "1091086410": 1786703794
+    "1091086410": 1786703794,
+    "1091089395": 1786704111,
+    "1091087329": 1786704425,
+    "1091086980": 1786704425,
+    "1091089713": 1786705055
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3705,45 +3709,13 @@
     "mieszkaniedwupokojowe|3500|30.0|ochota": 1786701583,
     "stylowemieszkanienowyblokprokocimstandardiwyp|2900|39.0|biezanowprokocim": 1786702530,
     "mieszkaniedowynajecianasalwatorze|2950|38.0|staremiasto": 1786702848,
-    "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786703478
+    "wynajmemieszkanie2pokbalkonmiejsceparkingowek|3400|39.0|czyzyny": 1786703478,
+    "krakowgrzegorzkikazimierz5min2pokojowemieszka|2600|37.0|grzegorzki": 1786704425,
+    "mieszkanienawynajemosobnasypialniauldrweckakl|3500|33.0|pragapoludnie": 1786705055
   },
   "tg_offset": 654625395,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Na wynajem - 2 pokoje - 36m - Apartamenty Rakow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-2-pokoje-36m-apartamenty-rakow-CID3-ID1bPOep.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:03",
-      "ts": 1786652353,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-13T22:03:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 32.69 м², 2 комнаты\n💰 3175 + czynsz 525 = <b>3700 zł/мес</b>\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe mieszkanie z balkonem w nowej kamienicy Praga Północ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-w-nowej-kamienicy-praga-polnoc-CID3-ID1bPOQv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:15",
-      "ts": 1786652670,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3175,
-        "rent": 525,
-        "area": 32.69,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-13T22:15:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": 525
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2300 + czynsz 703 = <b>3003 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bPPbf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:21",
       "ts": 1786653302,
@@ -4389,13 +4361,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Kraków, Grzegórzki (Kazimierz 5min), 2 pokojowe mieszkanie - w pełni wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-grzegorzki-kazimierz-5min-2-pokojowe-mieszkanie-w-pelni-wyposazone-CID3-ID1bQ5z6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:26",
+      "ts": 1786704425,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 700,
+        "area": 37.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-14T12:26:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3500 + czynsz 450 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem - osobna sypialnia, ul. Drwęcka, kliamtyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-osobna-sypialnia-ul-drwecka-kliamtyzacja-CID3-ID1bQ6hb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:39",
+      "ts": 1786705055,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": 450,
+        "area": 33.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-14T12:39:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3794,
-    "sent": 1146
+    "checks": 3798,
+    "sent": 1148
   },
   "initialized": true,
-  "last_check": "2026-08-14T10:36:41",
+  "last_check": "2026-08-14T10:57:44",
   "backoff_until": 1786688273.3955767
 }
