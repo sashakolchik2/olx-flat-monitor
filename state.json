@@ -2923,7 +2923,9 @@
     "1091332882": 1786819749,
     "1091332819": 1786820065,
     "1091333899": 1786820379,
-    "1091328399": 1786820379
+    "1091328399": 1786820379,
+    "1091337383": 1786821011,
+    "1091333905": 1786821011
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4029,28 +4031,12 @@
     "bliskometraoddzielnakuchniadowprowadzeniaodza|2500|41.0|targowek": 1786817545,
     "dwaniezaleznepokojeidealnedlaparylub2osobprac|2950|54.0|krowodrza": 1786817861,
     "zacisznemieszkaniekrokodmetrawierzbno|3200|42.0|mokotow": 1786819749,
-    "dowynajecia2pokojerembielinskaprzygaleriireno|2650|41.0|targowek": 1786820379
+    "dowynajecia2pokojerembielinskaprzygaleriireno|2650|41.0|targowek": 1786820379,
+    "dladwochstudentowigorokuniepalacych|3200|38.0|pragapoludnie": 1786821011
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45 м², 2 комнаты\n💰 3500 + czynsz 425 = <b>3925 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 100 zł/мес\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Nowoczesne 2-pokojowe mieszkanie z dużą ilością mebli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-duza-iloscia-mebli-CID3-ID1bQHFB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:15",
-      "ts": 1786792104,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 425,
-        "area": 45.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-15T12:15:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 425
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Wynajem studio Warszawa w ścisłym centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-studio-warszawa-w-scislym-centrum-CID3-ID1bQHMb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:18",
       "ts": 1786792104,
@@ -4713,13 +4699,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 3\n👤 от собственника\n«Dla dwóch studentów I-go roku (niepalących)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dla-dwoch-studentow-i-go-roku-niepalacych-CID3-ID1bR8HR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:02",
+      "ts": 1786821011,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-15T21:02:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4041,
-    "sent": 1266
+    "checks": 4044,
+    "sent": 1267
   },
   "initialized": true,
-  "last_check": "2026-08-15T18:59:49",
+  "last_check": "2026-08-15T19:15:35",
   "backoff_until": 1786688273.3955767
 }
