@@ -2930,7 +2930,8 @@
     "1091344542": 1786822271,
     "1091346209": 1786822585,
     "1091351092": 1786823530,
-    "1091352192": 1786823846
+    "1091352192": 1786823846,
+    "1091351494": 1786824164
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4039,28 +4040,12 @@
     "dowynajecia2pokojerembielinskaprzygaleriireno|2650|41.0|targowek": 1786820379,
     "dladwochstudentowigorokuniepalacych|3200|38.0|pragapoludnie": 1786821011,
     "wynajmedwupojowemieszkanie36mwierzbnomokotowb|3200|36.0|mokotow": 1786823530,
-    "poremonciedla3osobmetro|2700|38.0|bielany": 1786823846
+    "poremonciedla3osobmetro|2700|38.0|bielany": 1786823846,
+    "2pokojeklimatyzacjaruczajczerwonemakiujshellt|3000|39.0|staremiasto": 1786824164
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 51 м², 2 комнаты\n💰 2900 + czynsz 550 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Mieszkanie 2 pokoje bezpośrednio Azory Radzikowskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-bezposrednio-azory-radzikowskiego-CID3-ID1bQJ8K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:43",
-      "ts": 1786792434,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 550,
-        "area": 51.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-15T12:43:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 39 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia 39m2 ul Prandoty»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-39m2-ul-prandoty-CID3-ID1bQKgO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:09",
       "ts": 1786793064,
@@ -4723,13 +4708,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje Klimatyzacja Ruczaj Czerwone Maki UJ Shell Taras Miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-klimatyzacja-ruczaj-czerwone-maki-uj-shell-taras-miejsce-postojowe-CID3-ID1bRcns.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:40",
+      "ts": 1786824164,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 39.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-15T21:40:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4052,
-    "sent": 1269
+    "checks": 4056,
+    "sent": 1270
   },
   "initialized": true,
-  "last_check": "2026-08-15T19:57:36",
+  "last_check": "2026-08-15T20:18:36",
   "backoff_until": 1786688273.3955767
 }
