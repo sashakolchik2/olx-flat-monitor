@@ -2841,7 +2841,8 @@
     "1091212582": 1786781518,
     "1091213640": 1786782466,
     "1091216030": 1786783097,
-    "1091215229": 1786783097
+    "1091215229": 1786783097,
+    "1091217379": 1786784047
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3899,28 +3900,12 @@
     "2pokoje48m²balkon8m²windakoszykarskaumeblowan|2800|48.0|podgorze": 1786781201,
     "forrent2pokmieszkanienagranicyochotywloch|3300|40.0|wlochy": 1786781518,
     "mieszkanie50m²zogrodkiemitarasemulgustawamorc|2400|50.0|wzgorzakrzeslawickie": 1786782466,
-    "mieszkaniedwupokojowepragapoludnie|2800|40.0|pragapoludnie": 1786783097
+    "mieszkaniedwupokojowepragapoludnie|2800|40.0|pragapoludnie": 1786783097,
+    "2pokojowemieszkaniewkrakowie|2900|36.0|czyzyny": 1786784047
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 45 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie 2 pokojowe ursus herbu oksza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokojowe-ursus-herbu-oksza-CID3-ID1bQhHf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:54",
-      "ts": 1786719983,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 45.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-14T16:54:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 65 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«ul. Augustynka-Wichury - Łokietka - 2-pokojowe 65m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-augustynka-wichury-lokietka-2-pokojowe-65m2-CID3-ID1bQhRe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:58",
       "ts": 1786720609,
@@ -4583,13 +4568,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 36 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 650 zł + свет по счётчику\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pokojowe mieszkanie w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-w-krakowie-CID3-ID1bQDuj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:41",
+      "ts": 1786784047,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 650,
+        "area": 36.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-15T10:41:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3963,
-    "sent": 1218
+    "checks": 3967,
+    "sent": 1219
   },
   "initialized": true,
-  "last_check": "2026-08-15T08:38:27",
+  "last_check": "2026-08-15T08:59:33",
   "backoff_until": 1786688273.3955767
 }
