@@ -2903,7 +2903,8 @@
     "1091297351": 1786808504,
     "1091256935": 1786809136,
     "1091298985": 1786809452,
-    "1091299936": 1786809768
+    "1091299936": 1786809768,
+    "1091303061": 1786811339
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3997,28 +3998,12 @@
     "2pokoje40m²metro100mwolapark600700mloggiawind|3000|40.0|wola": 1786808504,
     "mieszkaniedwupokojowenowe|2900|37.0|bialoleka": 1786809136,
     "wysokistandardmieszkanie2pokojowezbalkonemwkr|3000|37.0|biezanowprokocim": 1786809452,
-    "2pokoje39m2zakrzowekgarazgratis|2850|39.0|debniki": 1786809768
+    "2pokoje39m2zakrzowekgarazgratis|2850|39.0|debniki": 1786809768,
+    "mieszkanie2pokojowe|2600|37.0|pragapolnoc": 1786811339
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 820 = <b>3620 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 48 m² | balkon 8 m² | winda | Koszykarska | umeblowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48-m-balkon-8-m-winda-koszykarska-umeblowane-CID3-ID1bQBXd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:52",
-      "ts": 1786781201,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 820,
-        "area": 48.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-15T09:52:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 820
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«*For Rent* 2 pok mieszkanie na granicy Ochoty/Włoch»\n🔗 <a href=\"https://www.olx.pl/d/oferta/for-rent-2-pok-mieszkanie-na-granicy-ochoty-wloch-CID3-ID1bQCi5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:05",
       "ts": 1786781518,
@@ -4681,13 +4666,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 1000 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n👤 от собственника\n«Mieszkanie 2 pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-CID3-ID1bQZMh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:14",
+      "ts": 1786811339,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 1000,
+        "area": 37.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-15T18:14:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
     }
   ],
   "stats": {
-    "checks": 4028,
-    "sent": 1254
+    "checks": 4032,
+    "sent": 1255
   },
   "initialized": true,
-  "last_check": "2026-08-15T16:08:11",
+  "last_check": "2026-08-15T16:29:09",
   "backoff_until": 1786688273.3955767
 }
