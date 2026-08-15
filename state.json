@@ -2895,7 +2895,11 @@
     "1091284459": 1786805664,
     "1091286037": 1786805982,
     "1091285249": 1786806296,
-    "1091285171": 1786806296
+    "1091285171": 1786806296,
+    "1091290328": 1786806930,
+    "1091293516": 1786807558,
+    "1091294678": 1786807874,
+    "1091293853": 1786807874
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3984,28 +3988,12 @@
     "2pokojeogrodeknowebudownictwo|3000|37.6|pradnikbialy": 1786805664,
     "niewielkiemieszkanienapowislucentrumnaukikope|2800|37.0|srodmiescie": 1786805664,
     "mieszkanienawynajemchodeckadwapokojemetro|2900|38.0|targowek": 1786806296,
-    "mieszkaniedowynajecia|2800|31.0|srodmiescie": 1786806296
+    "mieszkaniedowynajecia|2800|31.0|srodmiescie": 1786806296,
+    "mammieszkaniedowynajecia|3000|70.0|wawer": 1786807558
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie z ogródkiem i miejscem post.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-ogrodkiem-i-miejscem-post-CID3-ID1bQADJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:04",
-      "ts": 1786778670,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 48.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-15T09:04:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 839 = <b>3739 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje, jasna kuchnia, loggia, Warszawa, obok Dworzec Wschodni, tramwaje.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-jasna-kuchnia-loggia-warszawa-obok-dworzec-wschodni-tramwaje-CID3-ID1bQBdN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:22",
       "ts": 1786779302,
@@ -4668,13 +4656,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 70 м², 2 комнаты\n💰 3000 + czynsz 300 = <b>3300 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mam mieszkanie do wynajecia .»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mam-mieszkanie-do-wynajecia-CID3-ID1bQXik.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:11",
+      "ts": 1786807558,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 300,
+        "area": 70.0,
+        "district": "Wawer",
+        "business": false,
+        "created_iso": "2026-08-15T17:11:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4017,
-    "sent": 1249
+    "checks": 4021,
+    "sent": 1250
   },
   "initialized": true,
-  "last_check": "2026-08-15T15:10:22",
+  "last_check": "2026-08-15T15:31:22",
   "backoff_until": 1786688273.3955767
 }
