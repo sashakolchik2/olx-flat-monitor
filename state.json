@@ -2912,7 +2912,11 @@
     "1091306705": 1786813759,
     "1091307550": 1786814075,
     "1091283711": 1786814075,
-    "1091322916": 1786816598
+    "1091322916": 1786816598,
+    "1091327495": 1786816915,
+    "1091329199": 1786817545,
+    "1091328274": 1786817545,
+    "1091328397": 1786817861
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4013,62 +4017,14 @@
     "przestronne2pokojowemieszkanie55m²konfederack|3000|55.0|staremiasto": 1786813759,
     "dwupokojowemieszkaniewnowymbudownictwiezbalko|2800|42.0|pradnikczerwony": 1786814075,
     "mieszkaniedowynajeciaskarbkazgor|2500|37.0|bialoleka": 1786814075,
-    "wynajemmieszkanianakrowodrzyukrytepragnienie|2600|48.0|pradnikbialy": 1786816598
+    "wynajemmieszkanianakrowodrzyukrytepragnienie|2600|48.0|pradnikbialy": 1786816598,
+    "wlascicielwynajmie2pokojowemieszkanie38m2ulza|2700|38.0|bronowice": 1786816915,
+    "bliskometraoddzielnakuchniadowprowadzeniaodza|2500|41.0|targowek": 1786817545,
+    "dwaniezaleznepokojeidealnedlaparylub2osobprac|2950|54.0|krowodrza": 1786817861
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 2\n🏢 агентство\n«MIESZKANIE PREMIUM | Bronowice | ul. Rydla | 33 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-premium-bronowice-ul-rydla-33-m-CID3-ID1bQeon.html\">Открыть на OLX</a>  ·  добавлено вчера в 15:38",
-      "ts": 1786792104,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 650,
-        "area": 33.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-14T15:38:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 35 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe - Bielany/Żoliborz - od zaraz!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-bielany-zoliborz-od-zaraz-CID3-ID1bQF8w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:23",
-      "ts": 1786792104,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 35.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-15T11:23:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-CID3-ID1bQFFG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:36",
-      "ts": 1786792104,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 550,
-        "area": 38.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-15T11:36:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 niezależne pokoje | KLIMATYZACJA | balkon | Podgórze | BEZPOŚREDNIO»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-klimatyzacja-balkon-podgorze-bezposrednio-CID3-ID1bQH48.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:05",
       "ts": 1786792104,
@@ -4697,13 +4653,64 @@
       "an": {
         "czynsz_desc": 870
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 816 = <b>3516 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n👤 от собственника\n«Właściciel wynajmie 2 pokojowe mieszkanie- 38m2, ul. Zapolskiej 25»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pokojowe-mieszkanie-38m2-ul-zapolskiej-25-CID3-ID1bR68n.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:52",
+      "ts": 1786816915,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 816,
+        "area": 38.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-15T19:52:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«blisko metra, oddzielna kuchnia, do wprowadzenia OD ZARAZ - bezpośr.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/blisko-metra-oddzielna-kuchnia-do-wprowadzenia-od-zaraz-bezposr-CID3-ID1bR6kV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:59",
+      "ts": 1786817545,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1000,
+        "area": 41.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-15T19:59:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 54 м², 2 комнаты\n💰 2950 + czynsz 739 = <b>3689 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Dwa niezależne pokoje – idealne dla pary lub 2 osób pracujących. Blisko centrum!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-niezalezne-pokoje-idealne-dla-pary-lub-2-osob-pracujacych-blisko-centrum-CID3-ID1bR6mW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:00",
+      "ts": 1786817861,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2950,
+        "rent": null,
+        "area": 54.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-15T20:00:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 739
+      }
     }
   ],
   "stats": {
-    "checks": 4029,
-    "sent": 1261
+    "checks": 4033,
+    "sent": 1264
   },
   "initialized": true,
-  "last_check": "2026-08-15T17:56:47",
+  "last_check": "2026-08-15T18:17:51",
   "backoff_until": 1786688273.3955767
 }
