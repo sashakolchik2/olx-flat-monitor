@@ -2873,7 +2873,11 @@
     "1091258074": 1786798421,
     "1091258578": 1786798734,
     "1091258461": 1786799049,
-    "1091258796": 1786799049
+    "1091258796": 1786799049,
+    "1091260358": 1786799681,
+    "1091260684": 1786799681,
+    "1091261569": 1786799997,
+    "1091260940": 1786799997
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3951,45 +3955,13 @@
     "nowoczesnemieszkaniedowynajeciakrakowzablocie|3000|32.0|podgorze": 1786796843,
     "wynajmemieszkaniebemowobliskometra2pokoje50m2|3800|50.0|bemowo": 1786797475,
     "2pokmieszkaniezbalkonem42m²mydlnikiwweryhydar|2650|42.0|bronowice": 1786798734,
-    "mieszkanie36m²2pokojesielce|2800|36.0|mokotow": 1786799049
+    "mieszkanie36m²2pokojesielce|2800|36.0|mokotow": 1786799049,
+    "2niezaleznepokojeloggiagrzegorzkidabie|2800|39.0|grzegorzki": 1786799681,
+    "przytulne2pokojeporemonciewolagarbinskiegomet|3000|34.0|wola": 1786799997
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 54 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Rakowicka | 54 m² | 2 pokoje | UEK | garaż podziemny | centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-54-m-2-pokoje-uek-garaz-podziemny-centrum-CID3-ID1bQv5P.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:22",
-      "ts": 1786750085,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 950,
-        "area": 54.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-14T23:22:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia na Bemowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-na-bemowie-CID3-ID1bQvg4.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:31",
-      "ts": 1786750085,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 41.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-14T23:31:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 60 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem - Kraków - Prądnik Czerwony, ul. Kwartowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-pradnik-czerwony-ul-kwartowa-CID3-ID1bQvqT.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:42",
       "ts": 1786750085,
@@ -4635,13 +4607,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 830 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje, loggia, Grzegórzki, Dąbie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-loggia-grzegorzki-dabie-CID3-ID1bQOKM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:57",
+      "ts": 1786799681,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 830,
+        "area": 39.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-15T14:57:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 830
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokoje po remoncie | Wola | Garbińskiego | Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-po-remoncie-wola-garbinskiego-metro-ksiecia-janusza-CID3-ID1bQOOU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
+      "ts": 1786799997,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 34.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-15T14:58:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3994,
-    "sent": 1238
+    "checks": 3997,
+    "sent": 1240
   },
   "initialized": true,
-  "last_check": "2026-08-15T13:09:33",
+  "last_check": "2026-08-15T13:25:21",
   "backoff_until": 1786688273.3955767
 }
