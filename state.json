@@ -2830,7 +2830,11 @@
     "1091206466": 1786777722,
     "1091205832": 1786777722,
     "1091206431": 1786778670,
-    "1091208667": 1786779302
+    "1091208667": 1786779302,
+    "1091209534": 1786779619,
+    "1091209948": 1786780250,
+    "1091210448": 1786780250,
+    "1091210394": 1786780566
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3881,45 +3885,13 @@
     "2pokojezbalkonem50m2uljoliotcurie3881zlzczyns|2800|50.0|mokotow": 1786777086,
     "2pokoje36m2rondowiatraczna3200zlzczynszem|2400|36.0|pragapoludnie": 1786777722,
     "mieszkaniezogrodkiemimiejscempost|3000|48.0|debniki": 1786778670,
-    "mieszkanie2pokojejasnakuchnialoggiawarszawaob|2900|41.0|pragapolnoc": 1786779302
+    "mieszkanie2pokojejasnakuchnialoggiawarszawaob|2900|41.0|pragapolnoc": 1786779302,
+    "2pokojezkuchniaprzyaghurukenujpkuedla23osob|3000|35.0|krowodrza": 1786779619,
+    "2pokojezkuchniaprzyaghurpkueujukenwlasciciel|2700|50.0|krowodrza": 1786780566
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 42 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę komfortowe, w pełni umeblowane mieszkanie – Targówek/Zacisze, 6 minut od metra Trocka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-komfortowe-w-pelni-umeblowane-mieszkanie-targowek-zacisze-6-minut-od-metra-trocka-CID3-ID1bQfWx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
-      "ts": 1786717785,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 42.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-14T16:15:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3300 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🌐 Интернет: 70 zł/мес\n👤 от собственника\n«Mieszkanie blisko AGH UKEN dwa pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-blisko-agh-uken-dwa-pokoje-CID3-ID1bQdGo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:21",
-      "ts": 1786718411,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 35.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-14T15:21:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 740 = <b>3640 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«Ignacego Krasickiego 2-pokojowe na wynajem od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ignacego-krasickiego-2-pokojowe-na-wynajem-od-zaraz-CID3-ID1bQgda.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:20",
       "ts": 1786718411,
@@ -4565,13 +4537,47 @@
       "an": {
         "czynsz_desc": 839
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 590 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 26 августа\n🏢 Этаж: 7\n👤 от собственника\n«2 pokoje z kuchnią, przy AGH, UR, UKEN, UJ, PK, UE, dla 2-3 osób»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-przy-agh-ur-uken-uj-pk-ue-dla-2-3-osob-CID3-ID1bQBrM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:32",
+      "ts": 1786779619,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 590,
+        "area": 35.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-15T09:32:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 590
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje z kuchnią przy AGH, UR, PK, UE, UJ, UKEN - właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-przy-agh-ur-pk-ue-uj-uken-wlasciciel-CID3-ID1bQBFE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:41",
+      "ts": 1786780566,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 50.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-15T09:41:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3951,
-    "sent": 1211
+    "checks": 3955,
+    "sent": 1213
   },
   "initialized": true,
-  "last_check": "2026-08-15T07:35:11",
+  "last_check": "2026-08-15T07:56:16",
   "backoff_until": 1786688273.3955767
 }
