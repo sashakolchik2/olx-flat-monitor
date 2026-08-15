@@ -2869,7 +2869,11 @@
     "1091252024": 1786796527,
     "1091254598": 1786796843,
     "1091253887": 1786796843,
-    "1091256232": 1786797475
+    "1091256232": 1786797475,
+    "1091258074": 1786798421,
+    "1091258578": 1786798734,
+    "1091258461": 1786799049,
+    "1091258796": 1786799049
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3945,45 +3949,13 @@
     "bezposredniodwupokojowemieszkaniewzielenikrow|2950|38.0|krowodrza": 1786796212,
     "nowemieszkanie2pokoje39m²balkon9m²klimatyzacj|3100|39.0|mistrzejowice": 1786796527,
     "nowoczesnemieszkaniedowynajeciakrakowzablocie|3000|32.0|podgorze": 1786796843,
-    "wynajmemieszkaniebemowobliskometra2pokoje50m2|3800|50.0|bemowo": 1786797475
+    "wynajmemieszkaniebemowobliskometra2pokoje50m2|3800|50.0|bemowo": 1786797475,
+    "2pokmieszkaniezbalkonem42m²mydlnikiwweryhydar|2650|42.0|bronowice": 1786798734,
+    "mieszkanie36m²2pokojesielce|2800|36.0|mokotow": 1786799049
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 39 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«mieszkanie dwa pokoje przy WAT»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwa-pokoje-przy-wat-CID3-ID1bQwUN.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:13",
-      "ts": 1786750085,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 39.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-14T23:13:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 29 м², 2 комнаты\n💰 2800 + czynsz 730 = <b>3530 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 1500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Metro Bródno 2 oddzielne nieprzechodnie pokoje, Wysockiego 14»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-brodno-2-oddzielne-nieprzechodnie-pokoje-wysockiego-14-CID3-ID1bQv3n.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:21",
-      "ts": 1786750085,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 730,
-        "area": 29.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-14T23:21:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 54 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Rakowicka | 54 m² | 2 pokoje | UEK | garaż podziemny | centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-54-m-2-pokoje-uek-garaz-podziemny-centrum-CID3-ID1bQv5P.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:22",
       "ts": 1786750085,
@@ -4629,13 +4601,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 42 м², 2 комнаты\n💰 2650 + czynsz 650 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2-pok. mieszkanie z balkonem | 42 m²| Mydlniki | W. Weryhy-Darowskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-z-balkonem-42-m-mydlniki-w-weryhy-darowskiego-CID3-ID1bQOcO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:44",
+      "ts": 1786798734,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2650,
+        "rent": 650,
+        "area": 42.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-15T14:44:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 36m² 2 pokoje, Sielce,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m-2-pokoje-sielce-CID3-ID1bQOgk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
+      "ts": 1786799049,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 36.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-15T14:46:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 3990,
-    "sent": 1236
+    "checks": 3994,
+    "sent": 1238
   },
   "initialized": true,
-  "last_check": "2026-08-15T12:48:33",
+  "last_check": "2026-08-15T13:09:33",
   "backoff_until": 1786688273.3955767
 }
