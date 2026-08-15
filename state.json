@@ -2936,7 +2936,9 @@
     "1091361604": 1786828254,
     "1091359017": 1786828254,
     "1091358903": 1786828254,
-    "1091362350": 1786828572
+    "1091362350": 1786828572,
+    "1091371845": 1786830147,
+    "1091372980": 1786830460
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4049,28 +4051,12 @@
     "2pokojeklimatyzacjaruczajczerwonemakiujshellt|3000|39.0|staremiasto": 1786824164,
     "dowynajeciamieszkanie2pokojoweklimatyzowaneos|2500|36.0|pradnikbialy": 1786827309,
     "wynajemmieszkania|2600|36.0|ursynow": 1786828254,
-    "mieszkanie2pokojowezbalkonemkrakowruczaj|2400|43.0|debniki": 1786828572
+    "mieszkanie2pokojowezbalkonemkrakowruczaj|2400|43.0|debniki": 1786828572,
+    "klimagarazzmywarkabalkoneng|3300|42.0|": 1786830460
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 650 zł + свет по счётчику\n🏢 Этаж: 6\n👤 от собственника\n«Nowe Mieszkanie 2 pokoje | 39 m² | Balkon 9 m² | Klimatyzacja | 6 piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-39-m-balkon-9-m-klimatyzacja-6-pietro-CID3-ID1bQMw6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
-      "ts": 1786796527,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 550,
-        "area": 39.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-15T14:03:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Nowoczesne mieszkanie do wynajęcia – Kraków, Zabłocie/Podgórze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-do-wynajecia-krakow-zablocie-podgorze-CID3-ID1bQNaC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
       "ts": 1786796843,
@@ -4733,13 +4719,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 6\n🏢 агентство\n«Klima | Garaż | Zmywarka | Balkon | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klima-garaz-zmywarka-balkon-eng-CID3-ID1bRhY0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:36",
+      "ts": 1786830460,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 600,
+        "area": 42.0,
+        "district": "",
+        "business": true,
+        "created_iso": "2026-08-15T23:36:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 4071,
-    "sent": 1273
+    "checks": 4075,
+    "sent": 1274
   },
   "initialized": true,
-  "last_check": "2026-08-15T21:37:19",
+  "last_check": "2026-08-15T21:58:17",
   "backoff_until": 1786688273.3955767
 }
