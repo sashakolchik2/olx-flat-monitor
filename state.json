@@ -2932,7 +2932,11 @@
     "1091351092": 1786823530,
     "1091352192": 1786823846,
     "1091351494": 1786824164,
-    "1091358263": 1786827309
+    "1091358263": 1786827309,
+    "1091361604": 1786828254,
+    "1091359017": 1786828254,
+    "1091358903": 1786828254,
+    "1091362350": 1786828572
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4043,45 +4047,13 @@
     "wynajmedwupojowemieszkanie36mwierzbnomokotowb|3200|36.0|mokotow": 1786823530,
     "poremonciedla3osobmetro|2700|38.0|bielany": 1786823846,
     "2pokojeklimatyzacjaruczajczerwonemakiujshellt|3000|39.0|staremiasto": 1786824164,
-    "dowynajeciamieszkanie2pokojoweklimatyzowaneos|2500|36.0|pradnikbialy": 1786827309
+    "dowynajeciamieszkanie2pokojoweklimatyzowaneos|2500|36.0|pradnikbialy": 1786827309,
+    "wynajemmieszkania|2600|36.0|ursynow": 1786828254,
+    "mieszkanie2pokojowezbalkonemkrakowruczaj|2400|43.0|debniki": 1786828572
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2 pok. 45 m2 Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-45-m2-wlochy-CID3-ID1bQKhz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:09",
-      "ts": 1786793064,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 45.0,
-        "district": "Włochy",
-        "business": true,
-        "created_iso": "2026-08-15T13:09:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 150
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 560 = <b>3510 zł/мес</b>\n   ≈ с медиа около 3570 zł/мес\n⚡ Свет/медиа: ≈ 60 zł + свет по счётчику\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с ноября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio dwupokojowe mieszkanie w zieleni Krowodrza/Prądnik»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-dwupokojowe-mieszkanie-w-zieleni-krowodrza-pradnik-CID3-ID1bQMkr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:59",
-      "ts": 1786796212,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2950,
-        "rent": 560,
-        "area": 38.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-15T13:59:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 650 zł + свет по счётчику\n🏢 Этаж: 6\n👤 от собственника\n«Nowe Mieszkanie 2 pokoje | 39 m² | Balkon 9 m² | Klimatyzacja | 6 piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-39-m-balkon-9-m-klimatyzacja-6-pietro-CID3-ID1bQMw6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
       "ts": 1786796527,
@@ -4727,13 +4699,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n🚗 Паркинг: 750 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 17.08.2026\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bRekN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:51",
+      "ts": 1786828254,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 750,
+        "area": 36.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-15T22:51:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 2400 + czynsz 1050 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem, Kraków - Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-krakow-ruczaj-CID3-ID1bRfcy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:04",
+      "ts": 1786828572,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 1050,
+        "area": 43.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-15T23:04:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4064,
-    "sent": 1271
+    "checks": 4068,
+    "sent": 1273
   },
   "initialized": true,
-  "last_check": "2026-08-15T21:00:32",
+  "last_check": "2026-08-15T21:21:35",
   "backoff_until": 1786688273.3955767
 }
