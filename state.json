@@ -2868,7 +2868,8 @@
     "1091251363": 1786796212,
     "1091252024": 1786796527,
     "1091254598": 1786796843,
-    "1091253887": 1786796843
+    "1091253887": 1786796843,
+    "1091256232": 1786797475
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3943,28 +3944,12 @@
     "2pok45m2wlochy|3200|45.0|wlochy": 1786793064,
     "bezposredniodwupokojowemieszkaniewzielenikrow|2950|38.0|krowodrza": 1786796212,
     "nowemieszkanie2pokoje39m²balkon9m²klimatyzacj|3100|39.0|mistrzejowice": 1786796527,
-    "nowoczesnemieszkaniedowynajeciakrakowzablocie|3000|32.0|podgorze": 1786796843
+    "nowoczesnemieszkaniedowynajeciakrakowzablocie|3000|32.0|podgorze": 1786796843,
+    "wynajmemieszkaniebemowobliskometra2pokoje50m2|3800|50.0|bemowo": 1786797475
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 21 августа\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie Sadyba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-sadyba-CID3-ID1bQwoS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:48",
-      "ts": 1786741639,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 700,
-        "area": 39.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-14T22:48:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 39 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«mieszkanie dwa pokoje przy WAT»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwa-pokoje-przy-wat-CID3-ID1bQwUN.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:13",
       "ts": 1786750085,
@@ -4627,13 +4612,30 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie, Bemowo blisko metra, 2 pokoje, 50m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-bemowo-blisko-metra-2-pokoje-50m2-CID3-ID1bQNAY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:29",
+      "ts": 1786797475,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 50.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-15T14:29:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3986,
-    "sent": 1235
+    "checks": 3990,
+    "sent": 1236
   },
   "initialized": true,
-  "last_check": "2026-08-15T12:27:33",
+  "last_check": "2026-08-15T12:48:33",
   "backoff_until": 1786688273.3955767
 }
