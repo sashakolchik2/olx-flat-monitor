@@ -2900,7 +2900,10 @@
     "1091293516": 1786807558,
     "1091294678": 1786807874,
     "1091293853": 1786807874,
-    "1091297351": 1786808504
+    "1091297351": 1786808504,
+    "1091256935": 1786809136,
+    "1091298985": 1786809452,
+    "1091299936": 1786809768
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3991,62 +3994,14 @@
     "mieszkanienawynajemchodeckadwapokojemetro|2900|38.0|targowek": 1786806296,
     "mieszkaniedowynajecia|2800|31.0|srodmiescie": 1786806296,
     "mammieszkaniedowynajecia|3000|70.0|wawer": 1786807558,
-    "2pokoje40m²metro100mwolapark600700mloggiawind|3000|40.0|wola": 1786808504
+    "2pokoje40m²metro100mwolapark600700mloggiawind|3000|40.0|wola": 1786808504,
+    "mieszkaniedwupokojowenowe|2900|37.0|bialoleka": 1786809136,
+    "wysokistandardmieszkanie2pokojowezbalkonemwkr|3000|37.0|biezanowprokocim": 1786809452,
+    "2pokoje39m2zakrzowekgarazgratis|2850|39.0|debniki": 1786809768
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 590 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 26 августа\n🏢 Этаж: 7\n👤 от собственника\n«2 pokoje z kuchnią, przy AGH, UR, UKEN, UJ, PK, UE, dla 2-3 osób»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-przy-agh-ur-uken-uj-pk-ue-dla-2-3-osob-CID3-ID1bQBrM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:32",
-      "ts": 1786779619,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 590,
-        "area": 35.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-15T09:32:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 590
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje z kuchnią przy AGH, UR, PK, UE, UJ, UKEN - właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-przy-agh-ur-pk-ue-uj-uken-wlasciciel-CID3-ID1bQBFE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:41",
-      "ts": 1786780566,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 800,
-        "area": 50.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-15T09:41:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Bezpośrednio mieszkanie dwupokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-mieszkanie-dwupokojowe-do-wynajecia-CID3-ID1bQBUN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:51",
-      "ts": 1786780885,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 700,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-15T09:51:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 820 = <b>3620 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 48 m² | balkon 8 m² | winda | Koszykarska | umeblowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48-m-balkon-8-m-winda-koszykarska-umeblowane-CID3-ID1bQBXd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:52",
       "ts": 1786781201,
@@ -4675,13 +4630,64 @@
       "an": {
         "czynsz_desc": 860
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n🚗 Паркинг: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie dwupokojowe nowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-nowe-CID3-ID1bQNMj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:33",
+      "ts": 1786809136,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-15T14:33:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 560 = <b>3560 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 4 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Wysoki standard- Mieszkanie 2-pokojowe z balkonem w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wysoki-standard-mieszkanie-2-pokojowe-z-balkonem-w-krakowie-CID3-ID1bQYIx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:43",
+      "ts": 1786809452,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 560,
+        "area": 37.0,
+        "district": "Bieżanów-Prokocim",
+        "business": false,
+        "created_iso": "2026-08-15T17:43:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 39 м², 2 комнаты\n💰 2850 + czynsz 850 = <b>3700 zł/мес</b>\n   ≈ с медиа около 4550 zł/мес\n⚡ Свет/медиа: ≈ 850 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje, 39 m2, Zakrzówek, garaż gratis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-39-m2-zakrzowek-garaz-gratis-CID3-ID1bQYXS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:50",
+      "ts": 1786809768,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2850,
+        "rent": 850,
+        "area": 39.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-15T17:50:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4024,
-    "sent": 1251
+    "checks": 4028,
+    "sent": 1254
   },
   "initialized": true,
-  "last_check": "2026-08-15T15:47:08",
+  "last_check": "2026-08-15T16:08:11",
   "backoff_until": 1786688273.3955767
 }
