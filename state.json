@@ -4742,10 +4742,10 @@
     }
   ],
   "stats": {
-    "checks": 4076,
+    "checks": 4079,
     "sent": 1275
   },
   "initialized": true,
-  "last_check": "2026-08-15T23:25:21",
-  "backoff_until": 1786688273.3955767
+  "last_check": "2026-08-15T23:41:12",
+  "backoff_until": 1786837882.000077
 }
