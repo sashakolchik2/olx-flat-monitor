@@ -2846,7 +2846,9 @@
     "1091139687": 1786784681,
     "1091218804": 1786784681,
     "1091219239": 1786784999,
-    "1091220196": 1786784999
+    "1091220196": 1786784999,
+    "1091223715": 1786786260,
+    "1091223299": 1786786260
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3907,28 +3909,12 @@
     "mieszkaniedwupokojowepragapoludnie|2800|40.0|pragapoludnie": 1786783097,
     "2pokojowemieszkaniewkrakowie|2900|36.0|czyzyny": 1786784047,
     "nowemieszkanieodjuzwysokistandard|3200|45.0|ursus": 1786784681,
-    "bezposrednio2niezaleznepokojebalkonulmeiera16|2800|35.0|pradnikbialy": 1786784999
+    "bezposrednio2niezaleznepokojebalkonulmeiera16|2800|35.0|pradnikbialy": 1786784999,
+    "wynajmemieszkanie2pokojowebielanyzoliborz|3200|35.0|zoliborz": 1786786260
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 3100 + czynsz 560 = <b>3660 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«cicha dwupokojowa kawalerka w Centrum / bez opłaty agencji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/cicha-dwupokojowa-kawalerka-w-centrum-bez-oplaty-agencji-CID3-ID1bQiHm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
-      "ts": 1786721237,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 560,
-        "area": 30.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-14T17:15:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 560
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne 2 pokoje przy Plantach / Św. Gertrudy / Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-przy-plantach-sw-gertrudy-stare-miasto-CID3-ID1bQjOC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:40",
       "ts": 1786729079,
@@ -4591,13 +4577,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 35 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe - Bielany/Żoliborz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-bielany-zoliborz-CID3-ID1bQF8w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:23",
+      "ts": 1786786260,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 35.0,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-15T11:23:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3970,
-    "sent": 1221
+    "checks": 3974,
+    "sent": 1222
   },
   "initialized": true,
-  "last_check": "2026-08-15T09:15:23",
+  "last_check": "2026-08-15T09:36:24",
   "backoff_until": 1786688273.3955767
 }
