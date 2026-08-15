@@ -2904,7 +2904,8 @@
     "1091256935": 1786809136,
     "1091298985": 1786809452,
     "1091299936": 1786809768,
-    "1091303061": 1786811339
+    "1091303061": 1786811339,
+    "1091303046": 1786811971
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3999,28 +4000,12 @@
     "mieszkaniedwupokojowenowe|2900|37.0|bialoleka": 1786809136,
     "wysokistandardmieszkanie2pokojowezbalkonemwkr|3000|37.0|biezanowprokocim": 1786809452,
     "2pokoje39m2zakrzowekgarazgratis|2850|39.0|debniki": 1786809768,
-    "mieszkanie2pokojowe|2600|37.0|pragapolnoc": 1786811339
+    "mieszkanie2pokojowe|2600|37.0|pragapolnoc": 1786811339,
+    "mieszkaniewcentrumkrakowa|2600|37.0|zwierzyniec": 1786811971
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«*For Rent* 2 pok mieszkanie na granicy Ochoty/Włoch»\n🔗 <a href=\"https://www.olx.pl/d/oferta/for-rent-2-pok-mieszkanie-na-granicy-ochoty-wloch-CID3-ID1bQCi5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:05",
-      "ts": 1786781518,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 600,
-        "area": 40.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-15T10:05:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Wzgórza Krzesławickie</b> — 50 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 50m² z ogródkiem i tarasem, ul.Gustawa Morcinka, Kraków – w pełni umeblowane, klimatyzacja, światłowód 300Mb/s, zwierzęta OK, blisko S7»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50m-z-ogrodkiem-i-tarasem-ul-gustawa-morcinka-krakow-w-pelni-umeblowane-klimatyzacja-swiatlowod-300mb-s-zwierzeta-ok-blisko-s7-CID3-ID1bQCv0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:13",
       "ts": 1786782466,
@@ -4683,13 +4668,30 @@
       "an": {
         "czynsz_desc": 200
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Zwierzyniec</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 400 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie w centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-centrum-krakowa-CID3-ID1bQZM2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:14",
+      "ts": 1786811971,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 400,
+        "area": 37.0,
+        "district": "Zwierzyniec",
+        "business": false,
+        "created_iso": "2026-08-15T18:14:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4032,
-    "sent": 1255
+    "checks": 4036,
+    "sent": 1256
   },
   "initialized": true,
-  "last_check": "2026-08-15T16:29:09",
+  "last_check": "2026-08-15T16:50:09",
   "backoff_until": 1786688273.3955767
 }
