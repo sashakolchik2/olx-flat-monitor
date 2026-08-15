@@ -2848,7 +2848,10 @@
     "1091219239": 1786784999,
     "1091220196": 1786784999,
     "1091223715": 1786786260,
-    "1091223299": 1786786260
+    "1091223299": 1786786260,
+    "1091225162": 1786786893,
+    "1091225772": 1786787207,
+    "1091120911": 1786787838
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3910,45 +3913,13 @@
     "2pokojowemieszkaniewkrakowie|2900|36.0|czyzyny": 1786784047,
     "nowemieszkanieodjuzwysokistandard|3200|45.0|ursus": 1786784681,
     "bezposrednio2niezaleznepokojebalkonulmeiera16|2800|35.0|pradnikbialy": 1786784999,
-    "wynajmemieszkanie2pokojowebielanyzoliborz|3200|35.0|zoliborz": 1786786260
+    "wynajmemieszkanie2pokojowebielanyzoliborz|3200|35.0|zoliborz": 1786786260,
+    "mieszkaniedlastudentow|2500|38.0|krowodrza": 1786787207,
+    "mieszkaniepremiumbronowiceulrydla33m²|3000|33.0|krowodrza": 1786787838
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 55 м², 2 комнаты\n💰 2800 + czynsz 400 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne 2 pokoje przy Plantach / Św. Gertrudy / Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-przy-plantach-sw-gertrudy-stare-miasto-CID3-ID1bQjOC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:40",
-      "ts": 1786729079,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 400,
-        "area": 55.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-14T17:40:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 400
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 36 m | Balkon | Widok | Po remoncie | Od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36-m-balkon-widok-po-remoncie-od-wrzesnia-CID3-ID1bQl4a.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:10",
-      "ts": 1786729079,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-14T18:10:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 43 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 7\n👤 от собственника\n«Słoneczne 2-pokojowe mieszkanie do wynajęcia – Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokojowe-mieszkanie-do-wynajecia-bielany-CID3-ID1bQl6X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:11",
       "ts": 1786729079,
@@ -4594,13 +4565,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 550 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-CID3-ID1bQFFG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:36",
+      "ts": 1786787207,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 550,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-15T11:36:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 2\n🏢 агентство\n«MIESZKANIE PREMIUM | Bronowice | ul. Rydla | 33 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-premium-bronowice-ul-rydla-33-m-CID3-ID1bQeon.html\">Открыть на OLX</a>  ·  добавлено вчера в 15:38",
+      "ts": 1786787838,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 650,
+        "area": 33.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-14T15:38:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3974,
-    "sent": 1222
+    "checks": 3978,
+    "sent": 1224
   },
   "initialized": true,
-  "last_check": "2026-08-15T09:36:24",
+  "last_check": "2026-08-15T09:57:28",
   "backoff_until": 1786688273.3955767
 }
