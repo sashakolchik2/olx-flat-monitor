@@ -2937,17 +2937,10 @@
     "1091359017": 1786828254,
     "1091358903": 1786828254,
     "1091362350": 1786828572,
-<<<<<<< Updated upstream
-    "1091371845": 1786830147,
-    "1091372980": 1786830460,
-    "1091375457": 1786832033,
-    "1091375926": 1786832665
-=======
     "1091375457": 1786834125,
     "1091372980": 1786834125,
     "1091375926": 1786834125,
     "1091371845": 1786834125
->>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4061,13 +4054,8 @@
     "dowynajeciamieszkanie2pokojoweklimatyzowaneos|2500|36.0|pradnikbialy": 1786827309,
     "wynajemmieszkania|2600|36.0|ursynow": 1786828254,
     "mieszkanie2pokojowezbalkonemkrakowruczaj|2400|43.0|debniki": 1786828572,
-<<<<<<< Updated upstream
-    "klimagarazzmywarkabalkoneng|3300|42.0|": 1786830460,
-    "nieruchomoscmieszkanienawynajem|3500|37.0|krowodrza": 1786832033
-=======
     "nieruchomoscmieszkanienawynajem|3500|37.0|krowodrza": 1786834125,
     "klimagarazzmywarkabalkoneng|3300|42.0|": 1786834125
->>>>>>> Stashed changes
   },
   "tg_offset": 654625396,
   "paused": false,
@@ -4719,13 +4707,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Краков</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 6\n🏢 агентство\n«Klima | Garaż | Zmywarka | Balkon | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klima-garaz-zmywarka-balkon-eng-CID3-ID1bRhY0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:36",
-      "ts": 1786830460,
-=======
       "text": "🏠 <b>Краков</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 6\n🏢 агентство\n«Klima | Garaż | Zmywarka | Balkon | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klima-garaz-zmywarka-balkon-eng-CID3-ID1bRhY0.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:36",
       "ts": 1786834125,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4742,11 +4725,7 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Nieruchomość mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nieruchomosc-mieszkanie-na-wynajem-CID3-ID1bRiBX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:03",
-<<<<<<< Updated upstream
-      "ts": 1786832033,
-=======
       "ts": 1786834125,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -4763,18 +4742,10 @@
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 4084,
+    "checks": 4076,
     "sent": 1275
   },
   "initialized": true,
-  "last_check": "2026-08-15T22:45:29",
-=======
-    "checks": 4072,
-    "sent": 1275
-  },
-  "initialized": true,
-  "last_check": "2026-08-15T23:04:31",
->>>>>>> Stashed changes
+  "last_check": "2026-08-15T23:25:21",
   "backoff_until": 1786688273.3955767
 }
