@@ -2877,7 +2877,8 @@
     "1091260358": 1786799681,
     "1091260684": 1786799681,
     "1091261569": 1786799997,
-    "1091260940": 1786799997
+    "1091260940": 1786799997,
+    "1091267315": 1786801570
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3957,28 +3958,12 @@
     "2pokmieszkaniezbalkonem42m²mydlnikiwweryhydar|2650|42.0|bronowice": 1786798734,
     "mieszkanie36m²2pokojesielce|2800|36.0|mokotow": 1786799049,
     "2niezaleznepokojeloggiagrzegorzkidabie|2800|39.0|grzegorzki": 1786799681,
-    "przytulne2pokojeporemonciewolagarbinskiegomet|3000|34.0|wola": 1786799997
+    "przytulne2pokojeporemonciewolagarbinskiegomet|3000|34.0|wola": 1786799997,
+    "wynajmemieszkanie|2900|34.0|wola": 1786801570
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 60 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem - Kraków - Prądnik Czerwony, ul. Kwartowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-pradnik-czerwony-ul-kwartowa-CID3-ID1bQvqT.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:42",
-      "ts": 1786750085,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 750,
-        "area": 60.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-14T23:42:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 912 = <b>3712 zł/мес</b>\n   ≈ с медиа около 4446 zł/мес\n⚡ Свет/медиа: ≈ 734 zł/мес\n🏢 Этаж: 9\n👤 от собственника\n«Atrakcyjne mieszkanie 2-pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/atrakcyjne-mieszkanie-2-pokojowe-CID3-ID1bQvsn.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:44",
       "ts": 1786750085,
@@ -4641,13 +4626,30 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 720 = <b>3620 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bQQtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:32",
+      "ts": 1786801570,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 720,
+        "area": 34.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-15T15:32:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 3997,
-    "sent": 1240
+    "checks": 4001,
+    "sent": 1241
   },
   "initialized": true,
-  "last_check": "2026-08-15T13:25:21",
+  "last_check": "2026-08-15T13:46:19",
   "backoff_until": 1786688273.3955767
 }
