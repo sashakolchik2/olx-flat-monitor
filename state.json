@@ -2882,7 +2882,9 @@
     "1091269153": 1786801887,
     "1091269570": 1786801887,
     "1091270143": 1786802201,
-    "1091270749": 1786802827
+    "1091270749": 1786802827,
+    "1091277178": 1786803769,
+    "1091281350": 1786804085
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3963,45 +3965,13 @@
     "mieszkanie36m²2pokojesielce|2800|36.0|mokotow": 1786799049,
     "2niezaleznepokojeloggiagrzegorzkidabie|2800|39.0|grzegorzki": 1786799681,
     "przytulne2pokojeporemonciewolagarbinskiegomet|3000|34.0|wola": 1786799997,
-    "wynajmemieszkanie|2900|34.0|wola": 1786801570
+    "wynajmemieszkanie|2900|34.0|wola": 1786801570,
+    "bajeczna2pok38m2bulwarywislaneeng|3300|38.0|grzegorzki": 1786803769,
+    "2pokojezbalkonemnaursynowie|2500|46.0|": 1786804085
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 912 = <b>3712 zł/мес</b>\n   ≈ с медиа около 4446 zł/мес\n⚡ Свет/медиа: ≈ 734 zł/мес\n🏢 Этаж: 9\n👤 от собственника\n«Atrakcyjne mieszkanie 2-pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/atrakcyjne-mieszkanie-2-pokojowe-CID3-ID1bQvsn.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:44",
-      "ts": 1786750085,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 912,
-        "area": 45.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-14T23:44:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 912
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie 40m2 - 2 pokojowe + balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-40m2-2-pokojowe-balkon-CID3-ID1bQzwg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:51",
-      "ts": 1786774244,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 40.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-15T07:51:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 58 м², 2 комнаты\n💰 2500 + czynsz 1180 = <b>3680 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 1180 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Studenckie mieszkanie w Centrum Miasta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/studenckie-mieszkanie-w-centrum-miasta-CID3-ID1bQzzI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:58",
       "ts": 1786774244,
@@ -4647,13 +4617,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 680 = <b>3980 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 680 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«Bajeczna | 2 POK. | 38m2 | Bulwary Wiślane | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bajeczna-2-pok-38m2-bulwary-wislane-eng-CID3-ID1bQT2O.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:08",
+      "ts": 1786803769,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 680,
+        "area": 38.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-15T16:08:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 680
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава</b> — 46 м², 2 комнаты\n💰 2500 + czynsz 1160 = <b>3660 zł/мес</b>\n   ≈ с медиа около 3920 zł/мес\n⚡ Свет/медиа: ≈ 260 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje z balkonem na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-na-ursynowie-CID3-ID1bQU86.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:20",
+      "ts": 1786804085,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1160,
+        "area": 46.0,
+        "district": "",
+        "business": false,
+        "created_iso": "2026-08-15T16:20:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4005,
-    "sent": 1241
+    "checks": 4009,
+    "sent": 1243
   },
   "initialized": true,
-  "last_check": "2026-08-15T14:07:15",
+  "last_check": "2026-08-15T14:28:15",
   "backoff_until": 1786688273.3955767
 }
