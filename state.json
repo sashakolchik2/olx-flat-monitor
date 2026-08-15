@@ -2825,7 +2825,10 @@
     "1091204552": 1786776453,
     "1091204633": 1786776453,
     "1091205221": 1786777086,
-    "1091205386": 1786777086
+    "1091205386": 1786777086,
+    "1091206135": 1786777722,
+    "1091206466": 1786777722,
+    "1091205832": 1786777722
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3873,28 +3876,12 @@
     "ullublanska2pokojeaneksgaraz40m2|2900|40.0|pradnikczerwony": 1786776453,
     "okoliceuniwersytetuekonomicznegogaleriikrakow|3400|40.0|": 1786776453,
     "wynajmemieszkanie2poknabemowie10minpieszometr|2900|45.0|bemowo": 1786777086,
-    "2pokojezbalkonem50m2uljoliotcurie3881zlzczyns|2800|50.0|mokotow": 1786777086
+    "2pokojezbalkonem50m2uljoliotcurie3881zlzczyns|2800|50.0|mokotow": 1786777086,
+    "2pokoje36m2rondowiatraczna3200zlzczynszem|2400|36.0|pragapoludnie": 1786777722
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 38 м², 2 комнаты\n💰 2400 + czynsz 750 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n🏢 агентство\n«Dwupokojowe mieszkanie w dobrze skomunikowanej lokalizacji - Dębniki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-w-dobrze-skomunikowanej-lokalizacji-debniki-CID3-ID1bQfoT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:03",
-      "ts": 1786716844,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 750,
-        "area": 38.0,
-        "district": "Dębniki",
-        "business": true,
-        "created_iso": "2026-08-14T16:03:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 52 м², 2 комнаты\n💰 <b>3850 zł/мес</b> — czynsz включён\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2-pokojowe przy al. Krasińskiego – Kraków | Kossakówka | Jubilat»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-przy-al-krasinskiego-krakow-kossakowka-jubilat-CID3-ID1bQfoN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:03",
       "ts": 1786717468,
@@ -4557,13 +4544,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 36 м², 2 комнаты\n💰 2400 + czynsz 804 = <b>3204 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje 36m2 / Rondo Wiatraczna / 3200 zł z czynszem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-36m2-rondo-wiatraczna-3200-zl-z-czynszem-CID3-ID1bQAEi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:04",
+      "ts": 1786777722,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 804,
+        "area": 36.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-15T09:04:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 3944,
-    "sent": 1208
+    "checks": 3948,
+    "sent": 1209
   },
   "initialized": true,
-  "last_check": "2026-08-15T06:58:19",
+  "last_check": "2026-08-15T07:19:22",
   "backoff_until": 1786688273.3955767
 }
