@@ -2864,7 +2864,11 @@
     "1091239106": 1786792434,
     "1091243450": 1786793064,
     "1091243497": 1786793064,
-    "1091250193": 1786795582
+    "1091250193": 1786795582,
+    "1091251363": 1786796212,
+    "1091252024": 1786796527,
+    "1091254598": 1786796843,
+    "1091253887": 1786796843
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3936,62 +3940,14 @@
     "wynajmemieszkanie2pokojowebielanyzoliborzodza|3200|35.0|zoliborz": 1786792104,
     "mieszkanie2pokojebezposrednioazoryradzikowski|2900|51.0|bronowice": 1786792434,
     "mieszkaniedowynajecia39m2ulprandoty|3700|39.0|pradnikczerwony": 1786793064,
-    "2pok45m2wlochy|3200|45.0|wlochy": 1786793064
+    "2pok45m2wlochy|3200|45.0|wlochy": 1786793064,
+    "bezposredniodwupokojowemieszkaniewzielenikrow|2950|38.0|krowodrza": 1786796212,
+    "nowemieszkanie2pokoje39m²balkon9m²klimatyzacj|3100|39.0|mistrzejowice": 1786796527,
+    "nowoczesnemieszkaniedowynajeciakrakowzablocie|3000|32.0|podgorze": 1786796843
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie (37m2) | Warszawa (Al. Jerozolimskie 135, róg Spiskiej blisko Pl. Narutowicza) | Dla 2 studentek lub młodych pracujących»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-37m2-warszawa-al-jerozolimskie-135-rog-spiskiej-blisko-pl-narutowicza-dla-2-studentek-lub-mlodych-pracujacych-CID3-ID1bQuiw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:12",
-      "ts": 1786739126,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-14T22:12:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2990 + czynsz 250 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 4 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie w ścisłym Centrum Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-scislym-centrum-krakowa-CID3-ID1bQukX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:13",
-      "ts": 1786739754,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2990,
-        "rent": 250,
-        "area": 38.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-14T22:13:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 250
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 34 м², 2 комнаты\n💰 2950 + czynsz 692 = <b>3642 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje z garażem i balkonem, Warszawa Białołęka, Żerań, 34 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-garazem-i-balkonem-warszawa-bialoleka-zeran-34-m2-CID3-ID1bQuSD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:30",
-      "ts": 1786740071,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 692,
-        "area": 34.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-14T22:30:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 691
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 21 августа\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie Sadyba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-sadyba-CID3-ID1bQwoS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:48",
       "ts": 1786741639,
@@ -4620,13 +4576,64 @@
       "an": {
         "czynsz_desc": 150
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2950 + czynsz 560 = <b>3510 zł/мес</b>\n   ≈ с медиа около 3570 zł/мес\n⚡ Свет/медиа: ≈ 60 zł + свет по счётчику\n🌐 Интернет: 60 zł/мес\n📅 Заселение: с ноября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio dwupokojowe mieszkanie w zieleni Krowodrza/Prądnik»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-dwupokojowe-mieszkanie-w-zieleni-krowodrza-pradnik-CID3-ID1bQMkr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:59",
+      "ts": 1786796212,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2950,
+        "rent": 560,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-15T13:59:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 650 zł + свет по счётчику\n🏢 Этаж: 6\n👤 от собственника\n«Nowe Mieszkanie 2 pokoje | 39 m² | Balkon 9 m² | Klimatyzacja | 6 piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokoje-39-m-balkon-9-m-klimatyzacja-6-pietro-CID3-ID1bQMw6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
+      "ts": 1786796527,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 550,
+        "area": 39.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-15T14:03:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Nowoczesne mieszkanie do wynajęcia – Kraków, Zabłocie/Podgórze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-do-wynajecia-krakow-zablocie-podgorze-CID3-ID1bQNaC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
+      "ts": 1786796843,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 650,
+        "area": 32.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-15T14:19:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 3982,
-    "sent": 1232
+    "checks": 3986,
+    "sent": 1235
   },
   "initialized": true,
-  "last_check": "2026-08-15T12:06:30",
+  "last_check": "2026-08-15T12:27:33",
   "backoff_until": 1786688273.3955767
 }
