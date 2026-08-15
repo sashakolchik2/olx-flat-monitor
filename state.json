@@ -2828,7 +2828,9 @@
     "1091205386": 1786777086,
     "1091206135": 1786777722,
     "1091206466": 1786777722,
-    "1091205832": 1786777722
+    "1091205832": 1786777722,
+    "1091206431": 1786778670,
+    "1091208667": 1786779302
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3877,45 +3879,13 @@
     "okoliceuniwersytetuekonomicznegogaleriikrakow|3400|40.0|": 1786776453,
     "wynajmemieszkanie2poknabemowie10minpieszometr|2900|45.0|bemowo": 1786777086,
     "2pokojezbalkonem50m2uljoliotcurie3881zlzczyns|2800|50.0|mokotow": 1786777086,
-    "2pokoje36m2rondowiatraczna3200zlzczynszem|2400|36.0|pragapoludnie": 1786777722
+    "2pokoje36m2rondowiatraczna3200zlzczynszem|2400|36.0|pragapoludnie": 1786777722,
+    "mieszkaniezogrodkiemimiejscempost|3000|48.0|debniki": 1786778670,
+    "mieszkanie2pokojejasnakuchnialoggiawarszawaob|2900|41.0|pragapolnoc": 1786779302
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 52 м², 2 комнаты\n💰 <b>3850 zł/мес</b> — czynsz включён\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2-pokojowe przy al. Krasińskiego – Kraków | Kossakówka | Jubilat»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-przy-al-krasinskiego-krakow-kossakowka-jubilat-CID3-ID1bQfoN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:03",
-      "ts": 1786717468,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3850,
-        "rent": null,
-        "area": 52.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-14T16:03:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 36 м², 2 комнаты\n💰 2750 + czynsz 550 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2750 zł\n🏢 Этаж: 1\n👤 от собственника\n«BEZPOŚREDNIO 2 pokoje z balkonem + GARAŻ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-z-balkonem-garaz-CID3-ID1bQfJf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:10",
-      "ts": 1786717468,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2750,
-        "rent": 550,
-        "area": 36.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-14T16:10:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 42 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę komfortowe, w pełni umeblowane mieszkanie – Targówek/Zacisze, 6 minut od metra Trocka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-komfortowe-w-pelni-umeblowane-mieszkanie-targowek-zacisze-6-minut-od-metra-trocka-CID3-ID1bQfWx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:15",
       "ts": 1786717785,
@@ -4561,13 +4531,47 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie z ogródkiem i miejscem post.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-ogrodkiem-i-miejscem-post-CID3-ID1bQADJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:04",
+      "ts": 1786778670,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 850,
+        "area": 48.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-15T09:04:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 839 = <b>3739 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje, jasna kuchnia, loggia, Warszawa, obok Dworzec Wschodni, tramwaje.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-jasna-kuchnia-loggia-warszawa-obok-dworzec-wschodni-tramwaje-CID3-ID1bQBdN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:22",
+      "ts": 1786779302,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 839,
+        "area": 41.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-15T09:22:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 839
+      }
     }
   ],
   "stats": {
-    "checks": 3948,
-    "sent": 1209
+    "checks": 3951,
+    "sent": 1211
   },
   "initialized": true,
-  "last_check": "2026-08-15T07:19:22",
+  "last_check": "2026-08-15T07:35:11",
   "backoff_until": 1786688273.3955767
 }
