@@ -2842,7 +2842,11 @@
     "1091213640": 1786782466,
     "1091216030": 1786783097,
     "1091215229": 1786783097,
-    "1091217379": 1786784047
+    "1091217379": 1786784047,
+    "1091139687": 1786784681,
+    "1091218804": 1786784681,
+    "1091219239": 1786784999,
+    "1091220196": 1786784999
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3901,45 +3905,13 @@
     "forrent2pokmieszkanienagranicyochotywloch|3300|40.0|wlochy": 1786781518,
     "mieszkanie50m²zogrodkiemitarasemulgustawamorc|2400|50.0|wzgorzakrzeslawickie": 1786782466,
     "mieszkaniedwupokojowepragapoludnie|2800|40.0|pragapoludnie": 1786783097,
-    "2pokojowemieszkaniewkrakowie|2900|36.0|czyzyny": 1786784047
+    "2pokojowemieszkaniewkrakowie|2900|36.0|czyzyny": 1786784047,
+    "nowemieszkanieodjuzwysokistandard|3200|45.0|ursus": 1786784681,
+    "bezposrednio2niezaleznepokojebalkonulmeiera16|2800|35.0|pradnikbialy": 1786784999
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 65 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«ul. Augustynka-Wichury - Łokietka - 2-pokojowe 65m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-augustynka-wichury-lokietka-2-pokojowe-65m2-CID3-ID1bQhRe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:58",
-      "ts": 1786720609,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": null,
-        "area": 65.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-14T16:58:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Nowe 38 m² | Sosnowiecka | Garaż | Balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-38-m-sosnowiecka-garaz-balkon-CID3-ID1bQiiG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:07",
-      "ts": 1786720922,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 650,
-        "area": 38.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-14T17:07:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 3100 + czynsz 560 = <b>3660 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«cicha dwupokojowa kawalerka w Centrum / bez opłaty agencji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/cicha-dwupokojowa-kawalerka-w-centrum-bez-oplaty-agencji-CID3-ID1bQiHm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
       "ts": 1786721237,
@@ -4585,13 +4557,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 723 = <b>3923 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Nowe Mieszkanie od Już Wysoki Standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-od-juz-wysoki-standard-CID3-ID1bQDRi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:53",
+      "ts": 1786784681,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 723,
+        "area": 45.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-15T10:53:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 723
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«BEZPOŚREDNIO | 2 niezależne pokoje + balkon | ul. Meiera 16E | parking + komórka | 29 Listopada»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-niezalezne-pokoje-balkon-ul-meiera-16e-parking-komorka-29-listopada-CID3-ID1bQDYj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:56",
+      "ts": 1786784999,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 500,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-15T10:56:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 3967,
-    "sent": 1219
+    "checks": 3970,
+    "sent": 1221
   },
   "initialized": true,
-  "last_check": "2026-08-15T08:59:33",
+  "last_check": "2026-08-15T09:15:23",
   "backoff_until": 1786688273.3955767
 }
