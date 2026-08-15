@@ -2817,7 +2817,10 @@
     "1091188801": 1786750085,
     "1091188269": 1786750085,
     "1091194185": 1786750725,
-    "1091200772": 1786772354
+    "1091200772": 1786772354,
+    "1091202344": 1786773930,
+    "1091202338": 1786774244,
+    "1091202062": 1786774244
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -3859,45 +3862,13 @@
     "atrakcyjnemieszkanie2pokojowe|2800|45.0|pragapoludnie": 1786750085,
     "mieszkanie2pokojowedowynajecianabemowie|3000|41.0|bemowo": 1786750085,
     "metrobrodno2oddzielnenieprzechodniepokojewyso|2800|29.0|targowek": 1786750085,
-    "mieszkaniedwapokojeprzywat|3300|39.0|bemowo": 1786750085
+    "mieszkaniedwapokojeprzywat|3300|39.0|bemowo": 1786750085,
+    "studenckiemieszkaniewcentrummiasta|2500|58.0|krowodrza": 1786774244,
+    "wynajmemieszkanie40m22pokojowebalkon|3000|40.0|mistrzejowice": 1786774244
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 830 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«mieszkanie 2 pokojowe Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ruczaj-CID3-ID1bQcny.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:50",
-      "ts": 1786714024,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 830,
-        "area": 49.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-14T14:50:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Czarnowiejska 2 pokoje przy AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czarnowiejska-2-pokoje-przy-agh-CID3-ID1bQd6Y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:07",
-      "ts": 1786714024,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 620,
-        "area": 31.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-14T15:07:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 37.26 м², 2 комнаты\n💰 2999 + czynsz 536 = <b>3535 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 6\n🏢 агентство\n«Lokal 2-pokojowy – Przyjaźni polsko-węgierskiej 6A/606 – bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lokal-2-pokojowy-przyjazni-polsko-wegierskiej-6a-606-bez-prowizji-CID3-ID1bQdM8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:23",
       "ts": 1786714341,
@@ -4543,13 +4514,47 @@
       "an": {
         "czynsz_desc": 912
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie 40m2 - 2 pokojowe + balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-40m2-2-pokojowe-balkon-CID3-ID1bQzwg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:51",
+      "ts": 1786774244,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 500,
+        "area": 40.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-15T07:51:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 58 м², 2 комнаты\n💰 2500 + czynsz 1180 = <b>3680 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 1180 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Studenckie mieszkanie w Centrum Miasta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/studenckie-mieszkanie-w-centrum-miasta-CID3-ID1bQzzI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:58",
+      "ts": 1786774244,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 1180,
+        "area": 58.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-15T07:58:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1180
+      }
     }
   ],
   "stats": {
-    "checks": 3932,
-    "sent": 1202
+    "checks": 3936,
+    "sent": 1204
   },
   "initialized": true,
-  "last_check": "2026-08-15T05:55:06",
+  "last_check": "2026-08-15T06:16:10",
   "backoff_until": 1786688273.3955767
 }
