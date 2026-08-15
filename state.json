@@ -2928,7 +2928,9 @@
     "1091333905": 1786821011,
     "1091340289": 1786821643,
     "1091344542": 1786822271,
-    "1091346209": 1786822585
+    "1091346209": 1786822585,
+    "1091351092": 1786823530,
+    "1091352192": 1786823846
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4035,45 +4037,13 @@
     "dwaniezaleznepokojeidealnedlaparylub2osobprac|2950|54.0|krowodrza": 1786817861,
     "zacisznemieszkaniekrokodmetrawierzbno|3200|42.0|mokotow": 1786819749,
     "dowynajecia2pokojerembielinskaprzygaleriireno|2650|41.0|targowek": 1786820379,
-    "dladwochstudentowigorokuniepalacych|3200|38.0|pragapoludnie": 1786821011
+    "dladwochstudentowigorokuniepalacych|3200|38.0|pragapoludnie": 1786821011,
+    "wynajmedwupojowemieszkanie36mwierzbnomokotowb|3200|36.0|mokotow": 1786823530,
+    "poremonciedla3osobmetro|2700|38.0|bielany": 1786823846
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Wynajem studio Warszawa w ścisłym centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-studio-warszawa-w-scislym-centrum-CID3-ID1bQHMb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:18",
-      "ts": 1786792104,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 900,
-        "area": 35.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-15T12:18:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4400 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🌐 Интернет: 100 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«OD wlasciciela, 2 pokoje oddzielne mieszkanie na aleja solidarność 60b na 2 pietrze.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-wlasciciela-2-pokoje-oddzielne-mieszkanie-na-aleja-solidarnosc-60b-na-2-pietrze-CID3-ID1bQHNG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:18",
-      "ts": 1786792104,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-15T12:18:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 51 м², 2 комнаты\n💰 2900 + czynsz 550 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Mieszkanie 2 pokoje bezpośrednio Azory Radzikowskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-bezposrednio-azory-radzikowskiego-CID3-ID1bQJ8K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:43",
       "ts": 1786792434,
@@ -4719,13 +4689,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajmę dwupojowe mieszkanie 36 m Wierzbno Mokotów blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupojowe-mieszkanie-36-m-wierzbno-mokotow-blisko-metra-CID3-ID1bRcgY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:38",
+      "ts": 1786823530,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 750,
+        "area": 36.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-15T21:38:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 6\n🏢 агентство\n«Po remoncie, dla 3 osób, metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/po-remoncie-dla-3-osob-metro-CID3-ID1bRcyI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:42",
+      "ts": 1786823846,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 38.0,
+        "district": "Bielany",
+        "business": true,
+        "created_iso": "2026-08-15T21:42:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4048,
-    "sent": 1267
+    "checks": 4052,
+    "sent": 1269
   },
   "initialized": true,
-  "last_check": "2026-08-15T19:36:33",
+  "last_check": "2026-08-15T19:57:36",
   "backoff_until": 1786688273.3955767
 }
