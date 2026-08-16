@@ -2951,7 +2951,9 @@
     "1091449298": 1786865225,
     "1091458271": 1786866800,
     "1091457943": 1786867432,
-    "1091458220": 1786867432
+    "1091458220": 1786867432,
+    "1091464258": 1786869324,
+    "1091464794": 1786869640
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4071,28 +4073,12 @@
     "2pokojoweuldietlasebastianaodzaraz|2600|45.0|staremiasto": 1786859861,
     "mieszkaniedowynajeciakrakowzabiniec|3000|48.0|krowodrza": 1786864589,
     "nowemieszkanie2pokojowe34m²ulwitastwosza|3500|34.0|pradnikczerwony": 1786864589,
-    "mieszkanie2pokojowenawynajembemowo|3500|41.0|bemowo": 1786867432
+    "mieszkanie2pokojowenawynajembemowo|3500|41.0|bemowo": 1786867432,
+    "2pokojezduzymbalkonemwarszawaosiedlehemarados|2700|40.0|bialoleka": 1786869324
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 720 = <b>3620 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bQQtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:32",
-      "ts": 1786801570,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 720,
-        "area": 34.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-15T15:32:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 680 = <b>3980 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 680 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«Bajeczna | 2 POK. | 38m2 | Bulwary Wiślane | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bajeczna-2-pok-38m2-bulwary-wislane-eng-CID3-ID1bQT2O.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:08",
       "ts": 1786803769,
@@ -4755,13 +4741,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje z dużym balkonem | Warszawa Osiedle Hemara | Dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-duzym-balkonem-warszawa-osiedle-hemara-dostepne-od-zaraz-CID3-ID1bRFIe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
+      "ts": 1786869324,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-16T10:23:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4168,
-    "sent": 1280
+    "checks": 4172,
+    "sent": 1281
   },
   "initialized": true,
-  "last_check": "2026-08-16T08:19:46",
+  "last_check": "2026-08-16T08:40:48",
   "backoff_until": 1786837882.000077
 }
