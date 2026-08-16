@@ -3020,7 +3020,12 @@
     "1091561286": 1786890311,
     "1091560239": 1786890311,
     "1091558987": 1786890311,
-    "1091562561": 1786890628
+    "1091562561": 1786890628,
+    "1091562138": 1786890942,
+    "1091564298": 1786891255,
+    "1091564445": 1786891255,
+    "1091564179": 1786891881,
+    "1091566254": 1786891881
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4182,28 +4187,12 @@
     "wynajme2pokojowemieszkanieulordona|4000|35.0|wola": 1786888429,
     "klimatyzowanemieszkaniezkompletnymwyposazenie|3200|44.0|targowek": 1786889997,
     "mieszkanienaochocieprzyplnarutowiczadowynajec|2200|35.0|ochota": 1786890311,
-    "mieszkaniedowynajeciamokotow|3200|38.0|mokotow": 1786890311
+    "mieszkaniedowynajeciamokotow|3200|38.0|mokotow": 1786890311,
+    "mieszkaniedowynajeciakrakownowahutaosteatraln|2200|37.73|nowahuta": 1786891255
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Dwupokojowe 37m2 Korotyńskiego 30, Ochota bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-37m2-korotynskiego-30-ochota-bezposrednio-CID3-ID1bRJaj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:15",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 730,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-16T11:15:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 730
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 53.7 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie Skarbka z Gor»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-skarbka-z-gor-CID3-ID1bRJQn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:22",
       "ts": 1786876146,
@@ -4866,13 +4855,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 37.73 м², 2 комнаты\n💰 2200 + czynsz 840 = <b>3040 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia, Kraków, Nowa Huta, os. Teatralne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-nowa-huta-os-teatralne-CID3-ID1bS5JM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:27",
+      "ts": 1786891255,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 840,
+        "area": 37.73,
+        "district": "Nowa Huta",
+        "business": false,
+        "created_iso": "2026-08-16T16:27:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 840
+      }
     }
   ],
   "stats": {
-    "checks": 4226,
-    "sent": 1322
+    "checks": 4230,
+    "sent": 1323
   },
   "initialized": true,
-  "last_check": "2026-08-16T14:30:34",
+  "last_check": "2026-08-16T14:51:28",
   "backoff_until": 1786837882.000077
 }
