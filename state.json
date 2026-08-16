@@ -3032,7 +3032,11 @@
     "1091569433": 1786892838,
     "1091572556": 1786893466,
     "1091570334": 1786893466,
-    "1091576279": 1786894091
+    "1091576279": 1786894091,
+    "1091575413": 1786894407,
+    "1091577972": 1786894720,
+    "1091580170": 1786895342,
+    "1091576898": 1786895342
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4200,45 +4204,13 @@
     "2pokoje45m²ochota2niezaleznepokojeparkgaraz|2500|45.0|ochota": 1786892507,
     "apartament2pokoje38m2pierwszynajembezposredni|3350|38.0|pragapoludnie": 1786892507,
     "wynajmemieszkanie2pokojewarszawawola|3200|29.0|wola": 1786892838,
-    "zieby402pokojeaneksbalkongarazmetrostoklosy|3200|56.22|ursynow": 1786894091
+    "zieby402pokojeaneksbalkongarazmetrostoklosy|3200|56.22|ursynow": 1786894091,
+    "2pokojowemieszkaniepradnikbialybalkonparkingz|2700|37.0|pradnikbialy": 1786894720,
+    "bezprowizjioddzielnakuchniabalkonwifiwceniezw|3360|36.8|wlochy": 1786895342
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 51 м², 2 комнаты\n💰 3200 + czynsz 760 = <b>3960 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie w kamienicy do wynajecia!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-kamienicy-do-wynajecia-CID3-ID1bRKuw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:33",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 760,
-        "area": 51.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-16T11:33:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 760
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 51.7 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie Kraków ul. Reduta na Prądniku Czerwonym 51.7m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ul-reduta-na-pradniku-czerwonym-51-7m2-CID3-ID1bRKvu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:34",
-      "ts": 1786876146,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 900,
-        "area": 51.7,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-16T11:34:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 41 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 6000 zł\n📅 Заселение: с 01 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia 2-pokojowe mieszkanie, gotowe do zamieszkania, ul. Trakt Nadwiślański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-gotowe-do-zamieszkania-ul-trakt-nadwislanski-CID3-ID1bRL2w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:44",
       "ts": 1786876146,
@@ -4884,13 +4856,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 4\n🏢 агентство\n«2-pokojowe mieszkanie, Prądnik Biały, balkon, parking za szlabanem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-pradnik-bialy-balkon-parking-za-szlabanem-CID3-ID1bS9ik.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:25",
+      "ts": 1786894720,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-16T17:25:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 36.8 м², 2 комнаты\n💰 3360 + czynsz 490 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4321 zł/мес\n⚡ Свет/медиа: ≈ 471 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«BEZ PROWIZJI, oddzielna kuchnia, balkon, WiFI w cenie, zwierzęta ok»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-oddzielna-kuchnia-balkon-wifi-w-cenie-zwierzeta-ok-CID3-ID1bS9RM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:35",
+      "ts": 1786895342,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3360,
+        "rent": 490,
+        "area": 36.8,
+        "district": "Włochy",
+        "business": true,
+        "created_iso": "2026-08-16T17:35:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 490
+      }
     }
   ],
   "stats": {
-    "checks": 4237,
-    "sent": 1328
+    "checks": 4240,
+    "sent": 1330
   },
   "initialized": true,
-  "last_check": "2026-08-16T15:28:20",
-  "backoff_until": 1786837882.000077
+  "last_check": "2026-08-16T15:49:12",
+  "backoff_until": 1786895334.8287795
 }
