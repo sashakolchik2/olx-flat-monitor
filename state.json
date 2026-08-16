@@ -3013,7 +3013,9 @@
     "1091552409": 1786888110,
     "1091553276": 1786888110,
     "1091552376": 1786888110,
-    "1091552821": 1786888110
+    "1091552821": 1786888110,
+    "1091553981": 1786888429,
+    "1091546325": 1786888429
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4170,45 +4172,13 @@
     "okazja_nowe_2pok_10mincentrum_autobus_skm|3700|47.0|ochota": 1786887167,
     "mieszkaniedowynajecia47mdwupokojoweoskombatan|2300|47.0|mistrzejowice": 1786887483,
     "mieszkaniedwupokojowedowynajeciastarebielany|2900|49.0|bielany": 1786888110,
-    "2pokoje48m²mokotowmokosferaklimatyzacjabalkon|2500|48.0|mokotow": 1786888110
+    "2pokoje48m²mokotowmokosferaklimatyzacjabalkon|2500|48.0|mokotow": 1786888110,
+    "mieszkanie2pokojowezbalkonemimiejscemparkingo|3300|46.0|krowodrza": 1786888429,
+    "wynajme2pokojowemieszkanieulordona|4000|35.0|wola": 1786888429
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 34 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Nowe mieszkanie 2-pokojowe 34 m² ul. Wita Stwosza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokojowe-34-m-ul-wita-stwosza-CID3-ID1bRA2h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:58",
-      "ts": 1786864589,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 500,
-        "area": 34.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-16T08:58:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia, Kraków, Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-zabiniec-CID3-ID1bRAqX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:03",
-      "ts": 1786864589,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 950,
-        "area": 48.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-16T09:03:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3585 zł/мес\n⚡ Свет/медиа: ≈ 85 zł + свет по счётчику\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem, Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-bemowo-CID3-ID1bRE8Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:47",
       "ts": 1786867432,
@@ -4854,13 +4824,47 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 20 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę 2 Pokojowe mieszkanie ul. Ordona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ul-ordona-CID3-ID1bS13T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:09",
+      "ts": 1786888429,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 35.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-16T15:09:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem i miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-i-miejscem-parkingowym-CID3-ID1bS33n.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:47",
+      "ts": 1786888429,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 600,
+        "area": 46.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-16T15:47:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4218,
-    "sent": 1317
+    "checks": 4222,
+    "sent": 1319
   },
   "initialized": true,
-  "last_check": "2026-08-16T13:48:41",
+  "last_check": "2026-08-16T14:09:36",
   "backoff_until": 1786837882.000077
 }
