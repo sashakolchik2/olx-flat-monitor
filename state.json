@@ -3025,7 +3025,11 @@
     "1091564298": 1786891255,
     "1091564445": 1786891255,
     "1091564179": 1786891881,
-    "1091566254": 1786891881
+    "1091566254": 1786891881,
+    "1091565656": 1786892507,
+    "1091568694": 1786892507,
+    "1091568984": 1786892507,
+    "1091569433": 1786892838
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4188,79 +4192,15 @@
     "klimatyzowanemieszkaniezkompletnymwyposazenie|3200|44.0|targowek": 1786889997,
     "mieszkanienaochocieprzyplnarutowiczadowynajec|2200|35.0|ochota": 1786890311,
     "mieszkaniedowynajeciamokotow|3200|38.0|mokotow": 1786890311,
-    "mieszkaniedowynajeciakrakownowahutaosteatraln|2200|37.73|nowahuta": 1786891255
+    "mieszkaniedowynajeciakrakownowahutaosteatraln|2200|37.73|nowahuta": 1786891255,
+    "wynajmemieszkaniewkrakowie|2650|45.0|czyzyny": 1786892507,
+    "2pokoje45m²ochota2niezaleznepokojeparkgaraz|2500|45.0|ochota": 1786892507,
+    "apartament2pokoje38m2pierwszynajembezposredni|3350|38.0|pragapoludnie": 1786892507,
+    "wynajmemieszkanie2pokojewarszawawola|3200|29.0|wola": 1786892838
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 53.7 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie Skarbka z Gor»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-skarbka-z-gor-CID3-ID1bRJQn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:22",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1000,
-        "area": 53.7,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-16T11:22:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 36 м², 2 комнаты\n💰 2699 + czynsz 399 = <b>3098 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: с 31.08.2026\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje | wysoki standard | balkon z widokiem na zieleń !»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-wysoki-standard-balkon-z-widokiem-na-zielen-CID3-ID1bRK6q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:26",
-      "ts": 1786876146,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2699,
-        "rent": 399,
-        "area": 36.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-16T11:26:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 399
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33.21 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 33,21 m² + lokal 19,20 m² | razem 52,41 m² | Kickiego 26B»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-33-21-m-lokal-19-20-m-razem-52-41-m-kickiego-26b-CID3-ID1bRKfW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:28",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 33.21,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-16T11:28:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 49 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n👤 от собственника\n«Mieszkanie na wynajem, 2 pokoje 49m, Ursynów Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-pokoje-49m-ursynow-warszawa-CID3-ID1bRKhs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:28",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 49.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-16T11:28:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 900 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Stylowe 45 m² | Stare Miasto | Batorego | Kamienic»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-45-m-stare-miasto-batorego-kamienic-CID3-ID1bRKnF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:30",
       "ts": 1786876146,
@@ -4872,13 +4812,81 @@
       "an": {
         "czynsz_desc": 840
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 2650 + czynsz 600 = <b>3250 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-w-krakowie-CID3-ID1bS65G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:35",
+      "ts": 1786892507,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2650,
+        "rent": 600,
+        "area": 45.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-16T16:35:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 45 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2 pokoje 45 m² | Ochota | 2 niezależne pokoje | Park | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-ochota-2-niezalezne-pokoje-park-garaz-CID3-ID1bS6SG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
+      "ts": 1786892507,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 45.0,
+        "district": "Ochota",
+        "business": true,
+        "created_iso": "2026-08-16T16:51:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4580 zł\n🏢 Этаж: 2\n🏢 агентство\n«Apartament 2-pokoje 38m2 |Pierwszy najem| Bezpośrednio!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pokoje-38m2-pierwszy-najem-bezposrednio-CID3-ID1bS6Xm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:53",
+      "ts": 1786892507,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3350,
+        "rent": 550,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-16T16:53:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 29 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 100 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę mieszkanie 2 pokoje, Warszawa, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-warszawa-wola-CID3-ID1bS74B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
+      "ts": 1786892838,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 29.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-16T16:55:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4230,
-    "sent": 1323
+    "checks": 4233,
+    "sent": 1327
   },
   "initialized": true,
-  "last_check": "2026-08-16T14:51:28",
+  "last_check": "2026-08-16T15:07:27",
   "backoff_until": 1786837882.000077
 }
