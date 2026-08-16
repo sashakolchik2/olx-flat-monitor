@@ -3079,7 +3079,10 @@
     "1091617495": 1786904778,
     "1091617640": 1786905092,
     "1091616865": 1786905408,
-    "1091619943": 1786905408
+    "1091619943": 1786905408,
+    "1091617896": 1786905727,
+    "1091618234": 1786906041,
+    "1091623022": 1786906357
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4275,28 +4278,12 @@
     "mieszkaniewapartamentowcudowynajecia|2900|38.0|pradnikczerwony": 1786902880,
     "2pokoje37m²ciesielskiego6pietrowindabalkonbez|3400|37.0|czyzyny": 1786903197,
     "2pokojenajelonkachbliskowat|2700|36.0|bemowo": 1786903197,
-    "nowoczesne2pokojezduzymbalkonemkrakowpodgorze|2950|42.0|podgorzeduchackie": 1786905408
+    "nowoczesne2pokojezduzymbalkonemkrakowpodgorze|2950|42.0|podgorzeduchackie": 1786905408,
+    "2pokojowemieszkaniedowynajeciawarszawabielany|2700|46.0|bielany": 1786906041
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 49 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie dwu pokojowe do wynajęcia Stare Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwu-pokojowe-do-wynajecia-stare-bielany-CID3-ID1bS2E1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:38",
-      "ts": 1786888110,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1100,
-        "area": 49.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-16T15:38:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 20 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę 2 Pokojowe mieszkanie ul. Ordona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ul-ordona-CID3-ID1bS13T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:09",
       "ts": 1786888429,
@@ -4959,13 +4946,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 46 м², 2 комнаты\n💰 2700 + czynsz 1100 = <b>3800 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«2 pokojowe Mieszkanie do wynajęcia Warszawa Bielany 46m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-do-wynajecia-warszawa-bielany-46m2-CID3-ID1bSjLI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:17",
+      "ts": 1786906041,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 1100,
+        "area": 46.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-16T20:17:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4260,
-    "sent": 1356
+    "checks": 4264,
+    "sent": 1357
   },
   "initialized": true,
-  "last_check": "2026-08-16T18:36:58",
+  "last_check": "2026-08-16T18:57:59",
   "backoff_until": 1786837882.000077
 }
