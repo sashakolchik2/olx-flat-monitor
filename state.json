@@ -3036,7 +3036,11 @@
     "1091575413": 1786894407,
     "1091577972": 1786894720,
     "1091580170": 1786895342,
-    "1091576898": 1786895342
+    "1091576898": 1786895342,
+    "1091581324": 1786895659,
+    "1091581585": 1786895975,
+    "1091587159": 1786896602,
+    "1091585033": 1786896602
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4206,62 +4210,14 @@
     "wynajmemieszkanie2pokojewarszawawola|3200|29.0|wola": 1786892838,
     "zieby402pokojeaneksbalkongarazmetrostoklosy|3200|56.22|ursynow": 1786894091,
     "2pokojowemieszkaniepradnikbialybalkonparkingz|2700|37.0|pradnikbialy": 1786894720,
-    "bezprowizjioddzielnakuchniabalkonwifiwceniezw|3360|36.8|wlochy": 1786895342
+    "bezprowizjioddzielnakuchniabalkonwifiwceniezw|3360|36.8|wlochy": 1786895342,
+    "mieszkanie2pokojestarymokotow|3200|40.0|mokotow": 1786895659,
+    "wynajem2pokojowemieszknaieoddzielnepokoje|3000|37.0|wola": 1786895975,
+    "pluaen2pokojekuchniagarazgrzegorzkiuekpkodzar|2900|46.0|grzegorzki": 1786896602
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 41 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 6000 zł\n📅 Заселение: с 01 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia 2-pokojowe mieszkanie, gotowe do zamieszkania, ul. Trakt Nadwiślański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-gotowe-do-zamieszkania-ul-trakt-nadwislanski-CID3-ID1bRL2w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:44",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 41.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-16T11:44:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 49 м², 2 комнаты\n💰 2400 + czynsz 948 = <b>3348 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 10\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie 49 M2 z balkonem | Wola Duchacka ul.Sanocka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-49-m2-z-balkonem-wola-duchacka-ul-sanocka-CID3-ID1bRLtS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
-      "ts": 1786876146,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 948,
-        "area": 49.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-16T11:52:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 948
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n👤 от собственника\n«Do wynajęcia mieszkanie przy Rondzie Wiatraczna w widokiem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-przy-rondzie-wiatraczna-w-widokiem-CID3-ID1bRLz2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:54",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 50.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-16T11:54:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 690 = <b>3690 zł/мес</b>\n   ≈ с медиа около 3790 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«PIERWSZY WYNAJEM! 2 pokoje, 33 m² – Warszawa Ursus,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pierwszy-wynajem-2-pokoje-33-m-warszawa-ursus-CID3-ID1bRMHq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:10",
       "ts": 1786876795,
@@ -4890,13 +4846,64 @@
       "an": {
         "czynsz_desc": 490
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje stary Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-stary-mokotow-CID3-ID1bSaao.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:41",
+      "ts": 1786895659,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 40.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-16T17:41:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3780 zł/мес\n⚡ Свет/медиа: ≈ 30 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🐾 можно с животными · 👤 от собственника\n«Wynajem 2 pokojowe mieszknaie - oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowe-mieszknaie-oddzielne-pokoje-CID3-ID1bSaeB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:42",
+      "ts": 1786895975,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-16T17:42:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 46 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«PL / UA / EN | 2 Pokoje + kuchnia | Garaż | Grzegórzki | Uek | PK | Od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ua-en-2-pokoje-kuchnia-garaz-grzegorzki-uek-pk-od-zaraz-CID3-ID1bSbGw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:03",
+      "ts": 1786896602,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 750,
+        "area": 46.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-16T18:03:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 4240,
-    "sent": 1330
+    "checks": 4244,
+    "sent": 1333
   },
   "initialized": true,
-  "last_check": "2026-08-16T15:49:12",
+  "last_check": "2026-08-16T16:10:11",
   "backoff_until": 1786895334.8287795
 }
