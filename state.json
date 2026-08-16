@@ -3015,7 +3015,12 @@
     "1091552376": 1786888110,
     "1091552821": 1786888110,
     "1091553981": 1786888429,
-    "1091546325": 1786888429
+    "1091546325": 1786888429,
+    "1091557129": 1786889997,
+    "1091561286": 1786890311,
+    "1091560239": 1786890311,
+    "1091558987": 1786890311,
+    "1091562561": 1786890628
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4174,62 +4179,14 @@
     "mieszkaniedwupokojowedowynajeciastarebielany|2900|49.0|bielany": 1786888110,
     "2pokoje48m²mokotowmokosferaklimatyzacjabalkon|2500|48.0|mokotow": 1786888110,
     "mieszkanie2pokojowezbalkonemimiejscemparkingo|3300|46.0|krowodrza": 1786888429,
-    "wynajme2pokojowemieszkanieulordona|4000|35.0|wola": 1786888429
+    "wynajme2pokojowemieszkanieulordona|4000|35.0|wola": 1786888429,
+    "klimatyzowanemieszkaniezkompletnymwyposazenie|3200|44.0|targowek": 1786889997,
+    "mieszkanienaochocieprzyplnarutowiczadowynajec|2200|35.0|ochota": 1786890311,
+    "mieszkaniedowynajeciamokotow|3200|38.0|mokotow": 1786890311
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3585 zł/мес\n⚡ Свет/медиа: ≈ 85 zł + свет по счётчику\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem, Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-bemowo-CID3-ID1bRE8Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:47",
-      "ts": 1786867432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 41.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T09:47:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje z dużym balkonem | Warszawa Osiedle Hemara | Dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-duzym-balkonem-warszawa-osiedle-hemara-dostepne-od-zaraz-CID3-ID1bRFIe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:23",
-      "ts": 1786869324,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-16T10:23:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 900 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 50m do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50m-do-wynajecia-CID3-ID1bRFgJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:12",
-      "ts": 1786876146,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 900,
-        "area": 50.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T10:12:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Dwupokojowe 37m2 Korotyńskiego 30, Ochota bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-37m2-korotynskiego-30-ochota-bezposrednio-CID3-ID1bRJaj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:15",
       "ts": 1786876146,
@@ -4858,13 +4815,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 44 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Klimatyzowane mieszkanie z kompletnym wyposażeniem wynajem | miejsce postojowe w garażu | boks»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyzowane-mieszkanie-z-kompletnym-wyposazeniem-wynajem-miejsce-postojowe-w-garazu-boks-CID3-ID1bS3S9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:59",
+      "ts": 1786889997,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 44.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-16T15:59:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do Wynajecia - Mokotow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-mokotow-CID3-ID1bS4m7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
+      "ts": 1786890311,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-16T16:04:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 35 м², 2 комнаты\n💰 2200 + czynsz 800 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na Ochocie przy pl.Narutowicza do wynajęcia.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-ochocie-przy-pl-narutowicza-do-wynajecia-CID3-ID1bS4Gj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:09",
+      "ts": 1786890311,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 800,
+        "area": 35.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-16T16:09:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4222,
-    "sent": 1319
+    "checks": 4226,
+    "sent": 1322
   },
   "initialized": true,
-  "last_check": "2026-08-16T14:09:36",
+  "last_check": "2026-08-16T14:30:34",
   "backoff_until": 1786837882.000077
 }
