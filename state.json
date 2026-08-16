@@ -3093,7 +3093,9 @@
     "1091632600": 1786908257,
     "1091632603": 1786908257,
     "1091634654": 1786908889,
-    "1091635079": 1786909206
+    "1091635079": 1786909206,
+    "1091636060": 1786909523,
+    "1091638256": 1786909840
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4296,45 +4298,13 @@
     "mieszkanierondowiatraczna|3000|50.0|pragapoludnie": 1786907306,
     "mieszkanienawynajemwkrakowie|2500|45.0|grzegorzki": 1786907624,
     "bezposredniorakowicka2pok35m2|3200|35.0|staremiasto": 1786908257,
-    "mieszkanienawynajemgoclaw|2800|44.0|pragapoludnie": 1786908889
+    "mieszkanienawynajemgoclaw|2800|44.0|pragapoludnie": 1786908889,
+    "2pokojeprzystacjimetrapolitechnikatoplokaliza|2900|30.0|srodmiescie": 1786909523,
+    "mieszkanie2pokojowezbalkonemnabialolece|2650|47.0|bialoleka": 1786909840
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 2650 + czynsz 600 = <b>3250 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-w-krakowie-CID3-ID1bS65G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:35",
-      "ts": 1786892507,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 600,
-        "area": 45.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-16T16:35:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 45 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2 pokoje 45 m² | Ochota | 2 niezależne pokoje | Park | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-ochota-2-niezalezne-pokoje-park-garaz-CID3-ID1bS6SG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
-      "ts": 1786892507,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 600,
-        "area": 45.0,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-16T16:51:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4580 zł\n🏢 Этаж: 2\n🏢 агентство\n«Apartament 2-pokoje 38m2 |Pierwszy najem| Bezpośrednio!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pokoje-38m2-pierwszy-najem-bezposrednio-CID3-ID1bS6Xm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:53",
       "ts": 1786892507,
@@ -4980,13 +4950,47 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 835 = <b>3735 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje przy stacji metra Politechnika top lokalizacja BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-stacji-metra-politechnika-top-lokalizacja-bez-prowizji-CID3-ID1bSope.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:31",
+      "ts": 1786909523,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 835,
+        "area": 30.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-16T21:31:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 835
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 47 м², 2 комнаты\n💰 2650 + czynsz 1350 = <b>4000 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem na Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-na-bialolece-CID3-ID1bSoYE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:43",
+      "ts": 1786909840,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2650,
+        "rent": 1350,
+        "area": 47.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-16T21:43:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4272,
-    "sent": 1363
+    "checks": 4275,
+    "sent": 1365
   },
   "initialized": true,
-  "last_check": "2026-08-16T19:40:14",
-  "backoff_until": 1786837882.000077
+  "last_check": "2026-08-16T19:56:05",
+  "backoff_until": 1786910772.7991946
 }
