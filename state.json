@@ -2949,7 +2949,9 @@
     "1091443967": 1786864589,
     "1091442437": 1786864589,
     "1091449298": 1786865225,
-    "1091458271": 1786866800
+    "1091458271": 1786866800,
+    "1091457943": 1786867432,
+    "1091458220": 1786867432
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4068,28 +4070,12 @@
     "ulrusznikarska2pokojoweodzaraz|2300|45.0|pradnikbialy": 1786859545,
     "2pokojoweuldietlasebastianaodzaraz|2600|45.0|staremiasto": 1786859861,
     "mieszkaniedowynajeciakrakowzabiniec|3000|48.0|krowodrza": 1786864589,
-    "nowemieszkanie2pokojowe34m²ulwitastwosza|3500|34.0|pradnikczerwony": 1786864589
+    "nowemieszkanie2pokojowe34m²ulwitastwosza|3500|34.0|pradnikczerwony": 1786864589,
+    "mieszkanie2pokojowenawynajembemowo|3500|41.0|bemowo": 1786867432
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokoje po remoncie | Wola | Garbińskiego | Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-po-remoncie-wola-garbinskiego-metro-ksiecia-janusza-CID3-ID1bQOOU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
-      "ts": 1786799997,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 34.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-15T14:58:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 720 = <b>3620 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bQQtJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:32",
       "ts": 1786801570,
@@ -4752,13 +4738,30 @@
       "an": {
         "czynsz_desc": 950
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3585 zł/мес\n⚡ Свет/медиа: ≈ 85 zł + свет по счётчику\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem, Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-bemowo-CID3-ID1bRE8Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:47",
+      "ts": 1786867432,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 41.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-16T09:47:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4164,
-    "sent": 1279
+    "checks": 4168,
+    "sent": 1280
   },
   "initialized": true,
-  "last_check": "2026-08-16T07:58:43",
+  "last_check": "2026-08-16T08:19:46",
   "backoff_until": 1786837882.000077
 }
