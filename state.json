@@ -2940,7 +2940,9 @@
     "1091375457": 1786834125,
     "1091372980": 1786834125,
     "1091375926": 1786834125,
-    "1091371845": 1786834125
+    "1091371845": 1786834125,
+    "1091433334": 1786859545,
+    "1091435244": 1786859861
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4055,45 +4057,13 @@
     "wynajemmieszkania|2600|36.0|ursynow": 1786828254,
     "mieszkanie2pokojowezbalkonemkrakowruczaj|2400|43.0|debniki": 1786828572,
     "nieruchomoscmieszkanienawynajem|3500|37.0|krowodrza": 1786834125,
-    "klimagarazzmywarkabalkoneng|3300|42.0|": 1786834125
+    "klimagarazzmywarkabalkoneng|3300|42.0|": 1786834125,
+    "ulrusznikarska2pokojoweodzaraz|2300|45.0|pradnikbialy": 1786859545,
+    "2pokojoweuldietlasebastianaodzaraz|2600|45.0|staremiasto": 1786859861
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie, Bemowo blisko metra, 2 pokoje, 50m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-bemowo-blisko-metra-2-pokoje-50m2-CID3-ID1bQNAY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:29",
-      "ts": 1786797475,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 50.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-15T14:29:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 42 м², 2 комнаты\n💰 2650 + czynsz 650 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2-pok. mieszkanie z balkonem | 42 m²| Mydlniki | W. Weryhy-Darowskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-z-balkonem-42-m-mydlniki-w-weryhy-darowskiego-CID3-ID1bQOcO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:44",
-      "ts": 1786798734,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 650,
-        "area": 42.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-15T14:44:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 36m² 2 pokoje, Sielce,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m-2-pokoje-sielce-CID3-ID1bQOgk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
       "ts": 1786799049,
@@ -4739,13 +4709,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«ul. Rusznikarska - 2-pokojowe - od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-rusznikarska-2-pokojowe-od-zaraz-CID3-ID1bRxFs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:36",
+      "ts": 1786859545,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-16T07:36:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 45 м², 2 комнаты\n💰 2600 + czynsz 580 = <b>3180 zł/мес</b>\n   ≈ с медиа около 3300 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2-pokojowe ul. Dietla / Sebastiana - od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ul-dietla-sebastiana-od-zaraz-CID3-ID1bRyag.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:44",
+      "ts": 1786859861,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 580,
+        "area": 45.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-16T07:44:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 570
+      }
     }
   ],
   "stats": {
-    "checks": 4137,
-    "sent": 1275
+    "checks": 4141,
+    "sent": 1277
   },
   "initialized": true,
-  "last_check": "2026-08-16T05:36:47",
+  "last_check": "2026-08-16T05:57:52",
   "backoff_until": 1786837882.000077
 }
