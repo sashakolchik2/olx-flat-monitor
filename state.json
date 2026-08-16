@@ -3095,7 +3095,11 @@
     "1091634654": 1786908889,
     "1091635079": 1786909206,
     "1091636060": 1786909523,
-    "1091638256": 1786909840
+    "1091638256": 1786909840,
+    "1091640564": 1786910782,
+    "1091625764": 1786910782,
+    "1091643993": 1786911415,
+    "1091643052": 1786911415
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4300,62 +4304,14 @@
     "bezposredniorakowicka2pok35m2|3200|35.0|staremiasto": 1786908257,
     "mieszkanienawynajemgoclaw|2800|44.0|pragapoludnie": 1786908889,
     "2pokojeprzystacjimetrapolitechnikatoplokaliza|2900|30.0|srodmiescie": 1786909523,
-    "mieszkanie2pokojowezbalkonemnabialolece|2650|47.0|bialoleka": 1786909840
+    "mieszkanie2pokojowezbalkonemnabialolece|2650|47.0|bialoleka": 1786909840,
+    "2pokojowemieszkaniedowynajeciaprzychpromenada|3000|38.0|pragapoludnie": 1786910782,
+    "odwrzesniawynajmemieszkanie37m2przystacjimetr|3200|37.0|wola": 1786910782,
+    "mieszkanie2pokojowe45m2warszawaursusskorosze|3200|45.0|ursus": 1786911415
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3350 + czynsz 550 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4580 zł\n🏢 Этаж: 2\n🏢 агентство\n«Apartament 2-pokoje 38m2 |Pierwszy najem| Bezpośrednio!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pokoje-38m2-pierwszy-najem-bezposrednio-CID3-ID1bS6Xm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:53",
-      "ts": 1786892507,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3350,
-        "rent": 550,
-        "area": 38.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-16T16:53:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 29 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 100 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę mieszkanie 2 pokoje, Warszawa, Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-warszawa-wola-CID3-ID1bS74B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
-      "ts": 1786892838,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 29.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-16T16:55:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 30 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n🏢 Этаж: 10\n👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bS6MC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:49",
-      "ts": 1786897156,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 700,
-        "area": 30.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-16T16:49:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursynów</b> — 56.22 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Zięby 40 2Pokoje+Aneks+Balkon+Garaż Metro Stokłosy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zieby-40-2pokoje-aneks-balkon-garaz-metro-stoklosy-CID3-ID1bS8R1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:17",
       "ts": 1786897156,
@@ -4984,13 +4940,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3340 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Od września wynajmę mieszkanie 37 m2 przy stacji metra Młynów (ul. Żytnia)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-wrzesnia-wynajme-mieszkanie-37-m2-przy-stacji-metra-mlynow-ul-zytnia-CID3-ID1bSlJa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:51",
+      "ts": 1786910782,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-16T20:51:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n   ≈ с медиа около 4010 zł/мес\n⚡ Свет/медиа: ≈ 270 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«2-pokojowe mieszkanie do wynajęcia przy CH Promenada»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-do-wynajecia-przy-ch-promenada-CID3-ID1bSpzS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:55",
+      "ts": 1786910782,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 740,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-16T21:55:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 780 = <b>3980 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe 45m2, Warszawa Ursus Skorosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-45m2-warszawa-ursus-skorosze-CID3-ID1bSqe0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:02",
+      "ts": 1786911415,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 780,
+        "area": 45.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-16T22:02:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4275,
-    "sent": 1365
+    "checks": 4278,
+    "sent": 1368
   },
   "initialized": true,
-  "last_check": "2026-08-16T19:56:05",
+  "last_check": "2026-08-16T20:17:05",
   "backoff_until": 1786910772.7991946
 }
