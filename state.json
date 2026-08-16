@@ -3058,7 +3058,11 @@
     "1091595216": 1786899081,
     "1091596874": 1786899398,
     "1091595760": 1786899398,
-    "1091594907": 1786899398
+    "1091594907": 1786899398,
+    "1091597170": 1786899716,
+    "1091594552": 1786899716,
+    "1091602196": 1786900348,
+    "1091601348": 1786900661
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4243,28 +4247,12 @@
     "jasnedwupokojowemieszkaniebliskogaleriikazimi|3000|38.0|grzegorzki": 1786898759,
     "2pokojezbalkonembialolekaosstrzezonegarazmost|2500|45.0|bialoleka": 1786898759,
     "mysliwskabezprowizji2pokoje|3150|30.0|": 1786899081,
-    "mieszkanie2pokojenowolipkidostepneodzaraz|3000|37.5|wola": 1786899398
+    "mieszkanie2pokojenowolipkidostepneodzaraz|3000|37.5|wola": 1786899398,
+    "dowynajeciamieszkanienazamknietymosiedluprzyu|3200|43.0|bialoleka": 1786899716
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje, świetna lokalizacja i cena»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-swietna-lokalizacja-i-cena-CID3-ID1bRY3w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
-      "ts": 1786884018,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 40.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-16T14:25:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 53.29 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4320 zł/мес\n⚡ Свет/медиа: ≈ 320 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 6200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Odnowione 2 pokoje 53 m² | Metro Bemowo i Ulrychów | Balkon | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/odnowione-2-pokoje-53-m-metro-bemowo-i-ulrychow-balkon-bezposrednio-CID3-ID1bRYVG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
       "ts": 1786884964,
@@ -4927,13 +4915,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia mieszkanie na zamkniętym osiedlu przy ul. Mariana Hemara»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-na-zamknietym-osiedlu-przy-ul-mariana-hemara-CID3-ID1bSdBK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
+      "ts": 1786899716,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 43.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-16T18:36:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 4241,
-    "sent": 1345
+    "checks": 4245,
+    "sent": 1346
   },
   "initialized": true,
-  "last_check": "2026-08-16T16:56:47",
+  "last_check": "2026-08-16T17:17:48",
   "backoff_until": 1786837882.000077
 }
