@@ -2968,7 +2968,11 @@
     "1091482750": 1786874061,
     "1091483404": 1786874061,
     "1091484735": 1786874377,
-    "1091466034": 1786874377
+    "1091466034": 1786874377,
+    "1091487458": 1786875010,
+    "1091486432": 1786875010,
+    "1091486846": 1786875010,
+    "1091486752": 1786875010
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4099,45 +4103,13 @@
     "mieszkanienawynajem2pokoje49mursynowwarszawa|4000|49.0|ursynow": 1786873431,
     "mieszkanie3321m²lokal1920m²razem5241m²kickieg|3000|33.21|pragapoludnie": 1786873431,
     "mieszkaniekrakowulredutanapradnikuczerwonym51|2900|51.7|pradnikczerwony": 1786874061,
-    "dowynajecia2pokojowemieszkaniegotowedozamiesz|3000|41.0|bialoleka": 1786874377
+    "dowynajecia2pokojowemieszkaniegotowedozamiesz|3000|41.0|bialoleka": 1786874377,
+    "wynajme2pokojowemieszkanie49m2zbalkonemwoladu|2400|49.0|podgorzeduchackie": 1786875010,
+    "dowynajeciamieszkanieprzyrondziewiatracznawwi|3000|50.0|pragapoludnie": 1786875010
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 860 = <b>3860 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«WYNAJEM | 2 pokoje 40 m² | 100 m od METRA | Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokoje-40-m-100-m-od-metra-wola-CID3-ID1bQYib.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:30",
-      "ts": 1786813115,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 860,
-        "area": 40.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-15T17:30:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 860
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 560 = <b>3560 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 4 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Wysoki standard- Mieszkanie 2-pokojowe z balkonem w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wysoki-standard-mieszkanie-2-pokojowe-z-balkonem-w-krakowie-CID3-ID1bQYIx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:43",
-      "ts": 1786813115,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 560,
-        "area": 37.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-15T17:43:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 39 м², 2 комнаты\n💰 2850 + czynsz 850 = <b>3700 zł/мес</b>\n   ≈ с медиа около 4550 zł/мес\n⚡ Свет/медиа: ≈ 850 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje, 39 m2, Zakrzówek, garaż gratis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-39-m2-zakrzowek-garaz-gratis-CID3-ID1bQYXS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:50",
       "ts": 1786813115,
@@ -4783,13 +4755,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 49 м², 2 комнаты\n💰 2400 + czynsz 948 = <b>3348 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 10\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie 49 M2 z balkonem | Wola Duchacka ul.Sanocka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-49-m2-z-balkonem-wola-duchacka-ul-sanocka-CID3-ID1bRLtS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
+      "ts": 1786875010,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 948,
+        "area": 49.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-16T11:52:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 948
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 7\n👤 от собственника\n«Do wynajęcia mieszkanie przy Rondzie Wiatraczna w widokiem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-przy-rondzie-wiatraczna-w-widokiem-CID3-ID1bRLz2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:54",
+      "ts": 1786875010,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 850,
+        "area": 50.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-16T11:54:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4186,
-    "sent": 1291
+    "checks": 4190,
+    "sent": 1293
   },
   "initialized": true,
-  "last_check": "2026-08-16T09:59:47",
+  "last_check": "2026-08-16T10:20:50",
   "backoff_until": 1786874054.45555
 }
