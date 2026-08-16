@@ -2945,7 +2945,9 @@
     "1091435244": 1786859861,
     "1091436505": 1786860495,
     "1091438517": 1786861755,
-    "1091438945": 1786862385
+    "1091438945": 1786862385,
+    "1091443967": 1786864589,
+    "1091442437": 1786864589
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4062,45 +4064,13 @@
     "nieruchomoscmieszkanienawynajem|3500|37.0|krowodrza": 1786834125,
     "klimagarazzmywarkabalkoneng|3300|42.0|": 1786834125,
     "ulrusznikarska2pokojoweodzaraz|2300|45.0|pradnikbialy": 1786859545,
-    "2pokojoweuldietlasebastianaodzaraz|2600|45.0|staremiasto": 1786859861
+    "2pokojoweuldietlasebastianaodzaraz|2600|45.0|staremiasto": 1786859861,
+    "mieszkaniedowynajeciakrakowzabiniec|3000|48.0|krowodrza": 1786864589,
+    "nowemieszkanie2pokojowe34m²ulwitastwosza|3500|34.0|pradnikczerwony": 1786864589
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 36m² 2 pokoje, Sielce,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m-2-pokoje-sielce-CID3-ID1bQOgk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:46",
-      "ts": 1786799049,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-15T14:46:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 830 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje, loggia, Grzegórzki, Dąbie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-loggia-grzegorzki-dabie-CID3-ID1bQOKM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:57",
-      "ts": 1786799681,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 830,
-        "area": 39.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-15T14:57:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokoje po remoncie | Wola | Garbińskiego | Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-po-remoncie-wola-garbinskiego-metro-ksiecia-janusza-CID3-ID1bQOOU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
       "ts": 1786799997,
@@ -4746,13 +4716,47 @@
       "an": {
         "czynsz_desc": 570
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 34 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Nowe mieszkanie 2-pokojowe 34 m² ul. Wita Stwosza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokojowe-34-m-ul-wita-stwosza-CID3-ID1bRA2h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:58",
+      "ts": 1786864589,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 500,
+        "area": 34.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-16T08:58:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia, Kraków, Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-zabiniec-CID3-ID1bRAqX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:03",
+      "ts": 1786864589,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 950,
+        "area": 48.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-16T09:03:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
     }
   ],
   "stats": {
-    "checks": 4152,
-    "sent": 1277
+    "checks": 4156,
+    "sent": 1279
   },
   "initialized": true,
-  "last_check": "2026-08-16T06:55:38",
+  "last_check": "2026-08-16T07:16:42",
   "backoff_until": 1786837882.000077
 }
