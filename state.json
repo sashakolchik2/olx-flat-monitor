@@ -3112,7 +3112,12 @@
     "1091648309": 1786913946,
     "1091652954": 1786914894,
     "1091651233": 1786915210,
+<<<<<<< Updated upstream
     "1091655505": 1786917732
+=======
+    "1091655505": 1786918168,
+    "1091658788": 1786918795
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4327,7 +4332,11 @@
     "atrakcyjnemieszkaniedowynajecia|3700|49.0|bielany": 1786913630,
     "wynajemmieszkania|2300|42.0|mokotow": 1786913946,
     "nowe2pokojowemieszkanienanordicbemowo35m²metr|3950|35.0|bemowo": 1786914894,
+<<<<<<< Updated upstream
     "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786917732
+=======
+    "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786918168
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625396,
   "paused": false,
@@ -4997,7 +5006,11 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 10\n👤 от собственника\n«[Zjawiskowy widok na Balaton] Przytulne 2 pokoje i oddzielna kuchnia, z parkingiem – Praga - Południe, Gocław.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zjawiskowy-widok-na-balaton-przytulne-2-pokoje-i-oddzielna-kuchnia-z-parkingiem-praga-poludnie-goclaw-CID3-ID1bStsR.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:50",
+<<<<<<< Updated upstream
       "ts": 1786917732,
+=======
+      "ts": 1786918168,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -5014,10 +5027,18 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 4299,
     "sent": 1375
   },
   "initialized": true,
   "last_check": "2026-08-16T22:07:37",
+=======
+    "checks": 4294,
+    "sent": 1375
+  },
+  "initialized": true,
+  "last_check": "2026-08-16T22:25:15",
+>>>>>>> Stashed changes
   "backoff_until": 1786910772.7991946
 }
