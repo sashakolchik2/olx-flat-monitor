@@ -3089,7 +3089,11 @@
     "1091628083": 1786907306,
     "1091628203": 1786907306,
     "1091629631": 1786907624,
-    "1091629098": 1786907624
+    "1091629098": 1786907624,
+    "1091632600": 1786908257,
+    "1091632603": 1786908257,
+    "1091634654": 1786908889,
+    "1091635079": 1786909206
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4290,45 +4294,13 @@
     "wynajmebezposredniojasne2pokojowemieszkaniena|2800|50.0|bemowo": 1786906988,
     "bezposredniobalkon55m²duzoszaf2pokgrochowplsz|3200|45.0|pragapoludnie": 1786907306,
     "mieszkanierondowiatraczna|3000|50.0|pragapoludnie": 1786907306,
-    "mieszkanienawynajemwkrakowie|2500|45.0|grzegorzki": 1786907624
+    "mieszkanienawynajemwkrakowie|2500|45.0|grzegorzki": 1786907624,
+    "bezposredniorakowicka2pok35m2|3200|35.0|staremiasto": 1786908257,
+    "mieszkanienawynajemgoclaw|2800|44.0|pragapoludnie": 1786908889
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 35 м², 2 комнаты\n💰 2200 + czynsz 800 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na Ochocie przy pl.Narutowicza do wynajęcia.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-ochocie-przy-pl-narutowicza-do-wynajecia-CID3-ID1bS4Gj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:09",
-      "ts": 1786890311,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 800,
-        "area": 35.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-16T16:09:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 37.73 м², 2 комнаты\n💰 2200 + czynsz 840 = <b>3040 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia, Kraków, Nowa Huta, os. Teatralne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-nowa-huta-os-teatralne-CID3-ID1bS5JM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:27",
-      "ts": 1786891255,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 840,
-        "area": 37.73,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-08-16T16:27:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 840
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 2650 + czynsz 600 = <b>3250 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-w-krakowie-CID3-ID1bS65G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:35",
       "ts": 1786892507,
@@ -4974,13 +4946,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 330 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Bezpośrednio | RAKOWICKA | 2 POK. | 35 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-rakowicka-2-pok-35-m2-CID3-ID1bSnwt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:15",
+      "ts": 1786908257,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 35.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-16T21:15:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-goclaw-CID3-ID1bSo2y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
+      "ts": 1786908889,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 900,
+        "area": 44.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-16T21:23:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 4268,
-    "sent": 1361
+    "checks": 4272,
+    "sent": 1363
   },
   "initialized": true,
-  "last_check": "2026-08-16T19:19:08",
+  "last_check": "2026-08-16T19:40:14",
   "backoff_until": 1786837882.000077
 }
