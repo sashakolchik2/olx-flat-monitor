@@ -3074,7 +3074,12 @@
     "1091609151": 1786902880,
     "1091608025": 1786903197,
     "1091587858": 1786903197,
-    "1091612101": 1786903832
+    "1091612101": 1786903832,
+    "1091618069": 1786904778,
+    "1091617495": 1786904778,
+    "1091617640": 1786905092,
+    "1091616865": 1786905408,
+    "1091619943": 1786905408
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4269,28 +4274,12 @@
     "czluchowska35m2warszawawynajem|3200|35.0|bemowo": 1786902563,
     "mieszkaniewapartamentowcudowynajecia|2900|38.0|pradnikczerwony": 1786902880,
     "2pokoje37m²ciesielskiego6pietrowindabalkonbez|3400|37.0|czyzyny": 1786903197,
-    "2pokojenajelonkachbliskowat|2700|36.0|bemowo": 1786903197
+    "2pokojenajelonkachbliskowat|2700|36.0|bemowo": 1786903197,
+    "nowoczesne2pokojezduzymbalkonemkrakowpodgorze|2950|42.0|podgorzeduchackie": 1786905408
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 48 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje 48 m² | Mokotów | Mokosfera | Klimatyzacja | Balkon | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48-m-mokotow-mokosfera-klimatyzacja-balkon-garaz-CID3-ID1bS2Du.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:37",
-      "ts": 1786888110,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 700,
-        "area": 48.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-16T15:37:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 49 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie dwu pokojowe do wynajęcia Stare Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwu-pokojowe-do-wynajecia-stare-bielany-CID3-ID1bS2E1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:38",
       "ts": 1786888110,
@@ -4953,13 +4942,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 800 = <b>3750 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Nowoczesne 2 pokoje z dużym balkonem – (Kraków / Podgórze-Kurdwanów), blisko park i MPK.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-z-duzym-balkonem-krakow-podgorze-kurdwanow-blisko-park-i-mpk-CID3-ID1bSjpD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:10",
+      "ts": 1786905408,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-16T20:10:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4256,
-    "sent": 1355
+    "checks": 4260,
+    "sent": 1356
   },
   "initialized": true,
-  "last_check": "2026-08-16T18:15:55",
+  "last_check": "2026-08-16T18:36:58",
   "backoff_until": 1786837882.000077
 }
