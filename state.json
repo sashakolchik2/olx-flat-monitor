@@ -3112,12 +3112,9 @@
     "1091648309": 1786913946,
     "1091652954": 1786914894,
     "1091651233": 1786915210,
-<<<<<<< Updated upstream
-    "1091655505": 1786917732
-=======
     "1091655505": 1786918168,
-    "1091658788": 1786918795
->>>>>>> Stashed changes
+    "1091658788": 1786918795,
+    "1091659067": 1786920361
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4332,32 +4329,12 @@
     "atrakcyjnemieszkaniedowynajecia|3700|49.0|bielany": 1786913630,
     "wynajemmieszkania|2300|42.0|mokotow": 1786913946,
     "nowe2pokojowemieszkanienanordicbemowo35m²metr|3950|35.0|bemowo": 1786914894,
-<<<<<<< Updated upstream
-    "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786917732
-=======
-    "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786918168
->>>>>>> Stashed changes
+    "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786918168,
+    "2oddzielnepokojemieszkanie50m²osiedlesportowe|2500|50.0|bienczyce": 1786920361
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 41.11 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Wynajem mieszkania Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-CID3-ID1bSccD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:11",
-      "ts": 1786897486,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 500,
-        "area": 41.11,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-16T18:11:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 480 = <b>3230 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«2-pokoje | Dobrego Pasterza 120 | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-dobrego-pasterza-120-bez-prowizji-CID3-ID1bSd1U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:25",
       "ts": 1786897805,
@@ -5006,11 +4983,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 10\n👤 от собственника\n«[Zjawiskowy widok na Balaton] Przytulne 2 pokoje i oddzielna kuchnia, z parkingiem – Praga - Południe, Gocław.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zjawiskowy-widok-na-balaton-przytulne-2-pokoje-i-oddzielna-kuchnia-z-parkingiem-praga-poludnie-goclaw-CID3-ID1bStsR.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:50",
-<<<<<<< Updated upstream
-      "ts": 1786917732,
-=======
       "ts": 1786918168,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -5024,21 +4997,30 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 1200 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 oddzielne pokoje | mieszkanie 50 m² | Osiedle Sportowe | Blisko Zalewu Nowohuckiego |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-mieszkanie-50-m-osiedle-sportowe-blisko-zalewu-nowohuckiego-CID3-ID1bSuoj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:26",
+      "ts": 1786920361,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1200,
+        "area": 50.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-17T00:26:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1200
+      }
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 4299,
-    "sent": 1375
+    "checks": 4298,
+    "sent": 1376
   },
   "initialized": true,
-  "last_check": "2026-08-16T22:07:37",
-=======
-    "checks": 4294,
-    "sent": 1375
-  },
-  "initialized": true,
-  "last_check": "2026-08-16T22:25:15",
->>>>>>> Stashed changes
+  "last_check": "2026-08-16T22:46:10",
   "backoff_until": 1786910772.7991946
 }
