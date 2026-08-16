@@ -2992,7 +2992,9 @@
     "1091526997": 1786883074,
     "1091531858": 1786883074,
     "1091528708": 1786883074,
-    "1091533701": 1786883391
+    "1091533701": 1786883391,
+    "1091534769": 1786884018,
+    "1091536246": 1786884336
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4137,28 +4139,12 @@
     "nowoczesne2pokojowemieszkanie42m²zablocieklim|3000|42.0|podgorze": 1786880880,
     "przytulnemieszkanie2pokojowewsrodmiesciu|3200|37.0|srodmiescie": 1786882447,
     "ladnemieszkanie2pokojoweulbanacha|2700|37.0|pradnikbialy": 1786883074,
-    "mieszkaniedowynajeciamokotowstegny|3800|41.0|mokotow": 1786883074
+    "mieszkaniedowynajeciamokotowstegny|3800|41.0|mokotow": 1786883074,
+    "2pokojeswietnalokalizacjaicena|3500|40.0|wola": 1786884018
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 41 м², 2 комнаты\n💰 2650 + czynsz 700 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 7\n👤 от собственника\n«Do wynajęcia 2 pokoje Rembielińska przy Galerii Renova»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokoje-rembielinska-przy-galerii-renova-CID3-ID1bR6mX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:00",
-      "ts": 1786820379,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 700,
-        "area": 41.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-15T20:00:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 3\n👤 от собственника\n«Dla dwóch studentów I-go roku (niepalących)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dla-dwoch-studentow-i-go-roku-niepalacych-CID3-ID1bR8HR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:02",
       "ts": 1786821011,
@@ -4821,13 +4807,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje, świetna lokalizacja i cena»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-swietna-lokalizacja-i-cena-CID3-ID1bRY3w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:25",
+      "ts": 1786884018,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 40.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-16T14:25:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4203,
-    "sent": 1305
+    "checks": 4206,
+    "sent": 1306
   },
   "initialized": true,
-  "last_check": "2026-08-16T12:29:59",
+  "last_check": "2026-08-16T12:45:44",
   "backoff_until": 1786837882.000077
 }
