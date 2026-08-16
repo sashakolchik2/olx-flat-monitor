@@ -3062,7 +3062,13 @@
     "1091597170": 1786899716,
     "1091594552": 1786899716,
     "1091602196": 1786900348,
-    "1091601348": 1786900661
+    "1091601348": 1786900661,
+    "1091603906": 1786901292,
+    "1091603814": 1786901292,
+    "1091603634": 1786901611,
+    "1091606333": 1786901611,
+    "1091605718": 1786901928,
+    "1091605657": 1786901928
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4248,79 +4254,15 @@
     "2pokojezbalkonembialolekaosstrzezonegarazmost|2500|45.0|bialoleka": 1786898759,
     "mysliwskabezprowizji2pokoje|3150|30.0|": 1786899081,
     "mieszkanie2pokojenowolipkidostepneodzaraz|3000|37.5|wola": 1786899398,
-    "dowynajeciamieszkanienazamknietymosiedluprzyu|3200|43.0|bialoleka": 1786899716
+    "dowynajeciamieszkanienazamknietymosiedluprzyu|3200|43.0|bialoleka": 1786899716,
+    "dowynajecianowoczesnemieszkanie38mkwnaulstanc|3300|38.0|bronowice": 1786901292,
+    "dwupokojowemieszkaniezbalkonemigarazemnapradz|3000|42.0|pragapoludnie": 1786901292,
+    "mieszkaniedowynajecia|2900|38.0|grzegorzki": 1786901611,
+    "wynajmewarszawakabatyjezewskiego5mieszkanie2p|3400|42.0|ursynow": 1786901928
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 53.29 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4320 zł/мес\n⚡ Свет/медиа: ≈ 320 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 6200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Odnowione 2 pokoje 53 m² | Metro Bemowo i Ulrychów | Balkon | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/odnowione-2-pokoje-53-m-metro-bemowo-i-ulrychow-balkon-bezposrednio-CID3-ID1bRYVG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
-      "ts": 1786884964,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 900,
-        "area": 53.29,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T14:41:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Pychowicka 17 | 2 pokoje | 43 m² | duży balkon | garaż | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pychowicka-17-2-pokoje-43-m-duzy-balkon-garaz-bez-prowizji-CID3-ID1bRZvP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
-      "ts": 1786885592,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 600,
-        "area": 43.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-16T14:49:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 400 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 5\n👤 от собственника\n«Nowe, dwupokojowe mieszkanie - Kraków - os. Piastów 63H - WŁAŚCICIEL»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-dwupokojowe-mieszkanie-krakow-os-piastow-63h-wlasciciel-CID3-ID1bRZVn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:56",
-      "ts": 1786885908,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 400,
-        "area": 34.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-16T14:56:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 34 м², 2 комнаты\n💰 2400 + czynsz 600 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe Żabiniec Casa Feliz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-zabiniec-casa-feliz-CID3-ID1bS0hJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:00",
-      "ts": 1786885908,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 600,
-        "area": 34.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-16T15:00:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 48 м², 2 комнаты\n💰 2300 + czynsz 1200 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem mieszkania 2 pokoje + kuchnia 48m2 Ruczaj- Bobrzyńskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokoje-kuchnia-48m2-ruczaj-bobrzynskiego-CID3-ID1bS0Aw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:02",
       "ts": 1786886224,
@@ -4932,13 +4874,81 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Dwupokojowe mieszkanie z balkonem i garażem na Pradze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-balkonem-i-garazem-na-pradze-CID3-ID1bSg18.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:13",
+      "ts": 1786901292,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-16T19:13:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 620 = <b>3920 zł/мес</b>\n   ≈ с медиа около 4120 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4100 zł\n🏢 Этаж: 7\n👤 от собственника\n«Do wynajęcia nowoczesne mieszkanie 38 mkw na ul. Stańczyka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-nowoczesne-mieszkanie-38-mkw-na-ul-stanczyka-CID3-ID1bSg2C.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:14",
+      "ts": 1786901292,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 620,
+        "area": 38.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-16T19:14:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": 565
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 450 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n👤 от собственника\n«mieszkanie do wynajecia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bSfYe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:12",
+      "ts": 1786901611,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 450,
+        "area": 38.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-16T19:12:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 42 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 17 августа\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę Warszawa Kabaty Jeżewskiego 5 mieszkanie 2 pokojowe 40 m2 w pełni urządzone i wyposażone AGD (pralka, lodówka, zmywarka) i RTV ciche bezpo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-warszawa-kabaty-jezewskiego-5-mieszkanie-2-pokojowe-40-m2-w-pelni-urzadzone-i-wyposazone-agd-pralka-lodowka-zmywarka-i-rtv-ciche-bezpo-CID3-ID1bSguR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:21",
+      "ts": 1786901928,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-16T19:21:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4245,
-    "sent": 1346
+    "checks": 4249,
+    "sent": 1350
   },
   "initialized": true,
-  "last_check": "2026-08-16T17:17:48",
+  "last_check": "2026-08-16T17:38:57",
   "backoff_until": 1786837882.000077
 }
