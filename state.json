@@ -2994,7 +2994,9 @@
     "1091528708": 1786883074,
     "1091533701": 1786883391,
     "1091534769": 1786884018,
-    "1091536246": 1786884336
+    "1091536246": 1786884336,
+    "1091538190": 1786884964,
+    "1091540431": 1786885592
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4140,45 +4142,13 @@
     "przytulnemieszkanie2pokojowewsrodmiesciu|3200|37.0|srodmiescie": 1786882447,
     "ladnemieszkanie2pokojoweulbanacha|2700|37.0|pradnikbialy": 1786883074,
     "mieszkaniedowynajeciamokotowstegny|3800|41.0|mokotow": 1786883074,
-    "2pokojeswietnalokalizacjaicena|3500|40.0|wola": 1786884018
+    "2pokojeswietnalokalizacjaicena|3500|40.0|wola": 1786884018,
+    "odnowione2pokoje53m²metrobemowoiulrychowbalko|3100|53.29|bemowo": 1786884964,
+    "pychowicka172pokoje43m²duzybalkongarazbezprow|3100|43.0|debniki": 1786885592
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 3\n👤 от собственника\n«Dla dwóch studentów I-go roku (niepalących)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dla-dwoch-studentow-i-go-roku-niepalacych-CID3-ID1bR8HR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:02",
-      "ts": 1786821011,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 38.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-15T21:02:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 9\n👤 от собственника\n«Wynajmę dwupojowe mieszkanie 36 m Wierzbno Mokotów blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwupojowe-mieszkanie-36-m-wierzbno-mokotow-blisko-metra-CID3-ID1bRcgY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:38",
-      "ts": 1786823530,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-15T21:38:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 6\n🏢 агентство\n«Po remoncie, dla 3 osób, metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/po-remoncie-dla-3-osob-metro-CID3-ID1bRcyI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:42",
       "ts": 1786823846,
@@ -4824,13 +4794,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 53.29 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4320 zł/мес\n⚡ Свет/медиа: ≈ 320 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: 75 zł/мес\n🔐 Kaucja (залог): 6200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Odnowione 2 pokoje 53 m² | Metro Bemowo i Ulrychów | Balkon | Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/odnowione-2-pokoje-53-m-metro-bemowo-i-ulrychow-balkon-bezposrednio-CID3-ID1bRYVG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
+      "ts": 1786884964,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 900,
+        "area": 53.29,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-16T14:41:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Pychowicka 17 | 2 pokoje | 43 m² | duży balkon | garaż | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pychowicka-17-2-pokoje-43-m-duzy-balkon-garaz-bez-prowizji-CID3-ID1bRZvP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
+      "ts": 1786885592,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 600,
+        "area": 43.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-16T14:49:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 4206,
-    "sent": 1306
+    "checks": 4210,
+    "sent": 1308
   },
   "initialized": true,
-  "last_check": "2026-08-16T12:45:44",
+  "last_check": "2026-08-16T13:06:41",
   "backoff_until": 1786837882.000077
 }
