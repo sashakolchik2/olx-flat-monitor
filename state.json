@@ -3114,7 +3114,8 @@
     "1091651233": 1786915210,
     "1091655505": 1786918168,
     "1091658788": 1786918795,
-    "1091659067": 1786920361
+    "1091659067": 1786920361,
+    "1091678650": 1786945116
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4330,28 +4331,12 @@
     "wynajemmieszkania|2300|42.0|mokotow": 1786913946,
     "nowe2pokojowemieszkanienanordicbemowo35m²metr|3950|35.0|bemowo": 1786914894,
     "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786918168,
-    "2oddzielnepokojemieszkanie50m²osiedlesportowe|2500|50.0|bienczyce": 1786920361
+    "2oddzielnepokojemieszkanie50m²osiedlesportowe|2500|50.0|bienczyce": 1786920361,
+    "nowe2pokojeklimatyzacja3800zltotalpierwszynaj|3100|38.0|pragapoludnie": 1786945116
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 480 = <b>3230 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«2-pokoje | Dobrego Pasterza 120 | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-dobrego-pasterza-120-bez-prowizji-CID3-ID1bSd1U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:25",
-      "ts": 1786897805,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2750,
-        "rent": 480,
-        "area": 40.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-16T18:25:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 480
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 320 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe w spokojnej i zielonej okolicy Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-spokojnej-i-zielonej-okolicy-krakowa-CID3-ID1bScYw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:24",
       "ts": 1786898122,
@@ -5014,13 +4999,30 @@
       "an": {
         "czynsz_desc": 1200
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Nowe 2 pokoje | Klimatyzacja | 3800 zł TOTAL | Pierwszy najem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-klimatyzacja-3800-zl-total-pierwszy-najem-CID3-ID1bSzua.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:28",
+      "ts": 1786945116,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 600,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-17T07:28:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4371,
-    "sent": 1376
+    "checks": 4375,
+    "sent": 1377
   },
   "initialized": true,
-  "last_check": "2026-08-17T05:17:51",
+  "last_check": "2026-08-17T05:38:45",
   "backoff_until": 1786922866.1780386
 }
