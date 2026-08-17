@@ -3168,12 +3168,6 @@
     "1091721487": 1786959279,
     "1091720643": 1786959594,
     "1091721763": 1786959594,
-<<<<<<< Updated upstream
-    "1091723951": 1786959909,
-    "1091721998": 1786959909,
-    "1091721849": 1786959909,
-    "1091718624": 1786959909
-=======
     "1091723951": 1786960189,
     "1091721998": 1786960189,
     "1091721849": 1786960189,
@@ -3188,8 +3182,11 @@
     "1091727350": 1786960826,
     "1091726961": 1786960826,
     "1091728599": 1786961140,
-    "1091727111": 1786961140
->>>>>>> Stashed changes
+    "1091727111": 1786961140,
+    "1091727669": 1786961458,
+    "1091727285": 1786961458,
+    "1091725085": 1786961771,
+    "1091733279": 1786962401
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4440,11 +4437,6 @@
     "2pokmieszkaniezklimatyzacjaulobrzeznamokotow|3000|35.0|mokotow": 1786958960,
     "2pokojezloggianasadybiekameralnieciszaswiatlo|3000|38.0|mokotow": 1786959279,
     "2pokojemokotowstegnyzielen|3000|37.0|mokotow": 1786959594,
-<<<<<<< Updated upstream
-    "dwupokojoweodwlascicielaoddzielnakuchniaorlin|2700|42.0|czyzyny": 1786959909,
-    "klimatycznedwupokojowemieszkanienamokotowie|2950|36.0|mokotow": 1786959909,
-    "wynajmemieszkanie2pokojoweostrzyckawarszawapr|2400|38.0|pragapoludnie": 1786959909
-=======
     "dwupokojoweodwlascicielaoddzielnakuchniaorlin|2700|42.0|czyzyny": 1786960189,
     "klimatycznedwupokojowemieszkanienamokotowie|2950|36.0|mokotow": 1786960189,
     "wynajmemieszkanie2pokojoweostrzyckawarszawapr|2400|38.0|pragapoludnie": 1786960189,
@@ -4452,117 +4444,12 @@
     "ulwschoduslonca2pokojewnowymbudownictwiemozli|2800|36.0|wlochy": 1786960508,
     "slonecznerozkladowemieszkaniewswietnejlokaliz|2900|49.0|wola": 1786960508,
     "mieszkanie2pokojowezgarazemwcenie|2200|53.0|bialoleka": 1786960826,
-    "przestronnemieszkaniewdoskonalejlokalizacjizg|3000|66.98|mokotow": 1786961140
->>>>>>> Stashed changes
+    "przestronnemieszkaniewdoskonalejlokalizacjizg|3000|66.98|mokotow": 1786961140,
+    "mieszkanie394m²youngcityszeligowskametrochrza|3100|39.4|bemowo": 1786962401
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 3950 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«Nowe 2-pokojowe mieszkanie na Nordic Bemowo | 35 m² | metro | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-na-nordic-bemowo-35-m-metro-garaz-CID3-ID1bSsNI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:11",
-      "ts": 1786914894,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3950,
-        "rent": null,
-        "area": 35.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T23:11:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 10\n👤 от собственника\n«[Zjawiskowy widok na Balaton] Przytulne 2 pokoje i oddzielna kuchnia, z parkingiem – Praga - Południe, Gocław.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zjawiskowy-widok-na-balaton-przytulne-2-pokoje-i-oddzielna-kuchnia-z-parkingiem-praga-poludnie-goclaw-CID3-ID1bStsR.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:50",
-      "ts": 1786918168,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 45.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-16T23:50:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 1200 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 oddzielne pokoje | mieszkanie 50 m² | Osiedle Sportowe | Blisko Zalewu Nowohuckiego |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-mieszkanie-50-m-osiedle-sportowe-blisko-zalewu-nowohuckiego-CID3-ID1bSuoj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:26",
-      "ts": 1786920361,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1200,
-        "area": 50.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-17T00:26:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1200
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3100 + czynsz 600 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Nowe 2 pokoje | Klimatyzacja | 3800 zł TOTAL | Pierwszy najem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-klimatyzacja-3800-zl-total-pierwszy-najem-CID3-ID1bSzua.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:28",
-      "ts": 1786945116,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 600,
-        "area": 38.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-17T07:28:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 44 м², 2 комнаты\n💰 3300 + czynsz 635 = <b>3935 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Podgórze ul. Rydlówka Rondo Mateczny - Oszczędż 3000 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-podgorze-ul-rydlowka-rondo-mateczny-oszczedz-3000-zl-CID3-ID1bSAjF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
-      "ts": 1786947624,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 635,
-        "area": 44.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-17T08:10:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-=======
->>>>>>> Stashed changes
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 2500 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe do wynajęcia + oddzielna kuchnia + balkon | os. Oświecenia 55 | Mistrzejowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-oddzielna-kuchnia-balkon-os-oswiecenia-55-mistrzejowice-CID3-ID1bSAyH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:17",
-      "ts": 1786947940,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": null,
-        "area": 39.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-17T08:17:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 550 zł + свет по счётчику\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje | Mieszkaj w Mieście | dostępne od 1.10.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-mieszkaj-w-miescie-dostepne-od-1-10-CID3-ID1bSAPd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:29",
       "ts": 1786949195,
@@ -5092,11 +4979,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 2400 + czynsz 870 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 2400 zł/мес\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Wynajmę mieszkanie 2 pokojowe, Ostrzycka, Warszawa Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-ostrzycka-warszawa-praga-poludnie-CID3-ID1bSJSU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
-<<<<<<< Updated upstream
-      "ts": 1786959909,
-=======
       "ts": 1786960189,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -5113,11 +4996,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2950 + czynsz 840 = <b>3790 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Klimatyczne, dwupokojowe mieszkanie na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyczne-dwupokojowe-mieszkanie-na-mokotowie-CID3-ID1bSKIW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:30",
-<<<<<<< Updated upstream
-      "ts": 1786959909,
-=======
       "ts": 1786960189,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -5134,11 +5013,7 @@
     },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Dwupokojowe od właściciela, oddzielna kuchnia, Orlińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-od-wlasciciela-oddzielna-kuchnia-orlinskiego-CID3-ID1bSKLk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:31",
-<<<<<<< Updated upstream
-      "ts": 1786959909,
-=======
       "ts": 1786960189,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -5152,16 +5027,6 @@
       "an": {
         "czynsz_desc": 600
       }
-<<<<<<< Updated upstream
-    }
-  ],
-  "stats": {
-    "checks": 4422,
-    "sent": 1413
-  },
-  "initialized": true,
-  "last_check": "2026-08-17T09:45:22",
-=======
     },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 49 м², 2 комнаты\n💰 2900 + czynsz 929 = <b>3829 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«Słoneczne, rozkładowe mieszkanie w świetnej lokalizacji [czytaj opis]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-rozkladowe-mieszkanie-w-swietnej-lokalizacji-czytaj-opis-CID3-ID1bSKH3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:29",
@@ -5247,14 +5112,30 @@
       "an": {
         "czynsz_desc": 124
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 39.4 м², 2 комнаты\n💰 3100 + czynsz 850 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 39,4 m² | Young City | Szeligowska | Metro Chrzanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-39-4-m-young-city-szeligowska-metro-chrzanow-CID3-ID1bSNHh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
+      "ts": 1786962401,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 850,
+        "area": 39.4,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-17T12:14:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 4425,
-    "sent": 1418
+    "checks": 4429,
+    "sent": 1419
   },
   "initialized": true,
-  "last_check": "2026-08-17T10:05:50",
->>>>>>> Stashed changes
+  "last_check": "2026-08-17T10:26:50",
   "backoff_until": 1786922866.1780386
 }
