@@ -3361,7 +3361,9 @@
     "1091945458": 1787004104,
     "1091946706": 1787004421,
     "1091950045": 1787005992,
-    "1091950125": 1787006308
+    "1091950125": 1787006308,
+    "1091953489": 1787008203,
+    "1091952555": 1787008203
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4725,45 +4727,13 @@
     "kompaktowe2pokojenastarymwilanowie42m2zwidoki|3000|42.0|wilanow": 1787003154,
     "2pokojelazienkazoknemdobrakomunikacja|3300|33.96|pragapolnoc": 1787004104,
     "oseldorado2pok43m2|2300|43.28|czyzyny": 1787004421,
-    "mieszkaniedwupokojowedowynajecia|3150|37.5|bielany": 1787006308
+    "mieszkaniedwupokojowedowynajecia|3150|37.5|bielany": 1787006308,
+    "mieszkanie2pokojowedowynajeciakrakowkurdwanow|2500|53.0|podgorzeduchackie": 1787008203,
+    "nowe2pokojebonaklima405m²bonarkabezposrednioo|3300|40.5|podgorzeduchackie": 1787008203
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 830 = <b>3430 zł/мес</b>\n   ≈ с медиа около 3530 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«2 osobne pokoje z balkonem ,osobna kuchnia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-z-balkonem-osobna-kuchnia-CID3-ID1bTfOc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:28",
-      "ts": 1786981518,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 830,
-        "area": 52.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-17T17:28:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 37 м², 2 комнаты\n💰 2750 + czynsz 465 = <b>3215 zł/мес</b>\n   ≈ с медиа около 3285 zł/мес\n⚡ Свет/медиа: ≈ 70 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«WŁAŚCICIEL: Przestronne, jasne 2-pokojowe mieszkanie z balkonem 37m2 / Lipińskiego (RUCZAJ, blisko ICE i Wadowickiej)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-przestronne-jasne-2-pokojowe-mieszkanie-z-balkonem-37m2-lipinskiego-ruczaj-blisko-ice-i-wadowickiej-CID3-ID1bTgao.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:34",
-      "ts": 1786981518,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2750,
-        "rent": 465,
-        "area": 37.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-17T17:34:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": 465
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie na Ochocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-ochocie-CID3-ID1bTgQb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:45",
       "ts": 1786981834,
@@ -5409,13 +5379,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40.5 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«NOWE 2 POKOJE | Bona | KLIMA | 40,5 m² | Bonarka | BEZPOŚREDNIO | od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-bona-klima-40-5-m-bonarka-bezposrednio-od-zaraz-CID3-ID1bTIJZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:00",
+      "ts": 1787008203,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 500,
+        "area": 40.5,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-18T01:00:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 53 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe do wynajęcia, Kraków, Kurdwanów, ul. Wysłouchów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-krakow-kurdwanow-ul-wyslouchow-CID3-ID1bTIZ3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:03",
+      "ts": 1787008203,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 1000,
+        "area": 53.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-18T01:03:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 4562,
-    "sent": 1524
+    "checks": 4566,
+    "sent": 1526
   },
   "initialized": true,
-  "last_check": "2026-08-17T22:49:09",
+  "last_check": "2026-08-17T23:10:15",
   "backoff_until": 1787005959.3967042
 }
