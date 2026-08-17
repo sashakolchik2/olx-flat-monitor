@@ -3197,7 +3197,12 @@
     "1091739627": 1786963353,
     "1091739991": 1786963353,
     "1091741045": 1786963669,
-    "1091741440": 1786963669
+    "1091741440": 1786963669,
+    "1091742044": 1786963985,
+    "1091741470": 1786963985,
+    "1091743246": 1786963985,
+    "1091744711": 1786964300,
+    "1091746020": 1786964613
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4464,45 +4469,13 @@
     "2pokojebliskowatmiejscewgarazugratis|2750|49.1|bemowo": 1786963033,
     "wierzynskiegoi2pokojeimydlniki|2700|41.25|bronowice": 1786963353,
     "dwupokojowemieszkanienawynajemulgwiazdzista27|2700|34.0|zoliborz": 1786963353,
-    "dwupokojowemieszkanienamokotowie|2900|43.0|mokotow": 1786963669
+    "dwupokojowemieszkanienamokotowie|2900|43.0|mokotow": 1786963669,
+    "ulpachonskiego2pokojeklimatyzacjaogrzewaniepo|2750|50.0|pradnikbialy": 1786963985,
+    "metrocentrumulchmielna35wlasciciel|3300|38.0|srodmiescie": 1786964613
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«UA/PL Od 1.09 Min 6 mies. 2 pok mieszkanie 42m + taras klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ua-pl-od-1-09-min-6-mies-2-pok-mieszkanie-42m-taras-klima-CID3-ID1bQP7L.html\">Открыть на OLX</a>  ·  добавлено 15.08 15:04",
-      "ts": 1786952969,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 42.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-15T15:04:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokojowe 45m2 Poznańska Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-45m2-poznanska-krakow-CID3-ID1bSmMp.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:03",
-      "ts": 1786952969,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 45.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-16T21:03:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 540 = <b>3340 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Ruczaj, ul. Bunscha 10, 2 pokoje z balkonem, miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ruczaj-ul-bunscha-10-2-pokoje-z-balkonem-miejsce-postojowe-CID3-ID1bSDNU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:38",
       "ts": 1786953285,
@@ -5148,13 +5121,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 50 м², 2 комнаты\n💰 2750 + czynsz 350 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 350 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«Ul. Pachońskiego - 2 pokoje, klimatyzacja, ogrzewanie podłogowe, tramwaj,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-pachonskiego-2-pokoje-klimatyzacja-ogrzewanie-podlogowe-tramwaj-CID3-ID1bSPPo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:40",
+      "ts": 1786963985,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 350,
+        "area": 50.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-17T12:40:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 350
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🏢 Этаж: 6\n👤 от собственника\n«Metro CENTRUM ul. Chmielna 35 WŁAŚCICIEL»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-centrum-ul-chmielna-35-wlasciciel-CID3-ID1bSR0M.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
+      "ts": 1786964613,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-17T12:57:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 4433,
-    "sent": 1427
+    "checks": 4437,
+    "sent": 1429
   },
   "initialized": true,
-  "last_check": "2026-08-17T10:47:58",
+  "last_check": "2026-08-17T11:08:55",
   "backoff_until": 1786922866.1780386
 }
