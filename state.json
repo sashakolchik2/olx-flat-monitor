@@ -3316,7 +3316,12 @@
     "1091883435": 1786988729,
     "1091883827": 1786989044,
     "1091841860": 1786989358,
-    "1091889142": 1786990296
+    "1091889142": 1786990296,
+    "1091900435": 1786992176,
+    "1091900735": 1786992176,
+    "1091903490": 1786992802,
+    "1091902780": 1786992802,
+    "1091905068": 1786993114
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4655,28 +4660,12 @@
     "2pokojeporemonciestarepodgorzebalkon40m²mpeck|3400|40.0|podgorzeduchackie": 1786987475,
     "wynajmemieszkanie2pokgarazportpraskiod1wrzesn|3200|35.0|pragapolnoc": 1786988729,
     "wynajmemieszkanie37m2warszawapragapoludnie|3100|37.0|pragapoludnie": 1786989044,
-    "wynajme2pokojowemieszkaniewarszawapragapoludn|2800|37.5|pragapoludnie": 1786990296
+    "wynajme2pokojowemieszkaniewarszawapragapoludn|2800|37.5|pragapoludnie": 1786990296,
+    "mieszkaniedowynajeciakrakowosbonarka|3300|46.71|lagiewnikiborekfalec": 1786992176
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3090 + czynsz 500 = <b>3590 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«MEDIA W CENIE! | Bez Prowizji | Zwierzęta mile widziane | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-bez-prowizji-zwierzeta-mile-widziane-zablocie-CID3-ID1bT69s.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:43",
-      "ts": 1786974699,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3090,
-        "rent": 500,
-        "area": 32.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-17T15:43:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Śródmieściu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-srodmiesciu-CID3-ID1bT6ka.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:45",
       "ts": 1786975016,
@@ -5339,13 +5328,30 @@
       "an": {
         "czynsz_desc": 819
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 46.71 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4600 zł/мес\n⚡ Свет/медиа: ≈ 600 zł + свет по счётчику\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do wynajęcia, Kraków os. Bonarka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-os-bonarka-CID3-ID1bTwbl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:31",
+      "ts": 1786992176,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 46.71,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-17T20:31:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4517,
-    "sent": 1499
+    "checks": 4521,
+    "sent": 1500
   },
   "initialized": true,
-  "last_check": "2026-08-17T18:37:49",
+  "last_check": "2026-08-17T18:58:40",
   "backoff_until": 1786979740.0763204
 }
