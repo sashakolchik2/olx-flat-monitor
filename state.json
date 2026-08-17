@@ -3282,7 +3282,9 @@
     "1091828646": 1786979747,
     "1091830417": 1786980065,
     "1091832566": 1786980065,
-    "1091836540": 1786980696
+    "1091836540": 1786980696,
+    "1091841673": 1786981011,
+    "1091840654": 1786981011
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4605,28 +4607,12 @@
     "2pokoje435m2przymetrowilanowskauczelnilazarsk|3100|43.5|mokotow": 1786979747,
     "mieskaniedwupokojowewapartamentowcunaochocie|2800|23.0|ochota": 1786979747,
     "wynajmemieszkanieulmysliwska55krakow|3300|46.0|podgorze": 1786980065,
-    "ochotagrojeckastylowe2pokojezosobnakuchniabez|3500|47.0|ochota": 1786980065
+    "ochotagrojeckastylowe2pokojezosobnakuchniabez|3500|47.0|ochota": 1786980065,
+    "krakowkrowodrzauljuliuszalea|2900|38.0|krowodrza": 1786981011
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 44.32 м², 2 комнаты\n💰 3200 + czynsz 510 = <b>3710 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Na wynajem BEZPOŚREDNIO w pełni urządzone, gotowe do zamieszkania, 2-pokojowe mieszkanie o powierzchni 44,32m2. Targówek - Zacisze, Uznamska.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-bezposrednio-w-pelni-urzadzone-gotowe-do-zamieszkania-2-pokojowe-mieszkanie-o-powierzchni-44-32m2-targowek-zacisze-uznamska-CID3-ID1bSYkA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:16",
-      "ts": 1786969657,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 510,
-        "area": 44.32,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-17T14:16:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 510
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«36m, od właściciela, bez prowizji, PET FRIENDLY| ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/36m-od-wlasciciela-bez-prowizji-pet-friendly-eng-CID3-ID1bSYtt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:18",
       "ts": 1786969657,
@@ -5289,13 +5275,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 420 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Kraków - Krowodrza - ul. Juliusza Lea»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-krowodrza-ul-juliusza-lea-CID3-ID1bTfTz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:29",
+      "ts": 1786981011,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 420,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-17T17:29:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 420
+      }
     }
   ],
   "stats": {
-    "checks": 4486,
-    "sent": 1483
+    "checks": 4487,
+    "sent": 1484
   },
   "initialized": true,
-  "last_check": "2026-08-17T15:31:44",
+  "last_check": "2026-08-17T15:37:01",
   "backoff_until": 1786979740.0763204
 }
