@@ -5409,10 +5409,10 @@
     }
   ],
   "stats": {
-    "checks": 4557,
+    "checks": 4558,
     "sent": 1523
   },
   "initialized": true,
-  "last_check": "2026-08-17T22:07:10",
-  "backoff_until": 1786979740.0763204
+  "last_check": "2026-08-17T22:12:31",
+  "backoff_until": 1787005959.3967042
 }
