@@ -3167,7 +3167,11 @@
     "1091718862": 1786958960,
     "1091721487": 1786959279,
     "1091720643": 1786959594,
-    "1091721763": 1786959594
+    "1091721763": 1786959594,
+    "1091723951": 1786959909,
+    "1091721998": 1786959909,
+    "1091721849": 1786959909,
+    "1091718624": 1786959909
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4417,62 +4421,14 @@
     "przytulne2pokojowemieszkanienawoliduchackiejb|3600|49.0|lagiewnikiborekfalec": 1786958960,
     "2pokmieszkaniezklimatyzacjaulobrzeznamokotow|3000|35.0|mokotow": 1786958960,
     "2pokojezloggianasadybiekameralnieciszaswiatlo|3000|38.0|mokotow": 1786959279,
-    "2pokojemokotowstegnyzielen|3000|37.0|mokotow": 1786959594
+    "2pokojemokotowstegnyzielen|3000|37.0|mokotow": 1786959594,
+    "dwupokojoweodwlascicielaoddzielnakuchniaorlin|2700|42.0|czyzyny": 1786959909,
+    "klimatycznedwupokojowemieszkanienamokotowie|2950|36.0|mokotow": 1786959909,
+    "wynajmemieszkanie2pokojoweostrzyckawarszawapr|2400|38.0|pragapoludnie": 1786959909
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie na Jelonkach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-na-jelonkach-CID3-ID1bSqEG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:11",
-      "ts": 1786912051,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T22:11:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 49 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 3\n👤 от собственника\n«Atrakcyjne mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/atrakcyjne-mieszkanie-do-wynajecia-CID3-ID1bSrtR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:33",
-      "ts": 1786913630,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3700,
-        "rent": null,
-        "area": 49.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-16T22:33:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 2300 + czynsz 850 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bSrAN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:38",
-      "ts": 1786913946,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 850,
-        "area": 42.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-16T22:38:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 3950 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«Nowe 2-pokojowe mieszkanie na Nordic Bemowo | 35 m² | metro | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-na-nordic-bemowo-35-m-metro-garaz-CID3-ID1bSsNI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:11",
       "ts": 1786914894,
@@ -5101,13 +5057,64 @@
       "an": {
         "czynsz_desc": 770
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 2400 + czynsz 870 = <b>3270 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 2400 zł/мес\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Wynajmę mieszkanie 2 pokojowe, Ostrzycka, Warszawa Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-ostrzycka-warszawa-praga-poludnie-CID3-ID1bSJSU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
+      "ts": 1786959909,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2400,
+        "rent": 870,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-17T11:17:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2950 + czynsz 840 = <b>3790 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Klimatyczne, dwupokojowe mieszkanie na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyczne-dwupokojowe-mieszkanie-na-mokotowie-CID3-ID1bSKIW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:30",
+      "ts": 1786959909,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 840,
+        "area": 36.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T11:30:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 840
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Dwupokojowe od właściciela, oddzielna kuchnia, Orlińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-od-wlasciciela-oddzielna-kuchnia-orlinskiego-CID3-ID1bSKLk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:31",
+      "ts": 1786959909,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-17T11:31:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 4421,
-    "sent": 1410
+    "checks": 4422,
+    "sent": 1413
   },
   "initialized": true,
-  "last_check": "2026-08-17T09:40:02",
+  "last_check": "2026-08-17T09:45:22",
   "backoff_until": 1786922866.1780386
 }
