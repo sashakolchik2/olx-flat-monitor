@@ -3153,7 +3153,14 @@
     "1091708356": 1786956441,
     "1091707128": 1786956441,
     "1091709087": 1786956756,
-    "1091710290": 1786957072
+    "1091710290": 1786957072,
+    "1091710648": 1786957389,
+    "1091710310": 1786957389,
+    "1091709037": 1786957389,
+    "1091715580": 1786958330,
+    "1091716664": 1786958330,
+    "1091715939": 1786958330,
+    "1091713771": 1786958330
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4395,62 +4402,14 @@
     "komfortowe2pokojowemieszkanienawynajemulstaro|3200|44.0|bialoleka": 1786955177,
     "mieszkaniewstylulosangelesospiastowkrakow|2600|37.03|mistrzejowice": 1786955497,
     "ursuswynajmemieszkanie36m2przyparkuacherapore|2900|36.0|ursus": 1786956125,
-    "pieknenowe2pokoje45m²pierwszynajemgarazkomork|2300|45.0|wzgorzakrzeslawickie": 1786956441
+    "pieknenowe2pokoje45m²pierwszynajemgarazkomork|2300|45.0|wzgorzakrzeslawickie": 1786956441,
+    "najemmieszkaniasalwator|3000|53.0|krowodrza": 1786957389,
+    "wynajmemieszkanie43m2parkingsypialniasalonzan|3200|43.0|krowodrza": 1786958330,
+    "mieszkanie2pokojemokotowobokgaleriiwestfieldb|3500|36.0|mokotow": 1786958330
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-goclaw-CID3-ID1bSo2y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
-      "ts": 1786908889,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 900,
-        "area": 44.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-16T21:23:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 835 = <b>3735 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje przy stacji metra Politechnika top lokalizacja BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-stacji-metra-politechnika-top-lokalizacja-bez-prowizji-CID3-ID1bSope.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:31",
-      "ts": 1786909523,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 835,
-        "area": 30.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-16T21:31:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 835
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 47 м², 2 комнаты\n💰 2650 + czynsz 1350 = <b>4000 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem na Białołęce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-na-bialolece-CID3-ID1bSoYE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:43",
-      "ts": 1786909840,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 1350,
-        "area": 47.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-16T21:43:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3340 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Od września wynajmę mieszkanie 37 m2 przy stacji metra Młynów (ul. Żytnia)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-wrzesnia-wynajme-mieszkanie-37-m2-przy-stacji-metra-mlynow-ul-zytnia-CID3-ID1bSlJa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:51",
       "ts": 1786910782,
@@ -5079,13 +5038,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 948 = <b>3948 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«najem mieszkania Salwator»\n🔗 <a href=\"https://www.olx.pl/d/oferta/najem-mieszkania-salwator-CID3-ID1bSHOg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:50",
+      "ts": 1786957389,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 948,
+        "area": 53.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-17T10:50:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 43 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 58 zł/мес\n👤 от собственника\n«Wynajmę mieszkanie 43 m2 + parking (sypialnia + salon z aneksem)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-43-m2-parking-sypialnia-salon-z-aneksem-CID3-ID1bSJ5O.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:05",
+      "ts": 1786958330,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 43.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-17T11:05:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3500 + czynsz 486 = <b>3986 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2 pokoje Mokotów obok Galerii Westfield, bezpośrednio, bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-mokotow-obok-galerii-westfield-bezposrednio-bez-prowizji-CID3-ID1bSJbB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
+      "ts": 1786958330,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 486,
+        "area": 36.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T11:07:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 486
+      }
     }
   ],
   "stats": {
-    "checks": 4413,
-    "sent": 1402
+    "checks": 4417,
+    "sent": 1405
   },
   "initialized": true,
-  "last_check": "2026-08-17T08:58:01",
+  "last_check": "2026-08-17T09:19:01",
   "backoff_until": 1786922866.1780386
 }
