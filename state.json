@@ -5017,10 +5017,18 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 4356,
     "sent": 1376
   },
   "initialized": true,
   "last_check": "2026-08-17T03:54:21",
+=======
+    "checks": 4359,
+    "sent": 1376
+  },
+  "initialized": true,
+  "last_check": "2026-08-17T04:15:19",
+>>>>>>> Stashed changes
   "backoff_until": 1786922866.1780386
 }
