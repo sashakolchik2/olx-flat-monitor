@@ -3310,7 +3310,12 @@
     "1091869677": 1786987156,
     "1091871566": 1786987156,
     "1091876188": 1786987475,
-    "1091874032": 1786987475
+    "1091874032": 1786987475,
+    "1091883700": 1786988729,
+    "1091785858": 1786988729,
+    "1091883435": 1786988729,
+    "1091883827": 1786989044,
+    "1091841860": 1786989358
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4646,45 +4651,13 @@
     "wynajemmieszkania2pokojezlotegowieku|2600|36.0|mistrzejowice": 1786987156,
     "kazimierzawielkiegomieszkaniewynajme|3000|48.0|krowodrza": 1786987156,
     "mieszkanie2pokojowe43m2kurdwanowulhalszki|2700|43.0|podgorzeduchackie": 1786987475,
-    "2pokojeporemonciestarepodgorzebalkon40m²mpeck|3400|40.0|podgorzeduchackie": 1786987475
+    "2pokojeporemonciestarepodgorzebalkon40m²mpeck|3400|40.0|podgorzeduchackie": 1786987475,
+    "wynajmemieszkanie2pokgarazportpraskiod1wrzesn|3200|35.0|pragapolnoc": 1786988729,
+    "wynajmemieszkanie37m2warszawapragapoludnie|3100|37.0|pragapoludnie": 1786989044
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 25 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Nowe 2 pokoje Bemowo od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-bemowo-od-zaraz-CID3-ID1bT4nY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:24",
-      "ts": 1786973756,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 25.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-17T15:24:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 38.14 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2026 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie 2 pok. 38 m² – Kordiana, komunikacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-38m-kordiana-komunikacja-CID3-ID1bT4JL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:29",
-      "ts": 1786973756,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 38.14,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-17T15:29:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 447 = <b>3347 zł/мес</b>\n   ≈ с медиа около 3437 zł/мес\n⚡ Свет/медиа: ≈ 90 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 76 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«ul. Konarskiego - dwupoziomowe - klimatyzacja, c.o., bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-konarskiego-dwupoziomowe-klimatyzacja-c-o-bez-prowizji-CID3-ID1bT5Qe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
       "ts": 1786974384,
@@ -5330,13 +5303,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2pok. + garaż Port Praski od 1 września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2pok-garaz-port-praski-od-1-wrzesnia-CID3-ID1bTqPq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:33",
+      "ts": 1786988729,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 35.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-17T19:33:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37 м², 2 комнаты\n💰 3100 + czynsz 800 = <b>3900 zł/мес</b>\n🚗 Паркинг: 800 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 37m2 Warszawa Praga-Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-37m2-warszawa-praga-poludnie-CID3-ID1bTqRt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:33",
+      "ts": 1786989044,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 800,
+        "area": 37.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-17T19:33:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4506,
-    "sent": 1496
+    "checks": 4509,
+    "sent": 1498
   },
   "initialized": true,
-  "last_check": "2026-08-17T17:40:23",
+  "last_check": "2026-08-17T17:56:05",
   "backoff_until": 1786979740.0763204
 }
