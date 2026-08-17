@@ -3345,7 +3345,12 @@
     "1091925995": 1786997507,
     "1091925754": 1786997507,
     "1091928975": 1786997823,
-    "1091931133": 1786998138
+    "1091931133": 1786998138,
+    "1091933451": 1786999390,
+    "1091933951": 1786999390,
+    "1091935753": 1786999702,
+    "1091935685": 1787000016,
+    "1091936460": 1787000328
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4699,45 +4704,13 @@
     "mieszkaniewbronowicachmalychdowynajeciaodzara|2500|38.5|bronowice": 1786997507,
     "dowynajecia2pokojowemieszkanie38m²warszawapra|3500|38.0|pragapoludnie": 1786997507,
     "bielanynalkowskiej92osobnepokojekuchnia7mindo|2550|39.0|bielany": 1786997823,
-    "mieszkanie2pokojowe60m2dowynajeciaulfiolkowau|2500|60.0|grzegorzki": 1786998138
+    "mieszkanie2pokojowe60m2dowynajeciaulfiolkowau|2500|60.0|grzegorzki": 1786998138,
+    "dowynajeciaodwlascicielamieszkanieprzyulicyni|2800|37.0|mokotow": 1786999702,
+    "apartamentwgornymmokotowie32m22sypialnie|3700|32.0|mokotow": 1787000328
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 685 = <b>3985 zł/мес</b>\n   ≈ с медиа около 4105 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie 33m ul. Jana Kazimierza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-33m-ul-jana-kazimierza-CID3-ID1bTaIM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:29",
-      "ts": 1786977549,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 685,
-        "area": 33.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-17T16:29:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 681
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 7\n🏢 агентство\n«Kraków - Krowodrza - ul. Zakątek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-krowodrza-ul-zakatek-CID3-ID1bTb9l.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:36",
-      "ts": 1786977864,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 42.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-17T16:36:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 39 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe 39 m², ul. Marywilska 11. Dostępne od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-39-m-ul-marywilska-11-dostepne-od-wrzesnia-CID3-ID1bSor8.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:32",
       "ts": 1786978495,
@@ -5383,13 +5356,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 732 = <b>3532 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 18 августа\n🏢 Этаж: 2\n👤 от собственника\n«Do Wynajęcia Od Właściciela Mieszkanie Przy Ulicy Niegocińskiej 1.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-od-wlasciciela-mieszkanie-przy-ulicy-niegocinskiej-1-CID3-ID1bTEmZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
+      "ts": 1786999702,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 732,
+        "area": 37.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T22:41:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 32 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Apartament w Górnym Mokotowie. 32 m2, 2 sypialnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-w-gornym-mokotowie-32-m2-2-sypialnie-CID3-ID1bTEyo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:47",
+      "ts": 1787000328,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3700,
+        "rent": null,
+        "area": 32.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T22:47:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4540,
-    "sent": 1514
+    "checks": 4544,
+    "sent": 1516
   },
   "initialized": true,
-  "last_check": "2026-08-17T20:38:03",
+  "last_check": "2026-08-17T20:58:57",
   "backoff_until": 1786979740.0763204
 }
