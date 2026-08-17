@@ -3357,7 +3357,9 @@
     "1091943506": 1787002207,
     "1091943888": 1787002521,
     "1091943820": 1787002837,
-    "1091944255": 1787003154
+    "1091944255": 1787003154,
+    "1091945458": 1787004104,
+    "1091946706": 1787004421
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4718,45 +4720,13 @@
     "2pokojowemieszkaniezbalkonemulmajorawolneod1p|2500|45.0|pradnikczerwony": 1787001895,
     "mieszkanie2pokojowe34m2czyzynyzgarazemiogrodk|3000|34.0|czyzyny": 1787002521,
     "wynajmemieszkanieodzarazlubod1wrzesnia42m2bal|2600|42.0|nowahuta": 1787002837,
-    "kompaktowe2pokojenastarymwilanowie42m2zwidoki|3000|42.0|wilanow": 1787003154
+    "kompaktowe2pokojenastarymwilanowie42m2zwidoki|3000|42.0|wilanow": 1787003154,
+    "2pokojelazienkazoknemdobrakomunikacja|3300|33.96|pragapolnoc": 1787004104,
+    "oseldorado2pok43m2|2300|43.28|czyzyny": 1787004421
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 43.5 м², 2 комнаты\n💰 3100 + czynsz 304 = <b>3404 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3451 zł/мес\n⚡ Свет/медиа: ≈ 47 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«2 pokoje, 43,5m2 - Przy Metro Wilanowska, Uczelni Łazarskiego i Wydz. Zarzadzania UW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-43-5m2-przy-metro-wilanowska-uczelni-lazarskiego-i-wydz-zarzadzania-uw-CID3-ID1bTdiK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:10",
-      "ts": 1786981196,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": null,
-        "area": 43.5,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-17T17:10:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 304
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с 17 августа\n🏢 Этаж: 2\n🏢 агентство\n«Ochota Grójecka | Stylowe 2 pokoje z osobną kuchnią | Bez prowizji!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ochota-grojecka-stylowe-2-pokoje-z-osobna-kuchnia-bez-prowizji-CID3-ID1bTdvG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:12",
-      "ts": 1786981196,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 47.0,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-17T17:12:37+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 420 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Kraków - Krowodrza - ul. Juliusza Lea»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-krowodrza-ul-juliusza-lea-CID3-ID1bTfTz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:29",
       "ts": 1786981196,
@@ -5402,13 +5372,47 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 33.96 м², 2 комнаты\n💰 3300 + czynsz 650 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 6\n🏢 агентство\n«2 pokoje | Łazienka z oknem | Dobra komunikacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-lazienka-z-oknem-dobra-komunikacja-CID3-ID1bTGTv.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:49",
+      "ts": 1787004104,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 650,
+        "area": 33.96,
+        "district": "Praga-Północ",
+        "business": true,
+        "created_iso": "2026-08-17T23:49:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 43.28 м², 2 комнаты\n💰 2300 + czynsz 946 = <b>3246 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«os. Eldorado | 2 pok | 43 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-eldorado-2-pok-43-m2-CID3-ID1bTHdE.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:57",
+      "ts": 1787004421,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 946,
+        "area": 43.28,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-17T23:57:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4553,
-    "sent": 1521
+    "checks": 4557,
+    "sent": 1523
   },
   "initialized": true,
-  "last_check": "2026-08-17T21:46:05",
+  "last_check": "2026-08-17T22:07:10",
   "backoff_until": 1786979740.0763204
 }
