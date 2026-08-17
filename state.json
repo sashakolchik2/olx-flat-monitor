@@ -3277,7 +3277,12 @@
     "1091825255": 1786978495,
     "1091826001": 1786978812,
     "1091826317": 1786978812,
-    "1091827652": 1786979127
+    "1091827652": 1786979127,
+    "1091831702": 1786979747,
+    "1091828646": 1786979747,
+    "1091830417": 1786980065,
+    "1091832566": 1786980065,
+    "1091836540": 1786980696
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4596,79 +4601,15 @@
     "krakowkrowodrzaulzakatek|2500|42.0|krowodrza": 1786977864,
     "mieszkaniedowynajeciakrakow|3500|46.0|krowodrza": 1786978495,
     "wynajmemieszkanie2pokojowe39m²ulmarywilska11d|3300|39.0|targowek": 1786978495,
-    "mieszkaniedwupokojowezgarazem50m2piltzaruczaj|3200|50.0|debniki": 1786978812
+    "mieszkaniedwupokojowezgarazem50m2piltzaruczaj|3200|50.0|debniki": 1786978812,
+    "2pokoje435m2przymetrowilanowskauczelnilazarsk|3100|43.5|mokotow": 1786979747,
+    "mieskaniedwupokojowewapartamentowcunaochocie|2800|23.0|ochota": 1786979747,
+    "wynajmemieszkanieulmysliwska55krakow|3300|46.0|podgorze": 1786980065,
+    "ochotagrojeckastylowe2pokojezosobnakuchniabez|3500|47.0|ochota": 1786980065
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 350 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Prądnik Czerwony - Marchołta, okolice Serenady 2pokoje 42m2, możliwy garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-czerwony-marcholta-okolice-serenady-2pokoje-42m2-mozliwy-garaz-CID3-ID1bSTM0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:36",
-      "ts": 1786967457,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 350,
-        "area": 42.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-17T13:36:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe | 37 m² | Wola | 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-37-m-wola-2-oddzielne-pokoje-CID3-ID1bSUyz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:44",
-      "ts": 1786967773,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 750,
-        "area": 37.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-17T13:44:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia - od 07.09 - 36m2 2 pokoje Bieńczyce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-od-07-09-36m2-2-pokoje-bienczyce-CID3-ID1bSWYY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:56",
-      "ts": 1786968400,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-17T13:56:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 2600 + czynsz 880 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«46m mieszkanie w Krakowie na wynajem, możliwość wynajęcia miejsca parkingowego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/46m-mieszkanie-w-krakowie-na-wynajem-mozliwosc-wynajecia-miejsca-parkingowego-CID3-ID1bSVPP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
-      "ts": 1786968717,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 880,
-        "area": 46.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-17T14:02:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 880
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 44.32 м², 2 комнаты\n💰 3200 + czynsz 510 = <b>3710 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Na wynajem BEZPOŚREDNIO w pełni urządzone, gotowe do zamieszkania, 2-pokojowe mieszkanie o powierzchni 44,32m2. Targówek - Zacisze, Uznamska.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-bezposrednio-w-pelni-urzadzone-gotowe-do-zamieszkania-2-pokojowe-mieszkanie-o-powierzchni-44-32m2-targowek-zacisze-uznamska-CID3-ID1bSYkA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:16",
       "ts": 1786969657,
@@ -5280,13 +5221,81 @@
       "an": {
         "czynsz_desc": 670
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 23 м², 2 комнаты\n💰 2800 + czynsz 504 = <b>3304 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mies,kanie dwupokojowe w apartamentowcu na Ochocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mies-kanie-dwupokojowe-w-apartamentowcu-na-ochocie-CID3-ID1bTcws.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:59",
+      "ts": 1786979747,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 504,
+        "area": 23.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-17T16:59:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 504
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 43.5 м², 2 комнаты\n💰 3100 + czynsz 304 = <b>3404 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3451 zł/мес\n⚡ Свет/медиа: ≈ 47 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«2 pokoje, 43,5m2 - Przy Metro Wilanowska, Uczelni Łazarskiego i Wydz. Zarzadzania UW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-43-5m2-przy-metro-wilanowska-uczelni-lazarskiego-i-wydz-zarzadzania-uw-CID3-ID1bTdiK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:10",
+      "ts": 1786979747,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": null,
+        "area": 43.5,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T17:10:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 304
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 500 = <b>3800 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie ul Myśliwska 55 Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-ul-mysliwska-55-krakow-CID3-ID1bTcY1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:07",
+      "ts": 1786980065,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 500,
+        "area": 46.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-17T17:07:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 47 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с 17 августа\n🏢 Этаж: 2\n🏢 агентство\n«Ochota Grójecka | Stylowe 2 pokoje z osobną kuchnią | Bez prowizji!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ochota-grojecka-stylowe-2-pokoje-z-osobna-kuchnia-bez-prowizji-CID3-ID1bTdvG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:12",
+      "ts": 1786980065,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 47.0,
+        "district": "Ochota",
+        "business": true,
+        "created_iso": "2026-08-17T17:12:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4482,
-    "sent": 1479
+    "checks": 4486,
+    "sent": 1483
   },
   "initialized": true,
-  "last_check": "2026-08-17T15:05:34",
+  "last_check": "2026-08-17T15:31:44",
   "backoff_until": 1786979740.0763204
 }
