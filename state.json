@@ -3359,7 +3359,9 @@
     "1091943820": 1787002837,
     "1091944255": 1787003154,
     "1091945458": 1787004104,
-    "1091946706": 1787004421
+    "1091946706": 1787004421,
+    "1091950045": 1787005992,
+    "1091950125": 1787006308
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4722,28 +4724,12 @@
     "wynajmemieszkanieodzarazlubod1wrzesnia42m2bal|2600|42.0|nowahuta": 1787002837,
     "kompaktowe2pokojenastarymwilanowie42m2zwidoki|3000|42.0|wilanow": 1787003154,
     "2pokojelazienkazoknemdobrakomunikacja|3300|33.96|pragapolnoc": 1787004104,
-    "oseldorado2pok43m2|2300|43.28|czyzyny": 1787004421
+    "oseldorado2pok43m2|2300|43.28|czyzyny": 1787004421,
+    "mieszkaniedwupokojowedowynajecia|3150|37.5|bielany": 1787006308
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 420 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Kraków - Krowodrza - ul. Juliusza Lea»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-krowodrza-ul-juliusza-lea-CID3-ID1bTfTz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:29",
-      "ts": 1786981196,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 420,
-        "area": 38.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-17T17:29:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 420
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 830 = <b>3430 zł/мес</b>\n   ≈ с медиа около 3530 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«2 osobne pokoje z balkonem ,osobna kuchnia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-z-balkonem-osobna-kuchnia-CID3-ID1bTfOc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:28",
       "ts": 1786981518,
@@ -5406,13 +5392,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 37.5 м², 2 комнаты\n💰 3150 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie dwupokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-do-wynajecia-CID3-ID1bTI6N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:20",
+      "ts": 1787006308,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": null,
+        "area": 37.5,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-18T00:20:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4558,
-    "sent": 1523
+    "checks": 4562,
+    "sent": 1524
   },
   "initialized": true,
-  "last_check": "2026-08-17T22:12:31",
+  "last_check": "2026-08-17T22:49:09",
   "backoff_until": 1787005959.3967042
 }
