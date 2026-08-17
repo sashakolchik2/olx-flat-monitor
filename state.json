@@ -3220,7 +3220,13 @@
     "1091756636": 1786967457,
     "1091759647": 1786967773,
     "1091761025": 1786968087,
-    "1091765128": 1786968400
+    "1091765128": 1786968400,
+    "1091768405": 1786968717,
+    "1091775290": 1786969657,
+    "1091774707": 1786969657,
+    "1091774156": 1786969657,
+    "1091772750": 1786969657,
+    "1091771648": 1786969657
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4502,79 +4508,15 @@
     "dwupokojowemieszkaniemetroparkskaryszewski|2800|46.0|pragapolnoc": 1786967139,
     "pradnikczerwonymarcholtaokoliceserenady2pokoj|2950|42.0|pradnikczerwony": 1786967457,
     "mieszkanie2pokojowe37m²wola2oddzielnepokoje|3000|37.0|wola": 1786967773,
-    "mieszkaniedowynajeciaod070936m22pokojebienczy|2500|36.0|bienczyce": 1786968400
+    "mieszkaniedowynajeciaod070936m22pokojebienczy|2500|36.0|bienczyce": 1786968400,
+    "46mmieszkaniewkrakowienawynajemmozliwoscwynaj|2600|46.0|biezanowprokocim": 1786968717,
+    "2pokoje2balkonyklimatyzacja49metrowemieszkani|3000|49.0|podgorze": 1786969657,
+    "36modwlascicielabezprowizjipetfriendlyeng|2600|36.0|bienczyce": 1786969657,
+    "nawynajembezposredniowpelniurzadzonegotowedoz|3200|44.32|targowek": 1786969657
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 948 = <b>3948 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«najem mieszkania Salwator»\n🔗 <a href=\"https://www.olx.pl/d/oferta/najem-mieszkania-salwator-CID3-ID1bSHOg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:50",
-      "ts": 1786957389,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 948,
-        "area": 53.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-17T10:50:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 43 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 58 zł/мес\n👤 от собственника\n«Wynajmę mieszkanie 43 m2 + parking (sypialnia + salon z aneksem)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-43-m2-parking-sypialnia-salon-z-aneksem-CID3-ID1bSJ5O.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:05",
-      "ts": 1786958330,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 43.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-17T11:05:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3500 + czynsz 486 = <b>3986 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 2 pokoje Mokotów obok Galerii Westfield, bezpośrednio, bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-mokotow-obok-galerii-westfield-bezposrednio-bez-prowizji-CID3-ID1bSJbB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
-      "ts": 1786958330,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 486,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-17T11:07:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 486
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 49 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Przytulne 2-pokojowe mieszkanie na Woli Duchackiej – bezpośrednio od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-woli-duchackiej-bezposrednio-od-wlasciciela-CID3-ID1bSJRy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
-      "ts": 1786958960,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 49.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-17T11:17:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 450 = <b>3450 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Kraków ul. Czarnowiejska 48»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ul-czarnowiejska-48-CID3-ID1bSJWl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:18",
       "ts": 1786958960,
@@ -5186,13 +5128,81 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 46 м², 2 комнаты\n💰 2600 + czynsz 880 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«46m mieszkanie w Krakowie na wynajem, możliwość wynajęcia miejsca parkingowego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/46m-mieszkanie-w-krakowie-na-wynajem-mozliwosc-wynajecia-miejsca-parkingowego-CID3-ID1bSVPP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
+      "ts": 1786968717,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 880,
+        "area": 46.0,
+        "district": "Bieżanów-Prokocim",
+        "business": false,
+        "created_iso": "2026-08-17T14:02:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 880
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 44.32 м², 2 комнаты\n💰 3200 + czynsz 510 = <b>3710 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Na wynajem BEZPOŚREDNIO w pełni urządzone, gotowe do zamieszkania, 2-pokojowe mieszkanie o powierzchni 44,32m2. Targówek - Zacisze, Uznamska.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/na-wynajem-bezposrednio-w-pelni-urzadzone-gotowe-do-zamieszkania-2-pokojowe-mieszkanie-o-powierzchni-44-32m2-targowek-zacisze-uznamska-CID3-ID1bSYkA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:16",
+      "ts": 1786969657,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 510,
+        "area": 44.32,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-17T14:16:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 510
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«36m, od właściciela, bez prowizji, PET FRIENDLY| ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/36m-od-wlasciciela-bez-prowizji-pet-friendly-eng-CID3-ID1bSYtt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:18",
+      "ts": 1786969657,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 36.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-17T14:18:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 530
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 680 = <b>3680 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 400 zł/мес\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, 2 balkony, klimatyzacja, 49 metrowe mieszkanie na Bagry Park»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-2-balkony-klimatyzacja-49-metrowe-mieszkanie-na-bagry-park-CID3-ID1bSYCS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:19",
+      "ts": 1786969657,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 680,
+        "area": 49.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-17T14:19:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 680
+      }
     }
   ],
   "stats": {
-    "checks": 4448,
-    "sent": 1442
+    "checks": 4452,
+    "sent": 1446
   },
   "initialized": true,
-  "last_check": "2026-08-17T12:06:49",
+  "last_check": "2026-08-17T12:27:50",
   "backoff_until": 1786922866.1780386
 }
