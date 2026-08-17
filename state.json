@@ -3122,7 +3122,13 @@
     "1091685507": 1786949509,
     "1091686378": 1786949825,
     "1091690164": 1786951079,
-    "1091690624": 1786951079
+    "1091690624": 1786951079,
+    "1091692188": 1786951396,
+    "1091692366": 1786951396,
+    "1091694036": 1786952333,
+    "1091693698": 1786952333,
+    "1091692853": 1786952333,
+    "1091693659": 1786952333
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4345,62 +4351,14 @@
     "2pokojemieszkajwmiesciedostepneod110|3100|43.0|bronowice": 1786949195,
     "bezprowizji2pokojemetrodwgdanski|2999|40.0|srodmiescie": 1786949509,
     "noweosiedle2pokojezbalkonempragapolnocjagiell|3500|38.0|pragapolnoc": 1786949825,
-    "wynajmemieszkanie60mursus2pokojeporemoncie|3000|60.0|ursus": 1786951079
+    "wynajmemieszkanie60mursus2pokojeporemoncie|3000|60.0|ursus": 1786951079,
+    "ulcieslewskiego2osobnepokojebalkon|2800|56.0|pradnikczerwony": 1786952333,
+    "ulorlinskiego8mieszkanie2pokojowezbalkonem|2700|38.0|czyzyny": 1786952333,
+    "placszembekanowoczesne2pokojowemieszkaniewapa|3000|47.0|pragapoludnie": 1786952333
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков</b> — 30 м², 2 комнаты\n💰 3150 + czynsz 475 = <b>3625 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Myśliwska - bez prowizji, 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mysliwska-bez-prowizji-2-pokoje-CID3-ID1bSdMs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
-      "ts": 1786899081,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3150,
-        "rent": 475,
-        "area": 30.0,
-        "district": "",
-        "business": false,
-        "created_iso": "2026-08-16T18:40:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37.5 м², 2 комнаты\n💰 3000 + czynsz 720 = <b>3720 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje | Nowolipki | dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-nowolipki-dostepne-od-zaraz-CID3-ID1bSdWe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:43",
-      "ts": 1786899398,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 720,
-        "area": 37.5,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-16T18:43:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia mieszkanie na zamkniętym osiedlu przy ul. Mariana Hemara»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-na-zamknietym-osiedlu-przy-ul-mariana-hemara-CID3-ID1bSdBK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
-      "ts": 1786899716,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 43.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-16T18:36:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Dwupokojowe mieszkanie z balkonem i garażem na Pradze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-balkonem-i-garazem-na-pradze-CID3-ID1bSg18.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:13",
       "ts": 1786901292,
@@ -5029,13 +4987,64 @@
       "an": {
         "czynsz_desc": 1000
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 475 = <b>3175 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«ul. Orlińskiego 8, mieszkanie 2 pokojowe z balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-orlinskiego-8-mieszkanie-2-pokojowe-z-balkonem-CID3-ID1bSDbf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:21",
+      "ts": 1786952333,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 475,
+        "area": 38.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-17T09:21:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🏢 агентство\n«Plac Szembeka, nowoczesne 2-pokojowe mieszkanie w apartamentowcu, balkon ul. Pułtuska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/plac-szembeka-nowoczesne-2-pokojowe-mieszkanie-w-apartamentowcu-balkon-ul-pultuska-CID3-ID1bSDof.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:27",
+      "ts": 1786952333,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 47.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-17T09:27:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 56 м², 2 комнаты\n💰 2800 + czynsz 980 = <b>3780 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 🏢 агентство\n«ul. Cieślewskiego, 2 osobne pokoje, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-cieslewskiego-2-osobne-pokoje-balkon-CID3-ID1bSDoS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:27",
+      "ts": 1786952333,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 980,
+        "area": 56.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-17T09:27:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 980
+      }
     }
   ],
   "stats": {
-    "checks": 4394,
-    "sent": 1383
+    "checks": 4398,
+    "sent": 1386
   },
   "initialized": true,
-  "last_check": "2026-08-17T07:18:08",
+  "last_check": "2026-08-17T07:39:06",
   "backoff_until": 1786922866.1780386
 }
