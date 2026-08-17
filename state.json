@@ -3240,7 +3240,13 @@
     "1091786178": 1786971868,
     "1091787941": 1786972182,
     "1091792298": 1786972812,
-    "1091796803": 1786973439
+    "1091796803": 1786973439,
+    "1091798781": 1786973756,
+    "1091797430": 1786973756,
+    "1091798334": 1786974072,
+    "1091795220": 1786974072,
+    "1091803026": 1786974384,
+    "1091804218": 1786974699
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4536,79 +4542,15 @@
     "chancardresidencebronowicekrowodrza2osobnepok|3000|35.0|krowodrza": 1786971868,
     "2pokojoweoskazimierzowskie|2200|38.0|nowahuta": 1786972182,
     "mieszkanie2pokojowewyposazoneodkryta|2700|45.0|bialoleka": 1786972812,
-    "nowe2pok25m2balkonulwroclawskakrowodrza|2700|25.0|krowodrza": 1786973439
+    "nowe2pok25m2balkonulwroclawskakrowodrza|2700|25.0|krowodrza": 1786973439,
+    "mieszkanie2pok38m²kordianakomunikacja|2600|38.14|podgorzeduchackie": 1786973756,
+    "nowe2pokojebemowoodzaraz|3200|25.0|bemowo": 1786973756,
+    "ulkonarskiegodwupoziomoweklimatyzacjacobezpro|2900|34.0|krowodrza": 1786974384,
+    "mediawceniebezprowizjizwierzetamilewidzianeza|3090|32.0|podgorze": 1786974699
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 53 м², 2 комнаты\n💰 2200 + czynsz 909 = <b>3109 zł/мес</b>\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie 2-pokojowe z garażem w cenie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-garazem-w-cenie-CID3-ID1bSM9E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
-      "ts": 1786960826,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2200,
-        "rent": 909,
-        "area": 53.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-17T11:55:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 66.98 м², 2 комнаты\n💰 3000 + czynsz 124 = <b>3124 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 200 zł/мес\n🏢 Этаж: 5\n🐾 можно с животными · 🏢 агентство\n«Przestronne mieszkanie w doskonałej lokalizacji z garażem [czytaj opis]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-mieszkanie-w-doskonalej-lokalizacji-z-garazem-czytaj-opis-CID3-ID1bSM5N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:54",
-      "ts": 1786961140,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 66.98,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-17T11:54:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 124
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 39.4 м², 2 комнаты\n💰 3100 + czynsz 850 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 39,4 m² | Young City | Szeligowska | Metro Chrzanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-39-4-m-young-city-szeligowska-metro-chrzanow-CID3-ID1bSNHh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:14",
-      "ts": 1786962401,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 850,
-        "area": 39.4,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-17T12:14:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Zieleń i spokój w centrum / Muranów, 2 pokoje, 35m, kamienica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zielen-i-spokoj-w-centrum-muranow-2-pokoje-35m-kamienica-CID3-ID1bSOW3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:26",
-      "ts": 1786962718,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 35.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-17T12:26:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 760 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Lema 19 I 2 pokoje i stanowisko I Park Lotników»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lema-19-i-2-pokoje-i-stanowisko-i-park-lotnikow-CID3-ID1bSP5E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:28",
       "ts": 1786963033,
@@ -5220,13 +5162,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 25 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Nowe 2 pokoje Bemowo od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-bemowo-od-zaraz-CID3-ID1bT4nY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:24",
+      "ts": 1786973756,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 25.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-17T15:24:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 38.14 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2026 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie 2 pok. 38 m² – Kordiana, komunikacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-38m-kordiana-komunikacja-CID3-ID1bT4JL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:29",
+      "ts": 1786973756,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 38.14,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-17T15:29:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 447 = <b>3347 zł/мес</b>\n   ≈ с медиа около 3437 zł/мес\n⚡ Свет/медиа: ≈ 90 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 76 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«ul. Konarskiego - dwupoziomowe - klimatyzacja, c.o., bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-konarskiego-dwupoziomowe-klimatyzacja-c-o-bez-prowizji-CID3-ID1bT5Qe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
+      "ts": 1786974384,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 447,
+        "area": 34.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-17T15:39:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3090 + czynsz 500 = <b>3590 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«MEDIA W CENIE! | Bez Prowizji | Zwierzęta mile widziane | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-bez-prowizji-zwierzeta-mile-widziane-zablocie-CID3-ID1bT69s.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:43",
+      "ts": 1786974699,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3090,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-17T15:43:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 4464,
-    "sent": 1456
+    "checks": 4468,
+    "sent": 1460
   },
   "initialized": true,
-  "last_check": "2026-08-17T13:30:48",
+  "last_check": "2026-08-17T13:51:48",
   "backoff_until": 1786922866.1780386
 }
