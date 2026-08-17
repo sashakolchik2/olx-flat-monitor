@@ -3115,7 +3115,8 @@
     "1091655505": 1786918168,
     "1091658788": 1786918795,
     "1091659067": 1786920361,
-    "1091678650": 1786945116
+    "1091678650": 1786945116,
+    "1091681843": 1786947624
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4332,28 +4333,12 @@
     "nowe2pokojowemieszkanienanordicbemowo35m²metr|3950|35.0|bemowo": 1786914894,
     "zjawiskowywidoknabalatonprzytulne2pokojeioddz|3200|45.0|pragapoludnie": 1786918168,
     "2oddzielnepokojemieszkanie50m²osiedlesportowe|2500|50.0|bienczyce": 1786920361,
-    "nowe2pokojeklimatyzacja3800zltotalpierwszynaj|3100|38.0|pragapoludnie": 1786945116
+    "nowe2pokojeklimatyzacja3800zltotalpierwszynaj|3100|38.0|pragapoludnie": 1786945116,
+    "mieszkaniepodgorzeulrydlowkarondomatecznyoszc|3300|44.0|podgorze": 1786947624
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 320 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe w spokojnej i zielonej okolicy Krakowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-spokojnej-i-zielonej-okolicy-krakowa-CID3-ID1bScYw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:24",
-      "ts": 1786898122,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 320,
-        "area": 38.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-16T18:24:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 38 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2-pokojowe | 38 m² | Przy Arkadii | Garaż | Metro Dworzec Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-38-m-przy-arkadii-garaz-metro-dworzec-gdanski-CID3-ID1bSd0S.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:25",
       "ts": 1786898122,
@@ -5016,13 +5001,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 44 м², 2 комнаты\n💰 3300 + czynsz 635 = <b>3935 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie Podgórze ul. Rydlówka Rondo Mateczny - Oszczędż 3000 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-podgorze-ul-rydlowka-rondo-mateczny-oszczedz-3000-zl-CID3-ID1bSAjF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
+      "ts": 1786947624,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 635,
+        "area": 44.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-17T08:10:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4379,
-    "sent": 1377
+    "checks": 4383,
+    "sent": 1378
   },
   "initialized": true,
-  "last_check": "2026-08-17T05:59:37",
+  "last_check": "2026-08-17T06:20:33",
   "backoff_until": 1786922866.1780386
 }
