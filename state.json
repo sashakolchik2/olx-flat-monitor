@@ -3149,7 +3149,11 @@
     "1091702442": 1786955177,
     "1091704672": 1786955497,
     "1091706544": 1786956125,
-    "1091707341": 1786956125
+    "1091707341": 1786956125,
+    "1091708356": 1786956441,
+    "1091707128": 1786956441,
+    "1091709087": 1786956756,
+    "1091710290": 1786957072
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4390,28 +4394,12 @@
     "2pokoje46m²siedmiogrodzka3wolaodwlasciciela|3000|46.0|ursus": 1786955177,
     "komfortowe2pokojowemieszkanienawynajemulstaro|3200|44.0|bialoleka": 1786955177,
     "mieszkaniewstylulosangelesospiastowkrakow|2600|37.03|mistrzejowice": 1786955497,
-    "ursuswynajmemieszkanie36m2przyparkuacherapore|2900|36.0|ursus": 1786956125
+    "ursuswynajmemieszkanie36m2przyparkuacherapore|2900|36.0|ursus": 1786956125,
+    "pieknenowe2pokoje45m²pierwszynajemgarazkomork|2300|45.0|wzgorzakrzeslawickie": 1786956441
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 330 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Bezpośrednio | RAKOWICKA | 2 POK. | 35 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-rakowicka-2-pok-35-m2-CID3-ID1bSnwt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:15",
-      "ts": 1786908257,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 35.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-16T21:15:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-goclaw-CID3-ID1bSo2y.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
       "ts": 1786908889,
@@ -5074,13 +5062,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Wzgórza Krzesławickie</b> — 45 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 24 августа\n🏢 Этаж: 2\n👤 от собственника\n«Piękne, nowe 2 pokoje | 45 m² | Pierwszy najem | Garaż | Komórka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-nowe-2-pokoje-45-m-pierwszy-najem-garaz-komorka-CID3-ID1bSHdi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:38",
+      "ts": 1786956441,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Wzgórza Krzesławickie",
+        "business": false,
+        "created_iso": "2026-08-17T10:38:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 4410,
-    "sent": 1401
+    "checks": 4413,
+    "sent": 1402
   },
   "initialized": true,
-  "last_check": "2026-08-17T08:42:13",
+  "last_check": "2026-08-17T08:58:01",
   "backoff_until": 1786922866.1780386
 }
