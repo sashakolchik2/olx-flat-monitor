@@ -3216,7 +3216,11 @@
     "1091753923": 1786966510,
     "1091754854": 1786966824,
     "1091754900": 1786967139,
-    "1091755230": 1786967139
+    "1091755230": 1786967139,
+    "1091756636": 1786967457,
+    "1091759647": 1786967773,
+    "1091761025": 1786968087,
+    "1091765128": 1786968400
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4495,62 +4499,14 @@
     "wynajmemieszkanie2pokoje45m2krakowazoryodwlas|2500|45.0|pradnikbialy": 1786966510,
     "jasneiprzytulnemieszkanienapoddaszu|3500|55.0|bronowice": 1786966824,
     "starowislnaokplantmieszkanie2pokojowe40m2wypo|2600|42.0|staremiasto": 1786967139,
-    "dwupokojowemieszkaniemetroparkskaryszewski|2800|46.0|pragapolnoc": 1786967139
+    "dwupokojowemieszkaniemetroparkskaryszewski|2800|46.0|pragapolnoc": 1786967139,
+    "pradnikczerwonymarcholtaokoliceserenady2pokoj|2950|42.0|pradnikczerwony": 1786967457,
+    "mieszkanie2pokojowe37m²wola2oddzielnepokoje|3000|37.0|wola": 1786967773,
+    "mieszkaniedowynajeciaod070936m22pokojebienczy|2500|36.0|bienczyce": 1786968400
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 37.03 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3420 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🌐 Интернет: 49 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 18.08.2026\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie w stylu Los Angeles - os. Piastów, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-stylu-los-angeles-os-piastow-krakow-CID3-ID1bSGfS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:19",
-      "ts": 1786955497,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 37.03,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-17T10:19:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 36 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Ursus Wynajmę mieszkanie 36m2 przy parku Achera po remoncie mieszkanie dwa pokoje zmywarka AGD»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursus-wynajme-mieszkanie-36m2-przy-parku-achera-po-remoncie-mieszkanie-dwa-pokoje-zmywarka-agd-CID3-ID1bSGVW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:33",
-      "ts": 1786956125,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 36.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-17T10:33:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Wzgórza Krzesławickie</b> — 45 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 24 августа\n🏢 Этаж: 2\n👤 от собственника\n«Piękne, nowe 2 pokoje | 45 m² | Pierwszy najem | Garaż | Komórka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-nowe-2-pokoje-45-m-pierwszy-najem-garaz-komorka-CID3-ID1bSHdi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:38",
-      "ts": 1786956441,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 700,
-        "area": 45.0,
-        "district": "Wzgórza Krzesławickie",
-        "business": false,
-        "created_iso": "2026-08-17T10:38:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 948 = <b>3948 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«najem mieszkania Salwator»\n🔗 <a href=\"https://www.olx.pl/d/oferta/najem-mieszkania-salwator-CID3-ID1bSHOg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:50",
       "ts": 1786957389,
@@ -5179,13 +5135,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 350 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Prądnik Czerwony - Marchołta, okolice Serenady 2pokoje 42m2, możliwy garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-czerwony-marcholta-okolice-serenady-2pokoje-42m2-mozliwy-garaz-CID3-ID1bSTM0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:36",
+      "ts": 1786967457,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 350,
+        "area": 42.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-17T13:36:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe | 37 m² | Wola | 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-37-m-wola-2-oddzielne-pokoje-CID3-ID1bSUyz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:44",
+      "ts": 1786967773,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-17T13:44:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia - od 07.09 - 36m2 2 pokoje Bieńczyce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-od-07-09-36m2-2-pokoje-bienczyce-CID3-ID1bSWYY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:56",
+      "ts": 1786968400,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 650,
+        "area": 36.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-17T13:56:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4444,
-    "sent": 1439
+    "checks": 4448,
+    "sent": 1442
   },
   "initialized": true,
-  "last_check": "2026-08-17T11:45:50",
+  "last_check": "2026-08-17T12:06:49",
   "backoff_until": 1786922866.1780386
 }
