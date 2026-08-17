@@ -3350,7 +3350,9 @@
     "1091933951": 1786999390,
     "1091935753": 1786999702,
     "1091935685": 1787000016,
-    "1091936460": 1787000328
+    "1091936460": 1787000328,
+    "1091938910": 1787000956,
+    "1091941024": 1787001267
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4706,28 +4708,12 @@
     "bielanynalkowskiej92osobnepokojekuchnia7mindo|2550|39.0|bielany": 1786997823,
     "mieszkanie2pokojowe60m2dowynajeciaulfiolkowau|2500|60.0|grzegorzki": 1786998138,
     "dowynajeciaodwlascicielamieszkanieprzyulicyni|2800|37.0|mokotow": 1786999702,
-    "apartamentwgornymmokotowie32m22sypialnie|3700|32.0|mokotow": 1787000328
+    "apartamentwgornymmokotowie32m22sypialnie|3700|32.0|mokotow": 1787000328,
+    "mieszkanienawynajem44m²|2200|44.0|ursus": 1787001267
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 39 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe 39 m², ul. Marywilska 11. Dostępne od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-39-m-ul-marywilska-11-dostepne-od-wrzesnia-CID3-ID1bSor8.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:32",
-      "ts": 1786978495,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 39.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-16T21:32:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: включены в цену\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia KRAKÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-CID3-ID1bTbKb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:47",
       "ts": 1786978495,
@@ -5390,13 +5376,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 44 м², 2 комнаты\n💰 2200 + czynsz 1000 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie na wynajem, 44 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-44-m-CID3-ID1bTFK0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:06",
+      "ts": 1787001267,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 1000,
+        "area": 44.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-17T23:06:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4544,
-    "sent": 1516
+    "checks": 4548,
+    "sent": 1517
   },
   "initialized": true,
-  "last_check": "2026-08-17T20:58:57",
+  "last_check": "2026-08-17T21:19:47",
   "backoff_until": 1786979740.0763204
 }
