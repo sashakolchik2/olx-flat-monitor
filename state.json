@@ -3308,7 +3308,9 @@
     "1091869667": 1786986843,
     "1091873783": 1786987156,
     "1091869677": 1786987156,
-    "1091871566": 1786987156
+    "1091871566": 1786987156,
+    "1091876188": 1786987475,
+    "1091874032": 1786987475
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4642,45 +4644,13 @@
     "dowynajeciamieszkaniewczyzynach2oddzielnepoko|2600|50.5|staremiasto": 1786984653,
     "2pokojebalkonimpwgarazujastrzebowskiego24brak|2100|38.0|ursynow": 1786986843,
     "wynajemmieszkania2pokojezlotegowieku|2600|36.0|mistrzejowice": 1786987156,
-    "kazimierzawielkiegomieszkaniewynajme|3000|48.0|krowodrza": 1786987156
+    "kazimierzawielkiegomieszkaniewynajme|3000|48.0|krowodrza": 1786987156,
+    "mieszkanie2pokojowe43m2kurdwanowulhalszki|2700|43.0|podgorzeduchackie": 1786987475,
+    "2pokojeporemonciestarepodgorzebalkon40m²mpeck|3400|40.0|podgorzeduchackie": 1786987475
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 1000 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3870 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe wyposażone Odkryta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-wyposazone-odkryta-CID3-ID1bT33c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:13",
-      "ts": 1786972812,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1000,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-17T15:13:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 25 м², 2 комнаты\n💰 2700 + czynsz 400 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 400 zł + свет по счётчику\n📅 Заселение: с 26.08.2026\n🏢 Этаж: 2\n🏢 агентство\n«NOWE 2pok 25m2 + balkon - ul. Wrocławska KROWODRZA»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2pok-25m2-balkon-ul-wroclawska-krowodrza-CID3-ID1bT4dR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:22",
-      "ts": 1786973439,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 400,
-        "area": 25.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-17T15:22:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 25 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Nowe 2 pokoje Bemowo od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-bemowo-od-zaraz-CID3-ID1bT4nY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:24",
       "ts": 1786973756,
@@ -5326,13 +5296,47 @@
       "an": {
         "czynsz_desc": 460
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 01 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje po remoncie | Stare Podgórze | Balkon | 40 m² | MPEC | Klimatyczna lokalizacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-po-remoncie-stare-podgorze-balkon-40-m-mpec-klimatyczna-lokalizacja-CID3-ID1bToju.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:09",
+      "ts": 1786987475,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 40.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-17T19:09:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 43 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe 43m2 Kurdwanów, ul. Halszki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-43m2-kurdwanow-ul-halszki-CID3-ID1bToSg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:15",
+      "ts": 1786987475,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 43.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-17T19:15:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4502,
-    "sent": 1494
+    "checks": 4506,
+    "sent": 1496
   },
   "initialized": true,
-  "last_check": "2026-08-17T17:19:28",
+  "last_check": "2026-08-17T17:40:23",
   "backoff_until": 1786979740.0763204
 }
