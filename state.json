@@ -3117,7 +3117,10 @@
     "1091659067": 1786920361,
     "1091678650": 1786945116,
     "1091681843": 1786947624,
-    "1091682775": 1786947940
+    "1091682775": 1786947940,
+    "1091683799": 1786949195,
+    "1091685507": 1786949509,
+    "1091686378": 1786949825
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4336,62 +4339,14 @@
     "2oddzielnepokojemieszkanie50m²osiedlesportowe|2500|50.0|bienczyce": 1786920361,
     "nowe2pokojeklimatyzacja3800zltotalpierwszynaj|3100|38.0|pragapoludnie": 1786945116,
     "mieszkaniepodgorzeulrydlowkarondomatecznyoszc|3300|44.0|podgorze": 1786947624,
-    "mieszkanie2pokojowedowynajeciaoddzielnakuchni|2500|39.0|pradnikczerwony": 1786947940
+    "mieszkanie2pokojowedowynajeciaoddzielnakuchni|2500|39.0|pradnikczerwony": 1786947940,
+    "2pokojemieszkajwmiesciedostepneod110|3100|43.0|bronowice": 1786949195,
+    "bezprowizji2pokojemetrodwgdanski|2999|40.0|srodmiescie": 1786949509,
+    "noweosiedle2pokojezbalkonempragapolnocjagiell|3500|38.0|pragapolnoc": 1786949825
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 1200 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 9\n👤 от собственника\n«2 pokoje po remoncie, osobna kuchnia, oszklona loggia – Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-po-remoncie-osobna-kuchnia-oszklona-loggia-bemowo-CID3-ID1bSdly.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:31",
-      "ts": 1786898443,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1200,
-        "area": 50.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-16T18:31:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 350 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Jasne, dwupokojowe mieszkanie blisko Galerii Kazimierz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-dwupokojowe-mieszkanie-blisko-galerii-kazimierz-CID3-ID1bSdBu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:36",
-      "ts": 1786898759,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 350,
-        "area": 38.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-16T18:36:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": 350
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Zwierzyniec</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 400 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2900 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę bezpśrednio mieszkanie 42m Kraków – SALWATOR – ul. Ujejskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-bezpsrednio-mieszkanie-42m-krakow-salwator-ul-ujejskiego-CID3-ID1bSdCj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:37",
-      "ts": 1786898759,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 400,
-        "area": 42.0,
-        "district": "Zwierzyniec",
-        "business": false,
-        "created_iso": "2026-08-16T18:37:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 400
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje z balkonem | Białołęka | os. Strzeżone | Garaż| Most Północny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-bialoleka-os-strzezone-garaz-most-polnocny-CID3-ID1bSdDF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:37",
       "ts": 1786898759,
@@ -5020,13 +4975,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 550 zł + свет по счётчику\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje | Mieszkaj w Mieście | dostępne od 1.10.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-mieszkaj-w-miescie-dostepne-od-1-10-CID3-ID1bSAPd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:29",
+      "ts": 1786949195,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 550,
+        "area": 43.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-17T08:29:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 2999 + czynsz 750 = <b>3749 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 9\n🏢 агентство\n«Bez prowizji ! * 2 pokoje * Metro Dw. Gdański *»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-2-pokoje-metro-dw-gdanski-CID3-ID1bSBgL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:42",
+      "ts": 1786949509,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2999,
+        "rent": 750,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-17T08:42:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 460 = <b>3960 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 450 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Nowe osiedle, 2 pokoje z balkonem, Praga Północ, Jagiellońska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-osiedle-2-pokoje-z-balkonem-praga-polnoc-jagiellonska-CID3-ID1bSBuO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:46",
+      "ts": 1786949825,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": 460,
+        "area": 38.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-17T08:46:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 450
+      }
     }
   ],
   "stats": {
-    "checks": 4386,
-    "sent": 1379
+    "checks": 4390,
+    "sent": 1382
   },
   "initialized": true,
-  "last_check": "2026-08-17T06:36:15",
+  "last_check": "2026-08-17T06:57:14",
   "backoff_until": 1786922866.1780386
 }
