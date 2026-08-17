@@ -3295,7 +3295,11 @@
     "1091845380": 1786982149,
     "1091846641": 1786982462,
     "1091848585": 1786983088,
-    "1091849223": 1786983088
+    "1091849223": 1786983088,
+    "1091854579": 1786983718,
+    "1091855302": 1786984030,
+    "1091858401": 1786984653,
+    "1091856110": 1786984653
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4625,28 +4629,12 @@
     "dwupokojowemieszkanienaochocie|3200|35.0|ochota": 1786981834,
     "wynajme2pokoje30m2balkonklimatyzacjawidoknast|2800|30.0|podgorze": 1786982462,
     "mieszkaniedowynajeciawkrakowie|2700|40.0|bronowice": 1786983088,
-    "dowynajecia44m²2oddzielnepokojecentrumskawiny|2500|44.0|krowodrza": 1786983088
+    "dowynajecia44m²2oddzielnepokojecentrumskawiny|2500|44.0|krowodrza": 1786983088,
+    "dowynajeciamieszkaniewczyzynach2oddzielnepoko|2600|50.5|staremiasto": 1786984653
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 39.57 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmuję mieszkanie w Krakowie 39,57 м. ul. Włoska 4 w pełni wyposażone, w spokojnej okolicy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajmuje-mieszkanie-w-krakowie-39-57-ul-wloska-4-w-pelni-wyposazone-w-spokojnej-okolicy-CID3-ID1bT0eN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:38",
-      "ts": 1786970924,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 500,
-        "area": 39.57,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-17T14:38:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 33.61 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Lux, komfortowe 2-pok. mieszkanie. Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/lux-komfortowe-2-pok-mieszkanie-bez-prowizji-CID3-ID1bT0vW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:41",
       "ts": 1786970924,
@@ -5309,13 +5297,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 50.5 м², 2 комнаты\n💰 2600 + czynsz 782 = <b>3382 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«Do wynajęcia mieszkanie w Czyżynach/2 oddzielne pokoje/częściowo umeblowane/z dużym balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-w-czyzynach-2-oddzielne-pokoje-czesciowo-umeblowane-z-duzym-balkonem-CID3-ID1bTjEq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:14",
+      "ts": 1786984653,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 782,
+        "area": 50.5,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-17T18:14:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": 782
+      }
     }
   ],
   "stats": {
-    "checks": 4490,
-    "sent": 1490
+    "checks": 4494,
+    "sent": 1491
   },
   "initialized": true,
-  "last_check": "2026-08-17T16:16:51",
+  "last_check": "2026-08-17T16:37:42",
   "backoff_until": 1786979740.0763204
 }
