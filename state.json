@@ -3321,7 +3321,12 @@
     "1091900735": 1786992176,
     "1091903490": 1786992802,
     "1091902780": 1786992802,
-    "1091905068": 1786993114
+    "1091905068": 1786993114,
+    "1091890346": 1786993427,
+    "1091909207": 1786994051,
+    "1091911126": 1786994365,
+    "1091915310": 1786994365,
+    "1091912628": 1786994365
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4661,28 +4666,12 @@
     "wynajmemieszkanie2pokgarazportpraskiod1wrzesn|3200|35.0|pragapolnoc": 1786988729,
     "wynajmemieszkanie37m2warszawapragapoludnie|3100|37.0|pragapoludnie": 1786989044,
     "wynajme2pokojowemieszkaniewarszawapragapoludn|2800|37.5|pragapoludnie": 1786990296,
-    "mieszkaniedowynajeciakrakowosbonarka|3300|46.71|lagiewnikiborekfalec": 1786992176
+    "mieszkaniedowynajeciakrakowosbonarka|3300|46.71|lagiewnikiborekfalec": 1786992176,
+    "metrowierzbnomieszkanieprzysamymwejsciudometr|3300|37.0|mokotow": 1786994051
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia w Śródmieściu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-srodmiesciu-CID3-ID1bT6ka.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:45",
-      "ts": 1786975016,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 47.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-17T15:45:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«2 pokojowe mieszkanie w wysokim standardzie| Azory | Od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-w-wysokim-standardzie-azory-od-pazdziernika-CID3-ID1bT6FK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:49",
       "ts": 1786975016,
@@ -5345,13 +5334,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 37 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Metro Wierzbno - mieszkanie przy samym wejściu do metra!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-mieszkanie-przy-samym-wejsciu-do-metra-CID3-ID1bTxsP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:00",
+      "ts": 1786994051,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 37.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-17T21:00:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4521,
-    "sent": 1500
+    "checks": 4525,
+    "sent": 1501
   },
   "initialized": true,
-  "last_check": "2026-08-17T18:58:40",
+  "last_check": "2026-08-17T19:19:32",
   "backoff_until": 1786979740.0763204
 }
