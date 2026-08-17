@@ -3270,7 +3270,14 @@
     "1091820957": 1786977549,
     "1091821784": 1786977549,
     "1091823431": 1786977864,
-    "1091823459": 1786977864
+    "1091823459": 1786977864,
+    "1091825715": 1786978495,
+    "1091636178": 1786978495,
+    "1091825513": 1786978495,
+    "1091825255": 1786978495,
+    "1091826001": 1786978812,
+    "1091826317": 1786978812,
+    "1091827652": 1786979127
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4586,62 +4593,14 @@
     "mieszkanie36m2praga3700plnmo|3700|36.0|pragapolnoc": 1786977229,
     "przytulnemieszkanie235m²ochotaulgrojecka130|3000|23.5|ochota": 1786977229,
     "wynajme2pokojowemieszkanie33muljanakazimierza|3300|33.0|wola": 1786977549,
-    "krakowkrowodrzaulzakatek|2500|42.0|krowodrza": 1786977864
+    "krakowkrowodrzaulzakatek|2500|42.0|krowodrza": 1786977864,
+    "mieszkaniedowynajeciakrakow|3500|46.0|krowodrza": 1786978495,
+    "wynajmemieszkanie2pokojowe39m²ulmarywilska11d|3300|39.0|targowek": 1786978495,
+    "mieszkaniedwupokojowezgarazem50m2piltzaruczaj|3200|50.0|debniki": 1786978812
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 55 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Jasne i przytulne mieszkanie na poddaszu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/jasne-i-przytulne-mieszkanie-na-poddaszu-CID3-ID1bSTjg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
-      "ts": 1786966824,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 55.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-17T13:30:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 42 м², 2 комнаты\n💰 2600 + czynsz 400 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3200 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n📅 Заселение: с 7 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«Starowiślna, ok. Plant, mieszkanie 2 pokojowe 40m2, wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/starowislna-ok-plant-mieszkanie-2-pokojowe-40m2-wyposazone-CID3-ID1bSTk0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
-      "ts": 1786967139,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 400,
-        "area": 42.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-17T13:30:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 750 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n👤 от собственника\n«Dwupokojowe mieszkanie, Metro, Park Skaryszewski»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-metro-park-skaryszewski-CID3-ID1bSTpk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
-      "ts": 1786967139,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 750,
-        "area": 46.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-17T13:31:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 350 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Prądnik Czerwony - Marchołta, okolice Serenady 2pokoje 42m2, możliwy garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pradnik-czerwony-marcholta-okolice-serenady-2pokoje-42m2-mozliwy-garaz-CID3-ID1bSTM0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:36",
       "ts": 1786967457,
@@ -5270,13 +5229,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 39 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe 39 m², ul. Marywilska 11. Dostępne od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-39-m-ul-marywilska-11-dostepne-od-wrzesnia-CID3-ID1bSor8.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:32",
+      "ts": 1786978495,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 39.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-16T21:32:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: включены в цену\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia KRAKÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-CID3-ID1bTbKb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:47",
+      "ts": 1786978495,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 46.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-17T16:47:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 3200 + czynsz 670 = <b>3870 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dwupokojowe z garażem 50m2 Piltza Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-z-garazem-50m2-piltza-ruczaj-CID3-ID1bTbON.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:48",
+      "ts": 1786978812,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 670,
+        "area": 50.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-17T16:48:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": 670
+      }
     }
   ],
   "stats": {
-    "checks": 4479,
-    "sent": 1476
+    "checks": 4482,
+    "sent": 1479
   },
   "initialized": true,
-  "last_check": "2026-08-17T14:49:48",
-  "backoff_until": 1786922866.1780386
+  "last_check": "2026-08-17T15:05:34",
+  "backoff_until": 1786979740.0763204
 }
