@@ -3238,7 +3238,9 @@
     "1091782609": 1786970924,
     "1091783316": 1786971243,
     "1091786178": 1786971868,
-    "1091787941": 1786972182
+    "1091787941": 1786972182,
+    "1091792298": 1786972812,
+    "1091796803": 1786973439
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4532,45 +4534,13 @@
     "wynajmujemieszkaniewkrakowie3957мulwloska4wpe|2800|39.57|podgorzeduchackie": 1786970924,
     "luxkomfortowe2pokmieszkaniebezprowizji|3400|33.61|srodmiescie": 1786970924,
     "chancardresidencebronowicekrowodrza2osobnepok|3000|35.0|krowodrza": 1786971868,
-    "2pokojoweoskazimierzowskie|2200|38.0|nowahuta": 1786972182
+    "2pokojoweoskazimierzowskie|2200|38.0|nowahuta": 1786972182,
+    "mieszkanie2pokojowewyposazoneodkryta|2700|45.0|bialoleka": 1786972812,
+    "nowe2pok25m2balkonulwroclawskakrowodrza|2700|25.0|krowodrza": 1786973439
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 890 = <b>3690 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n👤 от собственника\n«ul. Wschodu Słońca - 2 pokoje w nowym budownictwie (możliwość garażu)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-wschodu-slonca-2-pokoje-w-nowym-budownictwie-mozliwosc-garazu-CID3-ID1bSLkm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:40",
-      "ts": 1786960508,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 890,
-        "area": 36.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-17T11:40:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 38 м², 2 комнаты\n💰 2850 + czynsz 700 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Ładne mieszkanie (38m2) na wynajem (Kraków- Bieżanów)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-mieszkanie-38m2-na-wynajem-krakow-biezanow-CID3-ID1bSLqu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:42",
-      "ts": 1786960508,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2850,
-        "rent": 700,
-        "area": 38.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-17T11:42:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 53 м², 2 комнаты\n💰 2200 + czynsz 909 = <b>3109 zł/мес</b>\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie 2-pokojowe z garażem w cenie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-garazem-w-cenie-CID3-ID1bSM9E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
       "ts": 1786960826,
@@ -5216,13 +5186,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 1000 = <b>3700 zł/мес</b>\n   ≈ с медиа около 3870 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe wyposażone Odkryta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-wyposazone-odkryta-CID3-ID1bT33c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:13",
+      "ts": 1786972812,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 1000,
+        "area": 45.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-17T15:13:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 25 м², 2 комнаты\n💰 2700 + czynsz 400 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3500 zł/мес\n⚡ Свет/медиа: ≈ 400 zł + свет по счётчику\n📅 Заселение: с 26.08.2026\n🏢 Этаж: 2\n🏢 агентство\n«NOWE 2pok 25m2 + balkon - ul. Wrocławska KROWODRZA»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2pok-25m2-balkon-ul-wroclawska-krowodrza-CID3-ID1bT4dR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:22",
+      "ts": 1786973439,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 400,
+        "area": 25.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-17T15:22:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4460,
-    "sent": 1454
+    "checks": 4464,
+    "sent": 1456
   },
   "initialized": true,
-  "last_check": "2026-08-17T13:09:51",
+  "last_check": "2026-08-17T13:30:48",
   "backoff_until": 1786922866.1780386
 }
