@@ -3315,7 +3315,8 @@
     "1091785858": 1786988729,
     "1091883435": 1786988729,
     "1091883827": 1786989044,
-    "1091841860": 1786989358
+    "1091841860": 1786989358,
+    "1091889142": 1786990296
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4653,28 +4654,12 @@
     "mieszkanie2pokojowe43m2kurdwanowulhalszki|2700|43.0|podgorzeduchackie": 1786987475,
     "2pokojeporemonciestarepodgorzebalkon40m²mpeck|3400|40.0|podgorzeduchackie": 1786987475,
     "wynajmemieszkanie2pokgarazportpraskiod1wrzesn|3200|35.0|pragapolnoc": 1786988729,
-    "wynajmemieszkanie37m2warszawapragapoludnie|3100|37.0|pragapoludnie": 1786989044
+    "wynajmemieszkanie37m2warszawapragapoludnie|3100|37.0|pragapoludnie": 1786989044,
+    "wynajme2pokojowemieszkaniewarszawapragapoludn|2800|37.5|pragapoludnie": 1786990296
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 34 м², 2 комнаты\n💰 2900 + czynsz 447 = <b>3347 zł/мес</b>\n   ≈ с медиа около 3437 zł/мес\n⚡ Свет/медиа: ≈ 90 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 76 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«ul. Konarskiego - dwupoziomowe - klimatyzacja, c.o., bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-konarskiego-dwupoziomowe-klimatyzacja-c-o-bez-prowizji-CID3-ID1bT5Qe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
-      "ts": 1786974384,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 447,
-        "area": 34.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-17T15:39:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 3090 + czynsz 500 = <b>3590 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«MEDIA W CENIE! | Bez Prowizji | Zwierzęta mile widziane | Zabłocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/media-w-cenie-bez-prowizji-zwierzeta-mile-widziane-zablocie-CID3-ID1bT69s.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:43",
       "ts": 1786974699,
@@ -5337,13 +5322,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 819 = <b>3619 zł/мес</b>\n   ≈ с медиа около 3777 zł/мес\n⚡ Свет/медиа: ≈ 158 zł + свет по счётчику\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie, Warszawa Praga Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-warszawa-praga-poludnie-CID3-ID1bTsfc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:00",
+      "ts": 1786990296,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 819,
+        "area": 37.5,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-17T20:00:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 819
+      }
     }
   ],
   "stats": {
-    "checks": 4509,
-    "sent": 1498
+    "checks": 4513,
+    "sent": 1499
   },
   "initialized": true,
-  "last_check": "2026-08-17T17:56:05",
+  "last_check": "2026-08-17T18:16:58",
   "backoff_until": 1786979740.0763204
 }
