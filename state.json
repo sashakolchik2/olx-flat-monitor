@@ -3616,7 +3616,9 @@
     "1092110459": 1787093254,
     "1092145650": 1787093575,
     "1092159191": 1787093575,
-    "1092111052": 1787094509
+    "1092111052": 1787094509,
+    "1092221167": 1787096072,
+    "1092161514": 1787096383
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5133,28 +5135,12 @@
     "wynajmemieszkanienasaskiejkepiezwidokiemnapar|2900|33.0|pragapoludnie": 1787092937,
     "osobnasypialniaparkingduzakuchnia54m2zwierzet|2999|54.0|wawer": 1787093254,
     "2pokoje40m2ogrodekklimatyzacjaprywatnyparking|3250|40.0|ursus": 1787093254,
-    "okazjabezposr2pokojewawermarysinkorkowa135ful|2700|45.0|wawer": 1787093254
+    "okazjabezposr2pokojewawermarysinkorkowa135ful|2700|45.0|wawer": 1787093254,
+    "mieszkanienawynajem|2700|34.0|bemowo": 1787096383
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 2600 + czynsz 1050 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia – Kraków, ul. Przewóz, 50 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-ul-przewoz-50-m-CID3-ID1bUBCH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:50",
-      "ts": 1787086254,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 1050,
-        "area": 50.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-18T20:50:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1050
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 550 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Właściciel wynajmie 2 pokojowe mieszkanie- 45 m2, ul. Kazimierza Wierzyńskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pokojowe-mieszkanie-45-m2-ul-kazimierza-wierzynskiego-CID3-ID1bUC0A.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:53",
       "ts": 1787086254,
@@ -5817,13 +5803,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 34 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bUB6i.html\">Открыть на OLX</a>  ·  добавлено вчера в 20:44",
+      "ts": 1787096383,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 800,
+        "area": 34.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-18T20:44:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4742,
-    "sent": 1677
+    "checks": 4746,
+    "sent": 1678
   },
   "initialized": true,
-  "last_check": "2026-08-18T23:29:25",
+  "last_check": "2026-08-18T23:50:15",
   "backoff_until": 1787075583.338769
 }
