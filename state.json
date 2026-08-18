@@ -3406,7 +3406,13 @@
     "1091999242": 1787041538,
     "1092000714": 1787041852,
     "1092001910": 1787042169,
-    "1092002278": 1787042486
+    "1092002278": 1787042486,
+    "1092003883": 1787042804,
+    "1092005859": 1787043434,
+    "1092005685": 1787043434,
+    "1092005893": 1787043434,
+    "1092007184": 1787043751,
+    "1092008260": 1787043751
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4798,79 +4804,15 @@
     "bezposrednio2oddzielnepokojeaviakrakowskipark|3300|46.0|czyzyny": 1787039328,
     "mieszkanie48m2tarasgarazkomorkalokwarszawawlo|3200|48.0|ursus": 1787041852,
     "mieszkanie2pokojoweoskazimierzowskie36m²od1wr|2500|36.0|bienczyce": 1787042169,
-    "kurdwanowdwaoddzielnepokoje|2800|48.0|podgorzeduchackie": 1787042486
+    "kurdwanowdwaoddzielnepokoje|2800|48.0|podgorzeduchackie": 1787042486,
+    "mieszkanie2pokojoweulradzikowskiegokrakow|2700|36.0|bronowice": 1787042804,
+    "2pokosobnakuchniajasnecicheoswandy|1800|52.0|nowahuta": 1787043434,
+    "mieszkanie2pok42m2grzegorzecka72akrakow|2900|42.0|grzegorzki": 1787043751,
+    "piekne2pokojowemieszkanienaursusieulprzyforci|3080|38.0|ursus": 1787043751
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 39 м², 2 комнаты\n💰 2550 + czynsz 1000 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Bielany, Nałkowskiej 9 – 2 osobne pokoje + kuchnia | 7 min do metra Słodowiec | duża piwnica | bezpłatne parkowanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bielany-nalkowskiej-9-2-osobne-pokoje-kuchnia-7-min-do-metra-slodowiec-duza-piwnica-bezplatne-parkowanie-CID3-ID1bTCBF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:06",
-      "ts": 1786997823,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2550,
-        "rent": 1000,
-        "area": 39.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-17T22:06:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 60 м², 2 комнаты\n💰 2500 + czynsz 900 = <b>3400 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe 60 m2 do wynajęcia ul. Fiołkowa (Ugorek)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-60-m2-do-wynajecia-ul-fiolkowa-ugorek-CID3-ID1bTDat.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:12",
-      "ts": 1786998138,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 900,
-        "area": 60.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-17T22:12:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 732 = <b>3532 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с 18 августа\n🏢 Этаж: 2\n👤 от собственника\n«Do Wynajęcia Od Właściciela Mieszkanie Przy Ulicy Niegocińskiej 1.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-od-wlasciciela-mieszkanie-przy-ulicy-niegocinskiej-1-CID3-ID1bTEmZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
-      "ts": 1786999702,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 732,
-        "area": 37.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-17T22:41:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 32 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Apartament w Górnym Mokotowie. 32 m2, 2 sypialnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-w-gornym-mokotowie-32-m2-2-sypialnie-CID3-ID1bTEyo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:47",
-      "ts": 1787000328,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3700,
-        "rent": null,
-        "area": 32.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-17T22:47:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 44 м², 2 комнаты\n💰 2200 + czynsz 1000 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie na wynajem, 44 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-44-m-CID3-ID1bTFK0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:06",
       "ts": 1787001267,
@@ -5482,13 +5424,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 550 = <b>3250 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe ul. Radzikowskiego Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-radzikowskiego-krakow-CID3-ID1bTV5R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:35",
+      "ts": 1787042804,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 550,
+        "area": 36.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-18T10:35:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 52 м², 2 комнаты\n💰 1800 + czynsz 1260 = <b>3060 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2-pok, osobna kuchnia, jasne, ciche- Os. Wandy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-osobna-kuchnia-jasne-ciche-os-wandy-CID3-ID1bTVBJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:44",
+      "ts": 1787043434,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 1800,
+        "rent": 1260,
+        "area": 52.0,
+        "district": "Nowa Huta",
+        "business": true,
+        "created_iso": "2026-08-18T10:44:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1260
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pok, 42 m2, Grzegórzecka 72A, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-42-m2-grzegorzecka-72a-krakow-CID3-ID1bTVX6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:51",
+      "ts": 1787043751,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-18T10:51:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 38 м², 2 комнаты\n💰 3080 + czynsz 720 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 1\n🏢 агентство\n«Piękne 2 - pokojowe mieszkanie na Ursusie - ul. Przy Forcie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-2-pokojowe-mieszkanie-na-ursusie-ul-przy-forcie-CID3-ID1bTXes.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:55",
+      "ts": 1787043751,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3080,
+        "rent": 720,
+        "area": 38.0,
+        "district": "Ursus",
+        "business": true,
+        "created_iso": "2026-08-18T10:55:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 720
+      }
     }
   ],
   "stats": {
-    "checks": 4651,
-    "sent": 1552
+    "checks": 4655,
+    "sent": 1556
   },
   "initialized": true,
-  "last_check": "2026-08-18T08:41:35",
+  "last_check": "2026-08-18T09:02:43",
   "backoff_until": 1787005959.3967042
 }
