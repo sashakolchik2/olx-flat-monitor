@@ -3365,7 +3365,8 @@
     "1091953489": 1787008203,
     "1091952555": 1787008203,
     "1091962274": 1787023218,
-    "1091970177": 1787027937
+    "1091970177": 1787027937,
+    "1091970791": 1787029198
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4731,28 +4732,12 @@
     "oseldorado2pok43m2|2300|43.28|czyzyny": 1787004421,
     "mieszkaniedwupokojowedowynajecia|3150|37.5|bielany": 1787006308,
     "mieszkanie2pokojowedowynajeciakrakowkurdwanow|2500|53.0|podgorzeduchackie": 1787008203,
-    "nowe2pokojebonaklima405m²bonarkabezposrednioo|3300|40.5|podgorzeduchackie": 1787008203
+    "nowe2pokojebonaklima405m²bonarkabezposrednioo|3300|40.5|podgorzeduchackie": 1787008203,
+    "mieszkanienamokotowieodpazdziernika|3500|37.5|mokotow": 1787029198
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie na Ochocie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-ochocie-CID3-ID1bTgQb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:45",
-      "ts": 1786981834,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 650,
-        "area": 35.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-17T17:45:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 2800 + czynsz 520 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajme 2 pokoje 30 m2 balkon KLIMATYZACJA widok na Staw Plaszowski ul Wodna 26 Krakow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-30-m2-balkon-klimatyzacja-widok-na-staw-plaszowski-ul-wodna-26-krakow-CID3-ID1bThbH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:51",
       "ts": 1786982462,
@@ -5415,13 +5400,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 37.5 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na Mokotowie od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-mokotowie-od-pazdziernika-CID3-ID1bTNu7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 06:52",
+      "ts": 1787029198,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 37.5,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-18T06:52:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4605,
-    "sent": 1526
+    "checks": 4609,
+    "sent": 1527
   },
   "initialized": true,
-  "last_check": "2026-08-18T04:39:05",
+  "last_check": "2026-08-18T05:00:08",
   "backoff_until": 1787005959.3967042
 }
