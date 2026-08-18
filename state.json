@@ -3523,7 +3523,10 @@
     "1092080504": 1787079399,
     "1092083988": 1787079721,
     "1092082453": 1787079721,
-    "1092081118": 1787079721
+    "1092081118": 1787079721,
+    "1092090896": 1787080986,
+    "1092088467": 1787080986,
+    "1092090530": 1787080986
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4983,28 +4986,12 @@
     "nowoczesne2pokojerakowicka5minoddworcaglowneg|2900|35.0|grzegorzki": 1787079399,
     "mieszkaniefelinskiego|2600|48.0|pradnikbialy": 1787079399,
     "2pokmieszkaniezkuchnianawynajemkrakowsiemaszk|2200|35.0|pradnikbialy": 1787079721,
-    "nowe2pokojowemieszkanienawynajem303m²kamionek|3400|30.3|pragapoludnie": 1787079721
+    "nowe2pokojowemieszkanienawynajem303m²kamionek|3400|30.3|pragapoludnie": 1787079721,
+    "2pokoje45m21pietrowindabalkon|3700|45.0|grzegorzki": 1787080986
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 33.77 м², 2 комнаты\n💰 2950 + czynsz 550 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Nowoczesne 2 pokoje 34m2 | Praga Północ | Metro Szwedzka 7min»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-34m2-praga-polnoc-metro-szwedzka-7min-CID3-ID1bU5Eo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:58",
-      "ts": 1787051174,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2950,
-        "rent": 550,
-        "area": 33.77,
-        "district": "Praga-Północ",
-        "business": true,
-        "created_iso": "2026-08-18T12:58:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 780 = <b>3980 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe od właściciela, miejsce postojowe, Bronowice.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-od-wlasciciela-miejsce-postojowe-bronowice-CID3-ID1bU6l9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:05",
       "ts": 1787052119,
@@ -5667,13 +5654,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 45 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, 45m2, 1 pietro, windą, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45m2-1-pietro-winda-balkon-CID3-ID1bUi67.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
+      "ts": 1787080986,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3700,
+        "rent": null,
+        "area": 45.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-18T16:13:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4715,
-    "sent": 1620
+    "checks": 4719,
+    "sent": 1621
   },
   "initialized": true,
-  "last_check": "2026-08-18T19:02:14",
+  "last_check": "2026-08-18T19:23:15",
   "backoff_until": 1787075583.338769
 }
