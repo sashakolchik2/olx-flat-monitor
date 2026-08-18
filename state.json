@@ -3366,7 +3366,10 @@
     "1091952555": 1787008203,
     "1091962274": 1787023218,
     "1091970177": 1787027937,
-    "1091970791": 1787029198
+    "1091970791": 1787029198,
+    "1091972512": 1787029831,
+    "1091972974": 1787030146,
+    "1091972879": 1787030463
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4733,28 +4736,12 @@
     "mieszkaniedwupokojowedowynajecia|3150|37.5|bielany": 1787006308,
     "mieszkanie2pokojowedowynajeciakrakowkurdwanow|2500|53.0|podgorzeduchackie": 1787008203,
     "nowe2pokojebonaklima405m²bonarkabezposrednioo|3300|40.5|podgorzeduchackie": 1787008203,
-    "mieszkanienamokotowieodpazdziernika|3500|37.5|mokotow": 1787029198
+    "mieszkanienamokotowieodpazdziernika|3500|37.5|mokotow": 1787029198,
+    "mieszkaniezbalkonemiklimatyzacjawkrakowie|2600|34.0|podgorzeduchackie": 1787030146
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 2800 + czynsz 520 = <b>3320 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajme 2 pokoje 30 m2 balkon KLIMATYZACJA widok na Staw Plaszowski ul Wodna 26 Krakow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-30-m2-balkon-klimatyzacja-widok-na-staw-plaszowski-ul-wodna-26-krakow-CID3-ID1bThbH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:51",
-      "ts": 1786982462,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 520,
-        "area": 30.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-17T17:51:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 450 = <b>3150 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«mieszkanie do wynajęcia w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-w-krakowie-CID3-ID1bThH3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:56",
       "ts": 1786983088,
@@ -5417,13 +5404,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 34 м², 2 комнаты\n💰 2600 + czynsz 720 = <b>3320 zł/мес</b>\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 19 августа\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie z balkonem i klimatyzacją w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-balkonem-i-klimatyzacja-w-krakowie-CID3-ID1bTO3k.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:05",
+      "ts": 1787030146,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 720,
+        "area": 34.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-18T07:05:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4609,
-    "sent": 1527
+    "checks": 4613,
+    "sent": 1528
   },
   "initialized": true,
-  "last_check": "2026-08-18T05:00:08",
+  "last_check": "2026-08-18T05:21:11",
   "backoff_until": 1787005959.3967042
 }
