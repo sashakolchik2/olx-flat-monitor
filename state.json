@@ -3398,7 +3398,9 @@
     "1091990365": 1787038688,
     "1091989446": 1787038688,
     "1091990384": 1787039007,
-    "1091989173": 1787039007
+    "1091989173": 1787039007,
+    "1091991889": 1787039328,
+    "1091990034": 1787039328
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4785,45 +4787,13 @@
     "dwupokojowemieszkanienasaskiejkepie|2588|38.0|pragapoludnie": 1787038688,
     "srodmiesciemetroswietokrzyska2pokojeporemonci|3200|37.0|srodmiescie": 1787038688,
     "mieszkanie2pokczynszimediawcenie3550plnapartm|2950|35.0|krowodrza": 1787039007,
-    "mieszkanie2pokojoweprzyulicybluszczanskiejdol|3500|36.0|mokotow": 1787039007
+    "mieszkanie2pokojoweprzyulicybluszczanskiejdol|3500|36.0|mokotow": 1787039007,
+    "mieszkanienabanachaczekanaciebieodpazdziernik|3000|53.57|pradnikbialy": 1787039328,
+    "bezposrednio2oddzielnepokojeaviakrakowskipark|3300|46.0|czyzyny": 1787039328
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie Os. Wilno Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-os-wilno-warszawa-CID3-ID1bTB1r.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:47",
-      "ts": 1786996563,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 46.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-17T21:47:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 360 = <b>3560 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie dwupokojowe przy Rondzie Mogilskim obok Unity Center»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-przy-rondzie-mogilskim-obok-unity-center-CID3-ID1bTBdz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
-      "ts": 1786996878,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 360,
-        "area": 43.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-17T21:50:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3450 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: 350 zł/мес\n🏢 Этаж: 1\n🏢 агентство\n«ZOSTAŃ PIERWSZYM LOKATOREM|parking|balkon|komórka|AWF|Tauron Arena|M1|»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zostan-pierwszym-lokatorem-parking-balkon-komorka-awf-tauron-arena-m1-CID3-ID1bTBzV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:55",
       "ts": 1786996878,
@@ -5469,13 +5439,47 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n🏢 Этаж: 6\n👤 от собственника\n«Bezpośrednio - 2 oddzielne pokoje - Avia - Krakowski Park Technologiczny (owner speaks English/Ukrainian)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-oddzielne-pokoje-avia-krakowski-park-technologiczny-owner-speaks-english-ukrainian-CID3-ID1bTSuu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:29",
+      "ts": 1787039328,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 46.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-18T09:29:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 53.57 м², 2 комнаты\n💰 3000 + czynsz 726 = <b>3726 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🌐 Интернет: 72 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie na Banacha czeka na Ciebie (od października/końca września)!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-banacha-czeka-na-ciebie-od-pazdziernika-konca-wrzesnia-CID3-ID1bTSYp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:42",
+      "ts": 1787039328,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 53.57,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-18T09:42:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": 726
+      }
     }
   ],
   "stats": {
-    "checks": 4640,
-    "sent": 1547
+    "checks": 4643,
+    "sent": 1549
   },
   "initialized": true,
-  "last_check": "2026-08-18T07:43:39",
+  "last_check": "2026-08-18T07:59:30",
   "backoff_until": 1787005959.3967042
 }
