@@ -3493,7 +3493,13 @@
     "1092057203": 1787055590,
     "1092061978": 1787055903,
     "1092057315": 1787055903,
-    "1092061767": 1787056217
+    "1092061767": 1787056217,
+    "1092064071": 1787056532,
+    "1092061874": 1787056532,
+    "1092064364": 1787056532,
+    "1092064884": 1787056846,
+    "1092066302": 1787057469,
+    "1092065479": 1787057469
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4937,45 +4943,13 @@
     "mieszkanieprzymetrzewierzbno36m22pokojewidokn|3200|36.0|mokotow": 1787055274,
     "wlascicielkawynajmiemieszkanie2pokojoweapartm|2600|45.0|podgorzeduchackie": 1787055590,
     "2pok41m2targowekulkondratowiczametronowezgara|2700|41.0|targowek": 1787055903,
-    "wynajmemieszkanie48m2warszawagornymokotow|2800|48.0|mokotow": 1787056217
+    "wynajmemieszkanie48m2warszawagornymokotow|2800|48.0|mokotow": 1787056217,
+    "wynajem2pokojowegomieszkaniaprzyjaznegozwierz|3000|50.0|bronowice": 1787056532,
+    "mieszkanie37m2nawynajemtarchomin|2800|37.0|bialoleka": 1787057469
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 670 = <b>3470 zł/мес</b>\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Mokotów | Kawalerka | Balkon | Łazienki Królewskie | Kamienica | 3 m wys.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mokotow-kawalerka-balkon-lazienki-krolewskie-kamienica-3-m-wys-CID3-ID1bU00L.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:32",
-      "ts": 1787046151,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 670,
-        "area": 31.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-18T11:32:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 363 = <b>3663 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3723 zł/мес\n⚡ Свет/медиа: ≈ 60 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 46m2 centrum - Kazimierz - wysoki standard - od Właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-46m2-centrum-kazimierz-wysoki-standard-od-wlasciciela-CID3-ID1bU0De.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:42",
-      "ts": 1787047089,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 46.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-18T11:42:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 363
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie na wynajem, 2 pokoje 50 m², Ursynów Warszawa 100 m do metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-pokoje-50-m-ursynow-warszawa-100-m-do-metra-CID3-ID1bU0Zq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:47",
       "ts": 1787047089,
@@ -5621,13 +5595,47 @@
       "an": {
         "czynsz_desc": 830
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 890 = <b>3890 zł/мес</b>\n   ≈ с медиа около 4780 zł/мес\n⚡ Свет/медиа: ≈ 890 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem 2-pokojowego mieszkania przyjaznego zwierzętom.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowego-mieszkania-przyjaznego-zwierzetom-CID3-ID1bUbKD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
+      "ts": 1787056532,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 890,
+        "area": 50.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-18T14:28:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 37 m2 na wynajem Tarchomin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-37-m2-na-wynajem-tarchomin-CID3-ID1bUc7l.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:35",
+      "ts": 1787057469,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 700,
+        "area": 37.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-18T14:35:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 770
+      }
     }
   ],
   "stats": {
-    "checks": 4667,
-    "sent": 1604
+    "checks": 4671,
+    "sent": 1606
   },
   "initialized": true,
-  "last_check": "2026-08-18T12:30:26",
+  "last_check": "2026-08-18T12:51:18",
   "backoff_until": 1787005959.3967042
 }
