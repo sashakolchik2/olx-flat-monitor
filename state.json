@@ -3500,9 +3500,15 @@
     "1092064884": 1787056846,
     "1092066302": 1787057469,
     "1092065479": 1787057469,
+<<<<<<< Updated upstream
     "1092067271": 1787057785,
     "1092067950": 1787058096,
     "1092065258": 1787058096
+=======
+    "1092067950": 1787065241,
+    "1092065258": 1787065241,
+    "1092067271": 1787065241
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4949,7 +4955,11 @@
     "wynajmemieszkanie48m2warszawagornymokotow|2800|48.0|mokotow": 1787056217,
     "wynajem2pokojowegomieszkaniaprzyjaznegozwierz|3000|50.0|bronowice": 1787056532,
     "mieszkanie37m2nawynajemtarchomin|2800|37.0|bialoleka": 1787057469,
+<<<<<<< Updated upstream
     "mieszkanienawynajemmokotow|4000|49.0|mokotow": 1787058096
+=======
+    "mieszkanienawynajemmokotow|3500|49.0|mokotow": 1787065241
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625396,
   "paused": false,
@@ -5618,12 +5628,21 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Mokotów</b> — 49 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 10\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem MOKOTÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-mokotow-CID3-ID1bUcLc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
       "ts": 1787058096,
       "city": "warszawa",
       "perfect": false,
       "of": {
         "price": 4000,
+=======
+      "text": "🏠 <b>Варшава, Mokotów</b> — 49 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 10\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem MOKOTÓW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-mokotow-CID3-ID1bUcLc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
+      "ts": 1787065241,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+>>>>>>> Stashed changes
         "rent": null,
         "area": 49.0,
         "district": "Mokotów",
@@ -5636,10 +5655,18 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 4695,
     "sent": 1607
   },
   "initialized": true,
   "last_check": "2026-08-18T14:56:13",
+=======
+    "checks": 4675,
+    "sent": 1607
+  },
+  "initialized": true,
+  "last_check": "2026-08-18T15:16:35",
+>>>>>>> Stashed changes
   "backoff_until": 1787005959.3967042
 }
