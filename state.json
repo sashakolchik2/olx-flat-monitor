@@ -3435,7 +3435,15 @@
     "1092021328": 1787047089,
     "1092022704": 1787047089,
     "1092022626": 1787047407,
-    "1092025184": 1787047720
+    "1092025184": 1787047720,
+    "1092029472": 1787048036,
+    "1092026704": 1787048036,
+    "1092025235": 1787048036,
+    "1092029160": 1787048347,
+    "1092028915": 1787048347,
+    "1092027748": 1787048347,
+    "1092029529": 1787048659,
+    "1092028527": 1787048971
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4844,45 +4852,13 @@
     "mieszkanie46m2centrumkazimierzwysokistandardo|3300|46.0|staremiasto": 1787047089,
     "mieszkanienawynajem2pokoje50m²ursynowwarszawa|3600|50.0|ursynow": 1787047089,
     "wynajmebezp2pokaljanapawlaiiulogrodowa750mdom|3200|37.0|wola": 1787047407,
-    "mieszkanie2pokojowe40m²zbalkonemaleja29listop|2800|40.0|pradnikbialy": 1787047720
+    "mieszkanie2pokojowe40m²zbalkonemaleja29listop|2800|40.0|pradnikbialy": 1787047720,
+    "2pokojowelagiewnikiwoladuchackabezprowizji|2750|33.0|lagiewnikiborekfalec": 1787048347,
+    "mieszkanie2pokojeosobnakuchnia109|2800|40.0|bienczyce": 1787048971
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 45 м², 2 комнаты\n💰 2900 + czynsz 542 = <b>3442 zł/мес</b>\n   ≈ с медиа около 3477 zł/мес\n⚡ Свет/медиа: ≈ 35 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2 osobne pokoje blisko uczelni i Dworca Galerii Krakowskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-blisko-uczelni-i-dworca-galerii-krakowskiej-CID3-ID1bTOEq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:43",
-      "ts": 1787032671,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 542,
-        "area": 45.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-18T07:43:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pok. ul. Konstruktorska 5 - | Pozytywny Mokotów | od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-ul-konstruktorska-5-pozytywny-mokotow-od-zaraz-CID3-ID1bTPJd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:10",
-      "ts": 1787034250,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 33.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-18T08:10:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 550 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«DO WYNAJĘCIA - Dobrego Pasterza, Kraków - 41m2, 2 pokoje, balkon, wyremontowane, WARTO!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-dobrego-pasterza-krakow-41m2-2-pokoje-balkon-wyremontowane-warto-CID3-ID1bTPSq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:16",
       "ts": 1787034250,
@@ -5528,13 +5504,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 33 м², 2 комнаты\n💰 2750 + czynsz 470 = <b>3220 zł/мес</b>\n   ≈ с медиа около 3270 zł/мес\n⚡ Свет/медиа: ≈ 50 zł + свет по счётчику\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe Łagiewniki, Wola Duchacka-bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-lagiewniki-wola-duchacka-bez-prowizji-CID3-ID1bU2BB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:09",
+      "ts": 1787048347,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 470,
+        "area": 33.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-18T12:09:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje osobną kuchnia 1.09»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-osobna-kuchnia-1-09-CID3-ID1bU2wl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:07",
+      "ts": 1787048971,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 650,
+        "area": 40.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-18T12:07:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4640,
-    "sent": 1569
+    "checks": 4644,
+    "sent": 1571
   },
   "initialized": true,
-  "last_check": "2026-08-18T10:08:49",
+  "last_check": "2026-08-18T10:29:39",
   "backoff_until": 1787005959.3967042
 }
