@@ -3577,7 +3577,10 @@
     "1092194368": 1787085432,
     "1092193589": 1787085432,
     "1092194698": 1787085432,
-    "1092194077": 1787085432
+    "1092194077": 1787085432,
+    "1092194418": 1787086068,
+    "1092196163": 1787086068,
+    "1092133785": 1787086068
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5068,62 +5071,14 @@
     "mieszkanieulobopolna2pokoje38m2osobnakuchniao|2950|38.0|krowodrza": 1787084802,
     "wolaulprzanowskiego2pok70mparking|3500|70.0|wola": 1787085432,
     "mieszkanie38mnawynajembielany2pokoje|3300|38.0|bielany": 1787085432,
-    "2pokojowemieszkaniemetroraclawickasgh|3000|51.0|mokotow": 1787085432
+    "2pokojowemieszkaniemetroraclawickasgh|3000|51.0|mokotow": 1787085432,
+    "2pokoje41m2warszawabielany|2900|41.5|bielany": 1787086068,
+    "mieszkanie2pokoje34mbrodno|2800|34.0|targowek": 1787086068,
+    "wynajmemieszkanie60m|4000|60.0|pragapoludnie": 1787086068
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 50 м², 2 комнаты\n💰 2499 + czynsz 630 = <b>3129 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 50m2 Myśliborska, 2 pokoje, 1 piętro, oddzielna kuchnia, parking w cenie, bliska Białołęka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50m2-mysliborska-2-pokoje-1-pietro-oddzielna-kuchnia-parking-w-cenie-bliska-bialoleka-CID3-ID1bUeHO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:19",
-      "ts": 1787078131,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2499,
-        "rent": 630,
-        "area": 50.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-18T15:19:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n   ≈ с медиа около 3775 zł/мес\n⚡ Свет/медиа: ≈ 35 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Kazimierza Wielkiego 2 pokoje nieopodal Placu Inwalidów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kazimierza-wielkiego-2-pokoje-nieopodal-placu-inwalidow-CID3-ID1bUfzS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:34",
-      "ts": 1787078767,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 740,
-        "area": 50.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-18T15:34:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 740
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 36 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na Powiślu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-powislu-CID3-ID1bUfQz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
-      "ts": 1787078767,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 36.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-18T15:39:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2600 + czynsz 550 = <b>3150 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n👤 от собственника\n«Mieszkanie Felińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-felinskiego-CID3-ID1bUg1G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:42",
       "ts": 1787079399,
@@ -5752,13 +5707,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 60 м², 2 комнаты\n💰 <b>4000 zł/мес</b> — czynsz включён\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie 60 m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-60-m-CID3-ID1bUtT3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
+      "ts": 1787086068,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 60.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-18T19:11:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 41.5 м², 2 комнаты\n💰 2900 + czynsz 850 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje - 41m2 - Warszawa Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-41m2-warszawa-bielany-CID3-ID1bUJF0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:27",
+      "ts": 1787086068,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 850,
+        "area": 41.5,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-18T22:27:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje 34 m Bródno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-34-m-brodno-CID3-ID1bUK79.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:37",
+      "ts": 1787086068,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 700,
+        "area": 34.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-18T22:37:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 4731,
-    "sent": 1651
+    "checks": 4732,
+    "sent": 1654
   },
   "initialized": true,
-  "last_check": "2026-08-18T20:42:40",
+  "last_check": "2026-08-18T20:48:03",
   "backoff_until": 1787083794.938531
 }
