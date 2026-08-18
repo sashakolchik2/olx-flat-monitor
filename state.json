@@ -3511,7 +3511,19 @@
     "1092075428": 1787078131,
     "1092074737": 1787078131,
     "1092074907": 1787078131,
-    "1092075268": 1787078131
+    "1092075268": 1787078131,
+    "1092078780": 1787078767,
+    "1092079815": 1787078767,
+    "1092020527": 1787078767,
+    "1092080209": 1787079085,
+    "1092081365": 1787079085,
+    "1092083827": 1787079399,
+    "1092083558": 1787079399,
+    "1092082524": 1787079399,
+    "1092080504": 1787079399,
+    "1092083988": 1787079721,
+    "1092082453": 1787079721,
+    "1092081118": 1787079721
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -4963,147 +4975,19 @@
     "2pok40mkw1szepietrowindagarazwceniebezposredn|2800|40.0|bialoleka": 1787077812,
     "wynajmemieszkanie2pokojoweheroldow25|2500|33.0|bielany": 1787077812,
     "mieszkanie50m2mysliborska2pokoje1pietrooddzie|2499|50.0|bialoleka": 1787078131,
-    "2pokojemokotowmarzanny4|3500|39.4|mokotow": 1787078131
+    "2pokojemokotowmarzanny4|3500|39.4|mokotow": 1787078131,
+    "kazimierzawielkiego2pokojenieopodalplacuinwal|3000|50.0|krowodrza": 1787078767,
+    "mieszkanie2pokojowenapowislu|3800|36.0|srodmiescie": 1787078767,
+    "wynajmemieszkanie55m2dla23osulbytomskakrowodr|2600|55.0|krowodrza": 1787079399,
+    "odzaraz2pok35m2rusznikarskabalkon3350plncalos|2600|35.0|pradnikbialy": 1787079399,
+    "nowoczesne2pokojerakowicka5minoddworcaglowneg|2900|35.0|grzegorzki": 1787079399,
+    "mieszkaniefelinskiego|2600|48.0|pradnikbialy": 1787079399,
+    "2pokmieszkaniezkuchnianawynajemkrakowsiemaszk|2200|35.0|pradnikbialy": 1787079721,
+    "nowe2pokojowemieszkanienawynajem303m²kamionek|3400|30.3|pragapoludnie": 1787079721
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 650 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne mieszkanie z osobną sypialnią 40m2 ul.Masarska 15»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-z-osobna-sypialnia-40m2-ul-masarska-15-CID3-ID1bU3l7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:22",
-      "ts": 1787049286,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 650,
-        "area": 40.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-18T12:22:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 35.36 м², 2 комнаты\n💰 2900 + czynsz 775 = <b>3675 zł/мес</b>\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n🏢 агентство\n«Mieszkanie z dużą loggią na osiedlu Urbino»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-duza-loggia-na-osiedlu-urbino-CID3-ID1bU3BE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:27",
-      "ts": 1787049286,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 775,
-        "area": 35.36,
-        "district": "Ochota",
-        "business": true,
-        "created_iso": "2026-08-18T12:27:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 775
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 40 м², 2 комнаты\n💰 3850 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 40m po remoncie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m-po-remoncie-CID3-ID1bU3E6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:28",
-      "ts": 1787049286,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3850,
-        "rent": null,
-        "area": 40.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-18T12:28:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 54 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«BEZ PROWIZJI 2-pokojowe mieszkanie z miejscem postojowym, ul. Wizjonerów [Bronowice]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-2-pokojowe-mieszkanie-z-miejscem-postojowym-ul-wizjonerow-bronowice-CID3-ID1bU36M.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:18",
-      "ts": 1787049605,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 900,
-        "area": 54.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-18T12:18:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 54 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3540 zł/мес\n⚡ Свет/медиа: ≈ 140 zł + свет по счётчику\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Dla 2-3 studentek | 2 osobne pokoje | 2900 zł | 54m2 | 500m do UEK | Różowa kuchnia!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dla-2-3-studentek-2-osobne-pokoje-2900-zl-54m2-500m-do-uek-rozowa-kuchnia-CID3-ID1bU4lu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:39",
-      "ts": 1787050229,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 500,
-        "area": 54.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-18T12:39:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 25 м², 2 комнаты\n💰 2950 + czynsz 400 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🔐 Kaucja (залог): 3350 zł\n📅 Заселение: с 19 августа\n🏢 агентство\n«2 pokoje po remoncie | Pierwszy lokator | Metro M2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-po-remoncie-pierwszy-lokator-metro-m2-CID3-ID1bU4DV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:44",
-      "ts": 1787050546,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 400,
-        "area": 25.0,
-        "district": "Targówek",
-        "business": true,
-        "created_iso": "2026-08-18T12:44:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 2999 + czynsz 600 = <b>3599 zł/мес</b>\n   ≈ с медиа около 3749 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«NOWE | 2 pokojowe | BAGRY, Gromadzka, Kuklińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-bagry-gromadzka-kuklinskiego-CID3-ID1bU4Up.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:48",
-      "ts": 1787050546,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2999,
-        "rent": 600,
-        "area": 43.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-18T12:48:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 54 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4200 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokojowe/ Klimatyzacja/ blisko Centrum AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-klimatyzacja-blisko-centrum-agh-CID3-ID1bU4wl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:42",
-      "ts": 1787050861,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 54.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-18T12:42:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 33.77 м², 2 комнаты\n💰 2950 + czynsz 550 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Nowoczesne 2 pokoje 34m2 | Praga Północ | Metro Szwedzka 7min»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-34m2-praga-polnoc-metro-szwedzka-7min-CID3-ID1bU5Eo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:58",
       "ts": 1787051174,
@@ -5647,13 +5531,149 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n   ≈ с медиа около 3775 zł/мес\n⚡ Свет/медиа: ≈ 35 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Kazimierza Wielkiego 2 pokoje nieopodal Placu Inwalidów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kazimierza-wielkiego-2-pokoje-nieopodal-placu-inwalidow-CID3-ID1bUfzS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:34",
+      "ts": 1787078767,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 740,
+        "area": 50.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-18T15:34:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 740
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 36 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na Powiślu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-powislu-CID3-ID1bUfQz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:39",
+      "ts": 1787078767,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 36.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-18T15:39:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2600 + czynsz 550 = <b>3150 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n👤 от собственника\n«Mieszkanie Felińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-felinskiego-CID3-ID1bUg1G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:42",
+      "ts": 1787079399,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 550,
+        "area": 48.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-18T15:42:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 597 = <b>3497 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne 2 pokoje | Rakowicka | 5 min od Dworca Głównego | Klimatyzacja | od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-rakowicka-5-min-od-dworca-glownego-klimatyzacja-od-pazdziernika-CID3-ID1bUgyg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:50",
+      "ts": 1787079399,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 597,
+        "area": 35.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-18T15:50:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 596
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 550 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«od zaraz, 2-pok. 35m2 *Rusznikarska* balkon, 3350 PLN całość opłat»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-zaraz-2-pok-35m2-rusznikarska-balkon-3350-pln-calosc-oplat-CID3-ID1bUgOV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:54",
+      "ts": 1787079399,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 550,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-18T15:54:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 55 м², 2 комнаты\n💰 2600 + czynsz 850 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie 55m2 dla 2-3 os. ul. Bytomska (Krowodrza) blisko AGH, UKEN, Biprostal»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-55m2-dla-2-3-os-ul-bytomska-krowodrza-blisko-agh-uken-biprostal-CID3-ID1bUgTh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:55",
+      "ts": 1787079399,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 850,
+        "area": 55.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-18T15:55:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 30.3 м², 2 комнаты\n💰 3400 + czynsz 462 = <b>3862 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Nowe 2-pokojowe mieszkanie na wynajem | 30,3 m² | Kamionek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-na-wynajem-30-3-m-kamionek-CID3-ID1bUgbA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:45",
+      "ts": 1787079721,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3400,
+        "rent": 462,
+        "area": 30.3,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-18T15:45:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 462
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 2200 + czynsz 900 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3250 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 50 zł/мес\n🏢 Этаж: 2\n👤 от собственника\n«2 pok. mieszkanie z kuchnią na wynajem, Kraków Siemaszki, prywatnie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-z-kuchnia-na-wynajem-krakow-siemaszki-prywatnie-CID3-ID1bUgWS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:56",
+      "ts": 1787079721,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 900,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-18T15:56:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4711,
-    "sent": 1612
+    "checks": 4715,
+    "sent": 1620
   },
   "initialized": true,
-  "last_check": "2026-08-18T18:40:57",
+  "last_check": "2026-08-18T19:02:14",
   "backoff_until": 1787075583.338769
 }
