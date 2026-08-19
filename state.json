@@ -3886,7 +3886,8 @@
     "1092510393": 1787174440,
     "1092510355": 1787174755,
     "1092512280": 1787175074,
-    "1092512399": 1787175074
+    "1092512399": 1787175074,
+    "1092513682": 1787176021
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5539,28 +5540,12 @@
     "mieszkanie50metrowenowoczesneibardzofunkcjona|2900|50.0|staremiasto": 1787171594,
     "dowynajeciamieszkaniedwupokojoweok55m²krakowb|3600|55.0|bronowice": 1787171594,
     "2pokojowemieszkanie35m²nawoli|2900|35.0|wola": 1787174123,
-    "mieszkanie2pokojowewpelniwyposazonezpiwnicabl|2600|38.0|bielany": 1787174755
+    "mieszkanie2pokojowewpelniwyposazonezpiwnicabl|2600|38.0|bielany": 1787174755,
+    "bemowo2pokoje395m²metro250mgaraz|3000|39.5|bemowo": 1787176021
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem – ul. Orzycka - Mokotow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-ul-orzycka-mokotow-CID3-ID1bWzXL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:18",
-      "ts": 1787154032,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-19T17:18:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков</b> — 32 м², 2 комнаты\n💰 3150 + czynsz 593 = <b>3743 zł/мес</b>\n   ≈ с медиа около 3831 zł/мес\n⚡ Свет/медиа: ≈ 88 zł + свет по счётчику\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«RAKOWICKA NOVUM II / 2 POK / klimatyzacja / piękne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-novum-ii-2-pok-klimatyzacja-piekne-CID3-ID1bWDvk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:55",
       "ts": 1787155893,
@@ -6223,13 +6208,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 39.5 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Bemowo | 2 pokoje 39,5 m² | Metro 250 m | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-39-5-m-metro-250-m-garaz-CID3-ID1bV4Iq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:33",
+      "ts": 1787176021,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 900,
+        "area": 39.5,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-19T23:33:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 4918,
-    "sent": 1813
+    "checks": 4922,
+    "sent": 1814
   },
   "initialized": true,
-  "last_check": "2026-08-19T21:31:23",
+  "last_check": "2026-08-19T21:52:26",
   "backoff_until": 1787155561.7123396
 }
