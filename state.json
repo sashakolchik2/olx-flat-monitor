@@ -3860,7 +3860,11 @@
     "1092472650": 1787166575,
     "1092472512": 1787166889,
     "1092476096": 1787167203,
-    "1092475118": 1787167203
+    "1092475118": 1787167203,
+    "1092470272": 1787167519,
+    "1092480441": 1787168145,
+    "1092479946": 1787168457,
+    "1092477509": 1787168457
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5500,62 +5504,14 @@
     "miasteczkowilanow40m²2pokojezkuchniagaraz|3900|40.0|wilanow": 1787166258,
     "mieszkanie2pokojowezbalkonemnapradzepoludnie|3100|45.0|pragapoludnie": 1787166575,
     "mieszkanienawynajemdwapokojeulpodleska|2200|39.5|biezanowprokocim": 1787166889,
-    "2pokojowemieszkanieultomciapalucha|3300|47.0|ursus": 1787167203
+    "2pokojowemieszkanieultomciapalucha|3300|47.0|ursus": 1787167203,
+    "2pokojnerondomatecznegoulrydlowka|2700|42.0|lagiewnikiborekfalec": 1787167519,
+    "nowemieszkanienawynajem2pokojelublanska|3000|46.0|pradnikczerwony": 1787168457,
+    "nowe2pokojowemieszkanie44m²mokotowgarazkomork|3100|44.0|mokotow": 1787168457
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 39 м², 2 комнаты\n💰 2200 + czynsz 800 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe blisko WUM, UW i lotniska Chopina»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-blisko-wum-uw-i-lotniska-chopina-CID3-ID1bWu5c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
-      "ts": 1787149938,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2200,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-19T16:13:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 650 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 39 zł/мес\n🔐 Kaucja (залог): 5500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Nowe 2 pokoje, 38 m² | Bulwary Praskie | Klimatyzacja | Garaż | Loggia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-38-m-bulwary-praskie-klimatyzacja-garaz-loggia-CID3-ID1bWwVa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:32",
-      "ts": 1787150252,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 650,
-        "area": 38.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-19T16:32:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 830 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«WYNAJEM | Tarchomin | 47 m² | 2 pokoje z oddzielną kuchnią | balkon | parking zew. | winda | OD ZARAZ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-tarchomin-47-m-2-pokoje-z-oddzielna-kuchnia-balkon-parking-zew-winda-od-zaraz-CID3-ID1bWs9q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:50",
-      "ts": 1787150568,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 830,
-        "area": 47.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-19T15:50:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 660 = <b>3260 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie dwu-pokojowe 35 mkw»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwu-pokojowe-35-mkw-CID3-ID1bWwVm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:32",
       "ts": 1787150568,
@@ -6184,13 +6140,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n👤 от собственника\n«2 pokojne rondo Matecznego ul. Rydlowka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojne-rondo-matecznego-ul-rydlowka-CID3-ID1bWTqg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:54",
+      "ts": 1787167519,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 42.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-19T20:54:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 44 м², 2 комнаты\n💰 3100 + czynsz 850 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Nowe 2-pokojowe mieszkanie 44 m² | Mokotów | Garaż + komórka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-44-m-mokotow-garaz-komorka-CID3-ID1bWWiZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:15",
+      "ts": 1787168457,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 850,
+        "area": 44.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-19T21:15:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 770 = <b>3770 zł/мес</b>\n   ≈ с медиа около 3807 zł/мес\n⚡ Свет/медиа: ≈ 37 zł/мес\n🔐 Kaucja (залог): 3770 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie na wynajem - 2 pokoje - Lublańska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-na-wynajem-2-pokoje-lublanska-CID3-ID1bWWVi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
+      "ts": 1787168457,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 770,
+        "area": 46.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-19T21:23:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4913,
-    "sent": 1800
+    "checks": 4917,
+    "sent": 1803
   },
   "initialized": true,
-  "last_check": "2026-08-19T19:20:12",
+  "last_check": "2026-08-19T19:41:08",
   "backoff_until": 1787155561.7123396
 }
