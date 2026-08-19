@@ -3799,7 +3799,12 @@
     "1092291669": 1787154032,
     "1092396504": 1787154032,
     "1092395469": 1787154032,
-    "1092401858": 1787154349
+    "1092401858": 1787154349,
+    "1092408106": 1787155582,
+    "1092406165": 1787155582,
+    "1092402786": 1787155582,
+    "1092409144": 1787155893,
+    "1092407956": 1787155893
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5413,28 +5418,12 @@
     "mieszkanienawynajemkrakowwoladuchackasebastia|3000|47.0|podgorzeduchackie": 1787153404,
     "mieszkanienawynajemwarszawapoborzanska4metrob|2500|44.0|targowek": 1787153404,
     "mieszkaniezabiniec|3000|40.0|pradnikbialy": 1787154032,
-    "mieszkanie2pokojowenawynajemulorzyckamokotow|2800|42.0|mokotow": 1787154032
+    "mieszkanie2pokojowenawynajemulorzyckamokotow|2800|42.0|mokotow": 1787154032,
+    "rakowickanovumii2pokklimatyzacjapiekne|3150|32.0|": 1787155893
   },
   "tg_offset": 654625399,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 33 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3600 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«2 pokojowe | ul. Kraszewskiego, Salwator | komórka lokatorska | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ul-kraszewskiego-salwator-komorka-lokatorska-bez-prowizji-CID3-ID1bWhIp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:10",
-      "ts": 1787139082,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 650,
-        "area": 33.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-19T13:10:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje, 48m2, Al. Jana Pawła II / Babka Tower/CH Arkadia /Metro Dw. Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48m2-al-jana-pawla-ii-babka-tower-ch-arkadia-metro-dw-gdanski-CID3-ID1bWi4d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:15",
       "ts": 1787139082,
@@ -6097,13 +6086,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков</b> — 32 м², 2 комнаты\n💰 3150 + czynsz 593 = <b>3743 zł/мес</b>\n   ≈ с медиа около 3831 zł/мес\n⚡ Свет/медиа: ≈ 88 zł + свет по счётчику\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«RAKOWICKA NOVUM II / 2 POK / klimatyzacja / piękne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-novum-ii-2-pok-klimatyzacja-piekne-CID3-ID1bWDvk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:55",
+      "ts": 1787155893,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 593,
+        "area": 32.0,
+        "district": "",
+        "business": false,
+        "created_iso": "2026-08-19T17:55:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4875,
-    "sent": 1774
+    "checks": 4879,
+    "sent": 1775
   },
   "initialized": true,
-  "last_check": "2026-08-19T15:45:56",
+  "last_check": "2026-08-19T16:22:03",
   "backoff_until": 1787155561.7123396
 }
