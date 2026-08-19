@@ -3735,7 +3735,18 @@
     "1092333045": 1787140687,
     "1092334782": 1787141010,
     "1092335340": 1787141325,
-    "1092336573": 1787141325
+    "1092336573": 1787141325,
+    "1092338424": 1787141645,
+    "1092339157": 1787141959,
+    "1092339535": 1787141959,
+    "1092316869": 1787141959,
+    "1092338668": 1787141959,
+    "1092338193": 1787141959,
+    "1092343812": 1787142590,
+    "1092342099": 1787142590,
+    "1092339868": 1787142590,
+    "1092343129": 1787142590,
+    "1092341266": 1787142590
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5318,62 +5329,14 @@
     "nowemieszkaniewcentrumprzywisle|3000|42.0|podgorze": 1787140369,
     "dostepneodzarazzabiniec48m22pokojebalkonwpeln|2600|48.0|pradnikbialy": 1787140687,
     "dowynajeciamieszkanie2pokojekuchniamogilska|3000|50.0|grzegorzki": 1787140687,
-    "2pok50m2balkonulkluczborskakrowodrzagorka|2950|50.0|pradnikbialy": 1787141325
+    "2pok50m2balkonulkluczborskakrowodrzagorka|2950|50.0|pradnikbialy": 1787141325,
+    "sloneczne2pokojebalkon41m2ulmazowiecka33stara|2700|41.0|krowodrza": 1787142590,
+    "2pokojoweodzaraz|2700|40.0|pradnikczerwony": 1787142590,
+    "przytulnakawalerkazosobnasypialniametrobemowo|2700|22.0|bemowo": 1787142590
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 1100 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Przytulne 2-pokojowe mieszkanie 48 m² z 7m2 balkonem | ul. Śnierawitów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-48-m-z-7m2-balkonem-ul-snierawitow-CID3-ID1bW5ja.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:41",
-      "ts": 1787128272,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1100,
-        "area": 48.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-19T09:41:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1100
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 74 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 Osobne Pokoje | nieumeblowane | od 1 września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-nieumeblowane-od-1-wrzesnia-CID3-ID1bW5Mc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:51",
-      "ts": 1787128272,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 74.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-19T09:51:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Rembertów</b> — 48 м², 2 комнаты\n💰 2700 + czynsz 599 = <b>3299 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokojowe w Warszawie Rembertów, parking gratis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-warszawie-rembertow-parking-gratis-CID3-ID1bW6hj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:59",
-      "ts": 1787128272,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 599,
-        "area": 48.0,
-        "district": "Rembertów",
-        "business": false,
-        "created_iso": "2026-08-19T09:59:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«Mieszkanie 2-pok. | z parkingiem | KLIMA | Q3 CAM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-z-parkingiem-klima-q3-cam-CID3-ID1bW6sx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:02",
       "ts": 1787128272,
@@ -6002,13 +5965,64 @@
       "an": {
         "czynsz_desc": 660
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-od-zaraz-CID3-ID1bWluY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:09",
+      "ts": 1787142590,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-19T14:09:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 22 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Przytulna kawalerka z osobną sypialnią Metro Bemowo od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulna-kawalerka-z-osobna-sypialnia-metro-bemowo-od-wrzesnia-CID3-ID1bWlRv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:13",
+      "ts": 1787142590,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 500,
+        "area": 22.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-19T14:13:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 300 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Słoneczne, 2 pokoje, balkon, 41m2, ul. Mazowiecka 33, Stara Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-balkon-41m2-ul-mazowiecka-33-stara-krowodrza-CID3-ID1bWmvA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
+      "ts": 1787142590,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 300,
+        "area": 41.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-19T14:21:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 300
+      }
     }
   ],
   "stats": {
-    "checks": 4850,
-    "sent": 1743
+    "checks": 4854,
+    "sent": 1746
   },
   "initialized": true,
-  "last_check": "2026-08-19T12:08:55",
+  "last_check": "2026-08-19T12:30:04",
   "backoff_until": 1787115448.1914053
 }
