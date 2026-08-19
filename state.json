@@ -3707,7 +3707,16 @@
     "1092313724": 1787135906,
     "1092314980": 1787136223,
     "1092317364": 1787136538,
-    "1092312995": 1787136538
+    "1092312995": 1787136538,
+    "1092318450": 1787136860,
+    "1092318392": 1787136860,
+    "1092318025": 1787137178,
+    "1092319603": 1787137178,
+    "1092318792": 1787137178,
+    "1092319890": 1787137495,
+    "1092320459": 1787137495,
+    "1092320048": 1787137495,
+    "1092321716": 1787137813
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5275,62 +5284,14 @@
     "warszawawola375m|2600|37.5|wola": 1787135588,
     "fajnemieszkaniedlaparylubsinglanagrzegorzkach|2900|38.0|grzegorzki": 1787135906,
     "wynajmemieszkanie2pokojeochota|2700|38.0|ochota": 1787136538,
-    "wynajmemieszkanie|3800|46.8|ursus": 1787136538
+    "wynajmemieszkanie|3800|46.8|ursus": 1787136538,
+    "2pokoje48m2ogrodek60m2klimatyzacjaosiedleeuro|2990|48.0|debniki": 1787136860,
+    "dowynajeciamieszkanie2pokojowealjanapawla150b|3000|46.0|czyzyny": 1787137178,
+    "wlascicielprzestronnejasne2pokojowemieszkanie|2900|39.0|pradnikczerwony": 1787137495
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 620 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe, pięknie umeblowane mieszkanie z balkonem i windą – Kraków, Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-pieknie-umeblowane-mieszkanie-z-balkonem-i-winda-krakow-grzegorzki-CID3-ID1bUrx1.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:40",
-      "ts": 1787109803,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 620,
-        "area": 41.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-18T18:40:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🏢 Этаж: 3\n👤 от собственника\n«DO WYNAJĘCIA odnowione 2 pokoje - blisko metra Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-odnowione-2-pokoje-blisko-metra-wola-CID3-ID1bUrmR.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:37",
-      "ts": 1787110120,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 37.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-18T18:37:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 36 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia - Warszawa, Wola, 36 m2, świeżo odnowione, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-wola-36-m2-swiezo-odnowione-blisko-metra-CID3-ID1bUqy8.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:23",
-      "ts": 1787110436,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 36.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-18T18:23:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 38.08 м², 2 комнаты\n💰 2600 + czynsz 599 = <b>3199 zł/мес</b>\n📅 Заселение: с 20 августа\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe 38 m2 ul. Klonowica Bonarka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-38-m2-ul-klonowica-bonarka-CID3-ID1bUqV1.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:30",
       "ts": 1787110436,
@@ -5959,13 +5920,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 48 м², 2 комнаты\n💰 2990 + czynsz 950 = <b>3940 zł/мес</b>\n   ≈ с медиа около 4140 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 100 zł/мес\n🔐 Kaucja (залог): 2990 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«2 pokoje 48m2, OGRÓDEK 60m2! Klimatyzacja, Osiedle Europejskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48m2-ogrodek-60m2-klimatyzacja-osiedle-europejskie-CID3-ID1bWfWv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:43",
+      "ts": 1787136860,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2990,
+        "rent": 950,
+        "area": 48.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-19T12:43:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Do wynajęcia mieszkanie 2-pokojowe Al. Jana Pawła 150-bezposrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-2-pokojowe-al-jana-pawla-150-bezposrednio-CID3-ID1bWfOF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:41",
+      "ts": 1787137178,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 46.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-19T12:41:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 280 = <b>3180 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«WŁAŚCICIEL: Przestronne, jasne 2-pokojowe mieszkanie z balkonem 39m2 / Kuźnicy Kołłątajowskiej Górka Narodowa P+R / Opolska)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-przestronne-jasne-2-pokojowe-mieszkanie-z-balkonem-39m2-kuznicy-kollatajowskiej-gorka-narodowa-p-r-opolska-CID3-ID1bWgiK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:50",
+      "ts": 1787137495,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 280,
+        "area": 39.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-19T12:50:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 280
+      }
     }
   ],
   "stats": {
-    "checks": 4835,
-    "sent": 1728
+    "checks": 4839,
+    "sent": 1731
   },
   "initialized": true,
-  "last_check": "2026-08-19T10:49:11",
+  "last_check": "2026-08-19T11:10:20",
   "backoff_until": 1787115448.1914053
 }
