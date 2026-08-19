@@ -3622,7 +3622,8 @@
     "1092223962": 1787097944,
     "1092160827": 1787097944,
     "1092112636": 1787099821,
-    "1092112094": 1787103252
+    "1092112094": 1787103252,
+    "1092115060": 1787104814
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5143,28 +5144,12 @@
     "mieszkanienawynajem|2700|34.0|bemowo": 1787096383,
     "2mgotoweulaluzyjnamiejscepostojowe|2500|44.0|bialoleka": 1787097944,
     "wynajmemieszkanie|3500|46.0|mokotow": 1787097944,
-    "mieszkaniewynajemwarszawawlochy|3400|48.0|wlochy": 1787103252
+    "mieszkaniewynajemwarszawawlochy|3400|48.0|wlochy": 1787103252,
+    "bezposrednio2pokojenowebalkonbardzoladne|3000|33.0|ursus": 1787104814
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe, u. Bobrzyńskiego, Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-u-bobrzynskiego-ruczaj-CID3-ID1bUF0x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
-      "ts": 1787086254,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-18T21:23:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Zwierzyniec</b> — 53 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«DO WYNAJĘCIA | 2-pokojowe mieszkanie | ul. Królowej Jadwigi»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-ul-krolowej-jadwigi-CID3-ID1bUFcI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:26",
       "ts": 1787086254,
@@ -5827,13 +5812,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Bezpośrednio 2 pokoje Nowe Balkon Bardzo Ładne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokoje-nowe-balkon-bardzo-ladne-CID3-ID1bUp12.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:02",
+      "ts": 1787104814,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 580,
+        "area": 33.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-18T18:02:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 4769,
-    "sent": 1681
+    "checks": 4773,
+    "sent": 1682
   },
   "initialized": true,
-  "last_check": "2026-08-19T01:49:56",
+  "last_check": "2026-08-19T02:10:46",
   "backoff_until": 1787075583.338769
 }
