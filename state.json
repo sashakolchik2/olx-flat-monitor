@@ -3828,7 +3828,14 @@
     "1092433178": 1787159657,
     "1092432604": 1787159657,
     "1092434610": 1787159973,
-    "1092436117": 1787159973
+    "1092436117": 1787159973,
+    "1092439180": 1787160297,
+    "1092438273": 1787160297,
+    "1092441048": 1787160611,
+    "1092439305": 1787160611,
+    "1092439748": 1787160611,
+    "1092445037": 1787161242,
+    "1092441704": 1787161242
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5454,79 +5461,15 @@
     "krowodrzamieszkanie2pokojowebliskocentrum|2800|47.5|krowodrza": 1787159343,
     "ulicaobozowa2pok40mwolabalkonbardzocicheibard|2400|40.0|wola": 1787159657,
     "2pokojowe32m2zbalkonemulogniowabliskoskmwarsz|2900|32.0|ursus": 1787159657,
-    "2oddzielnepokojemetrowierzbnomokotow|3300|38.0|mokotow": 1787159973
+    "2oddzielnepokojemetrowierzbnomokotow|3300|38.0|mokotow": 1787159973,
+    "wynajmemieszkanie28m2namokotowie|2600|28.2|mokotow": 1787160297,
+    "mieszkaniedowynajecia|2500|37.5|wawer": 1787160611,
+    "mieszkaniedowynajeciaalwaszyngtona|2600|41.5|pragapoludnie": 1787160611,
+    "dowynajeciamieszkanie42m2|3000|42.0|bialoleka": 1787160611
   },
-  "tg_offset": 654625399,
+  "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokojowe mieszkanie na Bielanach, kort tenisowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-bielanach-kort-tenisowy-CID3-ID1bWnSs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:44",
-      "ts": 1787149283,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 36.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-19T14:44:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 49.8 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Komfortowe mieszkanie z klimatyzacją na wynajem - Okazja!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-z-klimatyzacja-na-wynajem-okazja-CID3-ID1bWoq5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:53",
-      "ts": 1787149283,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 49.8,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-19T14:53:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 2950 + czynsz 452 = <b>3402 zł/мес</b>\n   ≈ с медиа около 3902 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 osobne pokoje, nieprzechodnie, 2-3 osoby, osobna kuchnia, bezpośrednio, Mazowiecka Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-osobne-pokoje-nieprzechodnie-2-3-osoby-osobna-kuchnia-bezposrednio-mazowiecka-krowodrza-CID3-ID1bWouT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
-      "ts": 1787149283,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 452,
-        "area": 37.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-19T14:54:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 452
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 800 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem ulica Kopalniana Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ulica-kopalniana-warszawa-CID3-ID1bWoIw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:57",
-      "ts": 1787149283,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 41.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-19T14:57:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 53 м², 2 комнаты\n💰 2800 + czynsz 890 = <b>3690 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 70 zł/мес\n🔐 Kaucja (залог): 800 zł\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie 2 pokoje|balkon|osobna kuchnia|miejsce parkingowe|Centralna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-balkon-osobna-kuchnia-miejsce-parkingowe-centralna-CID3-ID1bWpkz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:05",
       "ts": 1787149283,
@@ -6138,13 +6081,81 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 28.2 м², 2 комнаты\n💰 2600 + czynsz 660 = <b>3260 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę mieszkanie 28 m2 na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-28-m2-na-mokotowie-CID3-ID1bWL69.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:12",
+      "ts": 1787160297,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 660,
+        "area": 28.2,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-19T19:12:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41.5 м², 2 комнаты\n💰 2600 + czynsz 630 = <b>3230 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2600 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia al. Waszyngtona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-al-waszyngtona-CID3-ID1bWLmN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:14",
+      "ts": 1787160611,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 630,
+        "area": 41.5,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-19T19:14:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": 630
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajecia mieszkanie 42m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-42m2-CID3-ID1bWLtV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:16",
+      "ts": 1787160611,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 42.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-19T19:16:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 37.5 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bWLOU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:20",
+      "ts": 1787160611,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 37.5,
+        "district": "Wawer",
+        "business": false,
+        "created_iso": "2026-08-19T19:20:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4890,
-    "sent": 1786
+    "checks": 4894,
+    "sent": 1790
   },
   "initialized": true,
-  "last_check": "2026-08-19T17:19:42",
+  "last_check": "2026-08-19T17:40:49",
   "backoff_until": 1787155561.7123396
 }
