@@ -3750,7 +3750,15 @@
     "1092346453": 1787143227,
     "1092344848": 1787143227,
     "1092344492": 1787143227,
-    "1092346436": 1787143542
+    "1092346436": 1787143542,
+    "1092329341": 1787144176,
+    "1092349012": 1787144176,
+    "1092349083": 1787144493,
+    "1092351395": 1787144808,
+    "1092349717": 1787144808,
+    "1092351097": 1787144808,
+    "1092351729": 1787145128,
+    "1092352239": 1787145128
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5336,79 +5344,15 @@
     "2pok50m2balkonulkluczborskakrowodrzagorka|2950|50.0|pradnikbialy": 1787141325,
     "sloneczne2pokojebalkon41m2ulmazowiecka33stara|2700|41.0|krowodrza": 1787142590,
     "2pokojoweodzaraz|2700|40.0|pradnikczerwony": 1787142590,
-    "przytulnakawalerkazosobnasypialniametrobemowo|2700|22.0|bemowo": 1787142590
+    "przytulnakawalerkazosobnasypialniametrobemowo|2700|22.0|bemowo": 1787142590,
+    "przytulne2pokojowemieszkanienabielanachkortte|3200|36.0|bielany": 1787144176,
+    "mieszkanie2osobnepokojenieprzechodnie23osobyo|2950|37.0|krowodrza": 1787144808,
+    "komfortowemieszkaniezklimatyzacjanawynajemoka|3000|49.8|pragapoludnie": 1787144808,
+    "mieszkanienawynajemulicakopalnianawarszawa|3200|41.0|bemowo": 1787145128
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«Mieszkanie 2-pok. | z parkingiem | KLIMA | Q3 CAM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-z-parkingiem-klima-q3-cam-CID3-ID1bW6sx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:02",
-      "ts": 1787128272,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 650,
-        "area": 42.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-19T10:02:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 3\n🏢 агентство\n«2 pokojowe mieszkanie z miejscem parkingowym i balkonem - ul. Dziatwy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-miejscem-parkingowym-i-balkonem-ul-dziatwy-CID3-ID1bW7vE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:22",
-      "ts": 1787128607,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 43.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-19T10:22:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 47 м², 2 комнаты\n💰 2500 + czynsz 1100 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie dwupokojowe w Warszawie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-w-warszawie-CID3-ID1bW7CS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:24",
-      "ts": 1787128607,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1100,
-        "area": 47.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-19T10:24:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 28 м², 2 комнаты\n💰 2750 + czynsz 253 = <b>3003 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2-pokojowy apartament w ścisłym centrum Krakowa – ul. Krowoderska 55»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowy-apartament-w-scislym-centrum-krakowa-ul-krowoderska-55-CID3-ID1bW8nx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:39",
-      "ts": 1787129242,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2750,
-        "rent": 253,
-        "area": 28.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-19T10:39:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 253
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Kraków - Krowodrza - ul. Królewska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-krowodrza-ul-krolewska-CID3-ID1bW9Cr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
       "ts": 1787130507,
@@ -6020,13 +5964,81 @@
       "an": {
         "czynsz_desc": 300
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokojowe mieszkanie na Bielanach, kort tenisowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-bielanach-kort-tenisowy-CID3-ID1bWnSs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:44",
+      "ts": 1787144176,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 36.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-19T14:44:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 49.8 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Komfortowe mieszkanie z klimatyzacją na wynajem - Okazja!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-z-klimatyzacja-na-wynajem-okazja-CID3-ID1bWoq5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:53",
+      "ts": 1787144808,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 49.8,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-19T14:53:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 2950 + czynsz 452 = <b>3402 zł/мес</b>\n   ≈ с медиа около 3902 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 osobne pokoje, nieprzechodnie, 2-3 osoby, osobna kuchnia, bezpośrednio, Mazowiecka Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-osobne-pokoje-nieprzechodnie-2-3-osoby-osobna-kuchnia-bezposrednio-mazowiecka-krowodrza-CID3-ID1bWouT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
+      "ts": 1787144808,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 452,
+        "area": 37.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-19T14:54:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 452
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 41 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 800 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem ulica Kopalniana Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ulica-kopalniana-warszawa-CID3-ID1bWoIw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:57",
+      "ts": 1787145128,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 41.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-19T14:57:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4858,
-    "sent": 1746
+    "checks": 4862,
+    "sent": 1750
   },
   "initialized": true,
-  "last_check": "2026-08-19T12:51:06",
+  "last_check": "2026-08-19T13:12:19",
   "backoff_until": 1787115448.1914053
 }
