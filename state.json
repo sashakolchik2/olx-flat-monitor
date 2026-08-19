@@ -3701,7 +3701,13 @@
     "1092297271": 1787134636,
     "1092305802": 1787134636,
     "1092312109": 1787135267,
-    "1092310527": 1787135267
+    "1092310527": 1787135267,
+    "1092313616": 1787135588,
+    "1092313316": 1787135588,
+    "1092313724": 1787135906,
+    "1092314980": 1787136223,
+    "1092317364": 1787136538,
+    "1092312995": 1787136538
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5265,79 +5271,15 @@
     "klimatyzowanemieszkaniewswietnejlokalizacji|3200|60.0|grzegorzki": 1787134315,
     "mieszkaniedowynajeciabronowice32m22pokojesosn|2500|32.0|bronowice": 1787134636,
     "alpokoju22srodmiescie2pokojepetfriendly|2490|37.0|staremiasto": 1787135267,
-    "dwupokojowebliskoleamiasteczkostudenckiewolne|3000|53.0|grzegorzki": 1787135267
+    "dwupokojowebliskoleamiasteczkostudenckiewolne|3000|53.0|grzegorzki": 1787135267,
+    "warszawawola375m|2600|37.5|wola": 1787135588,
+    "fajnemieszkaniedlaparylubsinglanagrzegorzkach|2900|38.0|grzegorzki": 1787135906,
+    "wynajmemieszkanie2pokojeochota|2700|38.0|ochota": 1787136538,
+    "wynajmemieszkanie|3800|46.8|ursus": 1787136538
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie w okolicach Al.29 listopada do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-w-okolicach-al-29-listopada-do-wynajecia-CID3-ID1bUoOQ.html\">Открыть на OLX</a>  ·  добавлено вчера в 17:59",
-      "ts": 1787108533,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 700,
-        "area": 50.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-18T17:59:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 53 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«2 pokoje z kuchnią/ po remoncie/wyposażone i umeblowane/okolice ronda Wiatraczna/Warszawa/ Praga Południe/Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-po-remoncie-wyposazone-i-umeblowane-okolice-ronda-wiatraczna-warszawa-praga-poludnie-bezposrednio-CID3-ID1bUrjw.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:36",
-      "ts": 1787108533,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 1000,
-        "area": 53.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-18T18:36:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 33.89 м², 2 комнаты\n💰 2950 + czynsz 600 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3720 zł/мес\n⚡ Свет/медиа: ≈ 170 zł/мес\n🔐 Kaucja (залог): 720 zł\n🏢 Этаж: 2\n👤 от собственника\n«OS. WILNO 2 ODDZIELNE pokoje 3.720 pln całość»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-wilno-2-oddzielne-pokoje-3-720-pln-calosc-CID3-ID1bUqNJ.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:28",
-      "ts": 1787109166,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 600,
-        "area": 33.89,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-18T18:28:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 32.5 м², 2 комнаты\n💰 3200 + czynsz 590 = <b>3790 zł/мес</b>\n   ≈ с медиа около 4380 zł/мес\n⚡ Свет/медиа: ≈ 590 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie na wynajem!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-na-wynajem-CID3-ID1bUpRH.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:11",
-      "ts": 1787109484,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 590,
-        "area": 32.5,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-18T18:11:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 590
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 620 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe, pięknie umeblowane mieszkanie z balkonem i windą – Kraków, Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-pieknie-umeblowane-mieszkanie-z-balkonem-i-winda-krakow-grzegorzki-CID3-ID1bUrx1.html\">Открыть на OLX</a>  ·  добавлено вчера в 18:40",
       "ts": 1787109803,
@@ -5949,13 +5891,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37.5 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n📅 Заселение: с 6 сентября ⭐️\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Warszawa - Wola 37,5m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-wola-37-5m-CID3-ID1bWeFy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:19",
+      "ts": 1787135588,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 700,
+        "area": 37.5,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-19T12:19:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 850 = <b>3750 zł/мес</b>\n🏢 Этаж: 6\n👤 от собственника\n«FAJNE MIESZKANIE dla pary lub singla na Grzegórzkach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/fajne-mieszkanie-dla-pary-lub-singla-na-grzegorzkach-CID3-ID1bWeHi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:20",
+      "ts": 1787135906,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 850,
+        "area": 38.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-19T12:20:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 46.8 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с 20 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bWewx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:16",
+      "ts": 1787136538,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 46.8,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-19T12:16:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 2 pokoje Ochota»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-ochota-CID3-ID1bWfE0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:37",
+      "ts": 1787136538,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-19T12:37:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4831,
-    "sent": 1724
+    "checks": 4835,
+    "sent": 1728
   },
   "initialized": true,
-  "last_check": "2026-08-19T10:27:59",
+  "last_check": "2026-08-19T10:49:11",
   "backoff_until": 1787115448.1914053
 }
