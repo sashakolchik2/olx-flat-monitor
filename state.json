@@ -3659,7 +3659,10 @@
     "1092277128": 1787125932,
     "1092277121": 1787125932,
     "1092277632": 1787126247,
-    "1092279432": 1787126565
+    "1092279432": 1787126565,
+    "1092277271": 1787126885,
+    "1092282057": 1787127199,
+    "1092281361": 1787127199
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5204,45 +5207,13 @@
     "2pokojowemieszkanieztarasemobokbonarki|2900|40.0|lagiewnikiborekfalec": 1787125612,
     "mieszkanienawarszawskimpowislu|3100|36.0|srodmiescie": 1787125612,
     "przytulne2pokojowemieszkanie48m²z7m2balkonemu|2800|48.0|bialoleka": 1787126247,
-    "2osobnepokojenieumeblowaneod1wrzesnia|3500|74.0|staremiasto": 1787126565
+    "2osobnepokojenieumeblowaneod1wrzesnia|3500|74.0|staremiasto": 1787126565,
+    "mieszkanie2pokzparkingiemklimaq3cam|2800|42.0|krowodrza": 1787127199,
+    "mieszkanie2pokojowewwarszawierembertowparking|2700|48.0|rembertow": 1787127199
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 42.5 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 1100 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę dwu pokojowe 43m mieszkanie na Ursynowie, urządzone, ciepłe i widne. Metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-dwu-pokojowe-43m-mieszkanie-na-ursynowie-urzadzone-cieple-i-widne-metro-CID3-ID1bUOc0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:00",
-      "ts": 1787091360,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1100,
-        "area": 42.5,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-19T00:00:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Apartament 2-pokoje, Saska Kępa, bezpośrednio !»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pokoje-saska-kepa-bezposrednio-CID3-ID1bUwcr.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:33",
-      "ts": 1787091990,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 33.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-18T19:33:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie w pobliżu Mostu Północnego przy Modlińskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-poblizu-mostu-polnocnego-przy-modlinskiej-CID3-ID1bUwsw.html\">Открыть на OLX</a>  ·  добавлено вчера в 19:38",
       "ts": 1787091990,
@@ -5888,13 +5859,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 48 м², 2 комнаты\n💰 2700 + czynsz 599 = <b>3299 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokojowe w Warszawie Rembertów, parking gratis»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-warszawie-rembertow-parking-gratis-CID3-ID1bW6hj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:59",
+      "ts": 1787127199,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 599,
+        "area": 48.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-19T09:59:17+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🏢 агентство\n«Mieszkanie 2-pok. | z parkingiem | KLIMA | Q3 CAM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-z-parkingiem-klima-q3-cam-CID3-ID1bW6sx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:02",
+      "ts": 1787127199,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 650,
+        "area": 42.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-19T10:02:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 4824,
-    "sent": 1705
+    "checks": 4828,
+    "sent": 1707
   },
   "initialized": true,
-  "last_check": "2026-08-19T08:02:55",
+  "last_check": "2026-08-19T08:24:02",
   "backoff_until": 1787115448.1914053
 }
