@@ -3845,7 +3845,12 @@
     "1092447438": 1787162494,
     "1092452896": 1787163122,
     "1092451322": 1787163435,
-    "1092386718": 1787163747
+    "1092386718": 1787163747,
+    "1092457689": 1787164062,
+    "1092458446": 1787164374,
+    "1092459137": 1787164374,
+    "1092459465": 1787164689,
+    "1092459238": 1787165000
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5477,28 +5482,12 @@
     "mieszkaniedowynajeciaalwaszyngtona|2600|41.5|pragapoludnie": 1787160611,
     "dowynajeciamieszkanie42m2|3000|42.0|bialoleka": 1787160611,
     "nowoczesnemieszkaniezmiejscemwgarazupodziemny|3200|44.0|pradnikbialy": 1787161556,
-    "mieszkaniedowynajecia|2800|54.0|targowek": 1787163122
+    "mieszkaniedowynajecia|2800|54.0|targowek": 1787163122,
+    "mieszkaniedowynajecia40m2ulkrokwihenrykow|2750|40.0|bialoleka": 1787164374
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 58 м², 2 комнаты\n💰 2800 + czynsz 980 = <b>3780 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«2 pokoje z jasną kuchnią, zamknięte osiedle, winda, duzy balkon, blisko tramwaj, Prądnik Biały!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-jasna-kuchnia-zamkniete-osiedle-winda-duzy-balkon-blisko-tramwaj-pradnik-bialy-CID3-ID1bWqJw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:27",
-      "ts": 1787149283,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 980,
-        "area": 58.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-19T15:27:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 960
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 47 м², 2 комнаты\n💰 2700 + czynsz 850 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 5\n🏢 агентство\n«2 pokojowe mieszkanie z osobną kuchnią - nowoczesny budynek!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-osobna-kuchnia-nowoczesny-budynek-CID3-ID1bWqLZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:27",
       "ts": 1787149283,
@@ -6161,13 +6150,30 @@
       "an": {
         "czynsz_desc": 670
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 850 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia - 40m2 ul. Krokwi, Henryków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-40m2-ul-krokwi-henrykow-CID3-ID1bWQvF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:22",
+      "ts": 1787164374,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2750,
+        "rent": 850,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-19T20:22:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 4902,
-    "sent": 1792
+    "checks": 4906,
+    "sent": 1793
   },
   "initialized": true,
-  "last_check": "2026-08-19T18:22:34",
+  "last_check": "2026-08-19T18:43:27",
   "backoff_until": 1787155561.7123396
 }
