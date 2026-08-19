@@ -3879,7 +3879,14 @@
     "1092500769": 1787171594,
     "1092501757": 1787171594,
     "1092503640": 1787172228,
-    "1092508530": 1787173805
+    "1092508530": 1787173805,
+    "1092510245": 1787174123,
+    "1092510747": 1787174440,
+    "1092510711": 1787174440,
+    "1092510393": 1787174440,
+    "1092510355": 1787174755,
+    "1092512280": 1787175074,
+    "1092512399": 1787175074
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5530,45 +5537,13 @@
     "mieszkaniedowynajecia40m2ulkrokwihenrykow|2750|40.0|bialoleka": 1787170294,
     "mieszkanie2pokojowezbalkonemwkrakowie|2800|50.0|biezanowprokocim": 1787170644,
     "mieszkanie50metrowenowoczesneibardzofunkcjona|2900|50.0|staremiasto": 1787171594,
-    "dowynajeciamieszkaniedwupokojoweok55m²krakowb|3600|55.0|bronowice": 1787171594
+    "dowynajeciamieszkaniedwupokojoweok55m²krakowb|3600|55.0|bronowice": 1787171594,
+    "2pokojowemieszkanie35m²nawoli|2900|35.0|wola": 1787174123,
+    "mieszkanie2pokojowewpelniwyposazonezpiwnicabl|2600|38.0|bielany": 1787174755
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 400 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem | Kraków, Wola Duchacka, Sebastiana Klonowica 24 | 2 pokoje z balkonem | 47 m2 | Garaż podziemny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-wola-duchacka-sebastiana-klonowica-24-2-pokoje-z-balkonem-47-m2-garaz-podziemny-CID3-ID1bWzJu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:16",
-      "ts": 1787153404,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 47.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-19T17:16:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 689 = <b>3689 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: 30 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie Żabiniec»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-zabiniec-CID3-ID1bW8Xz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:49",
-      "ts": 1787154032,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 689,
-        "area": 40.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-19T10:49:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na wynajem – ul. Orzycka - Mokotow»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-ul-orzycka-mokotow-CID3-ID1bWzXL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:18",
       "ts": 1787154032,
@@ -6214,13 +6189,47 @@
       "an": {
         "czynsz_desc": 813
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie 35 m² na Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-35-m-na-woli-CID3-ID1bV3OZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:04",
+      "ts": 1787174123,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 750,
+        "area": 35.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-19T23:04:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe, w pełni wyposażone z piwnicą, blisko PKP»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-pelni-wyposazone-z-piwnica-blisko-pkp-CID3-ID1bV3QL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:05",
+      "ts": 1787174755,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 38.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-19T23:05:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 4914,
-    "sent": 1811
+    "checks": 4918,
+    "sent": 1813
   },
   "initialized": true,
-  "last_check": "2026-08-19T21:10:14",
+  "last_check": "2026-08-19T21:31:23",
   "backoff_until": 1787155561.7123396
 }
