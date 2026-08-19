@@ -3872,7 +3872,8 @@
     "1092486389": 1787169404,
     "1092486175": 1787169404,
     "1092486069": 1787169718,
-    "1092488213": 1787169718
+    "1092488213": 1787169718,
+    "1092491429": 1787170035
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5520,28 +5521,12 @@
     "mieszkaniezprywatnymogrodemklimamiejscepostoj|3300|40.0|debniki": 1787168775,
     "mieszkanie57m2pokojeosobnakuchniabalkonruczaj|2800|57.0|debniki": 1787169090,
     "wynajemmieszkaniakrakowczyzyny53m²2pokoje2bal|3000|53.0|czyzyny": 1787169404,
-    "cichemieszkanienawyjatkowymosiedlu|2850|50.9|mokotow": 1787169718
+    "cichemieszkanienawyjatkowymosiedlu|2850|50.9|mokotow": 1787169718,
+    "przytulnedwupokojowemieszkaniebezposrednioprz|2899|31.0|ursynow": 1787170035
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 37 м², 2 комнаты\n💰 2400 + czynsz 900 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«gen. J. Zajączka (Żoliborz) - 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/gen-j-zajaczka-zoliborz-2-pokoje-CID3-ID1bWySV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:06",
-      "ts": 1787153086,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 900,
-        "area": 37.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-19T17:06:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 578 = <b>3278 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 6\n🏢 агентство\n«Mieszkanie z oddzielną kuchnią oraz balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-oddzielna-kuchnia-oraz-balkonem-CID3-ID1bWzzN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:14",
       "ts": 1787153086,
@@ -6204,13 +6189,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 31 м², 2 комнаты\n💰 2899 + czynsz 750 = <b>3649 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Przytulne dwupokojowe mieszkanie bezpośrednio przy metrze Imielin do wynajęcia singlowi lub parze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-dwupokojowe-mieszkanie-bezposrednio-przy-metrze-imielin-do-wynajecia-singlowi-lub-parze-CID3-ID1bWYWw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:56",
+      "ts": 1787170035,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2899,
+        "rent": 750,
+        "area": 31.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-19T21:56:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 4921,
-    "sent": 1808
+    "checks": 4922,
+    "sent": 1809
   },
   "initialized": true,
-  "last_check": "2026-08-19T20:02:07",
+  "last_check": "2026-08-19T20:07:24",
   "backoff_until": 1787155561.7123396
 }
