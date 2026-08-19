@@ -3621,7 +3621,8 @@
     "1092161514": 1787096383,
     "1092223962": 1787097944,
     "1092160827": 1787097944,
-    "1092112636": 1787099821
+    "1092112636": 1787099821,
+    "1092112094": 1787103252
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5141,28 +5142,12 @@
     "okazjabezposr2pokojewawermarysinkorkowa135ful|2700|45.0|wawer": 1787093254,
     "mieszkanienawynajem|2700|34.0|bemowo": 1787096383,
     "2mgotoweulaluzyjnamiejscepostojowe|2500|44.0|bialoleka": 1787097944,
-    "wynajmemieszkanie|3500|46.0|mokotow": 1787097944
+    "wynajmemieszkanie|3500|46.0|mokotow": 1787097944,
+    "mieszkaniewynajemwarszawawlochy|3400|48.0|wlochy": 1787103252
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 620 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe, umeblowane mieszkanie z balkonem i windą – Kraków, Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-umeblowane-mieszkanie-z-balkonem-i-winda-krakow-grzegorzki-CID3-ID1bUESn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:22",
-      "ts": 1787086254,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 620,
-        "area": 41.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-18T21:22:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe, u. Bobrzyńskiego, Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-u-bobrzynskiego-ruczaj-CID3-ID1bUF0x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
       "ts": 1787086254,
@@ -5825,13 +5810,30 @@
       "an": {
         "czynsz_desc": 716
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 48 м², 2 комнаты\n💰 <b>3400 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie wynajem Warszawa Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-warszawa-wlochy-CID3-ID1bUofc.html\">Открыть на OLX</a>  ·  добавлено вчера в 17:50",
+      "ts": 1787103252,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 48.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-18T17:50:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4765,
-    "sent": 1680
+    "checks": 4769,
+    "sent": 1681
   },
   "initialized": true,
-  "last_check": "2026-08-19T01:29:06",
+  "last_check": "2026-08-19T01:49:56",
   "backoff_until": 1787075583.338769
 }
