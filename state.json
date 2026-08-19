@@ -3674,7 +3674,14 @@
     "1092287646": 1787129242,
     "1092290677": 1787129561,
     "1092294203": 1787130507,
-    "1092292357": 1787130507
+    "1092292357": 1787130507,
+    "1092293792": 1787130826,
+    "1092294669": 1787131141,
+    "1092297194": 1787131456,
+    "1092298218": 1787131456,
+    "1092295640": 1787131774,
+    "1092300159": 1787131774,
+    "1092299656": 1787131774
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5225,45 +5232,13 @@
     "mieszkaniedwupokojowewwarszawie|2500|47.0|bielany": 1787128607,
     "2pokojowemieszkaniezmiejscemparkingowymibalko|2800|43.0|bialoleka": 1787128607,
     "2pokojowyapartamentwscislymcentrumkrakowaulkr|2750|28.0|staremiasto": 1787129242,
-    "krakowkrowodrzaulkrolewska|2600|37.0|krowodrza": 1787130507
+    "krakowkrowodrzaulkrolewska|2600|37.0|krowodrza": 1787130507,
+    "piekniemieszkaniewidokowewaleregoslawkadwapok|2900|40.0|podgorzeduchackie": 1787131456,
+    "mieszkanienawynajem|2900|40.0|pradnikczerwony": 1787131774
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie na Saskiej Kępie z widokiem na Park Skaryszewski»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-na-saskiej-kepie-z-widokiem-na-park-skaryszewski-CID3-ID1bUnBM.html\">Открыть на OLX</a>  ·  добавлено вчера в 17:38",
-      "ts": 1787092937,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 670,
-        "area": 33.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-18T17:38:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 670
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Kraków Śródmieście Olsza Miechowity 2 duże osobne pokoje 48 m2 do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-srodmiescie-olsza-miechowity-2-duze-osobne-pokoje-48-m2-do-wynajecia-CID3-ID1bUymu.html\">Открыть на OLX</a>  ·  добавлено вчера в 20:10",
-      "ts": 1787092937,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 48.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-18T20:10:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«Centrum, bezp. po remoncie, plac Unii Lubelskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/centrum-bezp-po-remoncie-plac-unii-lubelskiej-CID3-ID1bUzdj.html\">Открыть на OLX</a>  ·  добавлено вчера в 20:18",
       "ts": 1787092937,
@@ -5909,13 +5884,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n🏢 агентство\n«Pieknie mieszkanie widokowe Walerego Sławka dwa pokoje.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pieknie-mieszkanie-widokowe-walerego-slawka-dwa-pokoje-CID3-ID1bWaoG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:12",
+      "ts": 1787131456,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 40.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-19T11:12:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bW9ZC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
+      "ts": 1787131774,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": null,
+        "area": 40.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-19T11:07:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 4816,
-    "sent": 1711
+    "checks": 4820,
+    "sent": 1713
   },
   "initialized": true,
-  "last_check": "2026-08-19T09:08:37",
+  "last_check": "2026-08-19T09:29:44",
   "backoff_until": 1787115448.1914053
 }
