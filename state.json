@@ -3820,7 +3820,15 @@
     "1092427810": 1787158713,
     "1092426515": 1787158713,
     "1092426136": 1787158713,
-    "1092425687": 1787158713
+    "1092425687": 1787158713,
+    "1092430598": 1787159343,
+    "1092428966": 1787159343,
+    "1092429028": 1787159343,
+    "1092435787": 1787159657,
+    "1092433178": 1787159657,
+    "1092432604": 1787159657,
+    "1092434610": 1787159973,
+    "1092436117": 1787159973
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5442,79 +5450,15 @@
     "mieszkanienawynajempowisle|3000|31.5|srodmiescie": 1787157773,
     "2pokojemieszkanie42m2wynajmebezposrednio|2300|42.0|krowodrza": 1787158398,
     "czyzynyosdywizjonu3032pokkuchniabezmebli55m2e|2900|55.0|czyzyny": 1787158713,
-    "mieszkanienawynajem41mbliskopkpursus|2900|41.0|ursus": 1787158713
+    "mieszkanienawynajem41mbliskopkpursus|2900|41.0|ursus": 1787158713,
+    "krowodrzamieszkanie2pokojowebliskocentrum|2800|47.5|krowodrza": 1787159343,
+    "ulicaobozowa2pok40mwolabalkonbardzocicheibard|2400|40.0|wola": 1787159657,
+    "2pokojowe32m2zbalkonemulogniowabliskoskmwarsz|2900|32.0|ursus": 1787159657,
+    "2oddzielnepokojemetrowierzbnomokotow|3300|38.0|mokotow": 1787159973
   },
   "tg_offset": 654625399,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 50 м², 2 комнаты\n💰 2950 + czynsz 660 = <b>3610 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2-pok. 50m2, balkon, ul. Kluczborska, Krowodrza górka.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-50m2-balkon-ul-kluczborska-krowodrza-gorka-CID3-ID1bWkjV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:52",
-      "ts": 1787141325,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 660,
-        "area": 50.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-19T13:52:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": 660
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2 pokojowe od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-od-zaraz-CID3-ID1bWluY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:09",
-      "ts": 1787142590,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-19T14:09:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 22 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Przytulna kawalerka z osobną sypialnią Metro Bemowo od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulna-kawalerka-z-osobna-sypialnia-metro-bemowo-od-wrzesnia-CID3-ID1bWlRv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:13",
-      "ts": 1787142590,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 500,
-        "area": 22.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-19T14:13:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 300 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Słoneczne, 2 pokoje, balkon, 41m2, ul. Mazowiecka 33, Stara Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-2-pokoje-balkon-41m2-ul-mazowiecka-33-stara-krowodrza-CID3-ID1bWmvA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
-      "ts": 1787142590,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 300,
-        "area": 41.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-19T14:21:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokojowe mieszkanie na Bielanach, kort tenisowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-na-bielanach-kort-tenisowy-CID3-ID1bWnSs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:44",
       "ts": 1787149283,
@@ -6126,13 +6070,81 @@
       "an": {
         "czynsz_desc": 817
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 47.5 м², 2 комнаты\n💰 2800 + czynsz 790 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Krowodrza: Mieszkanie 2-pokojowe, blisko centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-mieszkanie-2-pokojowe-blisko-centrum-CID3-ID1bWJ6m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:52",
+      "ts": 1787159343,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 790,
+        "area": 47.5,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-19T18:52:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 790
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokojowe 32 m2 z balkonem ul. Ogniowa, blisko SKM Warszawa Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-32-m2-z-balkonem-ul-ogniowa-blisko-skm-warszawa-ursus-CID3-ID1bWJLY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:58",
+      "ts": 1787159657,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-19T18:58:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2400 + czynsz 700 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«ulica Obozowa. 2 pok-40m-Wola-balkon-bardzo ciche i bardzo jasne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ulica-obozowa-2-pok-40m-wola-balkon-bardzo-ciche-i-bardzo-jasne-CID3-ID1bWKs3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:05",
+      "ts": 1787159657,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-19T19:05:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 oddzielne pokoje- metro Wierzbno - Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-metro-wierzbno-mokotow-CID3-ID1bWKxn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:06",
+      "ts": 1787159973,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-19T19:06:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 4886,
-    "sent": 1782
+    "checks": 4890,
+    "sent": 1786
   },
   "initialized": true,
-  "last_check": "2026-08-19T16:58:44",
+  "last_check": "2026-08-19T17:19:42",
   "backoff_until": 1787155561.7123396
 }
