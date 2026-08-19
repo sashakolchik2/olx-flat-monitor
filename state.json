@@ -3864,7 +3864,15 @@
     "1092470272": 1787167519,
     "1092480441": 1787168145,
     "1092479946": 1787168457,
-    "1092477509": 1787168457
+    "1092477509": 1787168457,
+    "1092477010": 1787168775,
+    "1092483264": 1787168775,
+    "1092483219": 1787169090,
+    "1092483272": 1787169404,
+    "1092486389": 1787169404,
+    "1092486175": 1787169404,
+    "1092486069": 1787169718,
+    "1092488213": 1787169718
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5507,96 +5515,16 @@
     "2pokojowemieszkanieultomciapalucha|3300|47.0|ursus": 1787167203,
     "2pokojnerondomatecznegoulrydlowka|2700|42.0|lagiewnikiborekfalec": 1787167519,
     "nowemieszkanienawynajem2pokojelublanska|3000|46.0|pradnikczerwony": 1787168457,
-    "nowe2pokojowemieszkanie44m²mokotowgarazkomork|3100|44.0|mokotow": 1787168457
+    "nowe2pokojowemieszkanie44m²mokotowgarazkomork|3100|44.0|mokotow": 1787168457,
+    "mieszkaniepodwynajemgorkanarodowakrakowbanach|2900|41.0|pradnikczerwony": 1787168775,
+    "mieszkaniezprywatnymogrodemklimamiejscepostoj|3300|40.0|debniki": 1787168775,
+    "mieszkanie57m2pokojeosobnakuchniabalkonruczaj|2800|57.0|debniki": 1787169090,
+    "wynajemmieszkaniakrakowczyzyny53m²2pokoje2bal|3000|53.0|czyzyny": 1787169404,
+    "cichemieszkanienawyjatkowymosiedlu|2850|50.9|mokotow": 1787169718
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 660 = <b>3260 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie dwu-pokojowe 35 mkw»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwu-pokojowe-35-mkw-CID3-ID1bWwVm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:32",
-      "ts": 1787150568,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 660,
-        "area": 35.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-19T16:32:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 42 м², 2 комнаты\n💰 3759 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bWvkG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:37",
-      "ts": 1787151196,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3759,
-        "rent": null,
-        "area": 42.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-19T16:37:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 53 м², 2 комнаты\n💰 2900 + czynsz 1100 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n🏢 агентство\n«Dwa pokoje z oddzielną kuchnią, balkonem w świetnej lokalizacji przy ul. Oboźnej - idealne dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-z-oddzielna-kuchnia-balkonem-w-swietnej-lokalizacji-przy-ul-oboznej-idealne-dla-studentow-CID3-ID1bWxpK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:49",
-      "ts": 1787151519,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1100,
-        "area": 53.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-19T16:49:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 10.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«mieszkanie na wynajem długoterminowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-dlugoterminowy-CID3-ID1bWySM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:06",
-      "ts": 1787152459,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 46.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-19T17:06:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 900 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajem mieszkania Warszawa Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-warszawa-mokotow-CID3-ID1bWxXM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
-      "ts": 1787153086,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 900,
-        "area": 38.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-19T16:55:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 37 м², 2 комнаты\n💰 2400 + czynsz 900 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«gen. J. Zajączka (Żoliborz) - 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/gen-j-zajaczka-zoliborz-2-pokoje-CID3-ID1bWySV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:06",
       "ts": 1787153086,
@@ -6191,13 +6119,98 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 650 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie pod wynajem Górka Narodowa Kraków banacha»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-pod-wynajem-gorka-narodowa-krakow-banacha-CID3-ID1bWWaV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:14",
+      "ts": 1787168775,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 650,
+        "area": 41.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-19T21:14:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 40 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie z prywatnym ogrodem, KLIMA, miejsce postojowe ul.Zalesie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-prywatnym-ogrodem-klima-miejsce-postojowe-ul-zalesie-CID3-ID1bWVNO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:36",
+      "ts": 1787168775,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-19T21:36:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 57 м², 2 комнаты\n💰 2800 + czynsz 950 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 57m, 2-pokoje, osobna kuchnia, balkon, RUCZAJ, ul. OBOZOWA»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-57m-2-pokoje-osobna-kuchnia-balkon-ruczaj-ul-obozowa-CID3-ID1bWVN5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:35",
+      "ts": 1787169090,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 950,
+        "area": 57.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-19T21:35:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajem Mieszkania | Kraków Czyżyny | 53 m² | 2 pokoje | 2 balkony | świetna lokalizacja | od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-czyzyny-53-m-2-pokoje-2-balkony-swietna-lokalizacja-od-zaraz-CID3-ID1bWVNV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:36",
+      "ts": 1787169404,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 53.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-19T21:36:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 50.9 м², 2 комнаты\n💰 2850 + czynsz 1100 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Ciche mieszkanie na wyjątkowym osiedlu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-mieszkanie-na-wyjatkowym-osiedlu-CID3-ID1bWY5D.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:52",
+      "ts": 1787169718,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2850,
+        "rent": 1100,
+        "area": 50.9,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-19T21:52:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4917,
-    "sent": 1803
+    "checks": 4921,
+    "sent": 1808
   },
   "initialized": true,
-  "last_check": "2026-08-19T19:41:08",
+  "last_check": "2026-08-19T20:02:07",
   "backoff_until": 1787155561.7123396
 }
