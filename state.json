@@ -3888,7 +3888,8 @@
     "1092512280": 1787175074,
     "1092512399": 1787175074,
     "1092513682": 1787176021,
-    "1092514740": 1787176964
+    "1092514740": 1787176964,
+    "1092521005": 1787179485
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5542,28 +5543,12 @@
     "dowynajeciamieszkaniedwupokojoweok55m²krakowb|3600|55.0|bronowice": 1787171594,
     "2pokojowemieszkanie35m²nawoli|2900|35.0|wola": 1787174123,
     "mieszkanie2pokojowewpelniwyposazonezpiwnicabl|2600|38.0|bielany": 1787174755,
-    "bemowo2pokoje395m²metro250mgaraz|3000|39.5|bemowo": 1787176021
+    "bemowo2pokoje395m²metro250mgaraz|3000|39.5|bemowo": 1787176021,
+    "przytulnemieszkaniezbalkonemwkrakowie|2750|41.29|pradnikczerwony": 1787179485
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков</b> — 32 м², 2 комнаты\n💰 3150 + czynsz 593 = <b>3743 zł/мес</b>\n   ≈ с медиа около 3831 zł/мес\n⚡ Свет/медиа: ≈ 88 zł + свет по счётчику\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n👤 от собственника\n«RAKOWICKA NOVUM II / 2 POK / klimatyzacja / piękne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-novum-ii-2-pok-klimatyzacja-piekne-CID3-ID1bWDvk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:55",
-      "ts": 1787155893,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3150,
-        "rent": 593,
-        "area": 32.0,
-        "district": "",
-        "business": false,
-        "created_iso": "2026-08-19T17:55:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 700 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pok 40m2 z aneksem-GOCŁAW BALATON-zmywarka,Międzyborska 11»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-40m2-z-aneksem-goclaw-balaton-zmywarka-miedzyborska-11-CID3-ID1bWFWt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:18",
       "ts": 1787157142,
@@ -6226,13 +6211,30 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 41.29 м², 2 комнаты\n💰 2750 + czynsz 600 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2750 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przytulne mieszkanie z balkonem w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-z-balkonem-w-krakowie-CID3-ID1bV6Cx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:34",
+      "ts": 1787179485,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2750,
+        "rent": 600,
+        "area": 41.29,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-20T00:34:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4928,
-    "sent": 1814
+    "checks": 4932,
+    "sent": 1815
   },
   "initialized": true,
-  "last_check": "2026-08-19T22:29:07",
+  "last_check": "2026-08-19T22:50:09",
   "backoff_until": 1787176955.466819
 }
