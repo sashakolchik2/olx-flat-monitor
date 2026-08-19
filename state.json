@@ -3812,7 +3812,15 @@
     "1092418391": 1787157142,
     "1092421271": 1787157456,
     "1092420654": 1787157456,
-    "1092419232": 1787157456
+    "1092419232": 1787157456,
+    "1092423636": 1787157773,
+    "1092421940": 1787158087,
+    "1092421012": 1787158087,
+    "1092425878": 1787158398,
+    "1092427810": 1787158713,
+    "1092426515": 1787158713,
+    "1092426136": 1787158713,
+    "1092425687": 1787158713
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5430,79 +5438,15 @@
     "rakowickanovumii2pokklimatyzacjapiekne|3150|32.0|": 1787155893,
     "2pok40m2zaneksemgoclawbalatonzmywarkamiedzybo|2600|40.0|pragapoludnie": 1787157142,
     "mieszkanie2pokojowe15minskmdocentrum|2700|35.0|rembertow": 1787157456,
-    "wynajmeprzestronne2pokoje48m²zosobnakuchniaur|3200|48.0|ursus": 1787157456
+    "wynajmeprzestronne2pokoje48m²zosobnakuchniaur|3200|48.0|ursus": 1787157456,
+    "mieszkanienawynajempowisle|3000|31.5|srodmiescie": 1787157773,
+    "2pokojemieszkanie42m2wynajmebezposrednio|2300|42.0|krowodrza": 1787158398,
+    "czyzynyosdywizjonu3032pokkuchniabezmebli55m2e|2900|55.0|czyzyny": 1787158713,
+    "mieszkanienawynajem41mbliskopkpursus|2900|41.0|ursus": 1787158713
   },
   "tg_offset": 654625399,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Od zaraz! 2 pokoje, duży balkon z widokiem na zieleń, piwnica, garaż, ul. Piltza 23»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-zaraz-2-pokoje-duzy-balkon-z-widokiem-na-zielen-piwnica-garaz-ul-piltza-23-CID3-ID1bWj6B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
-      "ts": 1787140049,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 750,
-        "area": 43.0,
-        "district": "Dębniki",
-        "business": true,
-        "created_iso": "2026-08-19T13:31:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 1\n🏢 агентство\n«Nowe mieszkanie w Centrum, przy Wiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-w-centrum-przy-wisle-CID3-ID1bWjHm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:42",
-      "ts": 1787140369,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-19T13:42:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 450 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Do wynajęcia mieszkanie 2 pokoje+kuchnia, Mogilska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-2-pokoje-kuchnia-mogilska-CID3-ID1bWjIW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:42",
-      "ts": 1787140687,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 450,
-        "area": 50.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-19T13:42:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 48 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Dostępne od zaraz, Żabiniec, 48m2, 2 pokoje, balkon, w pełni umeblowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dostepne-od-zaraz-zabiniec-48m2-2-pokoje-balkon-w-pelni-umeblowane-CID3-ID1bWjNV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:44",
-      "ts": 1787140687,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 48.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-19T13:44:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 50 м², 2 комнаты\n💰 2950 + czynsz 660 = <b>3610 zł/мес</b>\n   ≈ с медиа около 3760 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«2-pok. 50m2, balkon, ul. Kluczborska, Krowodrza górka.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-50m2-balkon-ul-kluczborska-krowodrza-gorka-CID3-ID1bWkjV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:52",
       "ts": 1787141325,
@@ -6114,13 +6058,81 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 31.5 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem Powiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-powisle-CID3-ID1bWHi4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:33",
+      "ts": 1787157773,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 31.5,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-19T18:33:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, mieszkanie, 42m2, wynajme, bezposrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-mieszkanie-42m2-wynajme-bezposrednio-CID3-ID1bWHSe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
+      "ts": 1787158398,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 700,
+        "area": 42.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-19T18:40:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 915 = <b>3815 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem 41 m - Blisko PKP Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-41-m-blisko-pkp-ursus-CID3-ID1bWHVo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:41",
+      "ts": 1787158713,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 915,
+        "area": 41.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-19T18:41:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 915
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 817 = <b>3717 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Czyżyny | Os. Dywizjonu 303| 2pok + kuchnia | bez mebli | 55m2 | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-os-dywizjonu-303-2pok-kuchnia-bez-mebli-55m2-eng-CID3-ID1bWIno.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:46",
+      "ts": 1787158713,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 817,
+        "area": 55.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-19T18:46:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 817
+      }
     }
   ],
   "stats": {
-    "checks": 4882,
-    "sent": 1778
+    "checks": 4886,
+    "sent": 1782
   },
   "initialized": true,
-  "last_check": "2026-08-19T16:37:46",
+  "last_check": "2026-08-19T16:58:44",
   "backoff_until": 1787155561.7123396
 }
