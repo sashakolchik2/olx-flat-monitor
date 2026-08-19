@@ -3618,7 +3618,9 @@
     "1092159191": 1787093575,
     "1092111052": 1787094509,
     "1092221167": 1787096072,
-    "1092161514": 1787096383
+    "1092161514": 1787096383,
+    "1092223962": 1787097944,
+    "1092160827": 1787097944
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5136,45 +5138,13 @@
     "osobnasypialniaparkingduzakuchnia54m2zwierzet|2999|54.0|wawer": 1787093254,
     "2pokoje40m2ogrodekklimatyzacjaprywatnyparking|3250|40.0|ursus": 1787093254,
     "okazjabezposr2pokojewawermarysinkorkowa135ful|2700|45.0|wawer": 1787093254,
-    "mieszkanienawynajem|2700|34.0|bemowo": 1787096383
+    "mieszkanienawynajem|2700|34.0|bemowo": 1787096383,
+    "2mgotoweulaluzyjnamiejscepostojowe|2500|44.0|bialoleka": 1787097944,
+    "wynajmemieszkanie|3500|46.0|mokotow": 1787097944
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 550 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Właściciel wynajmie 2 pokojowe mieszkanie- 45 m2, ul. Kazimierza Wierzyńskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wlasciciel-wynajmie-2-pokojowe-mieszkanie-45-m2-ul-kazimierza-wierzynskiego-CID3-ID1bUC0A.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:53",
-      "ts": 1787086254,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 550,
-        "area": 45.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-18T20:53:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«[Mieszkanie na wynajem] 50 m² - 2-pokoje + kuchnia - bezpośrednio - Krowodrza, okolice Placu Inwalidów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-50-m-2-pokoje-kuchnia-bezposrednio-krowodrza-okolice-placu-inwalidow-CID3-ID1bUDFI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:09",
-      "ts": 1787086254,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 50.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-18T21:09:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 620 = <b>3320 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe, umeblowane mieszkanie z balkonem i windą – Kraków, Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-umeblowane-mieszkanie-z-balkonem-i-winda-krakow-grzegorzki-CID3-ID1bUESn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:22",
       "ts": 1787086254,
@@ -5820,13 +5790,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: Powyżej 10\n🐾 можно с животными · 👤 от собственника\n«WYNAJMĘ mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bUAWd.html\">Открыть на OLX</a>  ·  добавлено вчера в 20:41",
+      "ts": 1787097944,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 46.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-18T20:41:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 44 м², 2 комнаты\n💰 2500 + czynsz 716 = <b>3216 zł/мес</b>\n   ≈ с медиа около 3716 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n🏢 агентство\n«2M| gotowe | ul. Aluzyjna | miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2m-gotowe-ul-aluzyjna-miejsce-postojowe-CID3-ID1bURlv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:52",
+      "ts": 1787097944,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 716,
+        "area": 44.0,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-19T01:52:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 716
+      }
     }
   ],
   "stats": {
-    "checks": 4746,
-    "sent": 1678
+    "checks": 4750,
+    "sent": 1680
   },
   "initialized": true,
-  "last_check": "2026-08-18T23:50:15",
+  "last_check": "2026-08-19T00:11:06",
   "backoff_until": 1787075583.338769
 }
