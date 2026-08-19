@@ -3641,7 +3641,8 @@
     "1092249622": 1787112971,
     "1092130453": 1787115474,
     "1092255828": 1787116734,
-    "1092057654": 1787118003
+    "1092057654": 1787118003,
+    "1092257850": 1787118638
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5175,28 +5176,12 @@
     "dwupokojowe38m2ulklonowicabonarka|2600|38.08|podgorzeduchackie": 1787110436,
     "mieszkaniedowynajeciawarszawawola36m2swiezood|3800|36.0|wola": 1787110436,
     "przestronnemieszkanie2pokojowedostepneodzaraz|3000|62.0|wlochy": 1787111706,
-    "mieszkanienawynajemuldebowa|2900|36.0|staremiasto": 1787118003
+    "mieszkanienawynajemuldebowa|2900|36.0|staremiasto": 1787118003,
+    "dwupokojowemieszkanieprzypetlikrowodrzagorkai|3600|43.0|pradnikbialy": 1787118638
   },
   "tg_offset": 654625396,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 43 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie z balkonem i klimatyzacją na Mokotowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-balkonem-i-klimatyzacja-na-mokotowie-CID3-ID1bUtbe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:04",
-      "ts": 1787089463,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 43.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-18T19:04:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 51 м², 2 комнаты\n💰 3000 + czynsz 770 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje 51 m2 + komórka lokatorska + balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-51-m2-komorka-lokatorska-balkon-CID3-ID1bUN3q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:36",
       "ts": 1787089463,
@@ -5859,13 +5844,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 43 м², 2 комнаты\n💰 <b>3600 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 5\n👤 от собственника\n«Dwupokojowe mieszkanie przy pętli Krowodrza Górka, idealne dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-przy-petli-krowodrza-gorka-idealne-dla-studentow-CID3-ID1bW0a6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:36",
+      "ts": 1787118638,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3600,
+        "rent": null,
+        "area": 43.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-19T07:36:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 4797,
-    "sent": 1694
+    "checks": 4801,
+    "sent": 1695
   },
   "initialized": true,
-  "last_check": "2026-08-19T05:40:14",
+  "last_check": "2026-08-19T06:01:31",
   "backoff_until": 1787115448.1914053
 }
