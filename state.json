@@ -3787,7 +3787,10 @@
     "1092381139": 1787150884,
     "1092380194": 1787150884,
     "1092381514": 1787151196,
-    "1092385672": 1787151519
+    "1092385672": 1787151519,
+    "1092385884": 1787152147,
+    "1092385436": 1787152147,
+    "1092391316": 1787152459
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5393,28 +5396,12 @@
     "mieszkaniedwupokojowe35mkw|2600|35.0|grzegorzki": 1787150568,
     "wynajemtarchomin47m²2pokojezoddzielnakuchniab|3000|47.0|bialoleka": 1787150568,
     "mieszkanienawynajem|3759|42.0|lagiewnikiborekfalec": 1787151196,
-    "dwapokojezoddzielnakuchniabalkonemwswietnejlo|2900|53.0|krowodrza": 1787151519
+    "dwapokojezoddzielnakuchniabalkonemwswietnejlo|2900|53.0|krowodrza": 1787151519,
+    "mieszkanienawynajemdlugoterminowy|3000|46.0|zoliborz": 1787152459
   },
   "tg_offset": 654625399,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 46.8 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 3800 zł\n📅 Заселение: с 20 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bWewx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:16",
-      "ts": 1787136538,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 46.8,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-19T12:16:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie 2 pokoje Ochota»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-ochota-CID3-ID1bWfE0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:37",
       "ts": 1787136538,
@@ -6077,13 +6064,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 10.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«mieszkanie na wynajem długoterminowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-dlugoterminowy-CID3-ID1bWySM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:06",
+      "ts": 1787152459,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 46.0,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-19T17:06:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4866,
-    "sent": 1766
+    "checks": 4870,
+    "sent": 1767
   },
   "initialized": true,
-  "last_check": "2026-08-19T14:58:48",
+  "last_check": "2026-08-19T15:19:39",
   "backoff_until": 1787115448.1914053
 }
