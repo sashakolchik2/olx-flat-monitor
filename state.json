@@ -3804,7 +3804,15 @@
     "1092406165": 1787155582,
     "1092402786": 1787155582,
     "1092409144": 1787155893,
-    "1092407956": 1787155893
+    "1092407956": 1787155893,
+    "1092415063": 1787156830,
+    "1092417374": 1787156830,
+    "1092413414": 1787156830,
+    "1092418396": 1787157142,
+    "1092418391": 1787157142,
+    "1092421271": 1787157456,
+    "1092420654": 1787157456,
+    "1092419232": 1787157456
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5419,62 +5427,14 @@
     "mieszkanienawynajemwarszawapoborzanska4metrob|2500|44.0|targowek": 1787153404,
     "mieszkaniezabiniec|3000|40.0|pradnikbialy": 1787154032,
     "mieszkanie2pokojowenawynajemulorzyckamokotow|2800|42.0|mokotow": 1787154032,
-    "rakowickanovumii2pokklimatyzacjapiekne|3150|32.0|": 1787155893
+    "rakowickanovumii2pokklimatyzacjapiekne|3150|32.0|": 1787155893,
+    "2pok40m2zaneksemgoclawbalatonzmywarkamiedzybo|2600|40.0|pragapoludnie": 1787157142,
+    "mieszkanie2pokojowe15minskmdocentrum|2700|35.0|rembertow": 1787157456,
+    "wynajmeprzestronne2pokoje48m²zosobnakuchniaur|3200|48.0|ursus": 1787157456
   },
   "tg_offset": 654625399,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje, 48m2, Al. Jana Pawła II / Babka Tower/CH Arkadia /Metro Dw. Gdański»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-48m2-al-jana-pawla-ii-babka-tower-ch-arkadia-metro-dw-gdanski-CID3-ID1bWi4d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:15",
-      "ts": 1787139082,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 48.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-19T13:15:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 42 м², 2 комнаты\n💰 2450 + czynsz 550 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2450 zł\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«2 niezależne pok. 42m2 *Prądnik Czerwony*Lublańska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pok-42m2-pradnik-czerwonylublanska-CID3-ID1bWisc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:20",
-      "ts": 1787139082,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2450,
-        "rent": 550,
-        "area": 42.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-19T13:20:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wawer</b> — 50 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokoje 50m wynajmę»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-50m-wynajme-CID3-ID1bWirA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
-      "ts": 1787139417,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 50.0,
-        "district": "Wawer",
-        "business": false,
-        "created_iso": "2026-08-19T13:19:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Od zaraz! 2 pokoje, duży balkon z widokiem na zieleń, piwnica, garaż, ul. Piltza 23»\n🔗 <a href=\"https://www.olx.pl/d/oferta/od-zaraz-2-pokoje-duzy-balkon-z-widokiem-na-zielen-piwnica-garaz-ul-piltza-23-CID3-ID1bWj6B.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
       "ts": 1787140049,
@@ -6103,13 +6063,64 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 700 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pok 40m2 z aneksem-GOCŁAW BALATON-zmywarka,Międzyborska 11»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-40m2-z-aneksem-goclaw-balaton-zmywarka-miedzyborska-11-CID3-ID1bWFWt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:18",
+      "ts": 1787157142,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-19T18:18:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 48 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę przestronne 2 pokoje (48 m²) z osobną kuchnią | Ursus Skorosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-przestronne-2-pokoje-48-m-z-osobna-kuchnia-ursus-skorosze-CID3-ID1bWG92.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:20",
+      "ts": 1787157456,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 48.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-19T18:20:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 35 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4500 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe 15 min SKM do centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-15-min-skm-do-centrum-CID3-ID1bWGFW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:25",
+      "ts": 1787157456,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 900,
+        "area": 35.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-19T18:25:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 4879,
-    "sent": 1775
+    "checks": 4882,
+    "sent": 1778
   },
   "initialized": true,
-  "last_check": "2026-08-19T16:22:03",
+  "last_check": "2026-08-19T16:37:46",
   "backoff_until": 1787155561.7123396
 }
