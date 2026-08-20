@@ -3897,7 +3897,10 @@
     "1092547976": 1787202909,
     "1092556668": 1787207924,
     "1092556048": 1787207924,
-    "1092556429": 1787208238
+    "1092556429": 1787208238,
+    "1092557663": 1787208557,
+    "1092557047": 1787208557,
+    "1092204967": 1787208557
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5558,28 +5561,12 @@
     "jasnemieszkanie2pokojowegrzegorzkiulfrancesco|2500|38.0|grzegorzki": 1787202592,
     "malemieszkaniezgarazemnanowodworach|2350|34.0|bialoleka": 1787202909,
     "przestronnedwupokojowemieszkaniezosobnakuchni|3200|53.0|grzegorzki": 1787207924,
-    "2pokmieszkaniekrakowulslicznajuzdostepnewlasc|2599|51.0|grzegorzki": 1787208238
+    "2pokmieszkaniekrakowulslicznajuzdostepnewlasc|2599|51.0|grzegorzki": 1787208238,
+    "dowynajecia2pokojowemieszkanieostrobramskasta|2800|37.0|pragapoludnie": 1787208557
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 817 = <b>3717 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Czyżyny | Os. Dywizjonu 303| 2pok + kuchnia | bez mebli | 55m2 | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-os-dywizjonu-303-2pok-kuchnia-bez-mebli-55m2-eng-CID3-ID1bWIno.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:46",
-      "ts": 1787158713,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 817,
-        "area": 55.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-19T18:46:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 817
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 47.5 м², 2 комнаты\n💰 2800 + czynsz 790 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Krowodrza: Mieszkanie 2-pokojowe, blisko centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-mieszkanie-2-pokojowe-blisko-centrum-CID3-ID1bWJ6m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:52",
       "ts": 1787159343,
@@ -6242,13 +6229,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Do wynajęcia 2-POKOJOWE mieszkanie, Ostrobramska/Stanów Zjednoczonych»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-ostrobramska-stanow-zjednoczonych-CID3-ID1bVg9N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:39",
+      "ts": 1787208557,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 900,
+        "area": 37.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-20T08:39:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5014,
-    "sent": 1821
+    "checks": 5017,
+    "sent": 1822
   },
   "initialized": true,
-  "last_check": "2026-08-20T06:44:09",
+  "last_check": "2026-08-20T06:59:51",
   "backoff_until": 1787176955.466819
 }
