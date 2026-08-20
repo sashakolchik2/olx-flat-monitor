@@ -6231,18 +6231,10 @@
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 4968,
+    "checks": 4967,
     "sent": 1815
   },
   "initialized": true,
-  "last_check": "2026-08-20T01:59:22",
-=======
-    "checks": 4963,
-    "sent": 1815
-  },
-  "initialized": true,
-  "last_check": "2026-08-20T02:17:37",
->>>>>>> Stashed changes
+  "last_check": "2026-08-20T02:38:30",
   "backoff_until": 1787176955.466819
 }
