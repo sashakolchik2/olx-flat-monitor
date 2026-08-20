@@ -3970,7 +3970,10 @@
     "1092612496": 1787223752,
     "1092612755": 1787224073,
     "1092614254": 1787224073,
-    "1092613660": 1787224390
+    "1092613660": 1787224390,
+    "1092614369": 1787224709,
+    "1092614236": 1787224709,
+    "1092616871": 1787225026
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5668,45 +5671,13 @@
     "2pokojeogrodekpragapld53m2|2800|53.0|pragapolnoc": 1787223752,
     "toplokalizacja2pokojemetrodwwilenskiod0110|3600|34.0|pragapolnoc": 1787223752,
     "lentzaazorykrowodrza2pok38m2dowynajecia|2500|38.0|pradnikbialy": 1787224073,
-    "50m2przymetrobemowo|3100|50.0|bemowo": 1787224390
+    "50m2przymetrobemowo|3100|50.0|bemowo": 1787224390,
+    "2osobnepokoje40m2ulbatalionuakzoskametroksiec|2600|40.0|wola": 1787224709,
+    "nowoczesne2pokojowemieszkaniezgarderoba44m2la|2700|44.0|debniki": 1787225026
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 34 м², 2 комнаты\n💰 2350 + czynsz 750 = <b>3100 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Małe mieszkanie z garażem na Nowodworach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/male-mieszkanie-z-garazem-na-nowodworach-CID3-ID1bVdDy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:05",
-      "ts": 1787202909,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2350,
-        "rent": 750,
-        "area": 34.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-20T07:05:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 765 = <b>3965 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Przestronne dwupokojowe mieszkanie z osobną kuchnią / Rondo Mogilskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-dwupokojowe-mieszkanie-z-osobna-kuchnia-rondo-mogilskie-CID3-ID1bVfTK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:27",
-      "ts": 1787207924,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 765,
-        "area": 53.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-20T08:27:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 200
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 51 м², 2 комнаты\n💰 2599 + czynsz 800 = <b>3399 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n👤 от собственника\n«2-pok mieszkanie Kraków, ul. Śliczna, już dostępne, właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-krakow-ul-sliczna-juz-dostepne-wlasciciel-CID3-ID1bVfPT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:25",
       "ts": 1787208238,
@@ -6352,13 +6323,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 агентство\n«2 osobne pokoje,40m2,ul. Batalionu AK \"Zośka\"/ Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-40m2-ul-batalionu-ak-zoska-metro-ksiecia-janusza-CID3-ID1bVuSg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
+      "ts": 1787224709,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 40.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-20T12:57:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 44 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3480 zł/мес\n⚡ Свет/медиа: ≈ 30 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne 2 pokojowe mieszkanie z garderobą - 44m2 LAS BORKOWSKI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-garderoba-44m2-las-borkowski-CID3-ID1bVwyL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:08",
+      "ts": 1787225026,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 750,
+        "area": 44.0,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-20T13:08:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 5053,
-    "sent": 1858
+    "checks": 5056,
+    "sent": 1860
   },
   "initialized": true,
-  "last_check": "2026-08-20T11:13:20",
+  "last_check": "2026-08-20T11:29:11",
   "backoff_until": 1787176955.466819
 }
