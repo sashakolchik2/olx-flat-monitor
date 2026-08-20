@@ -3949,7 +3949,14 @@
     "1092599040": 1787219945,
     "1092598658": 1787220264,
     "1092601702": 1787220579,
-    "1092600921": 1787220579
+    "1092600921": 1787220579,
+    "1092600116": 1787220896,
+    "1092603872": 1787221214,
+    "1092602663": 1787221214,
+    "1092604048": 1787221532,
+    "1091777594": 1787221532,
+    "1092606680": 1787221849,
+    "1092605834": 1787221849
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5635,96 +5642,16 @@
     "dowynajeciapiekneprzestronnemieszkanie2pokoje|2500|54.0|pradnikbialy": 1787218991,
     "centrumpowisleusolec52m22pokrozkladowebliskou|3000|52.0|srodmiescie": 1787219309,
     "wynajme2pok37m2ulbronowicka8pietro|2500|37.0|bronowice": 1787219945,
-    "bialolekamieszkaniedwupokojowe|3000|29.0|bialoleka": 1787219945
+    "bialolekamieszkaniedwupokojowe|3000|29.0|bialoleka": 1787219945,
+    "komfortowe2pokojesalonzaneksemmiejscepostojow|2900|40.0|lagiewnikiborekfalec": 1787220896,
+    "apartamentzgarazemkrakowbronowice|2800|44.0|krowodrza": 1787221214,
+    "2oddzielnepokoje38m2kuchniadlastudentowsaskak|2700|38.0|pragapoludnie": 1787221214,
+    "mieszkanie2pokojoweulmysliborska1bialolekawar|3800|36.4|bialoleka": 1787221532,
+    "slonecznemieszkaniezbalkonemwrembertowie|2800|35.0|rembertow": 1787221849
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 50.9 м², 2 комнаты\n💰 2850 + czynsz 1100 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Ciche mieszkanie na wyjątkowym osiedlu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-mieszkanie-na-wyjatkowym-osiedlu-CID3-ID1bWY5D.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:52",
-      "ts": 1787170294,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2850,
-        "rent": 1100,
-        "area": 50.9,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-19T21:52:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 31 м², 2 комнаты\n💰 2899 + czynsz 750 = <b>3649 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Przytulne dwupokojowe mieszkanie bezpośrednio przy metrze Imielin do wynajęcia singlowi lub parze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-dwupokojowe-mieszkanie-bezposrednio-przy-metrze-imielin-do-wynajecia-singlowi-lub-parze-CID3-ID1bWYWw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:56",
-      "ts": 1787170294,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2899,
-        "rent": 750,
-        "area": 31.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-19T21:56:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 370 = <b>3170 zł/мес</b>\n   ≈ с медиа около 3270 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-w-krakowie-CID3-ID1bWZOF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:01",
-      "ts": 1787170644,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 370,
-        "area": 50.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-19T22:01:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 370
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 55 м², 2 комнаты\n💰 3600 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🐾 можно с животными · 👤 от собственника\n«DO WYNAJĘCIA MIESZKANIE dwupokojowe - ok. 55 m² - kraków bronowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-dwupokojowe-ok-55-m-krakow-bronowice-CID3-ID1bV1m9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:14",
-      "ts": 1787171594,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3600,
-        "rent": null,
-        "area": 55.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-19T22:14:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 50 м², 2 комнаты\n💰 2900 + czynsz 813 = <b>3713 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 50-metrowe, nowoczesne i bardzo funkcjonalne, bez pośredników.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-50-metrowe-nowoczesne-i-bardzo-funkcjonalne-bez-posrednikow-CID3-ID1bV1Mc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:23",
-      "ts": 1787171594,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 813,
-        "area": 50.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-19T22:23:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 813
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie 35 m² na Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-35-m-na-woli-CID3-ID1bV3OZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:04",
       "ts": 1787174123,
@@ -6319,13 +6246,98 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Komfortowe 2 pokoje | Salon z aneksem | Miejsce postojowe | Malwowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokoje-salon-z-aneksem-miejsce-postojowe-malwowa-CID3-ID1bVrcv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
+      "ts": 1787220896,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 750,
+        "area": 40.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-20T11:55:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3450 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2 oddzielne pokoje 38m2 + kuchnia || Dla studentów || Saską kępa ||»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-38m2-kuchnia-dla-studentow-saska-kepa-CID3-ID1bVrRB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
+      "ts": 1787221214,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 750,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-20T12:04:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 700 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с августа\n🏢 Этаж: 3\n👤 от собственника\n«Apartament z garażem Kraków - Bronowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-z-garazem-krakow-bronowice-CID3-ID1bVsb6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:08",
+      "ts": 1787221214,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 700,
+        "area": 44.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-20T12:08:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 36.4 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe, ul. Myśliborska 1, Białołęka, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-mysliborska-1-bialoleka-warszawa-CID3-ID1bVsdV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:09",
+      "ts": 1787221532,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 36.4,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-20T12:09:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 620 = <b>3420 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с 01 октября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Słoneczne mieszkanie z balkonem w Rembertowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-mieszkanie-z-balkonem-w-rembertowie-CID3-ID1bVsGK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:18",
+      "ts": 1787221849,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 620,
+        "area": 35.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-20T12:18:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 620
+      }
     }
   ],
   "stats": {
-    "checks": 5041,
-    "sent": 1846
+    "checks": 5045,
+    "sent": 1851
   },
   "initialized": true,
-  "last_check": "2026-08-20T10:09:47",
+  "last_check": "2026-08-20T10:30:58",
   "backoff_until": 1787176955.466819
 }
