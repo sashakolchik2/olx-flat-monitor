@@ -3894,7 +3894,10 @@
     "1092545074": 1787201653,
     "1092547370": 1787202592,
     "1092546951": 1787202592,
-    "1092547976": 1787202909
+    "1092547976": 1787202909,
+    "1092556668": 1787207924,
+    "1092556048": 1787207924,
+    "1092556429": 1787208238
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5553,45 +5556,13 @@
     "mieszkaniekrakowulbpmalysiaka14|3000|38.0|debniki": 1787199459,
     "odwlascicielaultrybunyludowmieszkanie48m2pokp|3000|48.0|podgorzeduchackie": 1787202592,
     "jasnemieszkanie2pokojowegrzegorzkiulfrancesco|2500|38.0|grzegorzki": 1787202592,
-    "malemieszkaniezgarazemnanowodworach|2350|34.0|bialoleka": 1787202909
+    "malemieszkaniezgarazemnanowodworach|2350|34.0|bialoleka": 1787202909,
+    "przestronnedwupokojowemieszkaniezosobnakuchni|3200|53.0|grzegorzki": 1787207924,
+    "2pokmieszkaniekrakowulslicznajuzdostepnewlasc|2599|51.0|grzegorzki": 1787208238
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, mieszkanie, 42m2, wynajme, bezposrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-mieszkanie-42m2-wynajme-bezposrednio-CID3-ID1bWHSe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
-      "ts": 1787158398,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-19T18:40:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 915 = <b>3815 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem 41 m - Blisko PKP Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-41-m-blisko-pkp-ursus-CID3-ID1bWHVo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:41",
-      "ts": 1787158713,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 915,
-        "area": 41.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-19T18:41:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": 915
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 817 = <b>3717 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Czyżyny | Os. Dywizjonu 303| 2pok + kuchnia | bez mebli | 55m2 | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-os-dywizjonu-303-2pok-kuchnia-bez-mebli-55m2-eng-CID3-ID1bWIno.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:46",
       "ts": 1787158713,
@@ -6237,13 +6208,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 765 = <b>3965 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Przestronne dwupokojowe mieszkanie z osobną kuchnią / Rondo Mogilskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-dwupokojowe-mieszkanie-z-osobna-kuchnia-rondo-mogilskie-CID3-ID1bVfTK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:27",
+      "ts": 1787207924,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 765,
+        "area": 53.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-20T08:27:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 51 м², 2 комнаты\n💰 2599 + czynsz 800 = <b>3399 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n👤 от собственника\n«2-pok mieszkanie Kraków, ul. Śliczna, już dostępne, właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-krakow-ul-sliczna-juz-dostepne-wlasciciel-CID3-ID1bVfPT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:25",
+      "ts": 1787208238,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2599,
+        "rent": null,
+        "area": 51.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-20T08:25:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 5010,
-    "sent": 1819
+    "checks": 5014,
+    "sent": 1821
   },
   "initialized": true,
-  "last_check": "2026-08-20T06:23:12",
+  "last_check": "2026-08-20T06:44:09",
   "backoff_until": 1787176955.466819
 }
