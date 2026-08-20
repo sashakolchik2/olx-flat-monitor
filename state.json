@@ -4101,7 +4101,11 @@
     "1092769100": 1787257214,
     "1092770161": 1787257846,
     "1092776346": 1787259106,
-    "1092776378": 1787259106
+    "1092776378": 1787259106,
+    "1092777336": 1787259425,
+    "1092778858": 1787259742,
+    "1092779279": 1787259742,
+    "1092779198": 1787260379
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5880,62 +5884,14 @@
     "nowejasneurzadzone2pokojebalkongaraznabemowie|2950|35.52|bemowo": 1787256892,
     "nowe38mmieszkaniebliskabialolekapolecam|3000|38.0|targowek": 1787256892,
     "mieszkanie2pokojowe51m2ulfieldorfanila|3300|51.0|pradnikbialy": 1787257214,
-    "mieszkaniedowynajeciawrazzmiejscemparkingowym|3000|42.0|debniki": 1787259106
+    "mieszkaniedowynajeciawrazzmiejscemparkingowym|3000|42.0|debniki": 1787259106,
+    "mieszkanie2pokojowezbalkonemwwoli|2950|41.0|wola": 1787259425,
+    "2pokojowemieszkaniewkrakowkurdwanownawynajem|2300|43.0|podgorze": 1787259742,
+    "2pokojowemieszkaniezogrodkiembliskometrawolne|3200|30.0|wola": 1787259742
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: 400 zł/мес\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 38m2 Mokotow Sloneczny Skwer»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-38m2-mokotow-sloneczny-skwer-CID3-ID1bVMwV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
-      "ts": 1787238720,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 38.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-20T17:00:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 37 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Bielany 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-bielany-2-pokoje-CID3-ID1bVMvl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
-      "ts": 1787238720,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 37.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-20T17:00:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, oddzielna kuchnia, balkon. PKP Wola, metro, tramwaj,dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-oddzielna-kuchnia-balkon-pkp-wola-metro-tramwaj-dla-pary-CID3-ID1bVN0f.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:07",
-      "ts": 1787239351,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 900,
-        "area": 32.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-20T17:07:34+02:00"
-      },
-      "an": {
-        "czynsz_desc": 150
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 51.63 м², 2 комнаты\n💰 2600 + czynsz 939 = <b>3539 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przestronne 2‑pokojowe mieszkanie z balkonem – ul. Borkowska, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2pokojowe-mieszkanie-z-balkonem-ul-borkowska-krakow-CID3-ID1bVNCQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
       "ts": 1787239669,
@@ -6564,13 +6520,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 41 м², 2 комнаты\n💰 2950 + czynsz 820 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 23 августа\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem w Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-w-woli-CID3-ID1bXbiU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:42",
+      "ts": 1787259425,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 820,
+        "area": 41.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-20T22:42:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 820
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 43 м², 2 комнаты\n💰 2300 + czynsz 750 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с октября ⭐️\n🐾 можно с животными · 👤 от собственника\n«2 pokojowe mieszkanie w Kraków-Kurdwanów na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-w-krakow-kurdwanow-na-wynajem-CID3-ID1bXbHs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:50",
+      "ts": 1787259742,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2300,
+        "rent": 750,
+        "area": 43.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-20T22:50:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 30 м², 2 комнаты\n💰 3200 + czynsz 250 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🌐 Интернет: 250 zł/мес\n🔐 Kaucja (залог): 3450 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokojowe mieszkanie z ogródkiem, blisko metra, wolne od 1.10»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-ogrodkiem-blisko-metra-wolne-od-1-10-CID3-ID1bXbOf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:52",
+      "ts": 1787259742,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 250,
+        "area": 30.0,
+        "district": "Wola",
+        "business": true,
+        "created_iso": "2026-08-20T22:52:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5146,
-    "sent": 1939
+    "checks": 5150,
+    "sent": 1942
   },
   "initialized": true,
-  "last_check": "2026-08-20T20:51:56",
+  "last_check": "2026-08-20T21:13:09",
   "backoff_until": 1787176955.466819
 }
