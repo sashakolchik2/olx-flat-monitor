@@ -3922,7 +3922,11 @@
     "1092574808": 1787214228,
     "1092572906": 1787214228,
     "1092575087": 1787214228,
-    "1092575548": 1787214547
+    "1092575548": 1787214547,
+    "1092578368": 1787214866,
+    "1092580920": 1787215494,
+    "1092578916": 1787215494,
+    "1092580658": 1787215813
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5593,45 +5597,13 @@
     "dowynajecia2pokojowemieszkaniezbalkonemwarsza|3800|46.0|pragapoludnie": 1787213276,
     "2pokojowemieszkanienapowislu|3000|39.0|srodmiescie": 1787213276,
     "2pokojezoliborzmetrobalkon|3000|39.0|zoliborz": 1787214228,
-    "centralnapragamieszkanie54m22pokojerozkladowe|2800|54.0|pragapolnoc": 1787214547
+    "centralnapragamieszkanie54m22pokojerozkladowe|2800|54.0|pragapolnoc": 1787214547,
+    "2pokojowekomfortoweplszembekanowebudownictwod|2950|33.0|pragapoludnie": 1787215494,
+    "nowoczesne2pokoje52m2windaradzikowskiegoideal|3000|52.0|bronowice": 1787215813
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 54 м², 2 комнаты\n💰 2800 + czynsz 670 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bWOU0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:01",
-      "ts": 1787163122,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 670,
-        "area": 54.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-19T20:01:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 670
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 850 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia - 40m2 ul. Krokwi, Henryków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-40m2-ul-krokwi-henrykow-CID3-ID1bWQvF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:22",
-      "ts": 1787170294,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2750,
-        "rent": 850,
-        "area": 40.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-19T20:22:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 39 м², 2 комнаты\n💰 3250 + czynsz 750 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«Wolska 15 - bliska Wola, 2 Niezależne Pokoje, Ciche, Metro! Od 1 września 2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wolska-15-bliska-wola-2-niezalezne-pokoje-ciche-metro-od-1-wrzesnia-2026-CID3-ID1bWRXh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:40",
       "ts": 1787170294,
@@ -6277,13 +6249,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 2950 + czynsz 450 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe komfortowe – Pl. Szembeka – nowe budownictwo – Do wynajęcia od 1/09/2026.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-komfortowe-pl-szembeka-nowe-budownictwo-do-wynajecia-od-1-09-2026-CID3-ID1bVlGA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:26",
+      "ts": 1787215494,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 450,
+        "area": 33.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-20T10:26:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Nowoczesne 2 pokoje (52m2) | Winda | Radzikowskiego | Idealne dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-52m2-winda-radzikowskiego-idealne-dla-pary-CID3-ID1bVm8G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:36",
+      "ts": 1787215813,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 850,
+        "area": 52.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-20T10:36:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 5022,
-    "sent": 1831
+    "checks": 5026,
+    "sent": 1833
   },
   "initialized": true,
-  "last_check": "2026-08-20T08:29:17",
+  "last_check": "2026-08-20T08:50:23",
   "backoff_until": 1787176955.466819
 }
