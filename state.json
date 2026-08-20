@@ -3983,7 +3983,11 @@
     "1092621212": 1787226298,
     "1092619983": 1787226298,
     "1092621366": 1787226298,
-    "1092620503": 1787226298
+    "1092620503": 1787226298,
+    "1092626269": 1787226937,
+    "1092629097": 1787227569,
+    "1092628352": 1787227569,
+    "1092628111": 1787227889
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5690,79 +5694,15 @@
     "apartament2pokodnowionynakazimierzumiodowa|3000|40.0|staremiasto": 1787225982,
     "bezposrednio2pokojeoddzielnakuchniaaviaczyzyn|3100|46.0|czyzyny": 1787226298,
     "wyjatkowe2pokojebliskometrabezposrednio|2650|40.0|targowek": 1787226298,
-    "2niezaleznepokojeosobnakuchnia37m²rondowiatra|2900|37.0|pragapoludnie": 1787226298
+    "2niezaleznepokojeosobnakuchnia37m²rondowiatra|2900|37.0|pragapoludnie": 1787226298,
+    "dwaniezaleznepokojebalkonpradnikbialy50m2|2800|50.0|pradnikbialy": 1787226937,
+    "czyzyny2osobnepokojebalkonparkingkomorka|3099|45.0|czyzyny": 1787227569,
+    "warszawawolaulgibalskiegoprzyzytniejdwapokoje|2600|51.0|wola": 1787227569,
+    "nowykleparz2pokbezposrednio|2500|29.0|grzegorzki": 1787227889
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 46 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Do wynajęcia 2-pokojowe mieszkanie z balkonem – Warszawa, Gocław, ul. Ostrobramska 73C»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-z-balkonem-warszawa-goclaw-ul-ostrobramska-73c-CID3-ID1bVj9k.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:49",
-      "ts": 1787213276,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 46.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-20T09:49:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 5 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«2-pokojowe mieszkanie na Powiślu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-powislu-CID3-ID1bVjwn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:54",
-      "ts": 1787213276,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 950,
-        "area": 39.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-20T09:54:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 950
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje Żoliborz metro balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-zoliborz-metro-balkon-CID3-ID1bVk7E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:01",
-      "ts": 1787214228,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 950,
-        "area": 39.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-20T10:01:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 54 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4400 zł/мес\n⚡ Свет/медиа: ≈ 800 zł/мес\n🔐 Kaucja (залог): 4600 zł\n🏢 Этаж: 2\n👤 от собственника\n«Centralna Praga mieszkanie 54m2 2 pokoje rozkładowe blisko pl. Hallera»\n🔗 <a href=\"https://www.olx.pl/d/oferta/centralna-praga-mieszkanie-54m2-2-pokoje-rozkladowe-blisko-pl-hallera-CID3-ID1bVkOg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:11",
-      "ts": 1787214547,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 54.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-20T10:11:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 2950 + czynsz 450 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe komfortowe – Pl. Szembeka – nowe budownictwo – Do wynajęcia od 1/09/2026.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-komfortowe-pl-szembeka-nowe-budownictwo-do-wynajecia-od-1-09-2026-CID3-ID1bVlGA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:26",
       "ts": 1787215494,
@@ -6374,13 +6314,81 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 50 м², 2 комнаты\n💰 2800 + czynsz 750 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Dwa niezależne pokoje, balkon Prądnik Biały, 50m2.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-niezalezne-pokoje-balkon-pradnik-bialy-50m2-CID3-ID1bVy0l.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:46",
+      "ts": 1787226937,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 750,
+        "area": 50.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-20T13:46:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 51 м², 2 комнаты\n💰 2600 + czynsz 1200 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Warszawa Wola ul. Gibalskiego przy Żytniej Dwa pokoje 51m2 Umeblowane. Metro Pl Bankowy oraz Rondo Daszyńskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-wola-ul-gibalskiego-przy-zytniej-dwa-pokoje-51m2-umeblowane-metro-pl-bankowy-oraz-rondo-daszynskiego-CID3-ID1bVyxV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:54",
+      "ts": 1787227569,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 1200,
+        "area": 51.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-20T13:54:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 3099 + czynsz 600 = <b>3699 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 4\n🏢 агентство\n«Czyżyny | 2 osobne pokoje | balkon | parking | komórka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/czyzyny-2-osobne-pokoje-balkon-parking-komorka-CID3-ID1bVyJX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:56",
+      "ts": 1787227569,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3099,
+        "rent": 600,
+        "area": 45.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-20T13:56:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 29 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Nowy Kleparz, 2-pok, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowy-kleparz-2-pok-bezposrednio-CID3-ID1bVyu3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:53",
+      "ts": 1787227889,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 500,
+        "area": 29.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-20T13:53:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5060,
-    "sent": 1867
+    "checks": 5064,
+    "sent": 1871
   },
   "initialized": true,
-  "last_check": "2026-08-20T11:50:28",
+  "last_check": "2026-08-20T12:11:39",
   "backoff_until": 1787176955.466819
 }
