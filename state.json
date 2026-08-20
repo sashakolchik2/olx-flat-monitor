@@ -4030,7 +4030,9 @@
     "1092672152": 1787236509,
     "1092669121": 1787236509,
     "1092672835": 1787236829,
-    "1092672732": 1787236829
+    "1092672732": 1787236829,
+    "1092676108": 1787237460,
+    "1092679558": 1787238088
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5768,28 +5770,12 @@
     "lipinskiego2sypialniejasnezwidokiem|2900|48.0|lagiewnikiborekfalec": 1787236509,
     "2pokojowemieszkaniedowynajeciawarszawabialole|2700|35.0|bialoleka": 1787236509,
     "wynajemmieszkania|2900|50.0|pragapoludnie": 1787236509,
-    "bronowicedowynajeciamieszkanie2pokojowe|3000|37.0|biezanowprokocim": 1787236829
+    "bronowicedowynajeciamieszkanie2pokojowe|3000|37.0|biezanowprokocim": 1787236829,
+    "2zamykanepokojeosobnakuchniabliskometradzieci|2950|40.0|wola": 1787238088
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 агентство\n«2 osobne pokoje,40m2,ul. Batalionu AK \"Zośka\"/ Metro Księcia Janusza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-40m2-ul-batalionu-ak-zoska-metro-ksiecia-janusza-CID3-ID1bVuSg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:57",
-      "ts": 1787224709,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 40.0,
-        "district": "Wola",
-        "business": true,
-        "created_iso": "2026-08-20T12:57:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 44 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3480 zł/мес\n⚡ Свет/медиа: ≈ 30 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne 2 pokojowe mieszkanie z garderobą - 44m2 LAS BORKOWSKI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-garderoba-44m2-las-borkowski-CID3-ID1bVwyL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:08",
       "ts": 1787225026,
@@ -6452,13 +6438,30 @@
       "an": {
         "czynsz_desc": 610
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2950 + czynsz 630 = <b>3580 zł/мес</b>\n🏢 Этаж: 10\n👤 от собственника\n«2 zamykane pokoje + osobna kuchnia, blisko metra. Dzieci zwierzęta OK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-zamykane-pokoje-osobna-kuchnia-blisko-metra-dzieci-zwierzeta-ok-CID3-ID1bVLRQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
+      "ts": 1787238088,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 630,
+        "area": 40.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-20T16:51:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5084,
-    "sent": 1898
+    "checks": 5088,
+    "sent": 1899
   },
   "initialized": true,
-  "last_check": "2026-08-20T14:40:39",
+  "last_check": "2026-08-20T15:01:37",
   "backoff_until": 1787176955.466819
 }
