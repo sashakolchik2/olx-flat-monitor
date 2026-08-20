@@ -4064,7 +4064,10 @@
     "1092726479": 1787248191,
     "1092727844": 1787248191,
     "1092729411": 1787248505,
-    "1092727881": 1787248505
+    "1092727881": 1787248505,
+    "1092731193": 1787249449,
+    "1092733876": 1787249765,
+    "1092736575": 1787249765
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5819,45 +5822,13 @@
     "klimatycznemieszkaniewodnowionejkamienicy|3800|26.0|srodmiescie": 1787245037,
     "zablociemieszkanie2pokojowegarazkomorkalokato|3000|35.0|podgorze": 1787246611,
     "dowynajeciabezposrednio2pokojegrochow|2200|50.0|pragapoludnie": 1787246611,
-    "krowodrzazabiniec42m22pokojebezposredniodlapa|2950|42.0|pradnikbialy": 1787246932
+    "krowodrzazabiniec42m22pokojebezposredniodlapa|2950|42.0|pradnikbialy": 1787246932,
+    "wloskamieszkanie2pokojowe|2700|37.0|podgorzeduchackie": 1787249449,
+    "wynajmemieszkaniedwupokojowenauljerozolimskie|3200|46.0|podgorze": 1787249765
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 35.2 м², 2 комнаты\n💰 <b>3500 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Muranów ul. Jana Pawła II»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-muranow-ul-jana-pawla-ii-CID3-ID1bVBoW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
-      "ts": 1787230426,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 35.2,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-20T14:30:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 690 = <b>3490 zł/мес</b>\n   ≈ с медиа около 3590 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia, 2 pokoje +ogródek, ul. Myśliwska 55B, dostępne od 1. paź. 2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-ogrodek-ul-mysliwska-55b-dostepne-od-1-paz-2026-CID3-ID1bVASV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:24",
-      "ts": 1787233325,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 690,
-        "area": 37.5,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-20T14:24:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Wynajem nowe mieszanie premium z balkonem al. Kijowska kolo AGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-nowe-mieszanie-premium-z-balkonem-al-kijowska-kolo-agh-CID3-ID1bVAWT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:24",
       "ts": 1787233325,
@@ -6503,13 +6474,47 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Włoska - Mieszkanie 2 - pokojowe !!!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wloska-mieszkanie-2-pokojowe-CID3-ID1bVZiF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:50",
+      "ts": 1787249449,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 750,
+        "area": 37.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-20T19:50:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 662 = <b>3862 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe na ul. Jerozolimskiej od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-na-ul-jerozolimskiej-od-zaraz-CID3-ID1bVZZV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:00",
+      "ts": 1787249765,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 662,
+        "area": 46.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-20T20:00:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5122,
-    "sent": 1915
+    "checks": 5126,
+    "sent": 1917
   },
   "initialized": true,
-  "last_check": "2026-08-20T18:00:27",
+  "last_check": "2026-08-20T18:21:34",
   "backoff_until": 1787176955.466819
 }
