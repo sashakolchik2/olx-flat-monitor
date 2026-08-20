@@ -4008,7 +4008,11 @@
     "1092637525": 1787231392,
     "1092647694": 1787231392,
     "1092648573": 1787231713,
-    "1092653398": 1787232662
+    "1092653398": 1787232662,
+    "1092637342": 1787232982,
+    "1092654445": 1787232982,
+    "1092653540": 1787232982,
+    "1092656881": 1787232982
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5733,45 +5737,13 @@
     "2pokojowepieknemieszkanieprzyzakrzowkuzklimat|2999|43.0|debniki": 1787231392,
     "wynajemnowemieszaniepremiumzbalkonemalkijowsk|3000|40.0|krowodrza": 1787231392,
     "nowemieszkanieprzyzakrzowkuzklimatyzacjaiogrz|3400|45.0|debniki": 1787231713,
-    "funkcjonalnemieszkaniewnowymbudownictwieideal|2500|42.16|podgorzeduchackie": 1787232662
+    "funkcjonalnemieszkaniewnowymbudownictwieideal|2500|42.16|podgorzeduchackie": 1787232662,
+    "mieszkaniedowynajecia2pokojeogrodekulmysliwsk|2800|37.5|podgorze": 1787232982,
+    "zamknieteosiedlegarazwceniewestfieldmokotowpe|3300|33.0|mokotow": 1787232982
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 8\n👤 от собственника\n«Wynajmę 2 pok 37m2 ul. Bronowicka 8 pietro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pok-37m2-ul-bronowicka-8-pietro-CID3-ID1bVqX4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:51",
-      "ts": 1787219945,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-20T11:51:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Komfortowe 2 pokoje | Salon z aneksem | Miejsce postojowe | Malwowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokoje-salon-z-aneksem-miejsce-postojowe-malwowa-CID3-ID1bVrcv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:55",
-      "ts": 1787220896,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 750,
-        "area": 40.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-20T11:55:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3450 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«2 oddzielne pokoje 38m2 + kuchnia || Dla studentów || Saską kępa ||»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-38m2-kuchnia-dla-studentow-saska-kepa-CID3-ID1bVrRB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
       "ts": 1787221214,
@@ -6417,13 +6389,47 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 690 = <b>3490 zł/мес</b>\n   ≈ с медиа около 3590 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia, 2 pokoje +ogródek, ul. Myśliwska 55B, dostępne od 1. paź. 2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-ogrodek-ul-mysliwska-55b-dostepne-od-1-paz-2026-CID3-ID1bVASV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:24",
+      "ts": 1787232982,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 690,
+        "area": 37.5,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-20T14:24:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Zamknięte osiedle|Garaż w cenie|Westfield Mokotów|Pet-friendly»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zamkniete-osiedle-garaz-w-cenie-westfield-mokotow-pet-friendly-CID3-ID1bVF6c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
+      "ts": 1787232982,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 33.0,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-20T15:20:15+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5079,
-    "sent": 1885
+    "checks": 5080,
+    "sent": 1887
   },
   "initialized": true,
-  "last_check": "2026-08-20T13:31:13",
+  "last_check": "2026-08-20T13:36:34",
   "backoff_until": 1787176955.466819
 }
