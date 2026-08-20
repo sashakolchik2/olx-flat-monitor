@@ -4056,7 +4056,10 @@
     "1092709809": 1787244723,
     "1092711896": 1787245037,
     "1092711224": 1787245037,
-    "1092710330": 1787245353
+    "1092710330": 1787245353,
+    "1092712805": 1787245983,
+    "1092719095": 1787246611,
+    "1092719533": 1787246611
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5808,45 +5811,13 @@
     "mieszkanie2pokojoweulmoldawskaochota|2900|37.0|ochota": 1787242199,
     "mieszkanie2pokojowe41m²gorkanarodowa|2900|41.09|pradnikbialy": 1787242829,
     "2pokojeprzysggwursynowbezposrednio|2800|56.0|ursynow": 1787243775,
-    "klimatycznemieszkaniewodnowionejkamienicy|3800|26.0|srodmiescie": 1787245037
+    "klimatycznemieszkaniewodnowionejkamienicy|3800|26.0|srodmiescie": 1787245037,
+    "zablociemieszkanie2pokojowegarazkomorkalokato|3000|35.0|podgorze": 1787246611,
+    "dowynajeciabezposrednio2pokojegrochow|2200|50.0|pragapoludnie": 1787246611
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie kawalerka centrum śródmiescie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-kawalerka-centrum-srodmiescie-CID3-ID1bVAI1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
-      "ts": 1787229789,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 750,
-        "area": 30.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-20T14:21:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 41 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🌐 Интернет: 50 zł/мес\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 niezależne pokoje + kuchnia przy Nowym Kleparzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-kuchnia-przy-nowym-kleparzu-CID3-ID1bVBdT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
-      "ts": 1787229789,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 41.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-20T14:28:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n🏢 агентство\n«ul. Bagrowa | 2 pokoje+aneks | garaż | 34 m2!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-bagrowa-2-pokoje-aneks-garaz-34-m2-CID3-ID1bVC7Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:40",
       "ts": 1787230108,
@@ -6492,13 +6463,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Zabłocie | mieszkanie 2 pokojowe | garaż | komórka lokatorska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zablocie-mieszkanie-2-pokojowe-garaz-komorka-lokatorska-CID3-ID1bVV9x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:08",
+      "ts": 1787246611,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 35.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-20T19:08:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 1300 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia bezpośrednio 2 pokoje Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-2-pokoje-grochow-CID3-ID1bVVgB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:09",
+      "ts": 1787246611,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2200,
+        "rent": 1300,
+        "area": 50.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-20T19:09:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1300
+      }
     }
   ],
   "stats": {
-    "checks": 5111,
-    "sent": 1912
+    "checks": 5115,
+    "sent": 1914
   },
   "initialized": true,
-  "last_check": "2026-08-20T17:02:41",
+  "last_check": "2026-08-20T17:23:44",
   "backoff_until": 1787176955.466819
 }
