@@ -4037,7 +4037,9 @@
     "1092682069": 1787238720,
     "1092680369": 1787238720,
     "1092683923": 1787239351,
-    "1092683940": 1787239351
+    "1092683940": 1787239351,
+    "1092686316": 1787239669,
+    "1092687949": 1787240299
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5779,45 +5781,13 @@
     "2zamykanepokojeosobnakuchniabliskometradzieci|2950|40.0|wola": 1787238088,
     "mieszkanie38m2mokotowslonecznyskwer|2900|38.0|ochota": 1787238720,
     "mieszkaniebielany2pokoje|3500|37.0|zoliborz": 1787238720,
-    "2pokojeoddzielnakuchniabalkonpkpwolametrotram|2900|32.0|wola": 1787239351
+    "2pokojeoddzielnakuchniabalkonpkpwolametrotram|2900|32.0|wola": 1787239351,
+    "przestronne2pokojowemieszkaniezbalkonemulbork|2600|51.63|debniki": 1787239669,
+    "pluaen2pokojeszklanedomypieknemieszkanieodzar|2500|36.0|bienczyce": 1787240299
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42.16 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«wynajmę mieszkanie Kraków Kurdwanów dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-krakow-kurdwanow-dwupokojowe-CID3-ID1bVvj2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
-      "ts": 1787225660,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 42.16,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-20T13:23:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n   ≈ с медиа около 4400 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«Apartament 2-pok odnowiony na Kazimierzu! Miodowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-2-pok-odnowiony-na-kazimierzu-miodowa-CID3-ID1bVv1a.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:17",
-      "ts": 1787225982,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-20T13:17:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Targówek</b> — 40 м², 2 комнаты\n💰 2650 + czynsz 650 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 900 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wyjątkowe 2 pokoje blisko metra, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wyjatkowe-2-pokoje-blisko-metra-bezposrednio-CID3-ID1bVvmX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:24",
       "ts": 1787226298,
@@ -6463,13 +6433,47 @@
       "an": {
         "czynsz_desc": 150
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 51.63 м², 2 комнаты\n💰 2600 + czynsz 939 = <b>3539 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Przestronne 2‑pokojowe mieszkanie z balkonem – ul. Borkowska, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2pokojowe-mieszkanie-z-balkonem-ul-borkowska-krakow-CID3-ID1bVNCQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
+      "ts": 1787239669,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 939,
+        "area": 51.63,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-20T17:15:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": 939
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 580 = <b>3080 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«PL / UA / EN | 2 Pokoje | Szklane domy | Piękne mieszkanie | Od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/pl-ua-en-2-pokoje-szklane-domy-piekne-mieszkanie-od-zaraz-CID3-ID1bVO3b.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:20",
+      "ts": 1787240299,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 580,
+        "area": 36.0,
+        "district": "Bieńczyce",
+        "business": true,
+        "created_iso": "2026-08-20T17:20:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 580
+      }
     }
   ],
   "stats": {
-    "checks": 5092,
-    "sent": 1902
+    "checks": 5095,
+    "sent": 1904
   },
   "initialized": true,
-  "last_check": "2026-08-20T15:22:41",
+  "last_check": "2026-08-20T15:38:28",
   "backoff_until": 1787176955.466819
 }
