@@ -4099,7 +4099,9 @@
     "1092765968": 1787256892,
     "1092766648": 1787256892,
     "1092769100": 1787257214,
-    "1092770161": 1787257846
+    "1092770161": 1787257846,
+    "1092776346": 1787259106,
+    "1092776378": 1787259106
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5877,28 +5879,12 @@
     "mieszkanie2pokojoweursynowmetroimielin|3000|53.0|ursynow": 1787256892,
     "nowejasneurzadzone2pokojebalkongaraznabemowie|2950|35.52|bemowo": 1787256892,
     "nowe38mmieszkaniebliskabialolekapolecam|3000|38.0|targowek": 1787256892,
-    "mieszkanie2pokojowe51m2ulfieldorfanila|3300|51.0|pradnikbialy": 1787257214
+    "mieszkanie2pokojowe51m2ulfieldorfanila|3300|51.0|pradnikbialy": 1787257214,
+    "mieszkaniedowynajeciawrazzmiejscemparkingowym|3000|42.0|debniki": 1787259106
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2950 + czynsz 630 = <b>3580 zł/мес</b>\n🏢 Этаж: 10\n👤 от собственника\n«2 zamykane pokoje + osobna kuchnia, blisko metra. Dzieci zwierzęta OK»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-zamykane-pokoje-osobna-kuchnia-blisko-metra-dzieci-zwierzeta-ok-CID3-ID1bVLRQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:51",
-      "ts": 1787238088,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 630,
-        "area": 40.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-20T16:51:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: 400 zł/мес\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 38m2 Mokotow Sloneczny Skwer»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-38m2-mokotow-sloneczny-skwer-CID3-ID1bVMwV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
       "ts": 1787238720,
@@ -6561,13 +6547,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🚗 Паркинг: в цене\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia wraz z miejscem parkingowym w garażu podziemnym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-wraz-z-miejscem-parkingowym-w-garazu-podziemnym-CID3-ID1bXb2V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:38",
+      "ts": 1787259106,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 42.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-20T22:38:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5142,
-    "sent": 1938
+    "checks": 5146,
+    "sent": 1939
   },
   "initialized": true,
-  "last_check": "2026-08-20T20:30:53",
+  "last_check": "2026-08-20T20:51:56",
   "backoff_until": 1787176955.466819
 }
