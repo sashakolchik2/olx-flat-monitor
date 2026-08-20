@@ -3956,7 +3956,12 @@
     "1092604048": 1787221532,
     "1091777594": 1787221532,
     "1092606680": 1787221849,
-    "1092605834": 1787221849
+    "1092605834": 1787221849,
+    "1092606550": 1787222168,
+    "1092606097": 1787222168,
+    "1092605611": 1787222168,
+    "1092607477": 1787222485,
+    "1092608931": 1787222801
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5647,45 +5652,13 @@
     "apartamentzgarazemkrakowbronowice|2800|44.0|krowodrza": 1787221214,
     "2oddzielnepokoje38m2kuchniadlastudentowsaskak|2700|38.0|pragapoludnie": 1787221214,
     "mieszkanie2pokojoweulmysliborska1bialolekawar|3800|36.4|bialoleka": 1787221532,
-    "slonecznemieszkaniezbalkonemwrembertowie|2800|35.0|rembertow": 1787221849
+    "slonecznemieszkaniezbalkonemwrembertowie|2800|35.0|rembertow": 1787221849,
+    "mieszkanie2pokojoweulpowstancowslaskich108cbe|3850|40.7|bielany": 1787222168,
+    "mieszkanie2pokojoweulsokratesa13cbielanywawrz|3800|46.0|bielany": 1787222801
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie 35 m² na Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-35-m-na-woli-CID3-ID1bV3OZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:04",
-      "ts": 1787174123,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 750,
-        "area": 35.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-19T23:04:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe, w pełni wyposażone z piwnicą, blisko PKP»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-pelni-wyposazone-z-piwnica-blisko-pkp-CID3-ID1bV3QL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:05",
-      "ts": 1787174755,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 800,
-        "area": 38.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-19T23:05:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 39.5 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4800 zł/мес\n⚡ Свет/медиа: ≈ 900 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Bemowo | 2 pokoje 39,5 m² | Metro 250 m | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-39-5-m-metro-250-m-garaz-CID3-ID1bV4Iq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:33",
       "ts": 1787176021,
@@ -6331,13 +6304,47 @@
       "an": {
         "czynsz_desc": 620
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 40.7 м², 2 комнаты\n💰 3850 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokojowe, ul. Powstańców Śląskich 108 C, Bemowo, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-powstancow-slaskich-108-c-bemowo-warszawa-CID3-ID1bVsKZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:19",
+      "ts": 1787222168,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3850,
+        "rent": null,
+        "area": 40.7,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-20T12:19:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 46 м², 2 комнаты\n💰 <b>3800 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe, ul. Sokratesa 13 C, Bielany, Wawrzyszew, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-sokratesa-13-c-bielany-wawrzyszew-warszawa-CID3-ID1bVtuH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:32",
+      "ts": 1787222801,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 46.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-20T12:32:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5045,
-    "sent": 1851
+    "checks": 5049,
+    "sent": 1853
   },
   "initialized": true,
-  "last_check": "2026-08-20T10:30:58",
+  "last_check": "2026-08-20T10:52:07",
   "backoff_until": 1787176955.466819
 }
