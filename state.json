@@ -3900,7 +3900,15 @@
     "1092556429": 1787208238,
     "1092557663": 1787208557,
     "1092557047": 1787208557,
-    "1092204967": 1787208557
+    "1092204967": 1787208557,
+    "1092563055": 1787210751,
+    "1092564445": 1787211066,
+    "1092564864": 1787211066,
+    "1092563980": 1787211066,
+    "1092564031": 1787211066,
+    "1092566360": 1787211382,
+    "1092566391": 1787211382,
+    "1092565778": 1787211696
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5562,62 +5570,14 @@
     "malemieszkaniezgarazemnanowodworach|2350|34.0|bialoleka": 1787202909,
     "przestronnedwupokojowemieszkaniezosobnakuchni|3200|53.0|grzegorzki": 1787207924,
     "2pokmieszkaniekrakowulslicznajuzdostepnewlasc|2599|51.0|grzegorzki": 1787208238,
-    "dowynajecia2pokojowemieszkanieostrobramskasta|2800|37.0|pragapoludnie": 1787208557
+    "dowynajecia2pokojowemieszkanieostrobramskasta|2800|37.0|pragapoludnie": 1787208557,
+    "2pokojowewdoskonalejlokalizacjiokolicplhaller|2800|38.0|pragapolnoc": 1787210751,
+    "mieszkaniedowynajeciakabaty56m2miejscegarazow|3200|56.0|ursynow": 1787211066,
+    "przytulne2pokojezoddzielnakuchniabemowoulsiem|2400|36.0|bemowo": 1787211382
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 47.5 м², 2 комнаты\n💰 2800 + czynsz 790 = <b>3590 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n👤 от собственника\n«Krowodrza: Mieszkanie 2-pokojowe, blisko centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-mieszkanie-2-pokojowe-blisko-centrum-CID3-ID1bWJ6m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:52",
-      "ts": 1787159343,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 790,
-        "area": 47.5,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-19T18:52:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 790
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 500 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pokojowe 32 m2 z balkonem ul. Ogniowa, blisko SKM Warszawa Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-32-m2-z-balkonem-ul-ogniowa-blisko-skm-warszawa-ursus-CID3-ID1bWJLY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:58",
-      "ts": 1787159657,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 500,
-        "area": 32.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-19T18:58:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2400 + czynsz 700 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«ulica Obozowa. 2 pok-40m-Wola-balkon-bardzo ciche i bardzo jasne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ulica-obozowa-2-pok-40m-wola-balkon-bardzo-ciche-i-bardzo-jasne-CID3-ID1bWKs3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:05",
-      "ts": 1787159657,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Wola",
-        "business": true,
-        "created_iso": "2026-08-19T19:05:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 oddzielne pokoje- metro Wierzbno - Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-metro-wierzbno-mokotow-CID3-ID1bWKxn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:06",
       "ts": 1787159973,
@@ -6246,13 +6206,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Północ</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2 pokojowe, w doskonałej lokalizacji okolic pl. Hallera - do wynajęcie od 1 października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-w-doskonalej-lokalizacji-okolic-pl-hallera-do-wynajecie-od-1-pazdziernika-CID3-ID1bVhyL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:07",
+      "ts": 1787210751,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 38.0,
+        "district": "Praga-Północ",
+        "business": false,
+        "created_iso": "2026-08-20T09:07:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 790 = <b>3990 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia Kabaty, 56m2, miejsce garażowe w cenie, 10 min do metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-kabaty-56m2-miejsce-garazowe-w-cenie-10-min-do-metra-CID3-ID1bVi1V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:20",
+      "ts": 1787211066,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 790,
+        "area": 56.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-20T09:20:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 790
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 36 м², 2 комнаты\n💰 2400 + czynsz 700 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 10\n🏢 агентство\n«Przytulne 2 pokoje z oddzielną kuchnią – Bemowo, ul. Siemiatycka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-z-oddzielna-kuchnia-bemowo-ul-siemiatycka-CID3-ID1bViqz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:31",
+      "ts": 1787211382,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 700,
+        "area": 36.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-20T09:31:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5021,
-    "sent": 1822
+    "checks": 5025,
+    "sent": 1825
   },
   "initialized": true,
-  "last_check": "2026-08-20T07:20:43",
+  "last_check": "2026-08-20T07:41:44",
   "backoff_until": 1787176955.466819
 }
