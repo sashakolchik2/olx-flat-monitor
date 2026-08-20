@@ -3987,7 +3987,11 @@
     "1092626269": 1787226937,
     "1092629097": 1787227569,
     "1092628352": 1787227569,
-    "1092628111": 1787227889
+    "1092628111": 1787227889,
+    "1092629909": 1787228209,
+    "1092631475": 1787228209,
+    "1092632776": 1787228841,
+    "1092635693": 1787229156
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5698,28 +5702,12 @@
     "dwaniezaleznepokojebalkonpradnikbialy50m2|2800|50.0|pradnikbialy": 1787226937,
     "czyzyny2osobnepokojebalkonparkingkomorka|3099|45.0|czyzyny": 1787227569,
     "warszawawolaulgibalskiegoprzyzytniejdwapokoje|2600|51.0|wola": 1787227569,
-    "nowykleparz2pokbezposrednio|2500|29.0|grzegorzki": 1787227889
+    "nowykleparz2pokbezposrednio|2500|29.0|grzegorzki": 1787227889,
+    "2pokojowemieszkanieidealnedlaparyduzagarderob|2800|36.0|pradnikczerwony": 1787228209
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 2950 + czynsz 450 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe komfortowe – Pl. Szembeka – nowe budownictwo – Do wynajęcia od 1/09/2026.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-komfortowe-pl-szembeka-nowe-budownictwo-do-wynajecia-od-1-09-2026-CID3-ID1bVlGA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:26",
-      "ts": 1787215494,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 450,
-        "area": 33.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-20T10:26:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Nowoczesne 2 pokoje (52m2) | Winda | Radzikowskiego | Idealne dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-52m2-winda-radzikowskiego-idealne-dla-pary-CID3-ID1bVm8G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:36",
       "ts": 1787215813,
@@ -6382,13 +6370,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 62 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2-Pokojowe Mieszkanie | Idealne Dla Pary | Duża Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-idealne-dla-pary-duza-garderoba-CID3-ID1bVzmj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
+      "ts": 1787228209,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 650,
+        "area": 36.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-20T14:03:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 5064,
-    "sent": 1871
+    "checks": 5068,
+    "sent": 1872
   },
   "initialized": true,
-  "last_check": "2026-08-20T12:11:39",
+  "last_check": "2026-08-20T12:32:44",
   "backoff_until": 1787176955.466819
 }
