@@ -4059,7 +4059,8 @@
     "1092710330": 1787245353,
     "1092712805": 1787245983,
     "1092719095": 1787246611,
-    "1092719533": 1787246611
+    "1092719533": 1787246611,
+    "1092722287": 1787246932
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5813,28 +5814,12 @@
     "2pokojeprzysggwursynowbezposrednio|2800|56.0|ursynow": 1787243775,
     "klimatycznemieszkaniewodnowionejkamienicy|3800|26.0|srodmiescie": 1787245037,
     "zablociemieszkanie2pokojowegarazkomorkalokato|3000|35.0|podgorze": 1787246611,
-    "dowynajeciabezposrednio2pokojegrochow|2200|50.0|pragapoludnie": 1787246611
+    "dowynajeciabezposrednio2pokojegrochow|2200|50.0|pragapoludnie": 1787246611,
+    "krowodrzazabiniec42m22pokojebezposredniodlapa|2950|42.0|pradnikbialy": 1787246932
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n🏢 агентство\n«ul. Bagrowa | 2 pokoje+aneks | garaż | 34 m2!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-bagrowa-2-pokoje-aneks-garaz-34-m2-CID3-ID1bVC7Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:40",
-      "ts": 1787230108,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 500,
-        "area": 34.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-20T14:40:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 35.2 м², 2 комнаты\n💰 <b>3500 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Muranów ul. Jana Pawła II»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-muranow-ul-jana-pawla-ii-CID3-ID1bVBoW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
       "ts": 1787230426,
@@ -6497,13 +6482,30 @@
       "an": {
         "czynsz_desc": 1300
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 710 = <b>3660 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Krowodrza/Żabiniec 42m2 2 pokoje bezpośrednio (dla pary)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-zabiniec-42m2-2-pokoje-bezposrednio-dla-pary-CID3-ID1bVVZ1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:19",
+      "ts": 1787246932,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 710,
+        "area": 42.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-20T19:19:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5115,
-    "sent": 1914
+    "checks": 5119,
+    "sent": 1915
   },
   "initialized": true,
-  "last_check": "2026-08-20T17:23:44",
+  "last_check": "2026-08-20T17:44:43",
   "backoff_until": 1787176955.466819
 }
