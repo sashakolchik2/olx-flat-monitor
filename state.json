@@ -4032,7 +4032,12 @@
     "1092672835": 1787236829,
     "1092672732": 1787236829,
     "1092676108": 1787237460,
-    "1092679558": 1787238088
+    "1092679558": 1787238088,
+    "1092682044": 1787238720,
+    "1092682069": 1787238720,
+    "1092680369": 1787238720,
+    "1092683923": 1787239351,
+    "1092683940": 1787239351
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5771,62 +5776,14 @@
     "2pokojowemieszkaniedowynajeciawarszawabialole|2700|35.0|bialoleka": 1787236509,
     "wynajemmieszkania|2900|50.0|pragapoludnie": 1787236509,
     "bronowicedowynajeciamieszkanie2pokojowe|3000|37.0|biezanowprokocim": 1787236829,
-    "2zamykanepokojeosobnakuchniabliskometradzieci|2950|40.0|wola": 1787238088
+    "2zamykanepokojeosobnakuchniabliskometradzieci|2950|40.0|wola": 1787238088,
+    "mieszkanie38m2mokotowslonecznyskwer|2900|38.0|ochota": 1787238720,
+    "mieszkaniebielany2pokoje|3500|37.0|zoliborz": 1787238720,
+    "2pokojeoddzielnakuchniabalkonpkpwolametrotram|2900|32.0|wola": 1787239351
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 44 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3480 zł/мес\n⚡ Свет/медиа: ≈ 30 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🏢 агентство\n«Nowoczesne 2 pokojowe mieszkanie z garderobą - 44m2 LAS BORKOWSKI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-garderoba-44m2-las-borkowski-CID3-ID1bVwyL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:08",
-      "ts": 1787225026,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 750,
-        "area": 44.0,
-        "district": "Dębniki",
-        "business": true,
-        "created_iso": "2026-08-20T13:08:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 3953 zł/мес\n⚡ Свет/медиа: ≈ 53 zł/мес\n🌐 Интернет: 80 zł/мес\n🏢 Этаж: 1\n🏢 агентство\n«Stare Miasto - obręb Plant | 2 pokoje | 53m2 | WYNAJMĘ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stare-miasto-obreb-plant-2-pokoje-53m2-wynajme-CID3-ID1bVv49.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:18",
-      "ts": 1787225660,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 53.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-20T13:18:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 33 м², 2 комнаты\n💰 2200 + czynsz 850 = <b>3050 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajęcia mieszkanie 2 pok 33m2 Warszawa Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-2-pok-33m2-warszawa-wola-CID3-ID1bVvfR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:22",
-      "ts": 1787225660,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 850,
-        "area": 33.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-20T13:22:09+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42.16 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«wynajmę mieszkanie Kraków Kurdwanów dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-krakow-kurdwanow-dwupokojowe-CID3-ID1bVvj2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:23",
       "ts": 1787225660,
@@ -6455,13 +6412,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n🚗 Паркинг: 400 zł/мес\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 38m2 Mokotow Sloneczny Skwer»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-38m2-mokotow-sloneczny-skwer-CID3-ID1bVMwV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
+      "ts": 1787238720,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 38.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-20T17:00:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 37 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Bielany 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-bielany-2-pokoje-CID3-ID1bVMvl.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:00",
+      "ts": 1787238720,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 37.0,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-20T17:00:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, oddzielna kuchnia, balkon. PKP Wola, metro, tramwaj,dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-oddzielna-kuchnia-balkon-pkp-wola-metro-tramwaj-dla-pary-CID3-ID1bVN0f.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:07",
+      "ts": 1787239351,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 900,
+        "area": 32.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-20T17:07:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": 150
+      }
     }
   ],
   "stats": {
-    "checks": 5088,
-    "sent": 1899
+    "checks": 5092,
+    "sent": 1902
   },
   "initialized": true,
-  "last_check": "2026-08-20T15:01:37",
+  "last_check": "2026-08-20T15:22:41",
   "backoff_until": 1787176955.466819
 }
