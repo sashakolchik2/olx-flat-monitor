@@ -4047,7 +4047,10 @@
     "1092694865": 1787241883,
     "1092700031": 1787242199,
     "1092699061": 1787242199,
-    "1092701678": 1787242829
+    "1092701678": 1787242829,
+    "1092703869": 1787243148,
+    "1092705735": 1787243775,
+    "1092703735": 1787243775
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5797,28 +5800,12 @@
     "2pokojowemieszkaniezbalkonemtuzprzyplantachul|2800|43.0|staremiasto": 1787241564,
     "cichedwapokojena8pietrzebliskowumdlastudenta|2800|38.0|wlochy": 1787241883,
     "mieszkanie2pokojoweulmoldawskaochota|2900|37.0|ochota": 1787242199,
-    "mieszkanie2pokojowe41m²gorkanarodowa|2900|41.09|pradnikbialy": 1787242829
+    "mieszkanie2pokojowe41m²gorkanarodowa|2900|41.09|pradnikbialy": 1787242829,
+    "2pokojeprzysggwursynowbezposrednio|2800|56.0|ursynow": 1787243775
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 29 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Nowy Kleparz, 2-pok, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowy-kleparz-2-pok-bezposrednio-CID3-ID1bVyu3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:53",
-      "ts": 1787227889,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 500,
-        "area": 29.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-20T13:53:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 62 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2-Pokojowe Mieszkanie | Idealne Dla Pary | Duża Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-idealne-dla-pary-duza-garderoba-CID3-ID1bVzmj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
       "ts": 1787228209,
@@ -6481,13 +6468,30 @@
       "an": {
         "czynsz_desc": 770
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 56 м², 2 комнаты\n💰 2800 + czynsz 1200 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje przy SGGW | Ursynów | bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-sggw-ursynow-bezposrednio-CID3-ID1bVS9N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:15",
+      "ts": 1787243775,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 1200,
+        "area": 56.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-20T18:15:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5103,
-    "sent": 1910
+    "checks": 5107,
+    "sent": 1911
   },
   "initialized": true,
-  "last_check": "2026-08-20T16:20:39",
+  "last_check": "2026-08-20T16:41:40",
   "backoff_until": 1787176955.466819
 }
