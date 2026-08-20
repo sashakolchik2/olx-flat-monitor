@@ -3889,7 +3889,8 @@
     "1092512399": 1787175074,
     "1092513682": 1787176021,
     "1092514740": 1787176964,
-    "1092521005": 1787179485
+    "1092521005": 1787179485,
+    "1092491707": 1787199459
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5544,28 +5545,12 @@
     "2pokojowemieszkanie35m²nawoli|2900|35.0|wola": 1787174123,
     "mieszkanie2pokojowewpelniwyposazonezpiwnicabl|2600|38.0|bielany": 1787174755,
     "bemowo2pokoje395m²metro250mgaraz|3000|39.5|bemowo": 1787176021,
-    "przytulnemieszkaniezbalkonemwkrakowie|2750|41.29|pradnikczerwony": 1787179485
+    "przytulnemieszkaniezbalkonemwkrakowie|2750|41.29|pradnikczerwony": 1787179485,
+    "mieszkaniekrakowulbpmalysiaka14|3000|38.0|debniki": 1787199459
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 700 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pok 40m2 z aneksem-GOCŁAW BALATON-zmywarka,Międzyborska 11»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-40m2-z-aneksem-goclaw-balaton-zmywarka-miedzyborska-11-CID3-ID1bWFWt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:18",
-      "ts": 1787157142,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-19T18:18:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 48 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę przestronne 2 pokoje (48 m²) z osobną kuchnią | Ursus Skorosze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-przestronne-2-pokoje-48-m-z-osobna-kuchnia-ursus-skorosze-CID3-ID1bWG92.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:20",
       "ts": 1787157456,
@@ -6228,13 +6213,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 445 = <b>3445 zł/мес</b>\n🌐 Интернет: 69 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie, Kraków ul. Bp Małysiaka 14»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ul-bp-malysiaka-14-CID3-ID1bWYZZ.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:57",
+      "ts": 1787199459,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 445,
+        "area": 38.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-19T21:57:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 4983,
-    "sent": 1815
+    "checks": 4987,
+    "sent": 1816
   },
   "initialized": true,
-  "last_check": "2026-08-20T04:02:06",
+  "last_check": "2026-08-20T04:22:59",
   "backoff_until": 1787176955.466819
 }
