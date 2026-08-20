@@ -4050,7 +4050,13 @@
     "1092701678": 1787242829,
     "1092703869": 1787243148,
     "1092705735": 1787243775,
-    "1092703735": 1787243775
+    "1092703735": 1787243775,
+    "1092648845": 1787244408,
+    "1092710050": 1787244723,
+    "1092709809": 1787244723,
+    "1092711896": 1787245037,
+    "1092711224": 1787245037,
+    "1092710330": 1787245353
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5801,28 +5807,12 @@
     "cichedwapokojena8pietrzebliskowumdlastudenta|2800|38.0|wlochy": 1787241883,
     "mieszkanie2pokojoweulmoldawskaochota|2900|37.0|ochota": 1787242199,
     "mieszkanie2pokojowe41m²gorkanarodowa|2900|41.09|pradnikbialy": 1787242829,
-    "2pokojeprzysggwursynowbezposrednio|2800|56.0|ursynow": 1787243775
+    "2pokojeprzysggwursynowbezposrednio|2800|56.0|ursynow": 1787243775,
+    "klimatycznemieszkaniewodnowionejkamienicy|3800|26.0|srodmiescie": 1787245037
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 650 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🌐 Интернет: 62 zł/мес\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 2\n🏢 агентство\n«2-Pokojowe Mieszkanie | Idealne Dla Pary | Duża Garderoba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-idealne-dla-pary-duza-garderoba-CID3-ID1bVzmj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:03",
-      "ts": 1787228209,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-20T14:03:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie kawalerka centrum śródmiescie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-kawalerka-centrum-srodmiescie-CID3-ID1bVAI1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:21",
       "ts": 1787229789,
@@ -6485,13 +6475,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 26 м², 2 комнаты\n💰 3800 + czynsz 1 = <b>3801 zł/мес</b>\n   ≈ с медиа около 4301 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 6\n🏢 агентство\n«Klimatyczne mieszkanie w odnowionej kamienicy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyczne-mieszkanie-w-odnowionej-kamienicy-CID3-ID1bVU6A.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:42",
+      "ts": 1787245037,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": 1,
+        "area": 26.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-20T18:42:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5107,
-    "sent": 1911
+    "checks": 5111,
+    "sent": 1912
   },
   "initialized": true,
-  "last_check": "2026-08-20T16:41:40",
+  "last_check": "2026-08-20T17:02:41",
   "backoff_until": 1787176955.466819
 }
