@@ -4079,7 +4079,15 @@
     "1092745341": 1787251987,
     "1092746235": 1787252303,
     "1092746998": 1787252303,
-    "1092745774": 1787252617
+    "1092745774": 1787252617,
+    "1092747831": 1787252935,
+    "1092750747": 1787253248,
+    "1092751125": 1787253565,
+    "1092750593": 1787253565,
+    "1092750400": 1787253565,
+    "1092754493": 1787253565,
+    "1092751655": 1787253565,
+    "1092753701": 1787253882
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5844,62 +5852,14 @@
     "pieknemieszk2poksaskakepa|2500|40.0|pragapoludnie": 1787251668,
     "wynajmemieszkaniemetroraclawickabliskosgh|3000|49.0|mokotow": 1787251668,
     "2pokojowemieszkanieosiedlewizjonerowbronowice|3100|43.0|bronowice": 1787251987,
-    "mieszkanie2pokojowedowynajecianowa5dzielnica|3200|44.0|krowodrza": 1787252617
+    "mieszkanie2pokojowedowynajecianowa5dzielnica|3200|44.0|krowodrza": 1787252617,
+    "dowynajecia50m²zogrodkiemitarasemwarszawaulpo|3500|48.0|wawer": 1787253248,
+    "wynajmemieszkaniekrakowkrowodrzanowa5dzielnic|3500|41.5|krowodrza": 1787253565,
+    "mieszkaniedowynajecia39m²2pokoje|3100|39.0|debniki": 1787253565
   },
   "tg_offset": 654625400,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 🏢 агентство\n«Zamknięte osiedle|Garaż w cenie|Westfield Mokotów|Pet-friendly»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zamkniete-osiedle-garaz-w-cenie-westfield-mokotow-pet-friendly-CID3-ID1bVF6c.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
-      "ts": 1787233325,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 700,
-        "area": 33.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-20T15:20:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42.16 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Funkcjonalne mieszkanie w nowym budownictwie | idealne dla singla lub pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/funkcjonalne-mieszkanie-w-nowym-budownictwie-idealne-dla-singla-lub-pary-CID3-ID1bVF3U.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:19",
-      "ts": 1787233660,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 500,
-        "area": 42.16,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-20T15:19:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 820 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«Nowoczesne mieszkanie z balkonem-Aleja Pokoju»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-z-balkonem-aleja-pokoju-CID3-ID1bVG4J.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:33",
-      "ts": 1787233978,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2950,
-        "rent": 820,
-        "area": 42.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-20T15:33:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 820
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 2699 + czynsz 350 = <b>3049 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«ul. Szlak | 2-pokojowe mieszkanie 38m2 | wysoki parter | WYNAJMĘ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-szlak-2-pokojowe-mieszkanie-38m2-wysoki-parter-wynajme-CID3-ID1bVGkh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:37",
       "ts": 1787233978,
@@ -6528,13 +6488,64 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 48 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia 50 m² z ogródkiem i tarasem – Warszawa ul poprawna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-50-m-z-ogrodkiem-i-tarasem-warszawa-ul-poprawna-CID3-ID1bX4o3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:00",
+      "ts": 1787253248,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 500,
+        "area": 48.0,
+        "district": "Wawer",
+        "business": false,
+        "created_iso": "2026-08-20T21:00:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 650 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia 39 m² - 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-39-m-2-pokoje-CID3-ID1bX4is.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:59",
+      "ts": 1787253565,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 650,
+        "area": 39.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-20T20:59:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 41.5 м², 2 комнаты\n💰 3500 + czynsz 350 = <b>3850 zł/мес</b>\n   ≈ с медиа около 3970 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 70 zł/мес\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie KRAKÓW Krowodrza Nowa 5 Dzielnica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-krakow-krowodrza-nowa-5-dzielnica-CID3-ID1bX4u9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:01",
+      "ts": 1787253565,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 350,
+        "area": 41.5,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-20T21:01:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 120
+      }
     }
   ],
   "stats": {
-    "checks": 5134,
-    "sent": 1925
+    "checks": 5138,
+    "sent": 1928
   },
   "initialized": true,
-  "last_check": "2026-08-20T19:03:47",
+  "last_check": "2026-08-20T19:24:50",
   "backoff_until": 1787176955.466819
 }
