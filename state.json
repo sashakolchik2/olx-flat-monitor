@@ -4166,7 +4166,13 @@
     "1092887732": 1787309821,
     "1092887658": 1787310135,
     "1092891517": 1787310447,
-    "1092892961": 1787310761
+    "1092892961": 1787310761,
+    "1092893453": 1787311074,
+    "1092893891": 1787311074,
+    "1092897618": 1787311696,
+    "1092895944": 1787311696,
+    "1092897511": 1787311696,
+    "1092896725": 1787311696
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5979,62 +5985,14 @@
     "bezposrednio2pokojowe43m2glogera21|3300|43.0|pradnikbialy": 1787308879,
     "mieszkaniedwupokojowebronowicebezposrednikow|3200|56.0|bronowice": 1787308879,
     "2pokojezbalkoneminternetwcenie54m2obroncowtob|3000|54.0|bemowo": 1787309821,
-    "bezposrednionowe2pokojowe35m2ulglogera21|3000|35.0|pradnikbialy": 1787310447
+    "bezposrednionowe2pokojowe35m2ulglogera21|3000|35.0|pradnikbialy": 1787310447,
+    "mieszkaniedowynajecianowahutaulbulwarowa31b2p|2800|41.0|nowahuta": 1787311696,
+    "nowemieszkanie435m²loggia45mgarazpodziemnywpe|3200|43.5|pradnikbialy": 1787311696,
+    "nowoczesnemieszkanie2pokojowe49mnapradzepolud|3000|49.0|pragapoludnie": 1787311696
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem. Stary Mokotów, Kwiatowa, 2 oddzielne pokoje – bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-stary-mokotow-kwiatowa-2-oddzielne-pokoje-bezposrednio-CID3-ID1bX8rh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:56",
-      "ts": 1787256572,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 41.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-20T21:56:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Nowe 38 m mieszkanie, bliska Białołęka. Polecam»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-38-m-mieszkanie-bliska-bialoleka-polecam-CID3-ID1bX8ly.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:54",
-      "ts": 1787256892,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 900,
-        "area": 38.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-20T21:54:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 35.52 м², 2 комнаты\n💰 2950 + czynsz 600 = <b>3550 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Nowe, jasne, urządzone / 2 pokoje / balkon / garaż na Bemowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-jasne-urzadzone-2-pokoje-balkon-garaz-na-bemowie-CID3-ID1bX8Qs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:01",
-      "ts": 1787256892,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 600,
-        "area": 35.52,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-20T22:01:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursynów</b> — 53 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie 2-pokojowe Ursynów, metro Imielin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ursynow-metro-imielin-CID3-ID1bX8UU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:02",
       "ts": 1787256892,
@@ -6663,13 +6621,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 43.5 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1\n👤 от собственника\n«Nowe mieszkanie 43,5 m² | loggia 4,5 m | garaż podziemny | w pełni umeblowane| dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-43-5-m-loggia-4-5-m-garaz-podziemny-w-pelni-umeblowane-dostepne-od-zaraz-CID3-ID1bXG9V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:14",
+      "ts": 1787311696,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 43.5,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-21T13:14:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 840 = <b>3840 zł/мес</b>\n   ≈ с медиа около 4680 zł/мес\n⚡ Свет/медиа: ≈ 840 zł + свет по счётчику\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Nowoczesne mieszkanie 2-pokojowe 49 m na Pradze Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-2-pokojowe-49-m-na-pradze-poludnie-CID3-ID1bXGzd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
+      "ts": 1787311696,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 840,
+        "area": 49.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-21T13:19:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 41 м², 2 комнаты\n💰 2800 + czynsz 680 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie do wynajęcia Nowa Huta, ul. Bulwarowa 31B | 2 pokoje, 41 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-nowa-huta-ul-bulwarowa-31b-2-pokoje-41-m-CID3-ID1bXGAV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:20",
+      "ts": 1787311696,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 680,
+        "area": 41.0,
+        "district": "Nowa Huta",
+        "business": true,
+        "created_iso": "2026-08-21T13:20:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5256,
-    "sent": 1973
+    "checks": 5260,
+    "sent": 1976
   },
   "initialized": true,
-  "last_check": "2026-08-21T11:12:47",
+  "last_check": "2026-08-21T11:33:41",
   "backoff_until": 1787308554.928825
 }
