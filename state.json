@@ -4271,7 +4271,10 @@
     "1093012059": 1787345958,
     "1093012337": 1787346274,
     "1093012754": 1787346274,
-    "1093014067": 1787346588
+    "1093014067": 1787346588,
+    "1093014467": 1787346907,
+    "1092856436": 1787346907,
+    "1093013944": 1787347223
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6144,45 +6147,13 @@
     "dwupokojowemieszkanieosobnakuchniaszybkitramw|2650|45.0|podgorzeduchackie": 1787343419,
     "bemowo2pokoje44m2nowegarazwceniewolneodzaraz|3150|44.0|bemowo": 1787344362,
     "2pokojebliskocentrumulpoznanskakrowodrza|2750|40.0|krowodrza": 1787345958,
-    "45m2od0109wsercustaregopodgorzaporemonciebezp|3000|45.0|podgorze": 1787346588
+    "45m2od0109wsercustaregopodgorzaporemonciebezp|3000|45.0|podgorze": 1787346588,
+    "2pokojowemieszkaniekrakowkrowodrza|2900|38.0|krowodrza": 1787346907,
+    "mieszkanie36m2dwapokojeosalbertynskie|2600|36.0|bienczyce": 1787347223
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 33 м², 2 комнаты\n💰 2890 + czynsz 1050 = <b>3940 zł/мес</b>\n   ≈ с медиа около 4140 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Bemowo, 2-pokojowe, balkon, miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokojowe-balkon-miejsce-postojowe-CID3-ID1bXNmO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:12",
-      "ts": 1787318618,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2890,
-        "rent": 1050,
-        "area": 33.0,
-        "district": "Bemowo",
-        "business": true,
-        "created_iso": "2026-08-21T15:12:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1050
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 1000 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n🏢 Этаж: 2\n🏢 агентство\n«Po remoncie| Balkon | 45m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/po-remoncie-balkon-45m2-CID3-ID1bXOqn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:32",
-      "ts": 1787319556,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 1000,
-        "area": 45.0,
-        "district": "Podgórze Duchackie",
-        "business": true,
-        "created_iso": "2026-08-21T15:32:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Żoliborz</b> — 39 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«2 oddzielne pokoje Zoliborz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-zoliborz-CID3-ID1bXOvE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:33",
       "ts": 1787319556,
@@ -6828,13 +6799,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie Kraków Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-krakow-krowodrza-CID3-ID1bYaZB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:05",
+      "ts": 1787346907,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 670,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-21T23:05:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 650 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 36m2 dwa pokoje oś. Albertyńskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m2-dwa-pokoje-os-albertynskie-CID3-ID1bYaRa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:59",
+      "ts": 1787347223,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 650,
+        "area": 36.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-21T22:59:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5363,
-    "sent": 2033
+    "checks": 5367,
+    "sent": 2035
   },
   "initialized": true,
-  "last_check": "2026-08-21T21:09:59",
+  "last_check": "2026-08-21T21:31:00",
   "backoff_until": 1787339624.3484812
 }
