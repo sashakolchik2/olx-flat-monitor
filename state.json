@@ -4106,21 +4106,12 @@
     "1092778858": 1787259742,
     "1092779279": 1787259742,
     "1092779198": 1787260379,
-<<<<<<< Updated upstream
-    "1092783056": 1787261329,
-    "1092784205": 1787261646,
-    "1092785982": 1787261961,
-    "1092785995": 1787262276,
-    "1092792348": 1787265433,
-    "1092796431": 1787266697
-=======
     "1092792348": 1787275345,
     "1092796431": 1787275345,
     "1092785982": 1787275345,
     "1092785995": 1787275345,
     "1092784205": 1787275345,
     "1092783056": 1787275345
->>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5903,15 +5894,9 @@
     "mieszkanie2pokojowezbalkonemwwoli|2950|41.0|wola": 1787259425,
     "2pokojowemieszkaniewkrakowkurdwanownawynajem|2300|43.0|podgorze": 1787259742,
     "2pokojowemieszkaniezogrodkiembliskometrawolne|3200|30.0|wola": 1787259742,
-<<<<<<< Updated upstream
-    "mieszkaniedwupokojowebatalionuparasolmetro|2900|42.0|wola": 1787262276,
-    "nowoczesnyapartamentdowynajeciaulwroclawskaod|3100|40.0|krowodrza": 1787265433,
-    "mieszkanie36metrowsadybabernardynska|2990|36.0|mokotow": 1787266697
-=======
     "nowoczesnyapartamentdowynajeciaulwroclawskaod|3100|40.0|krowodrza": 1787275345,
     "mieszkanie36metrowsadybabernardynska|2990|36.0|mokotow": 1787275345,
     "mieszkaniedwupokojowebatalionuparasolmetro|2900|42.0|wola": 1787275345
->>>>>>> Stashed changes
   },
   "tg_offset": 654625400,
   "paused": false,
@@ -6546,13 +6531,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Wola</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3900 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dwupokojowe Batalionu Parasol Metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-batalionu-parasol-metro-CID3-ID1bXdyz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:30",
-      "ts": 1787262276,
-=======
       "text": "🏠 <b>Варшава, Wola</b> — 42 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3900 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie dwupokojowe Batalionu Parasol Metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-batalionu-parasol-metro-CID3-ID1bXdyz.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:30",
       "ts": 1787275345,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -6569,11 +6549,7 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3100 + czynsz 790 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesny apartament do wynajęcia, ul. Wrocławska, od 1 września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-apartament-do-wynajecia-ul-wroclawska-od-1-wrzesnia-CID3-ID1bXfd2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:12",
-<<<<<<< Updated upstream
-      "ts": 1787265433,
-=======
       "ts": 1787275345,
->>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -6590,11 +6566,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2990 + czynsz 605 = <b>3595 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2990 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie 36 metrów Sadyba Bernardyńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36-metrow-sadyba-bernardynska-CID3-ID1bXggT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:45",
-<<<<<<< Updated upstream
-      "ts": 1787266697,
-=======
       "ts": 1787275345,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -6611,18 +6583,10 @@
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 5197,
+    "checks": 5158,
     "sent": 1945
   },
   "initialized": true,
-  "last_check": "2026-08-21T01:20:32",
-=======
-    "checks": 5154,
-    "sent": 1945
-  },
-  "initialized": true,
-  "last_check": "2026-08-21T01:38:12",
->>>>>>> Stashed changes
+  "last_check": "2026-08-21T01:58:59",
   "backoff_until": 1787176955.466819
 }
