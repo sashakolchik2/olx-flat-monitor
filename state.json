@@ -4229,7 +4229,9 @@
     "1092959506": 1787328955,
     "1092959586": 1787328955,
     "1092960748": 1787328955,
-    "1092878075": 1787329266
+    "1092878075": 1787329266,
+    "1092969922": 1787331452,
+    "1092968928": 1787331452
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6077,28 +6079,12 @@
     "mieszkaniedwupokojowedowynajeciakrakowpradnik|3100|32.0|pradnikbialy": 1787327390,
     "wynajmemieszkanie2pokojowe50m2mysliborska98|2300|50.0|bialoleka": 1787327703,
     "sslicznemieszkaniedwupokojowenaoskurdwanow|2400|35.4|podgorzeduchackie": 1787328016,
-    "2pokojestarebielanywynajemdobralokalizacja|3050|37.0|bielany": 1787329266
+    "2pokojestarebielanywynajemdobralokalizacja|3050|37.0|bielany": 1787329266,
+    "mieszkaniedowynajecia40m2nagoclawiunowyblokni|2800|40.0|pragapoludnie": 1787331452
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 48 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia Bieżanów 48m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-biezanow-48m2-CID3-ID1bXCoE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:24",
-      "ts": 1787308561,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 800,
-        "area": 48.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-21T12:24:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 400 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie dwupokojowe - Bronowice (BEZ POŚREDNIKÓW)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-bronowice-bez-posrednikow-CID3-ID1bXCPj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:30",
       "ts": 1787308879,
@@ -6761,13 +6747,30 @@
       "an": {
         "czynsz_desc": 550
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 950 = <b>3750 zł/мес</b>\n🚗 Паркинг: 950 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia 40m2 na Gocławiu, nowy blok, niska zabudowa, wysoki standard dostępne od 1 października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-40m2-na-goclawiu-nowy-blok-niska-zabudowa-wysoki-standard-dostepne-od-1-pazdziernika-CID3-ID1bXZ96.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:44",
+      "ts": 1787331452,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 950,
+        "area": 40.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-21T18:44:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
     }
   ],
   "stats": {
-    "checks": 5318,
-    "sent": 2008
+    "checks": 5322,
+    "sent": 2009
   },
   "initialized": true,
-  "last_check": "2026-08-21T16:42:03",
+  "last_check": "2026-08-21T17:02:52",
   "backoff_until": 1787308554.928825
 }
