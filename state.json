@@ -4256,7 +4256,10 @@
     "1092995065": 1787339949,
     "1092994817": 1787339949,
     "1092993552": 1787339949,
-    "1092996893": 1787340580
+    "1092996893": 1787340580,
+    "1092998154": 1787340898,
+    "1092999121": 1787340898,
+    "1093000728": 1787341842
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6122,45 +6125,13 @@
     "mieszkanie32m²zprywatnymogrodkiembalkonemimie|2500|32.0|biezanowprokocim": 1787339632,
     "wynajemmieszkaniakrakowcentrumulduninwasowicz|3000|37.0|staremiasto": 1787339949,
     "wynajmeeleganckiemieszkanie40m2od1wrzesnia202|3000|39.2|bemowo": 1787339949,
-    "wynajemmieszkanie2pokojowekrakow|3000|50.0|podgorze": 1787340580
+    "wynajemmieszkanie2pokojowekrakow|3000|50.0|podgorze": 1787340580,
+    "wynajmemieszkaniemetro43m|3200|43.0|ursynow": 1787340898,
+    "bezposrednioodwlascicielanowoczesne2pokojowem|2800|38.0|podgorze": 1787341842
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 54 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2 balkony/Garaż w cenie/ Spokojna okolica/Dwupokojowe mieszkanie/ 54 m² / Białołęka/Ul.Krokwi»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-balkony-garaz-w-cenie-spokojna-okolica-dwupokojowe-mieszkanie-54-m-bialoleka-ul-krokwi-CID3-ID1bXIrt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:53",
-      "ts": 1787315466,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 900,
-        "area": 54.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-21T13:53:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 33 м², 2 комнаты\n💰 2700 + czynsz 550 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Bezpośrednio, wyposażone, Stanczyka , od 21.08»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wyposazone-stanczyka-od-21-08-CID3-ID1bXLNc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
-      "ts": 1787317362,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 550,
-        "area": 33.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-21T14:47:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 27 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с 02.09 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Apartament na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-na-wynajem-CID3-ID1bXLRP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
       "ts": 1787317362,
@@ -6806,13 +6777,47 @@
       "an": {
         "czynsz_desc": 900
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«wynajmę mieszkanie Metro, 43 m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-metro-43-m-CID3-ID1bY705.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:23",
+      "ts": 1787340898,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 43.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-21T21:23:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Bezpośrednio od właściciela | Nowoczesne 2-pokojowe mieszkanie 38 m² | ul. Rydlówka (Rondo Matecznego)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-od-wlasciciela-nowoczesne-2-pokojowe-mieszkanie-38-m-ul-rydlowka-rondo-matecznego-CID3-ID1bY7q0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:32",
+      "ts": 1787341842,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 600,
+        "area": 38.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-21T21:32:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5344,
-    "sent": 2026
+    "checks": 5348,
+    "sent": 2028
   },
   "initialized": true,
-  "last_check": "2026-08-21T19:29:50",
+  "last_check": "2026-08-21T19:50:53",
   "backoff_until": 1787339624.3484812
 }
