@@ -4267,7 +4267,11 @@
     "1093007363": 1787343735,
     "1093009744": 1787344362,
     "1093010482": 1787344680,
-    "1093011836": 1787345329
+    "1093011836": 1787345329,
+    "1093012059": 1787345958,
+    "1093012337": 1787346274,
+    "1093012754": 1787346274,
+    "1093014067": 1787346588
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6138,45 +6142,13 @@
     "bezposrednioodwlascicielanowoczesne2pokojowem|2800|38.0|podgorze": 1787341842,
     "mieszkaniedowynajeciaprzystacjibrudno|3700|47.6|targowek": 1787342474,
     "dwupokojowemieszkanieosobnakuchniaszybkitramw|2650|45.0|podgorzeduchackie": 1787343419,
-    "bemowo2pokoje44m2nowegarazwceniewolneodzaraz|3150|44.0|bemowo": 1787344362
+    "bemowo2pokoje44m2nowegarazwceniewolneodzaraz|3150|44.0|bemowo": 1787344362,
+    "2pokojebliskocentrumulpoznanskakrowodrza|2750|40.0|krowodrza": 1787345958,
+    "45m2od0109wsercustaregopodgorzaporemonciebezp|3000|45.0|podgorze": 1787346588
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 1100 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2-pokoje, 52m2, ul.Apartamentowa, parking podziemny, loggia!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-52m2-ul-apartamentowa-parking-podziemny-loggia-CID3-ID1bXNbD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:09",
-      "ts": 1787318303,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 1100,
-        "area": 52.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-21T15:09:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1100
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 41 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie 1 piętro 2-pok oddzielne 41m2 ul.kartograficzna umeblowane 3500zl (z czynszemI opłatami) z prywatnym miejscem parkingowym-prywatne»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-1-pietro-2-pok-oddzielne-41m2-ul-kartograficzna-umeblowane-3500zl-z-czynszemi-oplatami-z-prywatnym-miejscem-parkingowym-prywatne-CID3-ID1bXMKn.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:03",
-      "ts": 1787318618,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 41.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-21T15:03:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 33 м², 2 комнаты\n💰 2890 + czynsz 1050 = <b>3940 zł/мес</b>\n   ≈ с медиа около 4140 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Bemowo, 2-pokojowe, balkon, miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokojowe-balkon-miejsce-postojowe-CID3-ID1bXNmO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:12",
       "ts": 1787318618,
@@ -6822,13 +6794,47 @@
       "an": {
         "czynsz_desc": 850
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 500 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 2750 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje blisko centrum ul. POZNAŃSKA Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-blisko-centrum-ul-poznanska-krowodrza-CID3-ID1bYamL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:40",
+      "ts": 1787345958,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 500,
+        "area": 40.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-21T22:40:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 768 = <b>3768 zł/мес</b>\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«45m2 od 01.09 w sercu Starego Podgórza. Po remoncie. Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/45m2-od-01-09-w-sercu-starego-podgorza-po-remoncie-bezposrednio-CID3-ID1bYaT9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:01",
+      "ts": 1787346588,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 768,
+        "area": 45.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-21T23:01:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5360,
-    "sent": 2031
+    "checks": 5363,
+    "sent": 2033
   },
   "initialized": true,
-  "last_check": "2026-08-21T20:54:10",
+  "last_check": "2026-08-21T21:09:59",
   "backoff_until": 1787339624.3484812
 }
