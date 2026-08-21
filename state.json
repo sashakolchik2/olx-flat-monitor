@@ -4142,7 +4142,10 @@
     "1092855681": 1787304184,
     "1092861679": 1787304498,
     "1092860732": 1787304498,
-    "1092864219": 1787304813
+    "1092864219": 1787304813,
+    "1092865573": 1787305437,
+    "1092863890": 1787305437,
+    "1092866347": 1787305750
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5943,45 +5946,13 @@
     "2pokojewola10minodrdaszynskiegoodwlascicielio|2750|28.0|wola": 1787302621,
     "2pokojoweulbochenkawysokistandard|2800|32.0|podgorze": 1787304184,
     "dowynajecia2pokojowemieszkanie417m²|2100|41.7|bienczyce": 1787304498,
-    "mieszkanie2samodzielnepokojeoddzielnakuchniad|2500|37.0|krowodrza": 1787304498
+    "mieszkanie2samodzielnepokojeoddzielnakuchniad|2500|37.0|krowodrza": 1787304498,
+    "wynajemmieszkania2pokojowewarszawabialolekaul|2800|40.0|bialoleka": 1787305437,
+    "krakowal29listopada2pokojedowynajeciaodzaraz|2750|46.48|pradnikczerwony": 1787305750
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Piękne mieszk. 2 pok. Saska Kępa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-mieszk-2-pok-saska-kepa-CID3-ID1bX2kV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:32",
-      "ts": 1787254336,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1000,
-        "area": 40.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-20T20:32:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«wynajmę mieszkanie Metro Racławicka blisko SGH»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-metro-raclawicka-blisko-sgh-CID3-ID1bX2uu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:35",
-      "ts": 1787254336,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 49.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-20T20:35:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 700 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie • Osiedle Wizjonerów • Bronowice, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-osiedle-wizjonerow-bronowice-krakow-CID3-ID1bX2OF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
       "ts": 1787254336,
@@ -6627,13 +6598,47 @@
       "an": {
         "czynsz_desc": 930
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania 2-pokojowe Warszawa-Białołęka-ul.Myśliborska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-2-pokojowe-warszawa-bialoleka-ul-mysliborska-CID3-ID1bXxOV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:29",
+      "ts": 1787305437,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 900,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-21T11:29:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 46.48 м², 2 комнаты\n💰 2750 + czynsz 625 = <b>3375 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Kraków, al. 29 Listopada, 2 pokoje do wynajęcia od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-al-29-listopada-2-pokoje-do-wynajecia-od-zaraz-CID3-ID1bXysz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:37",
+      "ts": 1787305750,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 625,
+        "area": 46.48,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-21T11:37:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 625
+      }
     }
   ],
   "stats": {
-    "checks": 5238,
-    "sent": 1961
+    "checks": 5241,
+    "sent": 1963
   },
   "initialized": true,
-  "last_check": "2026-08-21T09:33:39",
+  "last_check": "2026-08-21T09:49:18",
   "backoff_until": 1787290287.6741066
 }
