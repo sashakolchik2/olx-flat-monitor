@@ -4236,7 +4236,9 @@
     "1092971682": 1787332392,
     "1092973182": 1787332705,
     "1092973515": 1787333018,
-    "1092972955": 1787333018
+    "1092972955": 1787333018,
+    "1092974660": 1787333334,
+    "1092714834": 1787334271
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6090,28 +6092,12 @@
     "taras20m²parkingwceniegarderoba|2900|40.0|wlochy": 1787332392,
     "mieszkanie2pokojoweklimatyzacjapiwnica|2500|48.0|swoszowice": 1787332705,
     "dwupokojowemieszkanieulorlinskiego8|2600|35.0|czyzyny": 1787333018,
-    "mieszkanie2pokojowe47m²garazbalkon7m²bemowo|3900|47.0|bemowo": 1787333018
+    "mieszkanie2pokojowe47m²garazbalkon7m²bemowo|3900|47.0|bemowo": 1787333018,
+    "przytulnemieszkanie2pokoje35mtarchominnowodwo|2600|35.0|bialoleka": 1787333334
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 840 = <b>3840 zł/мес</b>\n   ≈ с медиа около 4680 zł/мес\n⚡ Свет/медиа: ≈ 840 zł + свет по счётчику\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Nowoczesne mieszkanie 2-pokojowe 49 m na Pradze Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-2-pokojowe-49-m-na-pradze-poludnie-CID3-ID1bXGzd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
-      "ts": 1787311696,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 840,
-        "area": 49.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-21T13:19:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Nowa Huta</b> — 41 м², 2 комнаты\n💰 2800 + czynsz 680 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie do wynajęcia Nowa Huta, ul. Bulwarowa 31B | 2 pokoje, 41 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-nowa-huta-ul-bulwarowa-31b-2-pokoje-41-m-CID3-ID1bXGAV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:20",
       "ts": 1787311696,
@@ -6774,13 +6760,30 @@
       "an": {
         "czynsz_desc": 404
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie - 2 pokoje, 35m - Tarchomin, Nowodwory.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-2-pokoje-35m-tarchomin-nowodwory-CID3-ID1bY0Dy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:16",
+      "ts": 1787333334,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 35.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-21T19:16:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 5326,
-    "sent": 2014
+    "checks": 5330,
+    "sent": 2015
   },
   "initialized": true,
-  "last_check": "2026-08-21T17:23:48",
+  "last_check": "2026-08-21T17:44:37",
   "backoff_until": 1787308554.928825
 }
