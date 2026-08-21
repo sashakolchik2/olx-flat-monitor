@@ -4114,9 +4114,19 @@
     "1092783056": 1787275345,
     "1092820029": 1787288452,
     "1092821044": 1787290309,
+<<<<<<< Updated upstream
     "1092830063": 1787295624,
     "1092829712": 1787295624,
     "1092828890": 1787295624
+=======
+    "1092830063": 1787296354,
+    "1092829712": 1787296354,
+    "1092828890": 1787296354,
+    "1092832644": 1787296666,
+    "1092833489": 1787297290,
+    "1092833764": 1787297290,
+    "1092831706": 1787297290
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5902,45 +5912,13 @@
     "nowoczesnyapartamentdowynajeciaulwroclawskaod|3100|40.0|krowodrza": 1787275345,
     "mieszkanie36metrowsadybabernardynska|2990|36.0|mokotow": 1787275345,
     "mieszkaniedwupokojowebatalionuparasolmetro|2900|42.0|wola": 1787275345,
-    "osstalowenowahutamieszkanie2pokojesaunataras|2600|43.0|nowahuta": 1787290309
+    "osstalowenowahutamieszkanie2pokojesaunataras|2600|43.0|nowahuta": 1787290309,
+    "mieszkaniedowynajeciaosstalowe|2790|45.0|bienczyce": 1787297290,
+    "oshemara2pokojeagdrtvumeblowaneodwlascicielab|3200|34.0|bialoleka": 1787297290
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 366 = <b>3166 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 3\n🏢 агентство\n«2-pokojowe mieszkanie z balkonem tuż przy Plantach - ul. Basztowa - Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-tuz-przy-plantach-ul-basztowa-stare-miasto-CID3-ID1bVPXG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:47",
-      "ts": 1787241564,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 366,
-        "area": 43.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-20T17:47:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 366
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 38 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Ciche dwa pokoje na 8 piętrze blisko WUM dla studenta»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ciche-dwa-pokoje-na-8-pietrze-blisko-wum-dla-studenta-CID3-ID1bVPQJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:45",
-      "ts": 1787241883,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 600,
-        "area": 38.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-20T17:45:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 750 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n🐾 можно с животными · 👤 от собственника\n«mieszkanie 2-pokojowe ul.Mołdawska - Ochota»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-moldawska-ochota-CID3-ID1bVQVp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:59",
       "ts": 1787242199,
@@ -6586,13 +6564,55 @@
       "an": {
         "czynsz_desc": 579
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 34 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Os Hemara 2 pokoje agd rtv umeblowane, Od właściciela. Bez prowizji. Ochrona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-hemara-2-pokoje-agd-rtv-umeblowane-od-wlasciciela-bez-prowizji-ochrona-CID3-ID1bXprQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:58",
+      "ts": 1787297290,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 600,
+        "area": 34.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-21T08:58:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 45 м², 2 комнаты\n💰 2790 + czynsz 900 = <b>3690 zł/мес</b>\n   ≈ с медиа около 3810 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 109 zł/мес\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia os Stalowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-os-stalowe-CID3-ID1bXpUB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:10",
+      "ts": 1787297290,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2790,
+        "rent": 900,
+        "area": 45.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-21T09:10:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 5215,
     "sent": 1946
   },
   "initialized": true,
   "last_check": "2026-08-21T07:10:54",
+=======
+    "checks": 5214,
+    "sent": 1948
+  },
+  "initialized": true,
+  "last_check": "2026-08-21T07:28:21",
+>>>>>>> Stashed changes
   "backoff_until": 1787290287.6741066
 }
