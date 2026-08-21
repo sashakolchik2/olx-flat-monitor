@@ -4125,7 +4125,9 @@
     "1092835359": 1787297920,
     "1092834544": 1787297920,
     "1092835852": 1787298235,
-    "1092842273": 1787299798
+    "1092842273": 1787299798,
+    "1092844284": 1787300737,
+    "1092841719": 1787300737
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5917,28 +5919,12 @@
     "2pokmieszkaniewwysokimstandardzienapodgorzu|3300|46.0|podgorze": 1787297920,
     "nowoczesne2pokojezbalkonemulzupnicza|2900|32.0|pragapoludnie": 1787297920,
     "wynajmemieszkaniekrakowstaremiasto|3000|48.0|staremiasto": 1787298235,
-    "bezposrednio2pokojowemieszkanienabrodnie12min|2600|35.0|targowek": 1787299798
+    "bezposrednio2pokojowemieszkanienabrodnie12min|2600|35.0|targowek": 1787299798,
+    "wynajmemieszkanie|3800|40.0|bialoleka": 1787300737
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Zabłocie | mieszkanie 2 pokojowe | garaż | komórka lokatorska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zablocie-mieszkanie-2-pokojowe-garaz-komorka-lokatorska-CID3-ID1bVV9x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:08",
-      "ts": 1787246611,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 35.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-20T19:08:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 1300 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia bezpośrednio 2 pokoje Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-2-pokoje-grochow-CID3-ID1bVVgB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:09",
       "ts": 1787246611,
@@ -6601,13 +6587,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1bXsII.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:14",
+      "ts": 1787300737,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3800,
+        "rent": null,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-21T10:14:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5222,
-    "sent": 1952
+    "checks": 5226,
+    "sent": 1953
   },
   "initialized": true,
-  "last_check": "2026-08-21T08:10:07",
+  "last_check": "2026-08-21T08:30:57",
   "backoff_until": 1787290287.6741066
 }
