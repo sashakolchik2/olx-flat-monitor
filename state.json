@@ -4277,7 +4277,8 @@
     "1093013944": 1787347223,
     "1093016462": 1787348796,
     "1093018477": 1787350369,
-    "1093019770": 1787351312
+    "1093019770": 1787351312,
+    "1093019502": 1787351944
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6153,28 +6154,12 @@
     "45m2od0109wsercustaregopodgorzaporemonciebezp|3000|45.0|podgorze": 1787346588,
     "2pokojowemieszkaniekrakowkrowodrza|2900|38.0|krowodrza": 1787346907,
     "mieszkanie36m2dwapokojeosalbertynskie|2600|36.0|bienczyce": 1787347223,
-    "mieszkaniewynajme|2700|40.0|pradnikbialy": 1787351312
+    "mieszkaniewynajme|2700|40.0|pradnikbialy": 1787351312,
+    "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787351944
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia 36 m2-2 pokoje Mokotów koło metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-36-m2-2-pokoje-mokotow-kolo-metra-CID3-ID1bXOKK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:38",
-      "ts": 1787320183,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-21T15:38:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-goclaw-CID3-ID1bVH2U.html\">Открыть на OLX</a>  ·  добавлено вчера в 15:47",
       "ts": 1787320809,
@@ -6837,13 +6822,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 66 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4100 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe Wynajmę Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-wynajme-warszawa-CID3-ID1bYciO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:16",
+      "ts": 1787351944,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 66.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-22T00:16:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5379,
-    "sent": 2036
+    "checks": 5383,
+    "sent": 2037
   },
   "initialized": true,
-  "last_check": "2026-08-21T22:33:56",
+  "last_check": "2026-08-21T22:54:56",
   "backoff_until": 1787339624.3484812
 }
