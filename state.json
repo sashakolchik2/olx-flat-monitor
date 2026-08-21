@@ -4205,7 +4205,10 @@
     "1092924256": 1787318933,
     "1092927715": 1787319556,
     "1092928104": 1787319556,
-    "1092927695": 1787319556
+    "1092927695": 1787319556,
+    "1092928978": 1787320183,
+    "1092929538": 1787320183,
+    "1092661024": 1787320809
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6041,45 +6044,13 @@
     "bemowo2pokojowebalkonmiejscepostojowe|2890|33.0|bemowo": 1787318618,
     "wynajmemieszkanie1pietro2pokoddzielne41m2ulka|3500|41.0|bialoleka": 1787318618,
     "poremonciebalkon45m2|2800|45.0|podgorzeduchackie": 1787319556,
-    "2oddzielnepokojezoliborz|3500|39.0|zoliborz": 1787319556
+    "2oddzielnepokojezoliborz|3500|39.0|zoliborz": 1787319556,
+    "dowynajecia36m22pokojemokotowkolometra|3500|36.0|mokotow": 1787320183,
+    "mieszkaniegoclaw|3100|44.0|pragapoludnie": 1787320809
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 36 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«2-pokojowe mieszkanie na Sadach Żoliborskich»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-sadach-zoliborskich-CID3-ID1bXtLx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:35",
-      "ts": 1787302305,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 36.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-21T10:35:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 28 м², 2 комнаты\n💰 2750 + czynsz 800 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 800 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, Wola, 10 min od R. Daszyńskiego, od właścicieli, od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-wola-10-min-od-r-daszynskiego-od-wlascicieli-od-zaraz-CID3-ID1bXubQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:43",
-      "ts": 1787302621,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2750,
-        "rent": 800,
-        "area": 28.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-21T10:43:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«2 pokojowe | ul. Bochenka | Wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ul-bochenka-wysoki-standard-CID3-ID1bXwGx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:04",
       "ts": 1787304184,
@@ -6725,13 +6696,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia 36 m2-2 pokoje Mokotów koło metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-36-m2-2-pokoje-mokotow-kolo-metra-CID3-ID1bXOKK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:38",
+      "ts": 1787320183,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 36.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-21T15:38:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-goclaw-CID3-ID1bVH2U.html\">Открыть на OLX</a>  ·  добавлено вчера в 15:47",
+      "ts": 1787320809,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 900,
+        "area": 44.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-20T15:47:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 900
+      }
     }
   ],
   "stats": {
-    "checks": 5283,
-    "sent": 1996
+    "checks": 5287,
+    "sent": 1998
   },
   "initialized": true,
-  "last_check": "2026-08-21T13:39:26",
+  "last_check": "2026-08-21T14:00:37",
   "backoff_until": 1787308554.928825
 }
