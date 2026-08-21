@@ -4150,7 +4150,11 @@
     "1092864426": 1787306065,
     "1092871011": 1787306379,
     "1092868592": 1787306379,
-    "1092872911": 1787306691
+    "1092872911": 1787306691,
+    "1092877665": 1787307627,
+    "1092875160": 1787307627,
+    "1092879573": 1787307941,
+    "1092878970": 1787307941
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5954,45 +5958,13 @@
     "mieszkanie2samodzielnepokojeoddzielnakuchniad|2500|37.0|krowodrza": 1787304498,
     "wynajemmieszkania2pokojowewarszawabialolekaul|2800|40.0|bialoleka": 1787305437,
     "krakowal29listopada2pokojedowynajeciaodzaraz|2750|46.48|pradnikczerwony": 1787305750,
-    "2pokojeswietnacenagarazstawki|3000|40.0|srodmiescie": 1787306065
+    "2pokojeswietnacenagarazstawki|3000|40.0|srodmiescie": 1787306065,
+    "2oddzielnepokoje45m2ulorlinskiegoosiedleavian|3000|45.0|czyzyny": 1787307627,
+    "mieszkanienawynajemmuranow2pokojebezposrednio|3000|34.0|wola": 1787307941
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4020 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia - Nowa 5 Dzielnica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-nowa-5-dzielnica-CID3-ID1bX35Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:43",
-      "ts": 1787254336,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 44.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-20T20:43:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Poznań, Jeżyce</b> — 39 м², 2 комнаты\n💰 3100 + czynsz 650 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie do wynajęcia 39 m² - 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-39-m-2-pokoje-CID3-ID1bX4is.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:59",
-      "ts": 1787254336,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 650,
-        "area": 39.0,
-        "district": "Jeżyce",
-        "business": false,
-        "created_iso": "2026-08-20T20:59:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wawer</b> — 48 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia 50 m² z ogródkiem i tarasem – Warszawa ul poprawna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-50-m-z-ogrodkiem-i-tarasem-warszawa-ul-poprawna-CID3-ID1bX4o3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:00",
       "ts": 1787254336,
@@ -6638,13 +6610,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«2 oddzielne pokoje, 45m2, ul. Orlińskiego, osiedle Avia na Czyżynach, możliwość wynajmu miejsca postojowego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-45m2-ul-orlinskiego-osiedle-avia-na-czyzynach-mozliwosc-wynajmu-miejsca-postojowego-CID3-ID1bXBp7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:11",
+      "ts": 1787307627,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 850,
+        "area": 45.0,
+        "district": "Czyżyny",
+        "business": true,
+        "created_iso": "2026-08-21T12:11:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem, Muranów, 2 pokoje, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-muranow-2-pokoje-bezposrednio-CID3-ID1bXBTT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:17",
+      "ts": 1787307941,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 500,
+        "area": 34.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-21T12:17:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5245,
-    "sent": 1964
+    "checks": 5248,
+    "sent": 1966
   },
   "initialized": true,
-  "last_check": "2026-08-21T10:10:09",
-  "backoff_until": 1787290287.6741066
+  "last_check": "2026-08-21T10:25:49",
+  "backoff_until": 1787308554.928825
 }
