@@ -5901,7 +5901,7 @@
     "mieszkaniedwupokojowebatalionuparasolmetro|2900|42.0|wola": 1787275345,
     "osstalowenowahutamieszkanie2pokojesaunataras|2600|43.0|nowahuta": 1787290309
   },
-  "tg_offset": 654625400,
+  "tg_offset": 654625401,
   "paused": false,
   "recent": [
     {
@@ -6586,10 +6586,10 @@
     }
   ],
   "stats": {
-    "checks": 5198,
+    "checks": 5202,
     "sent": 1946
   },
   "initialized": true,
-  "last_check": "2026-08-21T05:42:20",
+  "last_check": "2026-08-21T06:03:20",
   "backoff_until": 1787290287.6741066
 }
