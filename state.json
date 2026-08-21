@@ -4127,7 +4127,14 @@
     "1092835852": 1787298235,
     "1092842273": 1787299798,
     "1092844284": 1787300737,
-    "1092841719": 1787300737
+    "1092841719": 1787300737,
+    "1092844100": 1787301364,
+    "1092847572": 1787301676,
+    "1092847349": 1787301676,
+    "1092846051": 1787301676,
+    "1092847260": 1787301676,
+    "1092848246": 1787301994,
+    "1092848303": 1787302305
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5920,79 +5927,15 @@
     "nowoczesne2pokojezbalkonemulzupnicza|2900|32.0|pragapoludnie": 1787297920,
     "wynajmemieszkaniekrakowstaremiasto|3000|48.0|staremiasto": 1787298235,
     "bezposrednio2pokojowemieszkanienabrodnie12min|2600|35.0|targowek": 1787299798,
-    "wynajmemieszkanie|3800|40.0|bialoleka": 1787300737
+    "wynajmemieszkanie|3800|40.0|bialoleka": 1787300737,
+    "mieszkaniedowynajecia2pokojeruczajeuropejskie|2600|51.0|debniki": 1787301676,
+    "mieszkanienawynajem|2700|42.5|biezanowprokocim": 1787301676,
+    "mieszkanie2pokojowenabielanachzpiwnica|3500|47.19|bielany": 1787301676,
+    "2pokojowemieszkanienasadachzoliborskich|3200|36.0|zoliborz": 1787302305
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 2200 + czynsz 1300 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Do wynajęcia bezpośrednio 2 pokoje Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-2-pokoje-grochow-CID3-ID1bVVgB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:09",
-      "ts": 1787246611,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2200,
-        "rent": 1300,
-        "area": 50.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-20T19:09:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1300
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 42 м², 2 комнаты\n💰 2950 + czynsz 710 = <b>3660 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Krowodrza/Żabiniec 42m2 2 pokoje bezpośrednio (dla pary)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-zabiniec-42m2-2-pokoje-bezposrednio-dla-pary-CID3-ID1bVVZ1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:19",
-      "ts": 1787246932,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 710,
-        "area": 42.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-20T19:19:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Włoska - Mieszkanie 2 - pokojowe !!!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wloska-mieszkanie-2-pokojowe-CID3-ID1bVZiF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:50",
-      "ts": 1787249449,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 750,
-        "area": 37.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-20T19:50:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 46 м², 2 комнаты\n💰 3200 + czynsz 662 = <b>3862 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe na ul. Jerozolimskiej od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-na-ul-jerozolimskiej-od-zaraz-CID3-ID1bVZZV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:00",
-      "ts": 1787249765,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 662,
-        "area": 46.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-20T20:00:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков</b> — 55 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie ul. Fieldorfa Nila BD lokalizacja bez pośredników»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-fieldorfa-nila-bd-lokalizacja-bez-posrednikow-CID3-ID1bX1rM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:20",
       "ts": 1787250716,
@@ -6604,13 +6547,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 47.19 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pokojowe na Bielanach z piwnicą»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-bielanach-z-piwnica-CID3-ID1bXtuI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
+      "ts": 1787301676,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 47.19,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-21T10:30:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 42.5 м², 2 комнаты\n💰 2700 + czynsz 750 = <b>3450 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 750 zł/мес\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bXtv9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
+      "ts": 1787301676,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 750,
+        "area": 42.5,
+        "district": "Bieżanów-Prokocim",
+        "business": false,
+        "created_iso": "2026-08-21T10:30:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 51 м², 2 комнаты\n💰 2600 + czynsz 900 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajęcia 2 pokoje Ruczaj Europejskie UJ»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokoje-ruczaj-europejskie-uj-CID3-ID1bXtzK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:32",
+      "ts": 1787301676,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 900,
+        "area": 51.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-21T10:32:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 966
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Żoliborz</b> — 36 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«2-pokojowe mieszkanie na Sadach Żoliborskich»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-sadach-zoliborskich-CID3-ID1bXtLx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:35",
+      "ts": 1787302305,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 36.0,
+        "district": "Żoliborz",
+        "business": false,
+        "created_iso": "2026-08-21T10:35:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5226,
-    "sent": 1953
+    "checks": 5230,
+    "sent": 1957
   },
   "initialized": true,
-  "last_check": "2026-08-21T08:30:57",
+  "last_check": "2026-08-21T08:51:54",
   "backoff_until": 1787290287.6741066
 }
