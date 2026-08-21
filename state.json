@@ -4162,7 +4162,11 @@
     "1092883996": 1787308879,
     "1092883133": 1787308879,
     "1092882165": 1787308879,
-    "1092887000": 1787309507
+    "1092887000": 1787309507,
+    "1092887732": 1787309821,
+    "1092887658": 1787310135,
+    "1092891517": 1787310447,
+    "1092892961": 1787310761
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5973,45 +5977,13 @@
     "mieszkanie2pokojoweoddzielnakuchniagarazulrak|2900|52.0|ursus": 1787308561,
     "wynajmemieszkaniewarszawa|2800|40.0|wola": 1787308561,
     "bezposrednio2pokojowe43m2glogera21|3300|43.0|pradnikbialy": 1787308879,
-    "mieszkaniedwupokojowebronowicebezposrednikow|3200|56.0|bronowice": 1787308879
+    "mieszkaniedwupokojowebronowicebezposrednikow|3200|56.0|bronowice": 1787308879,
+    "2pokojezbalkoneminternetwcenie54m2obroncowtob|3000|54.0|bemowo": 1787309821,
+    "bezposrednionowe2pokojowe35m2ulglogera21|3000|35.0|pradnikbialy": 1787310447
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 33 м², 2 комнаты\n💰 2500 + czynsz 620 = <b>3120 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie dwupokojowe Reduta (od strony Bohomolca)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-reduta-od-strony-bohomolca-CID3-ID1bX7oL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:41",
-      "ts": 1787255619,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 620,
-        "area": 33.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-20T21:41:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 620
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37.52 м², 2 комнаты\n💰 2600 + czynsz 400 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Nowoczesny apartament na Woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-apartament-na-woli-CID3-ID1bX7ZX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
-      "ts": 1787256254,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 400,
-        "area": 37.52,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-20T21:50:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Wynajem. Stary Mokotów, Kwiatowa, 2 oddzielne pokoje – bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-stary-mokotow-kwiatowa-2-oddzielne-pokoje-bezposrednio-CID3-ID1bX8rh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:56",
       "ts": 1787256572,
@@ -6657,13 +6629,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 54 м², 2 комнаты\n💰 3000 + czynsz 890 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🌐 Интернет: в цене\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje z balkonem, internet w cenie, 54 m2 - Obrońców Tobruku 19. BRAK PROWIZJI!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-internet-w-cenie-54-m2-obroncow-tobruku-19-brak-prowizji-CID3-ID1bXE1u.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:46",
+      "ts": 1787309821,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 890,
+        "area": 54.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-21T12:46:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 400 zł/мес\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1\n🏢 агентство\n«BEZPOŚREDNIO | NOWE 2 pokojowe | 35 m2 | ul. Glogera 21»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-nowe-2-pokojowe-35-m2-ul-glogera-21-CID3-ID1bXF0x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:59",
+      "ts": 1787310447,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 35.0,
+        "district": "Prądnik Biały",
+        "business": true,
+        "created_iso": "2026-08-21T12:59:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5252,
-    "sent": 1971
+    "checks": 5256,
+    "sent": 1973
   },
   "initialized": true,
-  "last_check": "2026-08-21T10:51:54",
+  "last_check": "2026-08-21T11:12:47",
   "backoff_until": 1787308554.928825
 }
