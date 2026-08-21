@@ -4184,7 +4184,12 @@
     "1092903890": 1787313583,
     "1092903750": 1787313898,
     "1092903843": 1787313898,
-    "1092903935": 1787313898
+    "1092903935": 1787313898,
+    "1092906579": 1787314527,
+    "1092896277": 1787314841,
+    "1092908651": 1787314841,
+    "1092600370": 1787314841,
+    "1092904719": 1787315466
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6008,62 +6013,14 @@
     "mieszkanieumeblowanemokotowulwiktorska|3000|52.0|mokotow": 1787313583,
     "bezposrednio35m2namarywilskiej|2600|35.0|bialoleka": 1787313583,
     "52m22pokojebronowiceulbronowickataras|2900|52.0|bronowice": 1787313898,
-    "mieszkaniedowynajeciamokotow2pokoje43m2ulworo|2500|43.0|mokotow": 1787313898
+    "mieszkaniedowynajeciamokotow2pokoje43m2ulworo|2500|43.0|mokotow": 1787313898,
+    "mieszkanie35m2ursynowimielin|3400|35.0|ursynow": 1787314527,
+    "2poktaraswidoknawislegrzegorzkicentrumzabloci|3000|27.0|grzegorzki": 1787314841,
+    "2balkonygarazwceniespokojnaokolicadwupokojowe|2900|54.0|bialoleka": 1787315466
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36 м², 2 комнаты\n💰 2990 + czynsz 605 = <b>3595 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 2990 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie 36 metrów Sadyba Bernardyńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36-metrow-sadyba-bernardynska-CID3-ID1bXggT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:45",
-      "ts": 1787275345,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2990,
-        "rent": 605,
-        "area": 36.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-21T00:45:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 605
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 43 м², 2 комнаты\n💰 2600 + czynsz 580 = <b>3180 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n🏢 агентство\n«os. Stalowe | Nowa Huta| mieszkanie 2 pokoje | sauna | taras»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-stalowe-nowa-huta-mieszkanie-2-pokoje-sauna-taras-CID3-ID1bXmFS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:02",
-      "ts": 1787290309,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 580,
-        "area": 43.0,
-        "district": "Nowa Huta",
-        "business": true,
-        "created_iso": "2026-08-21T07:02:38+02:00"
-      },
-      "an": {
-        "czynsz_desc": 579
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 34 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Os Hemara 2 pokoje agd rtv umeblowane, Od właściciela. Bez prowizji. Ochrona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/os-hemara-2-pokoje-agd-rtv-umeblowane-od-wlasciciela-bez-prowizji-ochrona-CID3-ID1bXprQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:58",
-      "ts": 1787297290,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 34.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-21T08:58:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 45 м², 2 комнаты\n💰 2790 + czynsz 900 = <b>3690 zł/мес</b>\n   ≈ с медиа около 3810 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 109 zł/мес\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia os Stalowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-os-stalowe-CID3-ID1bXpUB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:10",
       "ts": 1787297290,
@@ -6692,13 +6649,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 35 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie 35 m2 Ursynów Imielin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-35-m2-ursynow-imielin-CID3-ID1bXIWt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
+      "ts": 1787314527,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": null,
+        "area": 35.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-21T14:02:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 27 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«2 pok/taras/ Widok na wisłę/ Grzegórzki/Centrum/Zabłocie/ Klimatyzacja/ Bulwary wiślane/ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-taras-widok-na-wisle-grzegorzki-centrum-zablocie-klimatyzacja-bulwary-wislane-eng-CID3-ID1bXGfj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:15",
+      "ts": 1787314841,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 650,
+        "area": 27.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-21T13:15:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 54 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2900 zł\n🏢 Этаж: 2\n🐾 можно с животными · 🏢 агентство\n«2 balkony/Garaż w cenie/ Spokojna okolica/Dwupokojowe mieszkanie/ 54 m² / Białołęka/Ul.Krokwi»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-balkony-garaz-w-cenie-spokojna-okolica-dwupokojowe-mieszkanie-54-m-bialoleka-ul-krokwi-CID3-ID1bXIrt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:53",
+      "ts": 1787315466,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 900,
+        "area": 54.0,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-21T13:53:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5267,
-    "sent": 1984
+    "checks": 5271,
+    "sent": 1987
   },
   "initialized": true,
-  "last_check": "2026-08-21T12:10:20",
+  "last_check": "2026-08-21T12:31:14",
   "backoff_until": 1787308554.928825
 }
