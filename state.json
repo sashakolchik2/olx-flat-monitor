@@ -4242,7 +4242,11 @@
     "1092978728": 1787334584,
     "1092978529": 1787334897,
     "1092978486": 1787334897,
-    "1092980649": 1787335519
+    "1092980649": 1787335519,
+    "1092985867": 1787336769,
+    "1092986656": 1787337080,
+    "1092982337": 1787337080,
+    "1092986852": 1787337393
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6099,28 +6103,12 @@
     "mieszkanie2pokojowe47m²garazbalkon7m²bemowo|3900|47.0|bemowo": 1787333018,
     "przytulnemieszkanie2pokoje35mtarchominnowodwo|2600|35.0|bialoleka": 1787333334,
     "mieszkaniedowynajecianawolizbalkonem|3300|37.0|wola": 1787334584,
-    "36m23500calkowitykosztnajmuwtymmediatviintern|3500|36.0|wesola": 1787335519
+    "36m23500calkowitykosztnajmuwtymmediatviintern|3500|36.0|wesola": 1787335519,
+    "mieszkanie2pokojowe52mulkluczborska|3000|52.0|krowodrza": 1787337080
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 40.34 м², 2 комнаты\n💰 3100 + czynsz 877 = <b>3977 zł/мес</b>\n   ≈ с медиа около 4127 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje, na nowoczesnym osiedlu Praga-Północ, 40,34 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-na-nowoczesnym-osiedlu-praga-polnoc-40-34-m2-CID3-ID1bXHfG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
-      "ts": 1787312641,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 877,
-        "area": 40.34,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-21T13:31:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 876
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 850 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🌐 Интернет: 60 zł/мес\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Warszawa – Praga Południe | 38,5 m² | 2 pokoje | Klimatyzacja | Balkon | Świetna lokalizacja | 2900 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-praga-poludnie-38-5-m-2-pokoje-klimatyzacja-balkon-swietna-lokalizacja-2900-zl-CID3-ID1bXHcg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
       "ts": 1787312954,
@@ -6783,13 +6771,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 993 = <b>3993 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe 52M, ul. Kluczborska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-52m-ul-kluczborska-CID3-ID1bY3L2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:22",
+      "ts": 1787337080,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 52.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-21T20:22:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 993
+      }
     }
   ],
   "stats": {
-    "checks": 5337,
-    "sent": 2017
+    "checks": 5341,
+    "sent": 2018
   },
   "initialized": true,
-  "last_check": "2026-08-21T18:21:03",
+  "last_check": "2026-08-21T18:41:52",
   "backoff_until": 1787308554.928825
 }
