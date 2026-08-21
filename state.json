@@ -4238,7 +4238,11 @@
     "1092973515": 1787333018,
     "1092972955": 1787333018,
     "1092974660": 1787333334,
-    "1092714834": 1787334271
+    "1092714834": 1787334271,
+    "1092978728": 1787334584,
+    "1092978529": 1787334897,
+    "1092978486": 1787334897,
+    "1092980649": 1787335519
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6093,45 +6097,13 @@
     "mieszkanie2pokojoweklimatyzacjapiwnica|2500|48.0|swoszowice": 1787332705,
     "dwupokojowemieszkanieulorlinskiego8|2600|35.0|czyzyny": 1787333018,
     "mieszkanie2pokojowe47m²garazbalkon7m²bemowo|3900|47.0|bemowo": 1787333018,
-    "przytulnemieszkanie2pokoje35mtarchominnowodwo|2600|35.0|bialoleka": 1787333334
+    "przytulnemieszkanie2pokoje35mtarchominnowodwo|2600|35.0|bialoleka": 1787333334,
+    "mieszkaniedowynajecianawolizbalkonem|3300|37.0|wola": 1787334584,
+    "36m23500calkowitykosztnajmuwtymmediatviintern|3500|36.0|wesola": 1787335519
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 41 м², 2 комнаты\n💰 2800 + czynsz 680 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Mieszkanie do wynajęcia Nowa Huta, ul. Bulwarowa 31B | 2 pokoje, 41 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-nowa-huta-ul-bulwarowa-31b-2-pokoje-41-m-CID3-ID1bXGAV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:20",
-      "ts": 1787311696,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 680,
-        "area": 41.0,
-        "district": "Nowa Huta",
-        "business": true,
-        "created_iso": "2026-08-21T13:20:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37.5 м², 2 комнаты\n💰 2800 + czynsz 386 = <b>3186 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 3400 zł\n🏢 Этаж: 5\n🏢 агентство\n«Nowe dwupokojowe mieszkanie na Górce Narodowej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-dwupokojowe-mieszkanie-na-gorce-narodowej-CID3-ID1bXH3N.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:27",
-      "ts": 1787312328,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 386,
-        "area": 37.5,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-21T13:27:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 386
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 40.34 м², 2 комнаты\n💰 3100 + czynsz 877 = <b>3977 zł/мес</b>\n   ≈ с медиа около 4127 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje, na nowoczesnym osiedlu Praga-Północ, 40,34 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-na-nowoczesnym-osiedlu-praga-polnoc-40-34-m2-CID3-ID1bXHfG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
       "ts": 1787312641,
@@ -6777,13 +6749,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia na Woli z balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-woli-z-balkonem-CID3-ID1bY1Ha.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:40",
+      "ts": 1787334584,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-21T19:40:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wesoła</b> — 36 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«36 m2, 3500 całkowity koszt najmu w tym media, tv i internet»\n🔗 <a href=\"https://www.olx.pl/d/oferta/36-m2-3500-calkowity-koszt-najmu-w-tym-media-tv-i-internet-CID3-ID1bY2c9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:54",
+      "ts": 1787335519,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 36.0,
+        "district": "Wesoła",
+        "business": false,
+        "created_iso": "2026-08-21T19:54:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5330,
-    "sent": 2015
+    "checks": 5334,
+    "sent": 2017
   },
   "initialized": true,
-  "last_check": "2026-08-21T17:44:37",
+  "last_check": "2026-08-21T18:05:28",
   "backoff_until": 1787308554.928825
 }
