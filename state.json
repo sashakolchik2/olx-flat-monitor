@@ -4136,7 +4136,13 @@
     "1092848246": 1787301994,
     "1092848303": 1787302305,
     "1092849934": 1787302621,
-    "1092850477": 1787302621
+    "1092850477": 1787302621,
+    "1092856413": 1787303872,
+    "1092856811": 1787304184,
+    "1092855681": 1787304184,
+    "1092861679": 1787304498,
+    "1092860732": 1787304498,
+    "1092864219": 1787304813
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5934,62 +5940,14 @@
     "mieszkanienawynajem|2700|42.5|biezanowprokocim": 1787301676,
     "mieszkanie2pokojowenabielanachzpiwnica|3500|47.19|bielany": 1787301676,
     "2pokojowemieszkanienasadachzoliborskich|3200|36.0|zoliborz": 1787302305,
-    "2pokojewola10minodrdaszynskiegoodwlascicielio|2750|28.0|wola": 1787302621
+    "2pokojewola10minodrdaszynskiegoodwlascicielio|2750|28.0|wola": 1787302621,
+    "2pokojoweulbochenkawysokistandard|2800|32.0|podgorze": 1787304184,
+    "dowynajecia2pokojowemieszkanie417m²|2100|41.7|bienczyce": 1787304498,
+    "mieszkanie2samodzielnepokojeoddzielnakuchniad|2500|37.0|krowodrza": 1787304498
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 30 м², 2 комнаты\n💰 2650 + czynsz 550 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe, Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-stare-miasto-CID3-ID1bX1wt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:21",
-      "ts": 1787250716,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2650,
-        "rent": 550,
-        "area": 30.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-20T20:21:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 40 м², 2 комнаты\n💰 <b>3500 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 40m2, Metro Targówek (czynsz w cenie!)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m2-metro-targowek-czynsz-w-cenie-CID3-ID1bX2ed.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:31",
-      "ts": 1787251034,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 40.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-20T20:31:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«2-pokojowe mieszkanie | ul. Mogilska | klimatyzacja | bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-ul-mogilska-klimatyzacja-bezposrednio-CID3-ID1bX1ZA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:28",
-      "ts": 1787251351,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 650,
-        "area": 37.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-20T20:28:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Piękne mieszk. 2 pok. Saska Kępa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-mieszk-2-pok-saska-kepa-CID3-ID1bX2kV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:32",
       "ts": 1787254336,
@@ -6618,13 +6576,64 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 32 м², 2 комнаты\n💰 2800 + czynsz 500 = <b>3300 zł/мес</b>\n   ≈ с медиа около 3400 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«2 pokojowe | ul. Bochenka | Wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-ul-bochenka-wysoki-standard-CID3-ID1bXwGx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:04",
+      "ts": 1787304184,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 500,
+        "area": 32.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-21T11:04:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 514 = <b>3014 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie- 2 samodzielne pokoje, oddzielna kuchnia, doskonale skomunikowane- uczelnie, PKP, centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-samodzielne-pokoje-oddzielna-kuchnia-doskonale-skomunikowane-uczelnie-pkp-centrum-CID3-ID1bXx00.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:19",
+      "ts": 1787304498,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 514,
+        "area": 37.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-21T11:19:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 514
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 41.7 м², 2 комнаты\n💰 2100 + czynsz 930 = <b>3030 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Do wynajęcia 2-pokojowe mieszkanie, 41,7 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-41-7-m-CID3-ID1bXxfh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:22",
+      "ts": 1787304498,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2100,
+        "rent": 930,
+        "area": 41.7,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-21T11:22:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 930
+      }
     }
   ],
   "stats": {
-    "checks": 5234,
-    "sent": 1958
+    "checks": 5238,
+    "sent": 1961
   },
   "initialized": true,
-  "last_check": "2026-08-21T09:12:45",
+  "last_check": "2026-08-21T09:33:39",
   "backoff_until": 1787290287.6741066
 }
