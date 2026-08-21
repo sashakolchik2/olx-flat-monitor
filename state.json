@@ -4219,7 +4219,9 @@
     "1092937411": 1787323022,
     "1092941565": 1787323645,
     "1092939784": 1787323645,
-    "1092943970": 1787324580
+    "1092943970": 1787324580,
+    "1092945301": 1787324894,
+    "1092945266": 1787324894
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6062,28 +6064,12 @@
     "dowynajeciamieszkanie2pokojowe41mkrakowszpako|2900|41.0|podgorzeduchackie": 1787321458,
     "2pok43m²mogilskalaszkiewiczabalkon|3200|43.0|grzegorzki": 1787321771,
     "2pokkrowodrzacichebalkonwindaod0109|3000|48.0|staremiasto": 1787322084,
-    "mieszkanie2pokojowenamokotowie5minspacerkiemo|3200|28.0|mokotow": 1787323645
+    "mieszkanie2pokojowenamokotowie5minspacerkiemo|3200|28.0|mokotow": 1787323645,
+    "bezposredniowynajmemieszkanie42m|3200|42.0|ursus": 1787324894
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🏢 агентство\n«2 pokoje | Świetna cena | Garaż | Stawki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-swietna-cena-garaz-stawki-CID3-ID1bXzti.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:47",
-      "ts": 1787306065,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-21T11:47:55+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«2 oddzielne pokoje, 45m2, ul. Orlińskiego, osiedle Avia na Czyżynach, możliwość wynajmu miejsca postojowego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-45m2-ul-orlinskiego-osiedle-avia-na-czyzynach-mozliwosc-wynajmu-miejsca-postojowego-CID3-ID1bXBp7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:11",
       "ts": 1787307627,
@@ -6746,13 +6732,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 730 = <b>3930 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Bezpośrednio wynajmę mieszkanie 42m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wynajme-mieszkanie-42m-CID3-ID1bXT01.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
+      "ts": 1787324894,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 730,
+        "area": 42.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-21T16:55:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": 730
+      }
     }
   ],
   "stats": {
-    "checks": 5299,
-    "sent": 2003
+    "checks": 5303,
+    "sent": 2004
   },
   "initialized": true,
-  "last_check": "2026-08-21T15:03:07",
+  "last_check": "2026-08-21T15:23:56",
   "backoff_until": 1787308554.928825
 }
