@@ -4134,7 +4134,9 @@
     "1092846051": 1787301676,
     "1092847260": 1787301676,
     "1092848246": 1787301994,
-    "1092848303": 1787302305
+    "1092848303": 1787302305,
+    "1092849934": 1787302621,
+    "1092850477": 1787302621
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5931,28 +5933,12 @@
     "mieszkaniedowynajecia2pokojeruczajeuropejskie|2600|51.0|debniki": 1787301676,
     "mieszkanienawynajem|2700|42.5|biezanowprokocim": 1787301676,
     "mieszkanie2pokojowenabielanachzpiwnica|3500|47.19|bielany": 1787301676,
-    "2pokojowemieszkanienasadachzoliborskich|3200|36.0|zoliborz": 1787302305
+    "2pokojowemieszkanienasadachzoliborskich|3200|36.0|zoliborz": 1787302305,
+    "2pokojewola10minodrdaszynskiegoodwlascicielio|2750|28.0|wola": 1787302621
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков</b> — 55 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie ul. Fieldorfa Nila BD lokalizacja bez pośredników»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-ul-fieldorfa-nila-bd-lokalizacja-bez-posrednikow-CID3-ID1bX1rM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:20",
-      "ts": 1787250716,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 1000,
-        "area": 55.0,
-        "district": "",
-        "business": true,
-        "created_iso": "2026-08-20T20:20:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 30 м², 2 комнаты\n💰 2650 + czynsz 550 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2-pokojowe, Stare Miasto»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-stare-miasto-CID3-ID1bX1wt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:21",
       "ts": 1787250716,
@@ -6615,13 +6601,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 28 м², 2 комнаты\n💰 2750 + czynsz 800 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 800 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, Wola, 10 min od R. Daszyńskiego, od właścicieli, od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-wola-10-min-od-r-daszynskiego-od-wlascicieli-od-zaraz-CID3-ID1bXubQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:43",
+      "ts": 1787302621,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2750,
+        "rent": 800,
+        "area": 28.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-21T10:43:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 5230,
-    "sent": 1957
+    "checks": 5234,
+    "sent": 1958
   },
   "initialized": true,
-  "last_check": "2026-08-21T08:51:54",
+  "last_check": "2026-08-21T09:12:45",
   "backoff_until": 1787290287.6741066
 }
