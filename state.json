@@ -4243,10 +4243,21 @@
     "1092978529": 1787334897,
     "1092978486": 1787334897,
     "1092980649": 1787335519,
+<<<<<<< Updated upstream
     "1092985867": 1787336769,
     "1092986656": 1787337080,
     "1092982337": 1787337080,
     "1092986852": 1787337393
+=======
+    "1092986656": 1787338371,
+    "1092985867": 1787338371,
+    "1092986852": 1787338371,
+    "1092982337": 1787338371,
+    "1092989261": 1787338687,
+    "1092990520": 1787339004,
+    "1092992602": 1787339004,
+    "1092992888": 1787339004
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6104,12 +6115,21 @@
     "przytulnemieszkanie2pokoje35mtarchominnowodwo|2600|35.0|bialoleka": 1787333334,
     "mieszkaniedowynajecianawolizbalkonem|3300|37.0|wola": 1787334584,
     "36m23500calkowitykosztnajmuwtymmediatviintern|3500|36.0|wesola": 1787335519,
+<<<<<<< Updated upstream
     "mieszkanie2pokojowe52mulkluczborska|3000|52.0|krowodrza": 1787337080
+=======
+    "mieszkanie2pokojowe52mulkluczborska|3000|52.0|krowodrza": 1787338371,
+    "przytulne2pokojowe41m²podskarbinskapragapolud|3000|41.0|pragapoludnie": 1787338687,
+    "2pokoje42m²krakowulciesielskiegogaraz|3300|42.0|czyzyny": 1787339004,
+    "wynajemmieszkania|2300|38.0|bielany": 1787339004,
+    "mieszkaniemetrobrodnoporemoncie|2600|37.5|targowek": 1787339004
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 850 = <b>3750 zł/мес</b>\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🌐 Интернет: 60 zł/мес\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Warszawa – Praga Południe | 38,5 m² | 2 pokoje | Klimatyzacja | Balkon | Świetna lokalizacja | 2900 zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/warszawa-praga-poludnie-38-5-m-2-pokoje-klimatyzacja-balkon-swietna-lokalizacja-2900-zl-CID3-ID1bXHcg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:30",
       "ts": 1787312954,
       "city": "warszawa",
@@ -6178,6 +6198,8 @@
       }
     },
     {
+=======
+>>>>>>> Stashed changes
       "text": "🏠 <b>Краков, Bronowice</b> — 52 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«52 m2 | 2 pokoje | Bronowice, ul. Bronowicka | taras»\n🔗 <a href=\"https://www.olx.pl/d/oferta/52-m2-2-pokoje-bronowice-ul-bronowicka-taras-CID3-ID1bXIbQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:48",
       "ts": 1787313898,
       "city": "krakow",
@@ -6774,7 +6796,11 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 993 = <b>3993 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe 52M, ul. Kluczborska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-52m-ul-kluczborska-CID3-ID1bY3L2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:22",
+<<<<<<< Updated upstream
       "ts": 1787337080,
+=======
+      "ts": 1787338371,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -6788,6 +6814,7 @@
       "an": {
         "czynsz_desc": 993
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -6797,4 +6824,83 @@
   "initialized": true,
   "last_check": "2026-08-21T18:52:15",
   "backoff_until": 1787308554.928825
+=======
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 752 = <b>3752 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Przytulne 2-pokojowe 41m² - Podskarbińska (Praga Południe), gotowe do wprowadzenia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-41m-podskarbinska-praga-poludnie-gotowe-do-wprowadzenia-CID3-ID1bY4r3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:37",
+      "ts": 1787338687,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 752,
+        "area": 41.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-21T20:37:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 752
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 42 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 42 m² | Kraków, ul. Ciesielskiego | Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-krakow-ul-ciesielskiego-garaz-CID3-ID1bY4Lm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:43",
+      "ts": 1787339004,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-21T20:43:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 2300 + czynsz 900 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bY5iV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:53",
+      "ts": 1787339004,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2300,
+        "rent": 900,
+        "area": 38.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-21T20:53:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 37.5 м², 2 комнаты\n💰 2600 + czynsz 850 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie metro Bródno po remoncie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-metro-brodno-po-remoncie-CID3-ID1bY5ny.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:55",
+      "ts": 1787339004,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 850,
+        "area": 37.5,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-21T20:55:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
+    }
+  ],
+  "stats": {
+    "checks": 5340,
+    "sent": 2022
+  },
+  "initialized": true,
+  "last_check": "2026-08-21T19:03:38",
+  "backoff_until": 1787339624.3484812
+>>>>>>> Stashed changes
 }
