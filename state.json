@@ -4145,7 +4145,12 @@
     "1092864219": 1787304813,
     "1092865573": 1787305437,
     "1092863890": 1787305437,
-    "1092866347": 1787305750
+    "1092866347": 1787305750,
+    "1092870236": 1787306065,
+    "1092864426": 1787306065,
+    "1092871011": 1787306379,
+    "1092868592": 1787306379,
+    "1092872911": 1787306691
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5948,28 +5953,12 @@
     "dowynajecia2pokojowemieszkanie417m²|2100|41.7|bienczyce": 1787304498,
     "mieszkanie2samodzielnepokojeoddzielnakuchniad|2500|37.0|krowodrza": 1787304498,
     "wynajemmieszkania2pokojowewarszawabialolekaul|2800|40.0|bialoleka": 1787305437,
-    "krakowal29listopada2pokojedowynajeciaodzaraz|2750|46.48|pradnikczerwony": 1787305750
+    "krakowal29listopada2pokojedowynajeciaodzaraz|2750|46.48|pradnikczerwony": 1787305750,
+    "2pokojeswietnacenagarazstawki|3000|40.0|srodmiescie": 1787306065
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 700 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3950 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie • Osiedle Wizjonerów • Bronowice, Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-osiedle-wizjonerow-bronowice-krakow-CID3-ID1bX2OF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:39",
-      "ts": 1787254336,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 700,
-        "area": 43.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-20T20:39:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4020 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 10 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia - Nowa 5 Dzielnica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-nowa-5-dzielnica-CID3-ID1bX35Q.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:43",
       "ts": 1787254336,
@@ -6632,13 +6621,30 @@
       "an": {
         "czynsz_desc": 625
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🏢 агентство\n«2 pokoje | Świetna cena | Garaż | Stawki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-swietna-cena-garaz-stawki-CID3-ID1bXzti.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:47",
+      "ts": 1787306065,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-21T11:47:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 5241,
-    "sent": 1963
+    "checks": 5245,
+    "sent": 1964
   },
   "initialized": true,
-  "last_check": "2026-08-21T09:49:18",
+  "last_check": "2026-08-21T10:10:09",
   "backoff_until": 1787290287.6741066
 }
