@@ -4261,7 +4261,11 @@
     "1092999121": 1787340898,
     "1093000728": 1787341842,
     "1093003237": 1787342161,
-    "1093003646": 1787342474
+    "1093003646": 1787342474,
+    "1093006869": 1787343419,
+    "1093005292": 1787343419,
+    "1093007363": 1787343735,
+    "1093009744": 1787344362
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6130,45 +6134,13 @@
     "wynajemmieszkanie2pokojowekrakow|3000|50.0|podgorze": 1787340580,
     "wynajmemieszkaniemetro43m|3200|43.0|ursynow": 1787340898,
     "bezposrednioodwlascicielanowoczesne2pokojowem|2800|38.0|podgorze": 1787341842,
-    "mieszkaniedowynajeciaprzystacjibrudno|3700|47.6|targowek": 1787342474
+    "mieszkaniedowynajeciaprzystacjibrudno|3700|47.6|targowek": 1787342474,
+    "dwupokojowemieszkanieosobnakuchniaszybkitramw|2650|45.0|podgorzeduchackie": 1787343419,
+    "bemowo2pokoje44m2nowegarazwceniewolneodzaraz|3150|44.0|bemowo": 1787344362
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 42.42 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4050 zł\n🏢 Этаж: 3\n🏢 агентство\n«Praga-Południe | Żupnicza | Balkon | Garaż | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-zupnicza-balkon-garaz-bez-prowizji-CID3-ID1bXLTE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
-      "ts": 1787317362,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": null,
-        "area": 42.42,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-21T14:49:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 52 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie 52 m² | 2 osobne pokoje | balkon | Azory, ul. Jaremy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-52-m-2-osobne-pokoje-balkon-azory-ul-jaremy-CID3-ID1bXM9R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
-      "ts": 1787317362,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 700,
-        "area": 52.0,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-21T14:54:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 52 м², 2 комнаты\n💰 2600 + czynsz 1100 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2-pokoje, 52m2, ul.Apartamentowa, parking podziemny, loggia!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-52m2-ul-apartamentowa-parking-podziemny-loggia-CID3-ID1bXNbD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:09",
       "ts": 1787318303,
@@ -6814,13 +6786,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2650 + czynsz 600 = <b>3250 zł/мес</b>\n   ≈ с медиа около 3360 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 40 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dwupokojowe mieszkanie, osobna kuchnia, szybki tramwaj, wśród zieleni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-osobna-kuchnia-szybki-tramwaj-wsrod-zieleni-CID3-ID1bY913.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:05",
+      "ts": 1787343419,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2650,
+        "rent": 600,
+        "area": 45.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-21T22:05:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 44 м², 2 комнаты\n💰 3150 + czynsz 850 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 40 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«Bemowo-2 pokoje-44m2-NOWE-garaż w cenie-wolne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-44m2-nowe-garaz-w-cenie-wolne-od-zaraz-CID3-ID1bY9Lq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:20",
+      "ts": 1787344362,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 850,
+        "area": 44.0,
+        "district": "Bemowo",
+        "business": true,
+        "created_iso": "2026-08-21T22:20:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 5352,
-    "sent": 2029
+    "checks": 5356,
+    "sent": 2031
   },
   "initialized": true,
-  "last_check": "2026-08-21T20:11:51",
+  "last_check": "2026-08-21T20:32:53",
   "backoff_until": 1787339624.3484812
 }
