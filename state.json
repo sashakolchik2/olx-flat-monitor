@@ -4124,7 +4124,8 @@
     "1092835156": 1787297920,
     "1092835359": 1787297920,
     "1092834544": 1787297920,
-    "1092835852": 1787298235
+    "1092835852": 1787298235,
+    "1092842273": 1787299798
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -5915,28 +5916,12 @@
     "oshemara2pokojeagdrtvumeblowaneodwlascicielab|3200|34.0|bialoleka": 1787297290,
     "2pokmieszkaniewwysokimstandardzienapodgorzu|3300|46.0|podgorze": 1787297920,
     "nowoczesne2pokojezbalkonemulzupnicza|2900|32.0|pragapoludnie": 1787297920,
-    "wynajmemieszkaniekrakowstaremiasto|3000|48.0|staremiasto": 1787298235
+    "wynajmemieszkaniekrakowstaremiasto|3000|48.0|staremiasto": 1787298235,
+    "bezposrednio2pokojowemieszkanienabrodnie12min|2600|35.0|targowek": 1787299798
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 26 м², 2 комнаты\n💰 3800 + czynsz 1 = <b>3801 zł/мес</b>\n   ≈ с медиа около 4301 zł/мес\n⚡ Свет/медиа: ≈ 500 zł + свет по счётчику\n🔐 Kaucja (залог): 500 zł\n🏢 Этаж: 6\n🏢 агентство\n«Klimatyczne mieszkanie w odnowionej kamienicy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/klimatyczne-mieszkanie-w-odnowionej-kamienicy-CID3-ID1bVU6A.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:42",
-      "ts": 1787245037,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": 1,
-        "area": 26.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-20T18:42:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Zabłocie | mieszkanie 2 pokojowe | garaż | komórka lokatorska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/zablocie-mieszkanie-2-pokojowe-garaz-komorka-lokatorska-CID3-ID1bVV9x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:08",
       "ts": 1787246611,
@@ -6599,13 +6584,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 430 = <b>3030 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio 2-pokojowe mieszkanie na Bródnie, 12 min do Arkadii, 15 min do centrum SKM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokojowe-mieszkanie-na-brodnie-12-min-do-arkadii-15-min-do-centrum-skm-CID3-ID1bXsch.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:04",
+      "ts": 1787299798,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 430,
+        "area": 35.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-21T10:04:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5218,
-    "sent": 1951
+    "checks": 5222,
+    "sent": 1952
   },
   "initialized": true,
-  "last_check": "2026-08-21T07:49:17",
+  "last_check": "2026-08-21T08:10:07",
   "backoff_until": 1787290287.6741066
 }
