@@ -4259,7 +4259,9 @@
     "1092996893": 1787340580,
     "1092998154": 1787340898,
     "1092999121": 1787340898,
-    "1093000728": 1787341842
+    "1093000728": 1787341842,
+    "1093003237": 1787342161,
+    "1093003646": 1787342474
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6127,28 +6129,12 @@
     "wynajmeeleganckiemieszkanie40m2od1wrzesnia202|3000|39.2|bemowo": 1787339949,
     "wynajemmieszkanie2pokojowekrakow|3000|50.0|podgorze": 1787340580,
     "wynajmemieszkaniemetro43m|3200|43.0|ursynow": 1787340898,
-    "bezposrednioodwlascicielanowoczesne2pokojowem|2800|38.0|podgorze": 1787341842
+    "bezposrednioodwlascicielanowoczesne2pokojowem|2800|38.0|podgorze": 1787341842,
+    "mieszkaniedowynajeciaprzystacjibrudno|3700|47.6|targowek": 1787342474
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 27 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: с 02.09 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Apartament na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/apartament-na-wynajem-CID3-ID1bXLRP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
-      "ts": 1787317362,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3700,
-        "rent": null,
-        "area": 27.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-21T14:49:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 42.42 м², 2 комнаты\n💰 3400 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3850 zł/мес\n⚡ Свет/медиа: ≈ 450 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4050 zł\n🏢 Этаж: 3\n🏢 агентство\n«Praga-Południe | Żupnicza | Balkon | Garaż | Bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-zupnicza-balkon-garaz-bez-prowizji-CID3-ID1bXLTE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:49",
       "ts": 1787317362,
@@ -6811,13 +6797,30 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 47.6 м², 2 комнаты\n💰 3700 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia przy stacji Brudno»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-przy-stacji-brudno-CID3-ID1bY8b4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:48",
+      "ts": 1787342474,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3700,
+        "rent": null,
+        "area": 47.6,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-21T21:48:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5348,
-    "sent": 2028
+    "checks": 5352,
+    "sent": 2029
   },
   "initialized": true,
-  "last_check": "2026-08-21T19:50:53",
+  "last_check": "2026-08-21T20:11:51",
   "backoff_until": 1787339624.3484812
 }
