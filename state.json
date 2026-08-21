@@ -4221,7 +4221,11 @@
     "1092939784": 1787323645,
     "1092943970": 1787324580,
     "1092945301": 1787324894,
-    "1092945266": 1787324894
+    "1092945266": 1787324894,
+    "1092956829": 1787327390,
+    "1092955060": 1787327703,
+    "1092958847": 1787328016,
+    "1092958495": 1787328016
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6065,62 +6069,14 @@
     "2pok43m²mogilskalaszkiewiczabalkon|3200|43.0|grzegorzki": 1787321771,
     "2pokkrowodrzacichebalkonwindaod0109|3000|48.0|staremiasto": 1787322084,
     "mieszkanie2pokojowenamokotowie5minspacerkiemo|3200|28.0|mokotow": 1787323645,
-    "bezposredniowynajmemieszkanie42m|3200|42.0|ursus": 1787324894
+    "bezposredniowynajmemieszkanie42m|3200|42.0|ursus": 1787324894,
+    "mieszkaniedwupokojowedowynajeciakrakowpradnik|3100|32.0|pradnikbialy": 1787327390,
+    "wynajmemieszkanie2pokojowe50m2mysliborska98|2300|50.0|bialoleka": 1787327703,
+    "sslicznemieszkaniedwupokojowenaoskurdwanow|2400|35.4|podgorzeduchackie": 1787328016
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n🐾 можно с животными · 🏢 агентство\n«2 oddzielne pokoje, 45m2, ul. Orlińskiego, osiedle Avia na Czyżynach, możliwość wynajmu miejsca postojowego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-45m2-ul-orlinskiego-osiedle-avia-na-czyzynach-mozliwosc-wynajmu-miejsca-postojowego-CID3-ID1bXBp7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:11",
-      "ts": 1787307627,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 45.0,
-        "district": "Czyżyny",
-        "business": true,
-        "created_iso": "2026-08-21T12:11:22+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem, Muranów, 2 pokoje, bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-muranow-2-pokoje-bezposrednio-CID3-ID1bXBTT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:17",
-      "ts": 1787307941,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 34.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-21T12:17:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 2800 + czynsz 821 = <b>3621 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 07.09 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-warszawa-CID3-ID1bXC3K.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:20",
-      "ts": 1787308561,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 821,
-        "area": 40.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-21T12:20:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 821
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 52 м², 2 комнаты\n💰 2900 + czynsz 960 = <b>3860 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie 2 pokojowe oddzielna kuchnia + garaz ul. Rakuszanki 4»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-oddzielna-kuchnia-garaz-ul-rakuszanki-4-CID3-ID1bXC6i.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:20",
       "ts": 1787308561,
@@ -6749,13 +6705,64 @@
       "an": {
         "czynsz_desc": 730
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 32 м², 2 комнаты\n💰 3100 + czynsz 700 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie dwupokojowe do WYNAJĘCIA! Kraków/ Prądnik Biały»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-do-wynajecia-krakow-pradnik-bialy-CID3-ID1bXWZX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:42",
+      "ts": 1787327390,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 700,
+        "area": 32.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-21T17:42:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 50 м², 2 комнаты\n💰 2300 + czynsz 1000 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3300 zł\n🏢 Этаж: 6\n👤 от собственника\n«Wynajmę mieszkanie 2 pokojowe, 50m2, Myśliborska 98»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-50m2-mysliborska-98-CID3-ID1bXWxq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:36",
+      "ts": 1787327703,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-21T17:36:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 35.4 м², 2 комнаты\n💰 2400 + czynsz 670 = <b>3070 zł/мес</b>\n   ≈ с медиа около 3170 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Śsliczne mieszkanie dwupokojowe na oś. Kurdwanów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ssliczne-mieszkanie-dwupokojowe-na-os-kurdwanow-CID3-ID1bXVvw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:51",
+      "ts": 1787328016,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 670,
+        "area": 35.4,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-21T17:51:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5306,
-    "sent": 2004
+    "checks": 5310,
+    "sent": 2007
   },
   "initialized": true,
-  "last_check": "2026-08-21T15:39:32",
+  "last_check": "2026-08-21T16:00:25",
   "backoff_until": 1787308554.928825
 }
