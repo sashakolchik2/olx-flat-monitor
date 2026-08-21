@@ -4190,7 +4190,8 @@
     "1092908651": 1787314841,
     "1092600370": 1787314841,
     "1092904719": 1787315466,
-    "1092912092": 1787316719
+    "1092912092": 1787316719,
+    "1092917598": 1787317032
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6017,28 +6018,12 @@
     "mieszkaniedowynajeciamokotow2pokoje43m2ulworo|2500|43.0|mokotow": 1787313898,
     "mieszkanie35m2ursynowimielin|3400|35.0|ursynow": 1787314527,
     "2poktaraswidoknawislegrzegorzkicentrumzabloci|3000|27.0|grzegorzki": 1787314841,
-    "2balkonygarazwceniespokojnaokolicadwupokojowe|2900|54.0|bialoleka": 1787315466
+    "2balkonygarazwceniespokojnaokolicadwupokojowe|2900|54.0|bialoleka": 1787315466,
+    "bezposredniowyposazonestanczykaod2108|2700|33.0|bronowice": 1787317032
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 45 м², 2 комнаты\n💰 2790 + czynsz 900 = <b>3690 zł/мес</b>\n   ≈ с медиа около 3810 zł/мес\n⚡ Свет/медиа: ≈ 120 zł + свет по счётчику\n🚗 Паркинг: в цене\n🌐 Интернет: 109 zł/мес\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia os Stalowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-os-stalowe-CID3-ID1bXpUB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:10",
-      "ts": 1787297290,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2790,
-        "rent": 900,
-        "area": 45.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-21T09:10:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 46 м², 2 комнаты\n💰 3300 + czynsz 550 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 300 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pok mieszkanie w wysokim standardzie na Podgórzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-mieszkanie-w-wysokim-standardzie-na-podgorzu-CID3-ID1bXqlu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:23",
       "ts": 1787297920,
@@ -6701,13 +6686,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 33 м², 2 комнаты\n💰 2700 + czynsz 550 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Bezpośrednio, wyposażone, Stanczyka , od 21.08»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wyposazone-stanczyka-od-21-08-CID3-ID1bXLNc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:47",
+      "ts": 1787317032,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 550,
+        "area": 33.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-21T14:47:52+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5275,
-    "sent": 1987
+    "checks": 5276,
+    "sent": 1988
   },
   "initialized": true,
-  "last_check": "2026-08-21T12:52:05",
+  "last_check": "2026-08-21T12:57:20",
   "backoff_until": 1787308554.928825
 }
