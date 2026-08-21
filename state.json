@@ -4225,7 +4225,11 @@
     "1092956829": 1787327390,
     "1092955060": 1787327703,
     "1092958847": 1787328016,
-    "1092958495": 1787328016
+    "1092958495": 1787328016,
+    "1092959506": 1787328955,
+    "1092959586": 1787328955,
+    "1092960748": 1787328955,
+    "1092878075": 1787329266
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6072,28 +6076,12 @@
     "bezposredniowynajmemieszkanie42m|3200|42.0|ursus": 1787324894,
     "mieszkaniedwupokojowedowynajeciakrakowpradnik|3100|32.0|pradnikbialy": 1787327390,
     "wynajmemieszkanie2pokojowe50m2mysliborska98|2300|50.0|bialoleka": 1787327703,
-    "sslicznemieszkaniedwupokojowenaoskurdwanow|2400|35.4|podgorzeduchackie": 1787328016
+    "sslicznemieszkaniedwupokojowenaoskurdwanow|2400|35.4|podgorzeduchackie": 1787328016,
+    "2pokojestarebielanywynajemdobralokalizacja|3050|37.0|bielany": 1787329266
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 52 м², 2 комнаты\n💰 2900 + czynsz 960 = <b>3860 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n🔐 Kaucja (залог): 3900 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie 2 pokojowe oddzielna kuchnia + garaz ul. Rakuszanki 4»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-oddzielna-kuchnia-garaz-ul-rakuszanki-4-CID3-ID1bXC6i.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:20",
-      "ts": 1787308561,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 960,
-        "area": 52.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-21T12:20:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 48 м², 2 комнаты\n💰 2700 + czynsz 800 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2700 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie do wynajęcia Bieżanów 48m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-biezanow-48m2-CID3-ID1bXCoE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:24",
       "ts": 1787308561,
@@ -6756,13 +6744,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 37 м², 2 комнаты\n💰 3050 + czynsz 550 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje| Stare Bielany| wynajem| dobra lokalizacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-stare-bielany-wynajem-dobra-lokalizacja-CID3-ID1bXBwJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:12",
+      "ts": 1787329266,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3050,
+        "rent": 550,
+        "area": 37.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-21T12:12:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
     }
   ],
   "stats": {
-    "checks": 5310,
-    "sent": 2007
+    "checks": 5314,
+    "sent": 2008
   },
   "initialized": true,
-  "last_check": "2026-08-21T16:00:25",
+  "last_check": "2026-08-21T16:21:16",
   "backoff_until": 1787308554.928825
 }
