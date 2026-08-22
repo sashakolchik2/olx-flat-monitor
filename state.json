@@ -4436,7 +4436,8 @@
     "1093195143": 1787433432,
     "1093196003": 1787434059,
     "1093197811": 1787435620,
-    "1093197312": 1787435620
+    "1093197312": 1787435620,
+    "1093199901": 1787438127
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6414,28 +6415,12 @@
     "mieszkanie2pokojowetuzprzypolachmokotowskich4|3000|45.0|mokotow": 1787431234,
     "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862,
     "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787434059,
-    "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787435620
+    "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787435620,
+    "2pokojowemieszkanieuljagienkiwarszawafalenica|2500|37.85|wawer": 1787438127
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 5\n👤 от собственника\n«Wymajmę bezpośrednio dwa pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wymajme-bezposrednio-dwa-pokoje-CID3-ID1bYA2T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:40",
-      "ts": 1787407112,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 40.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-22T15:40:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 490 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe wyposażone kompleks Tyniecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-wyposazone-kompleks-tyniecka-CID3-ID1bYApA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:48",
       "ts": 1787407427,
@@ -7098,13 +7083,30 @@
       "an": {
         "czynsz_desc": 1000
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wawer</b> — 37.85 м², 2 комнаты\n💰 2500 + czynsz 520 = <b>3020 zł/мес</b>\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2-pokojowe mieszkanie. ul. Jagienki, Warszawa Falenica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-ul-jagienki-warszawa-falenica-CID3-ID1bYXet.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:25",
+      "ts": 1787438127,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 520,
+        "area": 37.85,
+        "district": "Wawer",
+        "business": false,
+        "created_iso": "2026-08-23T00:25:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5509,
-    "sent": 2138
+    "checks": 5513,
+    "sent": 2139
   },
   "initialized": true,
-  "last_check": "2026-08-22T22:14:42",
+  "last_check": "2026-08-22T22:35:36",
   "backoff_until": 1787434988.9668279
 }
