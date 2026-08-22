@@ -4348,7 +4348,8 @@
     "1093085426": 1787399202,
     "1093086391": 1787399202,
     "1093083925": 1787399202,
-    "1093090321": 1787400451
+    "1093090321": 1787400451,
+    "1093089911": 1787401075
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6274,28 +6275,12 @@
     "wroclawskakrowodrza2pok32m2eng|2950|32.0|krowodrza": 1787398261,
     "nohomlynymogilska2pokojeklimatyzacjaczesciwsp|3200|35.0|pradnikczerwony": 1787398888,
     "komfortowyapartament2pok46m2posag7panien5wyso|3400|50.0|ursus": 1787399202,
-    "charkadiabliskocentrumporemoncieparking|3200|42.0|srodmiescie": 1787399202
+    "charkadiabliskocentrumporemoncieparking|3200|42.0|srodmiescie": 1787399202,
+    "przestronne2pokojeulpychowickadebnikiengbelow|3100|58.0|debniki": 1787401075
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n👤 от собственника\n«2 osobne pokoje + kuchnia, po remoncie, ścisłe centrum, balkon, piękna cicha ulica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-kuchnia-po-remoncie-scisle-centrum-balkon-piekna-cicha-ulica-CID3-ID1bYhug.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:49",
-      "ts": 1787385709,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-22T09:49:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 700 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: в цене\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę mieszkanie 2 pok. z balkonem Kraków ul. Rusznikarska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-z-balkonem-krakow-ul-rusznikarska-CID3-ID1bYhrh.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:47",
       "ts": 1787386338,
@@ -6958,13 +6943,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 58 м², 2 комнаты\n💰 3100 + czynsz 610 = <b>3710 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Przestronne 2 pokoje - ul. Pychowicka/ Dębniki/ ENG Below»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokoje-ul-pychowicka-debniki-eng-below-CID3-ID1bYuCr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:57",
+      "ts": 1787401075,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 610,
+        "area": 58.0,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-22T13:57:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 610
+      }
     }
   ],
   "stats": {
-    "checks": 5463,
-    "sent": 2086
+    "checks": 5464,
+    "sent": 2087
   },
   "initialized": true,
-  "last_check": "2026-08-22T12:12:49",
+  "last_check": "2026-08-22T12:18:04",
   "backoff_until": 1787369093.497045
 }
