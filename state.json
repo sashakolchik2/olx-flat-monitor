@@ -4298,7 +4298,10 @@
     "1093041581": 1787386967,
     "1093041444": 1787386967,
     "1093042613": 1787387282,
-    "1092995289": 1787387595
+    "1092995289": 1787387595,
+    "1093044629": 1787388221,
+    "1093019735": 1787388845,
+    "1093046805": 1787388845
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6191,62 +6194,14 @@
     "2pokoje36m²bednarskakamienicawysokiesufity|2450|36.0|srodmiescie": 1787386967,
     "bezposredniodowynajeciazoliborz2pokoje38m2bal|2600|38.0|zoliborz": 1787386967,
     "bezposrednio2pokmieszkaniedowynajeciaulbytnar|2800|36.0|mokotow": 1787387282,
-    "pluaen2pokojepremiumwysokistandardnowe|3300|50.0|czyzyny": 1787387595
+    "pluaen2pokojepremiumwysokistandardnowe|3300|50.0|czyzyny": 1787387595,
+    "scislecentrumrogulgrzybowskiejialeijanapawlai|2900|28.0|srodmiescie": 1787388221,
+    "mieszkaniedowynajeciaulmysliwska|3100|30.0|podgorze": 1787388845,
+    "44m2pokojezielonebielanybliskometra|2800|44.0|bielany": 1787388845
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 404 = <b>3004 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie ul. Orlińskiego 8»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-ul-orlinskiego-8-CID3-ID1bY0l5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
-      "ts": 1787333018,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 404,
-        "area": 35.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-21T19:11:35+02:00"
-      },
-      "an": {
-        "czynsz_desc": 404
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Przytulne mieszkanie - 2 pokoje, 35m - Tarchomin, Nowodwory.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-2-pokoje-35m-tarchomin-nowodwory-CID3-ID1bY0Dy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:16",
-      "ts": 1787333334,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 800,
-        "area": 35.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-21T19:16:08+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie do wynajęcia na Woli z balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-woli-z-balkonem-CID3-ID1bY1Ha.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:40",
-      "ts": 1787334584,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 37.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-21T19:40:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wesoła</b> — 36 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«36 m2, 3500 całkowity koszt najmu w tym media, tv i internet»\n🔗 <a href=\"https://www.olx.pl/d/oferta/36-m2-3500-calkowity-koszt-najmu-w-tym-media-tv-i-internet-CID3-ID1bY2c9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:54",
       "ts": 1787335519,
@@ -6875,13 +6830,64 @@
       "an": {
         "czynsz_desc": 620
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 28 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Ścisłe centrum róg ul.Grzybowskiej i Alei Jana Pawła II»\n🔗 <a href=\"https://www.olx.pl/d/oferta/scisle-centrum-rog-ul-grzybowskiej-i-alei-jana-pawla-ii-CID3-ID1bYiQ5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:27",
+      "ts": 1787388221,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": null,
+        "area": 28.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-22T10:27:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia ul. Myśliwska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-ul-mysliwska-CID3-ID1bYcmz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:20",
+      "ts": 1787388845,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 500,
+        "area": 30.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-22T00:20:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 830 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«44m, 2 pokoje, zielone Bielany, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/44m-2-pokoje-zielone-bielany-blisko-metra-CID3-ID1bYjpb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:39",
+      "ts": 1787388845,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 830,
+        "area": 44.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-22T10:39:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 830
+      }
     }
   ],
   "stats": {
-    "checks": 5421,
-    "sent": 2053
+    "checks": 5425,
+    "sent": 2056
   },
   "initialized": true,
-  "last_check": "2026-08-22T08:33:24",
+  "last_check": "2026-08-22T08:54:17",
   "backoff_until": 1787369093.497045
 }
