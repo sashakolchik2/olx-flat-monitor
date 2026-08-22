@@ -4367,7 +4367,10 @@
     "1093106915": 1787405544,
     "1093108379": 1787405856,
     "1093109681": 1787406170,
-    "1093076051": 1787406170
+    "1093076051": 1787406170,
+    "1093110771": 1787407112,
+    "1093108930": 1787407112,
+    "1093112178": 1787407427
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6305,45 +6308,13 @@
     "dowynajecia2pokojowemieszkaniescislecentrumpr|2800|35.0|grzegorzki": 1787404913,
     "mieszkaniestegnydwapokojedlasudentow43m2|2700|43.0|mokotow": 1787404913,
     "wynajmemieszkanie2pokniedawnoodnowionebliskor|2900|36.0|staremiasto": 1787405856,
-    "mieszkanie2pokojowewsercugrzegorzek|3000|34.0|grzegorzki": 1787406170
+    "mieszkanie2pokojowewsercugrzegorzek|3000|34.0|grzegorzki": 1787406170,
+    "wymajmebezposredniodwapokoje|4000|40.0|srodmiescie": 1787407112,
+    "dwupokojowewyposazonekomplekstyniecka|2800|34.0|debniki": 1787407427
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 6 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie Osiedle Bliska Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-osiedle-bliska-wola-CID3-ID1bYktY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:01",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 550,
-        "area": 35.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-22T11:01:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 45 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«2 pokoje w Kamienicy przy METRO Stadion Narodowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-w-kamienicy-przy-metro-stadion-narodowy-CID3-ID1bYkLM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:07",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 500,
-        "area": 45.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-22T11:07:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 46 м², 2 комнаты\n💰 2650 + czynsz 750 = <b>3400 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«46 m² | Ruczaj | Bobrzyńskiego | UJ | 2 pokoje | balkon | wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/46-m-ruczaj-bobrzynskiego-uj-2-pokoje-balkon-wyposazone-CID3-ID1bYkPZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
       "ts": 1787401397,
@@ -6989,13 +6960,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 5\n👤 от собственника\n«Wymajmę bezpośrednio dwa pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wymajme-bezposrednio-dwa-pokoje-CID3-ID1bYA2T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:40",
+      "ts": 1787407112,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 4000,
+        "rent": null,
+        "area": 40.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-22T15:40:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 490 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe wyposażone kompleks Tyniecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-wyposazone-kompleks-tyniecka-CID3-ID1bYApA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:48",
+      "ts": 1787407427,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 490,
+        "area": 34.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-22T15:48:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 490
+      }
     }
   ],
   "stats": {
-    "checks": 5444,
-    "sent": 2098
+    "checks": 5448,
+    "sent": 2100
   },
   "initialized": true,
-  "last_check": "2026-08-22T13:43:00",
+  "last_check": "2026-08-22T14:03:56",
   "backoff_until": 1787369093.497045
 }
