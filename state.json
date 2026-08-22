@@ -4338,7 +4338,12 @@
     "1093075541": 1787397003,
     "1093073682": 1787397003,
     "1093077910": 1787397318,
-    "1093076244": 1787397318
+    "1093076244": 1787397318,
+    "1093079478": 1787397636,
+    "1093081242": 1787397949,
+    "1093081489": 1787397949,
+    "1092587918": 1787397949,
+    "1093080504": 1787398261
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6259,45 +6264,13 @@
     "mieszkanie2pok3125mdowynajecia|2800|31.25|wlochy": 1787396686,
     "wynajmeprzytulnemieszkanie56m2osdywizjonu303w|3000|56.0|czyzyny": 1787397003,
     "mieszkanienaosiedluakademickimwkrakowie|2600|37.0|czyzyny": 1787397003,
-    "2pokojowemieszkaniedowynajecia|2500|40.0|mistrzejowice": 1787397318
+    "2pokojowemieszkaniedowynajecia|2500|40.0|mistrzejowice": 1787397318,
+    "podgorzeduchackieulbochenkanowebudownictwodob|2400|45.0|podgorzeduchackie": 1787397636,
+    "wroclawskakrowodrza2pok32m2eng|2950|32.0|krowodrza": 1787398261
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 37 м², 2 комнаты\n💰 3150 + czynsz 680 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Nowoczesny apartament RIVIERA PARK, Żerań - bliska Białołęka.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesny-apartament-riviera-park-zeran-bliska-bialoleka-CID3-ID1bYgob.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:10",
-      "ts": 1787384137,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3150,
-        "rent": 680,
-        "area": 37.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-22T09:10:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 31 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«5min METRO i TRAMWAJ, 2 pokoje osobne zamykane, nowe, bliskie Bemowo Bezpośrednio, Also English»\n🔗 <a href=\"https://www.olx.pl/d/oferta/5min-metro-i-tramwaj-2-pokoje-osobne-zamykane-nowe-bliskie-bemowo-bezposrednio-also-english-CID3-ID1bYgA2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:18",
-      "ts": 1787384137,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": null,
-        "area": 31.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-22T09:18:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 645 = <b>3645 zł/мес</b>\n   ≈ с медиа около 4290 zł/мес\n⚡ Свет/медиа: ≈ 645 zł + свет по счётчику\n🏢 Этаж: 9\n👤 от собственника\n«Mogilska 2 pokoje Kraków z klimatyzacją do wynajęcia od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mogilska-2-pokoje-krakow-z-klimatyzacja-do-wynajecia-od-wrzesnia-CID3-ID1bYh19.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:34",
       "ts": 1787384764,
@@ -6943,13 +6916,47 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 45 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n🏢 агентство\n«Podgórze Duchackie. Ul. Bochenka. Nowe budownictwo. Dobry standard.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/podgorze-duchackie-ul-bochenka-nowe-budownictwo-dobry-standard-CID3-ID1bYrUa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:09",
+      "ts": 1787397636,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 800,
+        "area": 45.0,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-22T13:09:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 32 м², 2 комнаты\n💰 2950 + czynsz 650 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 650 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Wrocławska | Krowodrza | 2 POK. | 32m2 | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wroclawska-krowodrza-2-pok-32m2-eng-CID3-ID1bYsaI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:14",
+      "ts": 1787398261,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 650,
+        "area": 32.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-22T13:14:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 5452,
-    "sent": 2081
+    "checks": 5455,
+    "sent": 2083
   },
   "initialized": true,
-  "last_check": "2026-08-22T11:15:30",
+  "last_check": "2026-08-22T11:31:10",
   "backoff_until": 1787369093.497045
 }
