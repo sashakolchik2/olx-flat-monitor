@@ -4385,7 +4385,11 @@
     "1093130314": 1787412767,
     "1093134307": 1787414024,
     "1093133937": 1787414337,
-    "1093137197": 1787414651
+    "1093137197": 1787414651,
+    "1093135231": 1787414968,
+    "1093137285": 1787415284,
+    "1093140170": 1787415599,
+    "1093139710": 1787415911
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6337,45 +6341,13 @@
     "wynajmemieszkanieullubomirskiego|3500|38.0|grzegorzki": 1787411824,
     "dowynajecia36m2dwaniezaleznepokojewinwestycji|2500|36.0|bronowice": 1787412767,
     "nowoczesne2pokojewwysokimstandardzie30m²2ogro|2950|30.0|podgorze": 1787414337,
-    "metrowola2oddzielnepokojebezposrednio37m²ziel|2950|37.0|wola": 1787414651
+    "metrowola2oddzielnepokojebezposrednio37m²ziel|2950|37.0|wola": 1787414651,
+    "mieszkanie2pokojoweulklinkierowadzwlochy|3300|37.0|wlochy": 1787414968,
+    "dowynajeciakluczborska4warszawa35m2ogrodek40m|2700|35.0|bemowo": 1787415284
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 43.5 м², 2 комнаты\n💰 3000 + czynsz 990 = <b>3990 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Mieszkanie – Kraków – Ruczaj – ul. Bobrzyńskiego – 43,50 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ruczaj-ul-bobrzynskiego-43-50-m-CID3-ID1bYq5z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
-      "ts": 1787401397,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 990,
-        "area": 43.5,
-        "district": "Dębniki",
-        "business": true,
-        "created_iso": "2026-08-22T12:38:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 990
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 46 м², 2 комнаты\n💰 3050 + czynsz 850 = <b>3900 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n🏢 агентство\n«METRO WILANOWSKA | budynek \" Rezydencja Przy Orle \" | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wilanowska-budynek-rezydencja-przy-orle-bez-prowizji-CID3-ID1bYqgL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:42",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3050,
-        "rent": 850,
-        "area": 46.0,
-        "district": "Mokotów",
-        "business": true,
-        "created_iso": "2026-08-22T12:42:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Краков, Czyżyny</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 640 = <b>3240 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na osiedlu Akademickim w Krakowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-osiedlu-akademickim-w-krakowie-CID3-ID1bYqoG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:43",
       "ts": 1787401397,
@@ -7021,13 +6993,47 @@
       "an": {
         "czynsz_desc": 850
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 37 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe ul. Klinkierowa (dz. Włochy)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-ul-klinkierowa-dz-wlochy-CID3-ID1bYGpp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:47",
+      "ts": 1787414968,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": null,
+        "area": 37.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-22T17:47:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 2700 + czynsz 850 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«do wynajecia Kluczborska 4, warszawa 35 m2 + ogródek 40 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-kluczborska-4-warszawa-35-m2-ogrodek-40-m2-CID3-ID1bYGVx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:56",
+      "ts": 1787415284,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 850,
+        "area": 35.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-22T17:56:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 5471,
-    "sent": 2112
+    "checks": 5475,
+    "sent": 2114
   },
   "initialized": true,
-  "last_check": "2026-08-22T16:04:20",
+  "last_check": "2026-08-22T16:25:18",
   "backoff_until": 1787369093.497045
 }
