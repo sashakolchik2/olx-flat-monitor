@@ -4283,7 +4283,9 @@
     "1093029405": 1787380389,
     "1093027903": 1787380389,
     "1093032915": 1787381947,
-    "1093033815": 1787382260
+    "1093033815": 1787382260,
+    "1093033825": 1787382886,
+    "1093035114": 1787383510
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6163,28 +6165,12 @@
     "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787359380,
     "2pokoje45m²poremoncieduzybalkonlosiedlestrzez|2950|45.0|wesola": 1787369729,
     "mieszkanie48m2armiikrajowej2pokoje|2800|48.0|krowodrza": 1787381947,
-    "mieszkanie2pokojebiskosggwvistula|2900|49.0|ursynow": 1787382260
+    "mieszkanie2pokojebiskosggwvistula|2900|49.0|ursynow": 1787382260,
+    "2pokdywizjonu303przytramwajuodzaraz|3300|43.0|bemowo": 1787383510
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 350 zł/мес\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: Powyżej 10\n🏢 агентство\n«2pok, 43m² *Mogilska, Łaszkiewicza*, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-43m-mogilska-laszkiewicza-balkon-CID3-ID1bXQgM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:07",
-      "ts": 1787321771,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 43.0,
-        "district": "Grzegórzki",
-        "business": true,
-        "created_iso": "2026-08-21T16:07:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 агентство\n«2pok, Krowodrza, ciche, balkon, winda, od 01.09»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2pok-krowodrza-ciche-balkon-winda-od-01-09-CID3-ID1bXQoX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:09",
       "ts": 1787322084,
@@ -6847,13 +6833,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 43 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«2-pok | Dywizjonu 303 przy tramwaju, od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-dywizjonu-303-przy-tramwaju-od-zaraz-CID3-ID1bYgmC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:09",
+      "ts": 1787383510,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 43.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-22T09:09:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5405,
-    "sent": 2040
+    "checks": 5409,
+    "sent": 2041
   },
   "initialized": true,
-  "last_check": "2026-08-22T07:09:39",
+  "last_check": "2026-08-22T07:30:31",
   "backoff_until": 1787369093.497045
 }
