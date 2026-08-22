@@ -4424,7 +4424,9 @@
     "1093176510": 1787426525,
     "1093178800": 1787427151,
     "1093181501": 1787428096,
-    "1093184560": 1787428723
+    "1093184560": 1787428723,
+    "1093187765": 1787429977,
+    "1093189251": 1787430604
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6397,28 +6399,12 @@
     "mieszkanienawynajemtarchomin|3100|40.0|bialoleka": 1787424636,
     "wynajmemieszkanie44m2krakowulzbrojarzy|3400|44.0|lagiewnikiborekfalec": 1787425578,
     "2pokojowemieszkanienowykleparzbezprowizji|3200|41.0|": 1787425894,
-    "mieszkanienawynajem2oddzielnepokoje47mnatarch|2500|47.0|bialoleka": 1787425894
+    "mieszkanienawynajem2oddzielnepokoje47mnatarch|2500|47.0|bialoleka": 1787425894,
+    "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 49 м², 2 комнаты\n💰 3200 + czynsz 660 = <b>3860 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem Kraków Krowodrza, róg Racławickiej i Wrocławskiej 49mk, 2 pokoje, kuchnia 1 piętro, winda»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-krowodrza-rog-raclawickiej-i-wroclawskiej-49mk-2-pokoje-kuchnia-1-pietro-winda-CID3-ID1bYxTc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
-      "ts": 1787404286,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 660,
-        "area": 49.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-22T14:58:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 660
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 350 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajecia 2-pokojowe mieszkanie- scisle centrum- przy ul. Topolowej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-scisle-centrum-przy-ul-topolowej-CID3-ID1bYyca.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:04",
       "ts": 1787404913,
@@ -7081,13 +7067,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 3900 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с июня\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie do wynajecia Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-wola-CID3-ID1bYU4J.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:07",
+      "ts": 1787429977,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3900,
+        "rent": null,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-22T22:07:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5487,
-    "sent": 2133
+    "checks": 5490,
+    "sent": 2134
   },
   "initialized": true,
-  "last_check": "2026-08-22T20:14:29",
+  "last_check": "2026-08-22T20:30:13",
   "backoff_until": 1787369093.497045
 }
