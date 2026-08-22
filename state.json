@@ -4272,6 +4272,7 @@
     "1093012337": 1787346274,
     "1093012754": 1787346274,
     "1093014067": 1787346588,
+<<<<<<< Updated upstream
     "1093014467": 1787346907,
     "1092856436": 1787346907,
     "1093013944": 1787347223,
@@ -4279,6 +4280,14 @@
     "1093018477": 1787350369,
     "1093019770": 1787351312,
     "1093019502": 1787351944
+=======
+    "1093019770": 1787359380,
+    "1093018477": 1787359380,
+    "1093013944": 1787359380,
+    "1093014467": 1787359380,
+    "1093019502": 1787359380,
+    "1093016462": 1787359380
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6152,10 +6161,17 @@
     "bemowo2pokoje44m2nowegarazwceniewolneodzaraz|3150|44.0|bemowo": 1787344362,
     "2pokojebliskocentrumulpoznanskakrowodrza|2750|40.0|krowodrza": 1787345958,
     "45m2od0109wsercustaregopodgorzaporemonciebezp|3000|45.0|podgorze": 1787346588,
+<<<<<<< Updated upstream
     "2pokojowemieszkaniekrakowkrowodrza|2900|38.0|krowodrza": 1787346907,
     "mieszkanie36m2dwapokojeosalbertynskie|2600|36.0|bienczyce": 1787347223,
     "mieszkaniewynajme|2700|40.0|pradnikbialy": 1787351312,
     "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787351944
+=======
+    "mieszkaniewynajme|2700|40.0|pradnikbialy": 1787359380,
+    "mieszkanie36m2dwapokojeosalbertynskie|2600|36.0|bienczyce": 1787359380,
+    "2pokojowemieszkaniekrakowkrowodrza|2900|38.0|krowodrza": 1787359380,
+    "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787359380
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625401,
   "paused": false,
@@ -6773,6 +6789,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie Kraków Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-krakow-krowodrza-CID3-ID1bYaZB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:05",
       "ts": 1787346907,
       "city": "krakow",
@@ -6792,6 +6809,10 @@
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 650 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 36m2 dwa pokoje oś. Albertyńskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m2-dwa-pokoje-os-albertynskie-CID3-ID1bYaRa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:59",
       "ts": 1787347223,
+=======
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 650 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 36m2 dwa pokoje oś. Albertyńskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m2-dwa-pokoje-os-albertynskie-CID3-ID1bYaRa.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:59",
+      "ts": 1787359380,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -6807,6 +6828,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie - wynajmę»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajme-CID3-ID1bYcn8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:21",
       "ts": 1787351312,
       "city": "krakow",
@@ -6821,11 +6843,31 @@
       },
       "an": {
         "czynsz_desc": 500
+=======
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie Kraków Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-krakow-krowodrza-CID3-ID1bYaZB.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:05",
+      "ts": 1787359380,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 670,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-21T23:05:12+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+>>>>>>> Stashed changes
       }
     },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 66 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4100 zł\n🏢 Этаж: 3\n👤 от собственника\n«2 pokojowe Wynajmę Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-wynajme-warszawa-CID3-ID1bYciO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:16",
+<<<<<<< Updated upstream
       "ts": 1787351944,
+=======
+      "ts": 1787359380,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -6839,6 +6881,7 @@
       "an": {
         "czynsz_desc": null
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -6847,5 +6890,32 @@
   },
   "initialized": true,
   "last_check": "2026-08-22T00:39:45",
+=======
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie - wynajmę»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajme-CID3-ID1bYcn8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:21",
+      "ts": 1787359380,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 500,
+        "area": 40.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-22T00:21:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    }
+  ],
+  "stats": {
+    "checks": 5367,
+    "sent": 2037
+  },
+  "initialized": true,
+  "last_check": "2026-08-22T00:58:53",
+>>>>>>> Stashed changes
   "backoff_until": 1787339624.3484812
 }
