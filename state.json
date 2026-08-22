@@ -4343,7 +4343,11 @@
     "1093081242": 1787397949,
     "1093081489": 1787397949,
     "1092587918": 1787397949,
-    "1093080504": 1787398261
+    "1093080504": 1787398261,
+    "1093084491": 1787398888,
+    "1093085426": 1787399202,
+    "1093086391": 1787399202,
+    "1093083925": 1787399202
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6266,62 +6270,14 @@
     "mieszkanienaosiedluakademickimwkrakowie|2600|37.0|czyzyny": 1787397003,
     "2pokojowemieszkaniedowynajecia|2500|40.0|mistrzejowice": 1787397318,
     "podgorzeduchackieulbochenkanowebudownictwodob|2400|45.0|podgorzeduchackie": 1787397636,
-    "wroclawskakrowodrza2pok32m2eng|2950|32.0|krowodrza": 1787398261
+    "wroclawskakrowodrza2pok32m2eng|2950|32.0|krowodrza": 1787398261,
+    "nohomlynymogilska2pokojeklimatyzacjaczesciwsp|3200|35.0|pradnikczerwony": 1787398888,
+    "komfortowyapartament2pok46m2posag7panien5wyso|3400|50.0|ursus": 1787399202,
+    "charkadiabliskocentrumporemoncieparking|3200|42.0|srodmiescie": 1787399202
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 645 = <b>3645 zł/мес</b>\n   ≈ с медиа около 4290 zł/мес\n⚡ Свет/медиа: ≈ 645 zł + свет по счётчику\n🏢 Этаж: 9\n👤 от собственника\n«Mogilska 2 pokoje Kraków z klimatyzacją do wynajęcia od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mogilska-2-pokoje-krakow-z-klimatyzacja-do-wynajecia-od-wrzesnia-CID3-ID1bYh19.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:34",
-      "ts": 1787384764,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 645,
-        "area": 33.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T09:34:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 645
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Bezposrednio 2 pokojowe, odzielna kuchnia.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-2-pokojowe-odzielna-kuchnia-CID3-ID1bYhfz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:41",
-      "ts": 1787384764,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 650,
-        "area": 38.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-22T09:41:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Przytulne 2 pokoje 32 m2 /bezposrednio ul. jana kazimierza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokoje-32-m2-bezposrednio-ul-jana-kazimierza-CID3-ID1bYgZt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:33",
-      "ts": 1787385393,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 750,
-        "area": 32.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-22T09:33:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 3\n👤 от собственника\n«2 osobne pokoje + kuchnia, po remoncie, ścisłe centrum, balkon, piękna cicha ulica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-osobne-pokoje-kuchnia-po-remoncie-scisle-centrum-balkon-piekna-cicha-ulica-CID3-ID1bYhug.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:49",
       "ts": 1787385709,
@@ -6950,13 +6906,64 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«NOHO Młyny Mogilska | 2 pokoje | klimatyzacja | części wspólne premium»\n🔗 <a href=\"https://www.olx.pl/d/oferta/noho-mlyny-mogilska-2-pokoje-klimatyzacja-czesci-wspolne-premium-CID3-ID1bYtd1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:31",
+      "ts": 1787398888,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 650,
+        "area": 35.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-22T13:31:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 42 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n🏢 агентство\n«CH Arkadia | Blisko centrum | Po remoncie |Parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ch-arkadia-blisko-centrum-po-remoncie-parking-CID3-ID1bYt3T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:29",
+      "ts": 1787399202,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-22T13:29:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 50 м², 2 комнаты\n💰 3400 + czynsz 600 = <b>4000 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«komfortowy apartament 2 pok. 46m2 Posag 7 Panien 5 wysoki standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowy-apartament-2-pok-46m2-posag-7-panien-5-wysoki-standard-CID3-ID1bYtHF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:40",
+      "ts": 1787399202,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 600,
+        "area": 50.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-22T13:40:50+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5455,
-    "sent": 2083
+    "checks": 5459,
+    "sent": 2086
   },
   "initialized": true,
-  "last_check": "2026-08-22T11:31:10",
+  "last_check": "2026-08-22T11:52:02",
   "backoff_until": 1787369093.497045
 }
