@@ -4382,7 +4382,10 @@
     "1093124894": 1787411824,
     "1093128125": 1787412454,
     "1093130625": 1787412767,
-    "1093130314": 1787412767
+    "1093130314": 1787412767,
+    "1093134307": 1787414024,
+    "1093133937": 1787414337,
+    "1093137197": 1787414651
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6332,45 +6335,13 @@
     "nowoczesnemieszkanie41m²nazabincu91garazduzyb|3400|41.0|bronowice": 1787411508,
     "mieszkanie46m²kozlowek2pokojebalkon3pietro|2600|46.0|podgorzeduchackie": 1787411508,
     "wynajmemieszkanieullubomirskiego|3500|38.0|grzegorzki": 1787411824,
-    "dowynajecia36m2dwaniezaleznepokojewinwestycji|2500|36.0|bronowice": 1787412767
+    "dowynajecia36m2dwaniezaleznepokojewinwestycji|2500|36.0|bronowice": 1787412767,
+    "nowoczesne2pokojewwysokimstandardzie30m²2ogro|2950|30.0|podgorze": 1787414337,
+    "metrowola2oddzielnepokojebezposrednio37m²ziel|2950|37.0|wola": 1787414651
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 35 м², 2 комнаты\n💰 3250 + czynsz 650 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 30.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne i ciche 2 pokoje z loggią - blisko WKD i 15 min do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-i-ciche-2-pokoje-z-loggia-blisko-wkd-i-15-min-do-centrum-CID3-ID1bYpve.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:27",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3250,
-        "rent": 650,
-        "area": 35.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-22T12:27:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3100 + czynsz 660 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje przy ul. Blich | 34 m² | po remoncie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-ul-blich-34-m-po-remoncie-CID3-ID1bYq4R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
-      "ts": 1787401397,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 660,
-        "area": 34.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T12:38:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": 660
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 43.5 м², 2 комнаты\n💰 3000 + czynsz 990 = <b>3990 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Mieszkanie – Kraków – Ruczaj – ul. Bobrzyńskiego – 43,50 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ruczaj-ul-bobrzynskiego-43-50-m-CID3-ID1bYq5z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
       "ts": 1787401397,
@@ -7016,13 +6987,47 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 2950 + czynsz 500 = <b>3450 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Nowoczesne 2 pokoje w WYSOKIM STANDARDZIE – 30 m² + 2 ogródki, rejon ul. Wielickiej!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-w-wysokim-standardzie-30-m-2-ogrodki-rejon-ul-wielickiej-CID3-ID1bYG4x.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:41",
+      "ts": 1787414337,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 500,
+        "area": 30.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-22T17:41:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 2950 + czynsz 850 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 10\n👤 от собственника\n«Metro | Wola | 2 oddzielne pokoje | bezpośrednio | 37 m² | zielono»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wola-2-oddzielne-pokoje-bezposrednio-37-m-zielono-CID3-ID1bYGW7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:56",
+      "ts": 1787414651,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 850,
+        "area": 37.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-22T17:56:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 5467,
-    "sent": 2110
+    "checks": 5471,
+    "sent": 2112
   },
   "initialized": true,
-  "last_check": "2026-08-22T15:43:25",
+  "last_check": "2026-08-22T16:04:20",
   "backoff_until": 1787369093.497045
 }
