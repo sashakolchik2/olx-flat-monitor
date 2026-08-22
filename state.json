@@ -4432,7 +4432,9 @@
     "1093191384": 1787431234,
     "1093192297": 1787431862,
     "1093191625": 1787431862,
-    "1093192317": 1787433118
+    "1093192317": 1787433118,
+    "1093195143": 1787433432,
+    "1093196003": 1787434059
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6408,28 +6410,12 @@
     "mieszkanienawynajem2oddzielnepokoje47mnatarch|2500|47.0|bialoleka": 1787425894,
     "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977,
     "mieszkanie2pokojowetuzprzypolachmokotowskich4|3000|45.0|mokotow": 1787431234,
-    "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862
+    "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862,
+    "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787434059
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 36 м², 2 комнаты\n💰 2900 + czynsz 570 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok, niedawno odnowione, blisko rynku i uczelni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-niedawno-odnowione-blisko-rynku-i-uczelni-CID3-ID1bYzqj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:29",
-      "ts": 1787405856,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 570,
-        "area": 36.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-22T15:29:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 570
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pokojowe w sercu Grzegórzek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-sercu-grzegorzek-CID3-ID1bYzLj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:35",
       "ts": 1787406170,
@@ -7092,13 +7078,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje 45 m² | loggia | po odświeżeniu | bezpośrednio | Aluzyjna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-loggia-po-odswiezeniu-bezposrednio-aluzyjna-CID3-ID1bYVdB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:22",
+      "ts": 1787434059,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": 500,
+        "area": 45.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-22T23:22:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5498,
-    "sent": 2136
+    "checks": 5502,
+    "sent": 2137
   },
   "initialized": true,
-  "last_check": "2026-08-22T21:12:05",
+  "last_check": "2026-08-22T21:33:01",
   "backoff_until": 1787369093.497045
 }
