@@ -4426,7 +4426,12 @@
     "1093181501": 1787428096,
     "1093184560": 1787428723,
     "1093187765": 1787429977,
-    "1093189251": 1787430604
+    "1093189251": 1787430604,
+    "1093182905": 1787431234,
+    "1093191392": 1787431234,
+    "1093191384": 1787431234,
+    "1093192297": 1787431862,
+    "1093191625": 1787431862
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6400,45 +6405,13 @@
     "wynajmemieszkanie44m2krakowulzbrojarzy|3400|44.0|lagiewnikiborekfalec": 1787425578,
     "2pokojowemieszkanienowykleparzbezprowizji|3200|41.0|": 1787425894,
     "mieszkanienawynajem2oddzielnepokoje47mnatarch|2500|47.0|bialoleka": 1787425894,
-    "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977
+    "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977,
+    "mieszkanie2pokojowetuzprzypolachmokotowskich4|3000|45.0|mokotow": 1787431234,
+    "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 350 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajecia 2-pokojowe mieszkanie- scisle centrum- przy ul. Topolowej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-scisle-centrum-przy-ul-topolowej-CID3-ID1bYyca.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:04",
-      "ts": 1787404913,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2800,
-        "rent": 350,
-        "area": 35.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T15:04:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 350
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 43 м², 2 комнаты\n💰 2700 + czynsz 1200 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie Stegny - dwa pokoje, dla sudentów 43m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-stegny-dwa-pokoje-dla-sudentow-43m2-CID3-ID1bYyvW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:11",
-      "ts": 1787404913,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1200,
-        "area": 43.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-22T15:11:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 36 м², 2 комнаты\n💰 2900 + czynsz 570 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok, niedawno odnowione, blisko rynku i uczelni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-niedawno-odnowione-blisko-rynku-i-uczelni-CID3-ID1bYzqj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:29",
       "ts": 1787405856,
@@ -7084,13 +7057,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4150 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2 pokojowe tuż przy Polach Mokotowskich, 45 m2, EkoPark Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-tuz-przy-polach-mokotowskich-45-m2-ekopark-mokotow-CID3-ID1bYW1e.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:30",
+      "ts": 1787431234,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 950,
+        "area": 45.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-22T22:30:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": 950
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 46 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bYWfP.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:38",
+      "ts": 1787431862,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 46.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-22T22:38:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5490,
-    "sent": 2134
+    "checks": 5494,
+    "sent": 2136
   },
   "initialized": true,
-  "last_check": "2026-08-22T20:30:13",
+  "last_check": "2026-08-22T20:51:11",
   "backoff_until": 1787369093.497045
 }
