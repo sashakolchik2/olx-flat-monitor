@@ -4361,7 +4361,13 @@
     "1092587918": 1787403974,
     "1093102482": 1787404286,
     "1093103658": 1787404913,
-    "1093104945": 1787404913
+    "1093104945": 1787404913,
+    "1093028665": 1787405231,
+    "1093103486": 1787405231,
+    "1093106915": 1787405544,
+    "1093108379": 1787405856,
+    "1093109681": 1787406170,
+    "1093076051": 1787406170
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6297,45 +6303,13 @@
     "wynajmemieszkanie45m22osobnepokojeososwieceni|2500|45.0|mistrzejowice": 1787403655,
     "mieszkanienawynajemkrakowkrowodrzarograclawic|3200|49.0|krowodrza": 1787404286,
     "dowynajecia2pokojowemieszkaniescislecentrumpr|2800|35.0|grzegorzki": 1787404913,
-    "mieszkaniestegnydwapokojedlasudentow43m2|2700|43.0|mokotow": 1787404913
+    "mieszkaniestegnydwapokojedlasudentow43m2|2700|43.0|mokotow": 1787404913,
+    "wynajmemieszkanie2pokniedawnoodnowionebliskor|2900|36.0|staremiasto": 1787405856,
+    "mieszkanie2pokojowewsercugrzegorzek|3000|34.0|grzegorzki": 1787406170
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 42.5 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3925 zł/мес\n⚡ Свет/медиа: ≈ 125 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01 сентября ⭐️\n👤 от собственника\n«Mieszkanie osiedle MAŁY GROCHÓW - ul SIennicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-maly-grochow-ul-siennicka-CID3-ID1bYjPE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:48",
-      "ts": 1787389163,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 42.5,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-22T10:48:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 39.12 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n🏢 агентство\n«Odświeżone 2 pokoje - ul. Miłkowskiego 11a/ Dębniki/ ENG Below»\n🔗 <a href=\"https://www.olx.pl/d/oferta/odswiezone-2-pokoje-ul-milkowskiego-11a-debniki-eng-below-CID3-ID1bYkoO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
-      "ts": 1787401397,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 39.12,
-        "district": "Dębniki",
-        "business": true,
-        "created_iso": "2026-08-22T10:59:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Wola</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 550 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 6 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie Osiedle Bliska Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-osiedle-bliska-wola-CID3-ID1bYktY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:01",
       "ts": 1787401397,
@@ -6981,13 +6955,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 36 м², 2 комнаты\n💰 2900 + czynsz 570 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Wynajmę mieszkanie 2-pok, niedawno odnowione, blisko rynku i uczelni»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pok-niedawno-odnowione-blisko-rynku-i-uczelni-CID3-ID1bYzqj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:29",
+      "ts": 1787405856,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 570,
+        "area": 36.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-22T15:29:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 570
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pokojowe w sercu Grzegórzek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-sercu-grzegorzek-CID3-ID1bYzLj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:35",
+      "ts": 1787406170,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 500,
+        "area": 34.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-22T15:35:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5440,
-    "sent": 2096
+    "checks": 5444,
+    "sent": 2098
   },
   "initialized": true,
-  "last_check": "2026-08-22T13:22:04",
+  "last_check": "2026-08-22T13:43:00",
   "backoff_until": 1787369093.497045
 }
