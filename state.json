@@ -4278,7 +4278,8 @@
     "1093014467": 1787359380,
     "1093019502": 1787359380,
     "1093016462": 1787359380,
-    "1092856436": 1787360642
+    "1092856436": 1787360642,
+    "1093025977": 1787369729
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6155,28 +6156,12 @@
     "mieszkaniewynajme|2700|40.0|pradnikbialy": 1787359380,
     "mieszkanie36m2dwapokojeosalbertynskie|2600|36.0|bienczyce": 1787359380,
     "2pokojowemieszkaniekrakowkrowodrza|2900|38.0|krowodrza": 1787359380,
-    "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787359380
+    "2pokojowewynajmewarszawa|3000|66.0|mokotow": 1787359380,
+    "2pokoje45m²poremoncieduzybalkonlosiedlestrzez|2950|45.0|wesola": 1787369729
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 44 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie Gocław»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-goclaw-CID3-ID1bVH2U.html\">Открыть на OLX</a>  ·  добавлено вчера в 15:47",
-      "ts": 1787320809,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 900,
-        "area": 44.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-20T15:47:52+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 690 = <b>3490 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 6 сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«2 pok. z osobną kuchnią, balkonem i miejscem postojowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-z-osobna-kuchnia-balkonem-i-miejscem-postojowym-CID3-ID1bXPao.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:45",
       "ts": 1787321144,
@@ -6839,13 +6824,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wesoła</b> — 45 м², 2 комнаты\n💰 2950 + czynsz 800 = <b>3750 zł/мес</b>\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje - 45 m² - po remoncie - duży balkon L - osiedle strzeżone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-po-remoncie-duzy-balkon-l-osiedle-strzezone-CID3-ID1bYdZf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 05:22",
+      "ts": 1787369729,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2950,
+        "rent": 800,
+        "area": 45.0,
+        "district": "Wesoła",
+        "business": false,
+        "created_iso": "2026-08-22T05:22:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5393,
-    "sent": 2037
+    "checks": 5397,
+    "sent": 2038
   },
   "initialized": true,
-  "last_check": "2026-08-22T03:14:47",
+  "last_check": "2026-08-22T03:40:51",
   "backoff_until": 1787369093.497045
 }
