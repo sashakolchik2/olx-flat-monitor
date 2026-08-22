@@ -4370,7 +4370,10 @@
     "1093076051": 1787406170,
     "1093110771": 1787407112,
     "1093108930": 1787407112,
-    "1093112178": 1787407427
+    "1093112178": 1787407427,
+    "1093113016": 1787407743,
+    "1093112315": 1787407743,
+    "1093115434": 1787408372
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6310,62 +6313,14 @@
     "wynajmemieszkanie2pokniedawnoodnowionebliskor|2900|36.0|staremiasto": 1787405856,
     "mieszkanie2pokojowewsercugrzegorzek|3000|34.0|grzegorzki": 1787406170,
     "wymajmebezposredniodwapokoje|4000|40.0|srodmiescie": 1787407112,
-    "dwupokojowewyposazonekomplekstyniecka|2800|34.0|debniki": 1787407427
+    "dwupokojowewyposazonekomplekstyniecka|2800|34.0|debniki": 1787407427,
+    "mieszkanienawynajem42metryulgrzegorzecka|3000|42.0|grzegorzki": 1787407743,
+    "pragapoludnie2pokojezkuchnia|3500|40.0|pragapoludnie": 1787407743,
+    "2pokoje40m²bezprowizjiduzaloggia7m2ksiazkowat|2790|40.0|bialoleka": 1787408372
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 46 м², 2 комнаты\n💰 2650 + czynsz 750 = <b>3400 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«46 m² | Ruczaj | Bobrzyńskiego | UJ | 2 pokoje | balkon | wyposażone»\n🔗 <a href=\"https://www.olx.pl/d/oferta/46-m-ruczaj-bobrzynskiego-uj-2-pokoje-balkon-wyposazone-CID3-ID1bYkPZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
-      "ts": 1787401397,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2650,
-        "rent": 750,
-        "area": 46.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-22T11:08:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n   ≈ с медиа около 3940 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n📅 Заселение: с 15 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajem mieszkania Ochota»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-ochota-CID3-ID1bYkT6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:09",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 740,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-22T11:09:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🏢 Этаж: 2\n👤 от собственника\n«2 oddzielne pokoje 120m do Metro Młynów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-oddzielne-pokoje-120m-do-metro-mlynow-CID3-ID1bYliB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
-      "ts": 1787401397,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-22T11:17:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 46.4 м², 2 комнаты\n💰 3000 + czynsz 900 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe z garażem w Ursusie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-z-garazem-w-ursusie-CID3-ID1bYls1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:20",
       "ts": 1787401397,
@@ -6994,13 +6949,64 @@
       "an": {
         "czynsz_desc": 490
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 1 = <b>3501 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Praga Południe 2 pokoje z kuchnią»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-2-pokoje-z-kuchnia-CID3-ID1bYArN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:49",
+      "ts": 1787407743,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 1,
+        "area": 40.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-22T15:49:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 600 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem 42-metry ul. Grzegorzecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-42-metry-ul-grzegorzecka-CID3-ID1bYAD6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:52",
+      "ts": 1787407743,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-22T15:52:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2790 + czynsz 837 = <b>3627 zł/мес</b>\n   ≈ с медиа около 3917 zł/мес\n⚡ Свет/медиа: ≈ 290 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 917 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje 40 m² bez prowizji | duża loggia 7m2| Książkowa | Tarchomin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-40-m-bez-prowizji-duza-loggia-7m2-ksiazkowa-tarchomin-CID3-ID1bYBg6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
+      "ts": 1787408372,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2790,
+        "rent": 837,
+        "area": 40.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-22T16:04:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 837
+      }
     }
   ],
   "stats": {
-    "checks": 5448,
-    "sent": 2100
+    "checks": 5451,
+    "sent": 2103
   },
   "initialized": true,
-  "last_check": "2026-08-22T14:03:56",
+  "last_check": "2026-08-22T14:19:41",
   "backoff_until": 1787369093.497045
 }
