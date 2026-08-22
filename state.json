@@ -4357,7 +4357,11 @@
     "1093098814": 1787403341,
     "1093100246": 1787403655,
     "1093094252": 1787403655,
-    "1093098417": 1787403655
+    "1093098417": 1787403655,
+    "1092587918": 1787403974,
+    "1093102482": 1787404286,
+    "1093103658": 1787404913,
+    "1093104945": 1787404913
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6290,62 +6294,14 @@
     "mieszkaniedowynajeciarondowiatracznauniwersam|3300|30.0|pragapoludnie": 1787403026,
     "dowynajecia15092026mieszkanie2pokoje|3200|48.0|bialoleka": 1787403341,
     "mieszkanie2pokojekrakownowahutadowynajecia|2700|50.0|czyzyny": 1787403655,
-    "wynajmemieszkanie45m22osobnepokojeososwieceni|2500|45.0|mistrzejowice": 1787403655
+    "wynajmemieszkanie45m22osobnepokojeososwieceni|2500|45.0|mistrzejowice": 1787403655,
+    "mieszkanienawynajemkrakowkrowodrzarograclawic|3200|49.0|krowodrza": 1787404286,
+    "dowynajecia2pokojowemieszkaniescislecentrumpr|2800|35.0|grzegorzki": 1787404913,
+    "mieszkaniestegnydwapokojedlasudentow43m2|2700|43.0|mokotow": 1787404913
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 28 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Ścisłe centrum róg ul.Grzybowskiej i Alei Jana Pawła II»\n🔗 <a href=\"https://www.olx.pl/d/oferta/scisle-centrum-rog-ul-grzybowskiej-i-alei-jana-pawla-ii-CID3-ID1bYiQ5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:27",
-      "ts": 1787388221,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": null,
-        "area": 28.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-22T10:27:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 30 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia ul. Myśliwska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-ul-mysliwska-CID3-ID1bYcmz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:20",
-      "ts": 1787388845,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": 500,
-        "area": 30.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-22T00:20:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 830 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1\n👤 от собственника\n«44m, 2 pokoje, zielone Bielany, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/44m-2-pokoje-zielone-bielany-blisko-metra-CID3-ID1bYjpb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:39",
-      "ts": 1787388845,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 830,
-        "area": 44.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-22T10:39:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 830
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 42.5 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3925 zł/мес\n⚡ Свет/медиа: ≈ 125 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01 сентября ⭐️\n👤 от собственника\n«Mieszkanie osiedle MAŁY GROCHÓW - ul SIennicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-maly-grochow-ul-siennicka-CID3-ID1bYjPE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:48",
       "ts": 1787389163,
@@ -6974,13 +6930,64 @@
       "an": {
         "czynsz_desc": 1000
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 49 м², 2 комнаты\n💰 3200 + czynsz 660 = <b>3860 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem Kraków Krowodrza, róg Racławickiej i Wrocławskiej 49mk, 2 pokoje, kuchnia 1 piętro, winda»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-krowodrza-rog-raclawickiej-i-wroclawskiej-49mk-2-pokoje-kuchnia-1-pietro-winda-CID3-ID1bYxTc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:58",
+      "ts": 1787404286,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 660,
+        "area": 49.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-22T14:58:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 660
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 35 м², 2 комнаты\n💰 2800 + czynsz 350 = <b>3150 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Do wynajecia 2-pokojowe mieszkanie- scisle centrum- przy ul. Topolowej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-2-pokojowe-mieszkanie-scisle-centrum-przy-ul-topolowej-CID3-ID1bYyca.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:04",
+      "ts": 1787404913,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 350,
+        "area": 35.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-22T15:04:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 350
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 43 м², 2 комнаты\n💰 2700 + czynsz 1200 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie Stegny - dwa pokoje, dla sudentów 43m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-stegny-dwa-pokoje-dla-sudentow-43m2-CID3-ID1bYyvW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:11",
+      "ts": 1787404913,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 1200,
+        "area": 43.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-22T15:11:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5436,
-    "sent": 2093
+    "checks": 5440,
+    "sent": 2096
   },
   "initialized": true,
-  "last_check": "2026-08-22T13:01:07",
+  "last_check": "2026-08-22T13:22:04",
   "backoff_until": 1787369093.497045
 }
