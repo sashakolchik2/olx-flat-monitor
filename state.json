@@ -4323,7 +4323,12 @@
     "1093064642": 1787394177,
     "1093067078": 1787394490,
     "1093067951": 1787394803,
-    "1093064442": 1787394803
+    "1093064442": 1787394803,
+    "1093070675": 1787395118,
+    "1093070306": 1787395429,
+    "1093072497": 1787395743,
+    "1093072453": 1787395743,
+    "1093073191": 1787396058
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6233,79 +6238,15 @@
     "dowynajeciamieszkaniedwopokojowe|2800|55.0|podgorze": 1787393861,
     "mieszkaniekrakowruczajulraciborska4360m²|2850|43.6|debniki": 1787394177,
     "dowynajeciamieszkanie2pokojoweprzyulbobrzynsk|2900|46.0|podgorze": 1787394490,
-    "wynajmeapartamentzklimatyzacjagarazemikomorka|3300|41.0|wilanow": 1787394803
+    "wynajmeapartamentzklimatyzacjagarazemikomorka|3300|41.0|wilanow": 1787394803,
+    "sloneczneiciche2pokojezloggiabliskowkdi15mind|3250|35.0|wlochy": 1787395429,
+    "mieszkaniekrakowruczajulbobrzynskiego4350m²|3000|43.5|debniki": 1787395743,
+    "2pokojeprzyulblich34m²poremoncie|3100|34.0|grzegorzki": 1787395743,
+    "metrowilanowskabudynekrezydencjaprzyorlebezpr|3050|46.0|mokotow": 1787396058
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 44 м², 2 комнаты\n💰 3150 + czynsz 850 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4040 zł/мес\n⚡ Свет/медиа: ≈ 40 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 агентство\n«Bemowo-2 pokoje-44m2-NOWE-garaż w cenie-wolne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bemowo-2-pokoje-44m2-nowe-garaz-w-cenie-wolne-od-zaraz-CID3-ID1bY9Lq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:20",
-      "ts": 1787344362,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3150,
-        "rent": 850,
-        "area": 44.0,
-        "district": "Bemowo",
-        "business": true,
-        "created_iso": "2026-08-21T22:20:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 40 м², 2 комнаты\n💰 2750 + czynsz 500 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 2750 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje blisko centrum ul. POZNAŃSKA Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-blisko-centrum-ul-poznanska-krowodrza-CID3-ID1bYamL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:40",
-      "ts": 1787345958,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2750,
-        "rent": 500,
-        "area": 40.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-21T22:40:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 768 = <b>3768 zł/мес</b>\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«45m2 od 01.09 w sercu Starego Podgórza. Po remoncie. Bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/45m2-od-01-09-w-sercu-starego-podgorza-po-remoncie-bezposrednio-CID3-ID1bYaT9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:01",
-      "ts": 1787346588,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 768,
-        "area": 45.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-21T23:01:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 650 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 36m2 dwa pokoje oś. Albertyńskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-36m2-dwa-pokoje-os-albertynskie-CID3-ID1bYaRa.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:59",
-      "ts": 1787359380,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-21T22:59:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie Kraków Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-krakow-krowodrza-CID3-ID1bYaZB.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:05",
       "ts": 1787359380,
@@ -6917,13 +6858,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 35 м², 2 комнаты\n💰 3250 + czynsz 650 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 30.08.2026\n🏢 Этаж: 2\n👤 от собственника\n«Słoneczne i ciche 2 pokoje z loggią - blisko WKD i 15 min do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/sloneczne-i-ciche-2-pokoje-z-loggia-blisko-wkd-i-15-min-do-centrum-CID3-ID1bYpve.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:27",
+      "ts": 1787395429,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3250,
+        "rent": 650,
+        "area": 35.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-22T12:27:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3100 + czynsz 660 = <b>3760 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje przy ul. Blich | 34 m² | po remoncie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-przy-ul-blich-34-m-po-remoncie-CID3-ID1bYq4R.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
+      "ts": 1787395743,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 660,
+        "area": 34.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-22T12:38:27+02:00"
+      },
+      "an": {
+        "czynsz_desc": 660
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 43.5 м², 2 комнаты\n💰 3000 + czynsz 990 = <b>3990 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🏢 агентство\n«Mieszkanie – Kraków – Ruczaj – ul. Bobrzyńskiego – 43,50 m²»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-ruczaj-ul-bobrzynskiego-43-50-m-CID3-ID1bYq5z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:38",
+      "ts": 1787395743,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 990,
+        "area": 43.5,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-22T12:38:39+02:00"
+      },
+      "an": {
+        "czynsz_desc": 990
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 46 м², 2 комнаты\n💰 3050 + czynsz 850 = <b>3900 zł/мес</b>\n🚗 Паркинг: 250 zł/мес\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 9\n🏢 агентство\n«METRO WILANOWSKA | budynek \" Rezydencja Przy Orle \" | BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wilanowska-budynek-rezydencja-przy-orle-bez-prowizji-CID3-ID1bYqgL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:42",
+      "ts": 1787396058,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3050,
+        "rent": 850,
+        "area": 46.0,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-22T12:42:02+02:00"
+      },
+      "an": {
+        "czynsz_desc": 850
+      }
     }
   ],
   "stats": {
-    "checks": 5444,
-    "sent": 2070
+    "checks": 5448,
+    "sent": 2074
   },
   "initialized": true,
-  "last_check": "2026-08-22T10:33:32",
+  "last_check": "2026-08-22T10:54:26",
   "backoff_until": 1787369093.497045
 }
