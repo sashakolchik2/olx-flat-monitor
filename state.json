@@ -4434,7 +4434,9 @@
     "1093191625": 1787431862,
     "1093192317": 1787433118,
     "1093195143": 1787433432,
-    "1093196003": 1787434059
+    "1093196003": 1787434059,
+    "1093197811": 1787435620,
+    "1093197312": 1787435620
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6411,28 +6413,12 @@
     "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977,
     "mieszkanie2pokojowetuzprzypolachmokotowskich4|3000|45.0|mokotow": 1787431234,
     "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862,
-    "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787434059
+    "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787434059,
+    "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787435620
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 34 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n🔐 Kaucja (залог): 6000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pokojowe w sercu Grzegórzek»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-w-sercu-grzegorzek-CID3-ID1bYzLj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:35",
-      "ts": 1787406170,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 34.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T15:35:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 40 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 5\n👤 от собственника\n«Wymajmę bezpośrednio dwa pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wymajme-bezposrednio-dwa-pokoje-CID3-ID1bYA2T.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:40",
       "ts": 1787407112,
@@ -7095,13 +7081,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-warszawa-CID3-ID1bYVGL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:47",
+      "ts": 1787435620,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-22T23:47:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
     }
   ],
   "stats": {
-    "checks": 5502,
-    "sent": 2137
+    "checks": 5505,
+    "sent": 2138
   },
   "initialized": true,
-  "last_check": "2026-08-22T21:33:01",
-  "backoff_until": 1787369093.497045
+  "last_check": "2026-08-22T21:53:49",
+  "backoff_until": 1787434988.9668279
 }
