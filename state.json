@@ -4301,7 +4301,8 @@
     "1092995289": 1787387595,
     "1093044629": 1787388221,
     "1093019735": 1787388845,
-    "1093046805": 1787388845
+    "1093046805": 1787388845,
+    "1093048446": 1787389163
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6197,28 +6198,12 @@
     "pluaen2pokojepremiumwysokistandardnowe|3300|50.0|czyzyny": 1787387595,
     "scislecentrumrogulgrzybowskiejialeijanapawlai|2900|28.0|srodmiescie": 1787388221,
     "mieszkaniedowynajeciaulmysliwska|3100|30.0|podgorze": 1787388845,
-    "44m2pokojezielonebielanybliskometra|2800|44.0|bielany": 1787388845
+    "44m2pokojezielonebielanybliskometra|2800|44.0|bielany": 1787388845,
+    "mieszkanieosiedlemalygrochowulsiennicka|3200|42.5|pragapoludnie": 1787389163
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wesoła</b> — 36 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«36 m2, 3500 całkowity koszt najmu w tym media, tv i internet»\n🔗 <a href=\"https://www.olx.pl/d/oferta/36-m2-3500-calkowity-koszt-najmu-w-tym-media-tv-i-internet-CID3-ID1bY2c9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:54",
-      "ts": 1787335519,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 36.0,
-        "district": "Wesoła",
-        "business": false,
-        "created_iso": "2026-08-21T19:54:41+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 993 = <b>3993 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe 52M, ul. Kluczborska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-52m-ul-kluczborska-CID3-ID1bY3L2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:22",
       "ts": 1787338371,
@@ -6881,13 +6866,30 @@
       "an": {
         "czynsz_desc": 830
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 42.5 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n   ≈ с медиа около 3925 zł/мес\n⚡ Свет/медиа: ≈ 125 zł/мес\n🌐 Интернет: 50 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 01 сентября ⭐️\n👤 от собственника\n«Mieszkanie osiedle MAŁY GROCHÓW - ul SIennicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-osiedle-maly-grochow-ul-siennicka-CID3-ID1bYjPE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:48",
+      "ts": 1787389163,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 600,
+        "area": 42.5,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-22T10:48:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5425,
-    "sent": 2056
+    "checks": 5428,
+    "sent": 2057
   },
   "initialized": true,
-  "last_check": "2026-08-22T08:54:17",
+  "last_check": "2026-08-22T09:09:55",
   "backoff_until": 1787369093.497045
 }
