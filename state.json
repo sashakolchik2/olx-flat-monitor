@@ -4447,7 +4447,9 @@
     "1093209615": 1787468174,
     "1093210904": 1787468798,
     "1093210549": 1787469112,
-    "1093212776": 1787470362
+    "1093212776": 1787470362,
+    "1093213088": 1787470677,
+    "1093214188": 1787470991
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6431,45 +6433,13 @@
     "metrowierzbnototal3500|3500|44.0|mokotow": 1787467546,
     "2pokoje15m²balkonuzielonabialolekabliskometra|2700|41.35|bialoleka": 1787468798,
     "wynajmemieszkanierembertow|3200|35.0|wlochy": 1787469112,
-    "mieszkanienawrzesienbliskocentrum2pokoje|2800|39.0|pradnikczerwony": 1787470362
+    "mieszkanienawrzesienbliskocentrum2pokoje|2800|39.0|pradnikczerwony": 1787470362,
+    "bezpieczneprzytulnemieszkanieduzybalkonhubert|3200|41.0|mokotow": 1787470677,
+    "mieszkanie2pokoje35m2ospiastowmistrzejowice|2500|35.0|mistrzejowice": 1787470991
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 37 м², 2 комнаты\n💰 3100 + czynsz 746 = <b>3846 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 30 августа\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe piękne mieszkanie przy Galerii Kazimierz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-piekne-mieszkanie-przy-galerii-kazimierz-CID3-ID1bYDDe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:53",
-      "ts": 1787410877,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 746,
-        "area": 37.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T16:53:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 746
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę mieszkanie, Ursus»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-ursus-CID3-ID1bYDIB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
-      "ts": 1787411193,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 750,
-        "area": 35.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-22T16:55:12+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 46 м², 2 комнаты\n💰 2600 + czynsz 590 = <b>3190 zł/мес</b>\n   ≈ с медиа около 3290 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 46 m² | Kozłówek | 2 pokoje | balkon | 3 piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-46-m-kozlowek-2-pokoje-balkon-3-pietro-CID3-ID1bYDEN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:54",
       "ts": 1787411508,
@@ -7115,13 +7085,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 41 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 27 августа\n🏢 Этаж: 2\n👤 от собственника\n«Bezpieczne przytulne mieszkanie,duży balkon. Hubertus Obrzeżna Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezpieczne-przytulne-mieszkanie-duzy-balkon-hubertus-obrzezna-mokotow-CID3-ID1bZ0Fa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:22",
+      "ts": 1787470677,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 41.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T09:22:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 600 = <b>3100 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2 pokoje, 35m2, os. Piastów, Mistrzejowice»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-35m2-os-piastow-mistrzejowice-CID3-ID1bZ0VU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:33",
+      "ts": 1787470991,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 600,
+        "area": 35.0,
+        "district": "Mistrzejowice",
+        "business": true,
+        "created_iso": "2026-08-23T09:33:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5561,
-    "sent": 2144
+    "checks": 5565,
+    "sent": 2146
   },
   "initialized": true,
-  "last_check": "2026-08-23T07:32:51",
+  "last_check": "2026-08-23T07:53:44",
   "backoff_until": 1787369093.497045
 }
