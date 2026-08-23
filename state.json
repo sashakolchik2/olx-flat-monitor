@@ -4592,7 +4592,8 @@
     "1093348642": 1787509639,
     "1093349020": 1787509639,
     "1093350075": 1787509963,
-    "1093351728": 1787509963
+    "1093351728": 1787509963,
+    "1093357835": 1787511225
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6654,28 +6655,12 @@
     "mieszkanienawynajemdwupokojowezoddzielnakuchn|2900|45.0|bielany": 1787509639,
     "wynajme2pokojowemieszkanie40m2przyulmehoffera|2800|40.0|bialoleka": 1787509639,
     "2pok43m²tarchominulswiatowidaoddzielnepokojeg|2500|43.0|bialoleka": 1787509639,
-    "mieszkanienawynajemnakabatachvillardczykow40m|3000|40.0|ursynow": 1787509963
+    "mieszkanienawynajemnakabatachvillardczykow40m|3000|40.0|ursynow": 1787509963,
+    "wynajemmieszkaniadla2studentekwarszawabielany|3000|58.0|bielany": 1787511225
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 480 = <b>3480 zł/мес</b>\n   ≈ с медиа около 3620 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 52 m2 Żabiniec do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-52-m2-zabiniec-do-wynajecia-CID3-ID1bZfI9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:14",
-      "ts": 1787489543,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 480,
-        "area": 52.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-23T14:14:53+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Stare Miasto</b> — 48 м², 2 комнаты\n💰 3500 + czynsz 350 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«ul. Warszauera do wynajcięcia mieszkanie dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-warszauera-do-wynajciecia-mieszkanie-dwupokojowe-CID3-ID1bZgBq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
       "ts": 1787490481,
@@ -7338,13 +7323,30 @@
       "an": {
         "czynsz_desc": 840
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 58 м², 2 комнаты\n💰 3000 + czynsz 400 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 400 zł/мес\n🚗 Паркинг: 400 zł/мес\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem mieszkania dla 2 studentek Warszawa-Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-dla-2-studentek-warszawa-bielany-CID3-ID1bZCjN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:44",
+      "ts": 1787511225,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 400,
+        "area": 58.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-23T20:44:07+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5635,
-    "sent": 2222
+    "checks": 5639,
+    "sent": 2223
   },
   "initialized": true,
-  "last_check": "2026-08-23T18:32:52",
+  "last_check": "2026-08-23T18:53:55",
   "backoff_until": 1787369093.497045
 }
