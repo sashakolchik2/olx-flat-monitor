@@ -4624,7 +4624,8 @@
     "1093380130": 1787518206,
     "1093375965": 1787518206,
     "1093382031": 1787518521,
-    "1093381562": 1787518521
+    "1093381562": 1787518521,
+    "1093381453": 1787518841
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6709,28 +6710,12 @@
     "mieszkanie2pokojowesadyzoliborskie|3000|41.0|zoliborz": 1787516941,
     "mieszkaniewynajem2pokojestegny|4000|42.0|mokotow": 1787516941,
     "stylowe2pokojowemieszkanie53m²klobucka23ewars|3200|53.2|ursynow": 1787518521,
-    "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521
+    "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521,
+    "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Piltza - Ruczaj I 45m2 I klima I blisko Czerwonych Maków I BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piltza-ruczaj-i-45m2-i-klima-i-blisko-czerwonych-makow-i-bez-prowizji-CID3-ID1bZwQd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:56",
-      "ts": 1787506442,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 650,
-        "area": 45.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-23T18:56:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 785 = <b>3785 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 pokoje po remoncie przy Metrze Młociny | Wrzeciono»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-po-remoncie-przy-metrze-mlociny-wrzeciono-CID3-ID1bZwTp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:57",
       "ts": 1787506442,
@@ -7393,13 +7378,30 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 2450 + czynsz 950 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 40m2 | 2 pok | Balkon | Wola Duchacka | Walerego Sławka (obok Bonarka)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m2-2-pok-balkon-wola-duchacka-walerego-slawka-obok-bonarka-CID3-ID1bZIsJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
+      "ts": 1787518841,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2450,
+        "rent": 950,
+        "area": 40.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-23T22:41:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5662,
-    "sent": 2245
+    "checks": 5665,
+    "sent": 2246
   },
   "initialized": true,
-  "last_check": "2026-08-23T20:55:32",
+  "last_check": "2026-08-23T21:11:20",
   "backoff_until": 1787369093.497045
 }
