@@ -4554,7 +4554,12 @@
     "1093321568": 1787501747,
     "1093321454": 1787502063,
     "1093320542": 1787502063,
-    "1093320966": 1787502063
+    "1093320966": 1787502063,
+    "1093324217": 1787502684,
+    "1093323239": 1787502684,
+    "1093316580": 1787502684,
+    "1093323082": 1787502684,
+    "1093327533": 1787503310
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6596,28 +6601,12 @@
     "nowemieszkanienawynajemulmorelowa13|3000|38.0|bialoleka": 1787500186,
     "przytulne2pokojowemieszkaniezklimatyzacjamoko|3200|36.5|mokotow": 1787501747,
     "2niezaleznepokojebliskobartyckiejzgarazem|3200|53.0|mokotow": 1787501747,
-    "mieszkanie2pokojowewarszawabemowo|3100|45.0|bemowo": 1787502063
+    "mieszkanie2pokojowewarszawabemowo|3100|45.0|bemowo": 1787502063,
+    "mieszkanie2pokojowe|2450|38.0|grzegorzki": 1787502684
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 Pokoje Ul.Obozowa 50m2 taras parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-ul-obozowa-50m2-taras-parking-CID3-ID1bZ8cA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:13",
-      "ts": 1787485432,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": null,
-        "area": 50.0,
-        "district": "Podgórze",
-        "business": true,
-        "created_iso": "2026-08-23T12:13:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie 37 m2 Warszawa Ochota (Rakowiec) dla niepalących studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-37-m2-warszawa-ochota-rakowiec-dla-niepalacych-studentow-CID3-ID1bZ9v4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:35",
       "ts": 1787485432,
@@ -7280,13 +7269,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 38 м², 2 комнаты\n💰 2450 + czynsz 720 = <b>3170 zł/мес</b>\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-CID3-ID1bZtjN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:13",
+      "ts": 1787502684,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2450,
+        "rent": 720,
+        "area": 38.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-23T18:13:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5634,
-    "sent": 2202
+    "checks": 5637,
+    "sent": 2203
   },
   "initialized": true,
-  "last_check": "2026-08-23T16:21:11",
+  "last_check": "2026-08-23T16:41:57",
   "backoff_until": 1787502676.1259322
 }
