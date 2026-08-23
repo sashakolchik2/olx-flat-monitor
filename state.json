@@ -4626,6 +4626,7 @@
     "1093382031": 1787518521,
     "1093381562": 1787518521,
     "1093381453": 1787518841,
+<<<<<<< Updated upstream
     "1093383299": 1787519790,
     "1093382421": 1787519790,
     "1093383462": 1787520107,
@@ -4640,6 +4641,22 @@
     "1093388011": 1787523581,
     "1093387928": 1787523896,
     "1093389305": 1787525158
+=======
+    "1093387928": 1787527452,
+    "1093386947": 1787527452,
+    "1093386928": 1787527452,
+    "1093386196": 1787527452,
+    "1093383299": 1787527452,
+    "1093383462": 1787527452,
+    "1093382421": 1787527452,
+    "1093389305": 1787527452,
+    "1093388294": 1787527452,
+    "1093388011": 1787527452,
+    "1093387513": 1787527452,
+    "1093387537": 1787527452,
+    "1093386052": 1787527452,
+    "1093383891": 1787527452
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6726,10 +6743,17 @@
     "stylowe2pokojowemieszkanie53m²klobucka23ewars|3200|53.2|ursynow": 1787518521,
     "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521,
     "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841,
+<<<<<<< Updated upstream
     "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787519790,
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787521682,
     "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787521999,
     "poznanska11dwupokojowedowynajecia|3000|39.0|krowodrza": 1787522633
+=======
+    "poznanska11dwupokojowedowynajecia|3000|39.0|krowodrza": 1787527452,
+    "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787527452,
+    "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787527452,
+    "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787527452
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625401,
   "paused": false,
@@ -7347,8 +7371,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n👤 от собственника\n«Mieszkanie na wynajem ul. Reduta 44»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-reduta-44-CID3-ID1bZIVw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:59",
       "ts": 1787519790,
+=======
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n👤 от собственника\n«Mieszkanie na wynajem ul. Reduta 44»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-reduta-44-CID3-ID1bZIVw.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:59",
+      "ts": 1787527452,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -7364,8 +7393,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 812 = <b>3512 zł/мес</b>\n   ≈ с медиа около 3622 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Kameralne, ciche w zielonej części Górnego Mokotowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kameralne-ciche-w-zielonej-czesci-gornego-mokotowa-CID3-ID1bZJEU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:35",
       "ts": 1787521682,
+=======
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 812 = <b>3512 zł/мес</b>\n   ≈ с медиа около 3622 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Kameralne, ciche w zielonej części Górnego Mokotowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kameralne-ciche-w-zielonej-czesci-gornego-mokotowa-CID3-ID1bZJEU.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:35",
+      "ts": 1787527452,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7381,8 +7415,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 41m² Zwierzyniec ul.Włóczków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-41m-zwierzyniec-ul-wloczkow-CID3-ID1bZJHe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:37",
       "ts": 1787521999,
+=======
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 41m² Zwierzyniec ul.Włóczków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-41m-zwierzyniec-ul-wloczkow-CID3-ID1bZJHe.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:37",
+      "ts": 1787527452,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -7399,7 +7438,11 @@
     },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Poznańska 11 - dwupokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/poznanska-11-dwupokojowe-do-wynajecia-CID3-ID1bZJT2.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:49",
+<<<<<<< Updated upstream
       "ts": 1787522633,
+=======
+      "ts": 1787527452,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": true,
       "of": {
@@ -7416,10 +7459,18 @@
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 5690,
     "sent": 2250
   },
   "initialized": true,
   "last_check": "2026-08-23T23:22:52",
+=======
+    "checks": 5669,
+    "sent": 2250
+  },
+  "initialized": true,
+  "last_check": "2026-08-23T23:40:12",
+>>>>>>> Stashed changes
   "backoff_until": 1787369093.497045
 }
