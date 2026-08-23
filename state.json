@@ -4522,7 +4522,9 @@
     "1093282433": 1787491110,
     "1093282170": 1787491110,
     "1093285780": 1787491738,
-    "1093287980": 1787492675
+    "1093287980": 1787492675,
+    "1093296562": 1787494858,
+    "1093296270": 1787494858
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6551,28 +6553,12 @@
     "wynajmemieszkanie2pokojebulwarypraskie|3700|42.0|pragapolnoc": 1787490481,
     "dwupokojowemieszkanienadolnymmokotowieprzyula|3000|50.0|mokotow": 1787491110,
     "nowekomfortowemieszkanie2pokojowewarszawabemo|2990|33.0|bemowo": 1787491110,
-    "wynajemmieszkania|3000|70.0|czyzyny": 1787491738
+    "wynajemmieszkania|3000|70.0|czyzyny": 1787491738,
+    "mieszkaniewarszawazeranulkowalczyka1b2pokoje|3000|38.0|bialoleka": 1787494858
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 35.5 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na Ursynowie od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-ursynowie-od-zaraz-CID3-ID1bZ31t.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
-      "ts": 1787474121,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 650,
-        "area": 35.5,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-23T10:30:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 670
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 3100 + czynsz 593 = <b>3693 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje 32 m² | duży balkon | jasne | Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-32-m-duzy-balkon-jasne-grochow-CID3-ID1bZ2Ub.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:27",
       "ts": 1787474436,
@@ -7235,13 +7221,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: 750 zł/мес\n📅 Заселение: с 1 ноября ⭐️\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie Warszawa Żerań, ul. Kowalczyka 1B 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-warszawa-zeran-ul-kowalczyka-1b-2-pokoje-CID3-ID1bZmnv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:06",
+      "ts": 1787494858,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 38.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-23T16:06:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5607,
-    "sent": 2189
+    "checks": 5611,
+    "sent": 2190
   },
   "initialized": true,
-  "last_check": "2026-08-23T14:00:18",
+  "last_check": "2026-08-23T14:21:07",
   "backoff_until": 1787369093.497045
 }
