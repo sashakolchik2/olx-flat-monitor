@@ -4449,7 +4449,9 @@
     "1093210549": 1787469112,
     "1093212776": 1787470362,
     "1093213088": 1787470677,
-    "1093214188": 1787470991
+    "1093214188": 1787470991,
+    "1093214006": 1787471931,
+    "1093216591": 1787472557
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6435,28 +6437,12 @@
     "wynajmemieszkanierembertow|3200|35.0|wlochy": 1787469112,
     "mieszkanienawrzesienbliskocentrum2pokoje|2800|39.0|pradnikczerwony": 1787470362,
     "bezpieczneprzytulnemieszkanieduzybalkonhubert|3200|41.0|mokotow": 1787470677,
-    "mieszkanie2pokoje35m2ospiastowmistrzejowice|2500|35.0|mistrzejowice": 1787470991
+    "mieszkanie2pokoje35m2ospiastowmistrzejowice|2500|35.0|mistrzejowice": 1787470991,
+    "wynajme2pokojowemieszkanie|2600|42.0|bemowo": 1787471931
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 46 м², 2 комнаты\n💰 2600 + czynsz 590 = <b>3190 zł/мес</b>\n   ≈ с медиа около 3290 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 46 m² | Kozłówek | 2 pokoje | balkon | 3 piętro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-46-m-kozlowek-2-pokoje-balkon-3-pietro-CID3-ID1bYDEN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:54",
-      "ts": 1787411508,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 590,
-        "area": 46.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-22T16:54:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 41 м², 2 комнаты\n💰 3400 + czynsz 530 = <b>3930 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3400 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Nowoczesne mieszkanie 41m² na Żabińcu 91 | Garaż | Duży Balkon | Klimatyzacja | Od października 2026!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-41m-na-zabincu-91-garaz-duzy-balkon-klimatyzacja-od-pazdziernika-2026-CID3-ID1bYE35.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:01",
       "ts": 1787411508,
@@ -7119,13 +7105,30 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Wynajmę 2-pokojowe mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-CID3-ID1bZ0TY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:31",
+      "ts": 1787471931,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 42.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T09:31:41+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 5565,
-    "sent": 2146
+    "checks": 5569,
+    "sent": 2147
   },
   "initialized": true,
-  "last_check": "2026-08-23T07:53:44",
+  "last_check": "2026-08-23T08:14:35",
   "backoff_until": 1787369093.497045
 }
