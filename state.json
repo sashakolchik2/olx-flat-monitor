@@ -4472,7 +4472,10 @@
     "1093236848": 1787479145,
     "1093237705": 1787479770,
     "1093237012": 1787480084,
-    "1093239096": 1787480084
+    "1093239096": 1787480084,
+    "1093242068": 1787480710,
+    "1093240073": 1787480710,
+    "1093242973": 1787481026
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6473,45 +6476,13 @@
     "mieszkanie47m2zgarazemwcenie|2400|47.0|bialoleka": 1787477569,
     "mieszkaniedowynajeciabezposrednikow2pokojebal|3000|50.0|targowek": 1787479145,
     "mieszkanie2pokapartamentyrakowskaulrakowska5c|3500|40.0|wlochy": 1787479770,
-    "przestronneklimatyzowane2pokoje42m2silowniaul|3500|42.0|mokotow": 1787480084
+    "przestronneklimatyzowane2pokoje42m2silowniaul|3500|42.0|mokotow": 1787480084,
+    "2pokojeulobozowa50m2tarasparking|2500|50.0|podgorze": 1787480710,
+    "dowynajeciamieszkanie34m2dwupokojowemokotowpr|3000|34.0|mokotow": 1787480710
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 31 м², 2 комнаты\n💰 2300 + czynsz 810 = <b>3110 zł/мес</b>\n   ≈ с медиа около 3310 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🔐 Kaucja (залог): 2300 zł\n📅 Заселение: с 01.09 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem bliski Łazienek Królewskich»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-bliski-lazienek-krolewskich-CID3-ID1bYJzb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:49",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2300,
-        "rent": 810,
-        "area": 31.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-22T18:49:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 810
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 600 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie 45m², 2 pokoje + kuchnia, ul. Gąbińska, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-45m-2-pokoje-kuchnia-ul-gabinska-warszawa-CID3-ID1bYJFV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:51",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 600,
-        "area": 45.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-22T18:51:57+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 32 м², 2 комнаты\n💰 3100 + czynsz 520 = <b>3620 zł/мес</b>\n   ≈ с медиа около 3720 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Śródmieście, 2 pok., doskonała lokalizacja, czyste, 32 m2, metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/srodmiescie-2-pok-doskonala-lokalizacja-czyste-32-m2-metro-CID3-ID1bYKPq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:17",
       "ts": 1787422406,
@@ -7157,13 +7128,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 34 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«do wynajęcia mieszkanie 34 m2 dwupokojowe Mokotów przy metrze Pole mokotowskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-34-m2-dwupokojowe-mokotow-przy-metrze-pole-mokotowskie-CID3-ID1bZ7Gp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
+      "ts": 1787480710,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 34.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T12:04:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 Pokoje Ul.Obozowa 50m2 taras parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-ul-obozowa-50m2-taras-parking-CID3-ID1bZ8cA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:13",
+      "ts": 1787480710,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": null,
+        "area": 50.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-23T12:13:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 5592,
-    "sent": 2161
+    "checks": 5596,
+    "sent": 2163
   },
   "initialized": true,
-  "last_check": "2026-08-23T10:14:52",
+  "last_check": "2026-08-23T10:35:49",
   "backoff_until": 1787369093.497045
 }
