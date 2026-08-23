@@ -4489,7 +4489,9 @@
     "1093254839": 1787484161,
     "1093257541": 1787484473,
     "1093255033": 1787484473,
-    "1093257946": 1787484787
+    "1093257946": 1787484787,
+    "1093260043": 1787485102,
+    "1093256541": 1787485102
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6497,28 +6499,12 @@
     "mieszkanie2pokoje40m²ulobywatelskawarszawawlo|2900|40.0|wlochy": 1787483221,
     "wynajmemieszkanie2pokojewarszawabemowojelonki|3300|38.0|bemowo": 1787483848,
     "mieszkanie2pokoje360m2pragapoludnieulgarwolin|3000|36.0|pragapoludnie": 1787484473,
-    "krakowbanachapierwszynajem|3200|45.0|pradnikbialy": 1787484787
+    "krakowbanachapierwszynajem|3200|45.0|pradnikbialy": 1787484787,
+    "mieszkanie2pokojezklimatyzacjaipodziemnymmiej|2800|31.0|wlochy": 1787485102
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 740 zł/мес\n👤 от собственника\n«Mieszkanie 2- pokojowe Al.29 Listopada Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-al-29-listopada-krakow-CID3-ID1bYOSz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:32",
-      "ts": 1787424322,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 740,
-        "area": 48.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-22T20:32:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem Tarchomin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-tarchomin-CID3-ID1bYOQt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:31",
       "ts": 1787424636,
@@ -7181,13 +7167,30 @@
       "an": {
         "czynsz_desc": 730
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 31 м², 2 комнаты\n💰 2800 + czynsz 685 = <b>3485 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2 pokoje z klimatyzacją i podziemnym miejscem garażowym - Klinkierowa 10»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-z-klimatyzacja-i-podziemnym-miejscem-garazowym-klinkierowa-10-CID3-ID1bZbY1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:13",
+      "ts": 1787485102,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 685,
+        "area": 31.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-23T13:13:22+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5607,
-    "sent": 2168
+    "checks": 5608,
+    "sent": 2169
   },
   "initialized": true,
-  "last_check": "2026-08-23T11:33:16",
+  "last_check": "2026-08-23T11:38:31",
   "backoff_until": 1787369093.497045
 }
