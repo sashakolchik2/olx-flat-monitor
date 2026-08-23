@@ -4535,7 +4535,13 @@
     "1093301687": 1787496112,
     "1093303152": 1787496437,
     "1093301431": 1787496437,
-    "1093303865": 1787496748
+    "1093303865": 1787496748,
+    "1093308166": 1787497686,
+    "1093308468": 1787497999,
+    "1093309992": 1787498624,
+    "1093311021": 1787498624,
+    "1093310287": 1787498624,
+    "1093309170": 1787498624
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6570,45 +6576,13 @@
     "duzemieszkanie2niezaleznepokojepradnikczerwon|2800|36.0|pradnikczerwony": 1787495798,
     "konopnicka61rondomatecznegomiejscepostojowewc|3000|38.0|staremiasto": 1787496112,
     "mieszkanie2pokojowe|2600|49.0|bialoleka": 1787496112,
-    "mieszkanienawynajemem29m|2500|29.0|lagiewnikiborekfalec": 1787496748
+    "mieszkanienawynajemem29m|2500|29.0|lagiewnikiborekfalec": 1787496748,
+    "dwupokojowemieszkaniedowynajeciaosiedlenalotn|2600|38.0|bienczyce": 1787497686,
+    "mieszkanie2pokojeoddzielnekuchnia40m²bemowome|3200|40.0|bemowo": 1787497999
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 36.5 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 8\n👤 от собственника\n«2 -pokojowe z oddzielną kuchnią - Bemowo, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-oddzielna-kuchnia-bemowo-blisko-metra-CID3-ID1bZ4WJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 600,
-        "area": 36.5,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-23T11:11:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 45 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3100 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Al. 29 listopad/Wileńska | 2-pokojowe |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/al-29-listopad-wilenska-2-pokojowe-CID3-ID1bZ53E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:14",
-      "ts": 1787485432,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 700,
-        "area": 45.0,
-        "district": "Prądnik Czerwony",
-        "business": true,
-        "created_iso": "2026-08-23T11:14:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 47 м², 2 комнаты\n💰 2400 + czynsz 910 = <b>3310 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 31.08\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 47m2 z garażem w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-47m2-z-garazem-w-cenie-CID3-ID1bZ5dy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
       "ts": 1787485432,
@@ -7254,13 +7228,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2600 zł\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe mieszkanie do wynajęcia Osiedle na lotnisku»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-do-wynajecia-osiedle-na-lotnisku-CID3-ID1bZpoG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:02",
+      "ts": 1787497686,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 600,
+        "area": 38.0,
+        "district": "Bieńczyce",
+        "business": false,
+        "created_iso": "2026-08-23T17:02:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 5\n👤 от собственника\n«mieszkanie 2 pokoje oddzielne + kuchnia| 40 m² | Bemowo | Metro Chrzanów | balkon | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-oddzielne-kuchnia-40-m-bemowo-metro-chrzanow-balkon-garaz-CID3-ID1bZpty.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:03",
+      "ts": 1787497999,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 750,
+        "area": 40.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T17:03:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5619,
-    "sent": 2195
+    "checks": 5623,
+    "sent": 2197
   },
   "initialized": true,
-  "last_check": "2026-08-23T15:02:59",
+  "last_check": "2026-08-23T15:23:50",
   "backoff_until": 1787369093.497045
 }
