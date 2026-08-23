@@ -4593,7 +4593,10 @@
     "1093349020": 1787509639,
     "1093350075": 1787509963,
     "1093351728": 1787509963,
-    "1093357835": 1787511225
+    "1093357835": 1787511225,
+    "1092780515": 1787511859,
+    "1093361758": 1787512173,
+    "1093362975": 1787512491
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6656,45 +6659,13 @@
     "wynajme2pokojowemieszkanie40m2przyulmehoffera|2800|40.0|bialoleka": 1787509639,
     "2pok43m²tarchominulswiatowidaoddzielnepokojeg|2500|43.0|bialoleka": 1787509639,
     "mieszkanienawynajemnakabatachvillardczykow40m|3000|40.0|ursynow": 1787509963,
-    "wynajemmieszkaniadla2studentekwarszawabielany|3000|58.0|bielany": 1787511225
+    "wynajemmieszkaniadla2studentekwarszawabielany|3000|58.0|bielany": 1787511225,
+    "mieszkaniedowynajecia37mkw2pokojesadyba|3200|37.0|mokotow": 1787512173,
+    "mieszkanienawynajem50m2krakowulicamysliwska|3000|50.0|podgorze": 1787512491
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 48 м², 2 комнаты\n💰 3500 + czynsz 350 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 2\n👤 от собственника\n«ul. Warszauera do wynajcięcia mieszkanie dwupokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ul-warszauera-do-wynajciecia-mieszkanie-dwupokojowe-CID3-ID1bZgBq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:30",
-      "ts": 1787490481,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 350,
-        "area": 48.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-23T14:30:06+02:00"
-      },
-      "an": {
-        "czynsz_desc": 350
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 42 м², 2 комнаты\n💰 3700 + czynsz 300 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 26.09 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie, 2 pokoje, Bulwary Praskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-bulwary-praskie-CID3-ID1bZhzz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:45",
-      "ts": 1787490481,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3700,
-        "rent": 300,
-        "area": 42.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-23T14:45:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bieńczyce</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 560 = <b>3560 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę: Nowoczesne i Przytulne Mieszkanie z Balkonem w Dobrej Lokalizacji – Kraków, ul. Okulickiego 51C»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-nowoczesne-i-przytulne-mieszkanie-z-balkonem-w-dobrej-lokalizacji-krakow-ul-okulickiego-51c-CID3-ID1bZi5W.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:54",
       "ts": 1787490481,
@@ -7340,13 +7311,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 37 м², 2 комнаты\n💰 3200 + czynsz 500 = <b>3700 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia, 37 m.kw., 2 pokoje, Sadyba»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-37-m-kw-2-pokoje-sadyba-CID3-ID1bZDl4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:59",
+      "ts": 1787512173,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 500,
+        "area": 37.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T20:59:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem - 50m2, Kraków, ulica Myśliwska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-50m2-krakow-ulica-mysliwska-CID3-ID1bZDEH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:03",
+      "ts": 1787512491,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 800,
+        "area": 50.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-23T21:03:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5639,
-    "sent": 2223
+    "checks": 5643,
+    "sent": 2225
   },
   "initialized": true,
-  "last_check": "2026-08-23T18:53:55",
+  "last_check": "2026-08-23T19:15:01",
   "backoff_until": 1787369093.497045
 }
