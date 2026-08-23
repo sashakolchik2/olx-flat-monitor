@@ -4629,7 +4629,9 @@
     "1093383299": 1787519790,
     "1093382421": 1787519790,
     "1093383462": 1787520107,
-    "1093383891": 1787520736
+    "1093383891": 1787520736,
+    "1093386052": 1787521682,
+    "1093386196": 1787521999
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6716,45 +6718,13 @@
     "stylowe2pokojowemieszkanie53m²klobucka23ewars|3200|53.2|ursynow": 1787518521,
     "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521,
     "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841,
-    "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787519790
+    "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787519790,
+    "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787521682,
+    "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787521999
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem Warszawa Mokotów 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-warszawa-mokotow-2-pokoje-CID3-ID1bZvfv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:03",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": null,
-        "area": 40.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T19:03:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 500 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie z miejscem postojowym Felińskiego Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-z-miejscem-postojowym-felinskiego-krakow-CID3-ID1bZvqE.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:06",
-      "ts": 1787506442,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 45.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-23T19:06:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Dwa pokoje z widokiem na Starówkę, ul. Długa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-z-widokiem-na-starowke-ul-dluga-CID3-ID1bZvsr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:07",
       "ts": 1787506442,
@@ -7400,13 +7370,47 @@
       "an": {
         "czynsz_desc": 750
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 812 = <b>3512 zł/мес</b>\n   ≈ с медиа около 3622 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Kameralne, ciche w zielonej części Górnego Mokotowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kameralne-ciche-w-zielonej-czesci-gornego-mokotowa-CID3-ID1bZJEU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:35",
+      "ts": 1787521682,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 812,
+        "area": 38.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T23:35:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 41m² Zwierzyniec ul.Włóczków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-41m-zwierzyniec-ul-wloczkow-CID3-ID1bZJHe.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:37",
+      "ts": 1787521999,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 700,
+        "area": 41.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-23T23:37:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5669,
-    "sent": 2247
+    "checks": 5673,
+    "sent": 2249
   },
   "initialized": true,
-  "last_check": "2026-08-23T21:32:24",
+  "last_check": "2026-08-23T21:53:29",
   "backoff_until": 1787369093.497045
 }
