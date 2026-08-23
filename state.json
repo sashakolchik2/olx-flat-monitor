@@ -4619,7 +4619,12 @@
     "1093371062": 1787516310,
     "1093376863": 1787516941,
     "1093377859": 1787516941,
-    "1093373878": 1787516941
+    "1093373878": 1787516941,
+    "1093379406": 1787517892,
+    "1093380130": 1787518206,
+    "1093375965": 1787518206,
+    "1093382031": 1787518521,
+    "1093381562": 1787518521
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6702,45 +6707,13 @@
     "komfortowemieszkanienawynajemulbadurskiego|2900|41.0|biezanowprokocim": 1787516310,
     "mieszkanie2pokojowedowynajeciakrakowoskalinow|2600|47.0|bienczyce": 1787516941,
     "mieszkanie2pokojowesadyzoliborskie|3000|41.0|zoliborz": 1787516941,
-    "mieszkaniewynajem2pokojestegny|4000|42.0|mokotow": 1787516941
+    "mieszkaniewynajem2pokojestegny|4000|42.0|mokotow": 1787516941,
+    "stylowe2pokojowemieszkanie53m²klobucka23ewars|3200|53.2|ursynow": 1787518521,
+    "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 45.67 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie, 2 pokoje, 45,67 m2, parking podziemny, Moja Ochota 2, ul. Szybka 2, Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-45-67-m2-parking-podziemny-moja-ochota-2-ul-szybka-2-wlochy-CID3-ID1bZudB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:28",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 700,
-        "area": 45.67,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-23T18:28:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 490 = <b>3390 zł/мес</b>\n   ≈ с медиа около 3490 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 40m z duszą! dla singla / pary, w pełni wyposażone, spacerem na Zakrzówek! Łagiewniki, UJ Ruczaj, Super Lokalizacja, Trasa Łagiewnicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m-z-dusza-dla-singla-pary-w-pelni-wyposazone-spacerem-na-zakrzowek-lagiewniki-uj-ruczaj-super-lokalizacja-trasa-lagiewnicka-CID3-ID1bZwK6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:54",
-      "ts": 1787506442,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 490,
-        "area": 40.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-23T18:54:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 45 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Piltza - Ruczaj I 45m2 I klima I blisko Czerwonych Maków I BEZ PROWIZJI»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piltza-ruczaj-i-45m2-i-klima-i-blisko-czerwonych-makow-i-bez-prowizji-CID3-ID1bZwQd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:56",
       "ts": 1787506442,
@@ -7386,13 +7359,47 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 730 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Skorosze dostępne od Października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-skorosze-dostepne-od-pazdziernika-CID3-ID1bZIuu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:42",
+      "ts": 1787518521,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 730,
+        "area": 43.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-23T22:42:14+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 53.2 м², 2 комнаты\n💰 3200 + czynsz 640 = <b>3840 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 7\n👤 от собственника\n«Stylowe 2-pokojowe mieszkanie 53 m² | Kłobucka 23E | Warszawa | Ursynów | Mokotów | Bezpośrednio | w cenie miejsce postojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/stylowe-2-pokojowe-mieszkanie-53-m-klobucka-23e-warszawa-ursynow-mokotow-bezposrednio-w-cenie-miejsce-postojowe-CID3-ID1bZIC3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:46",
+      "ts": 1787518521,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 640,
+        "area": 53.2,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-23T22:46:23+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5658,
-    "sent": 2243
+    "checks": 5662,
+    "sent": 2245
   },
   "initialized": true,
-  "last_check": "2026-08-23T20:34:28",
+  "last_check": "2026-08-23T20:55:32",
   "backoff_until": 1787369093.497045
 }
