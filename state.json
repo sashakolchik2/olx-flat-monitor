@@ -4524,7 +4524,15 @@
     "1093285780": 1787491738,
     "1093287980": 1787492675,
     "1093296562": 1787494858,
-    "1093296270": 1787494858
+    "1093296270": 1787494858,
+    "1093298837": 1787495485,
+    "1093300462": 1787495485,
+    "1093298652": 1787495485,
+    "1093297549": 1787495485,
+    "1093297603": 1787495798,
+    "1093299619": 1787495798,
+    "1093301874": 1787496112,
+    "1093301687": 1787496112
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6554,79 +6562,15 @@
     "dwupokojowemieszkanienadolnymmokotowieprzyula|3000|50.0|mokotow": 1787491110,
     "nowekomfortowemieszkanie2pokojowewarszawabemo|2990|33.0|bemowo": 1787491110,
     "wynajemmieszkania|3000|70.0|czyzyny": 1787491738,
-    "mieszkaniewarszawazeranulkowalczyka1b2pokoje|3000|38.0|bialoleka": 1787494858
+    "mieszkaniewarszawazeranulkowalczyka1b2pokoje|3000|38.0|bialoleka": 1787494858,
+    "bezposrednionowa2pokojowe30m²1najemcaklimatyz|2900|30.0|podgorzeduchackie": 1787495485,
+    "duzemieszkanie2niezaleznepokojepradnikczerwon|2800|36.0|pradnikczerwony": 1787495798,
+    "konopnicka61rondomatecznegomiejscepostojowewc|3000|38.0|staremiasto": 1787496112,
+    "mieszkanie2pokojowe|2600|49.0|bialoleka": 1787496112
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 32 м², 2 комнаты\n💰 3100 + czynsz 593 = <b>3693 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje 32 m² | duży balkon | jasne | Grochów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-32-m-duzy-balkon-jasne-grochow-CID3-ID1bZ2Ub.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:27",
-      "ts": 1787474436,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 593,
-        "area": 32.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-23T10:27:29+02:00"
-      },
-      "an": {
-        "czynsz_desc": 593
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 33 м², 2 комнаты\n💰 2490 + czynsz 789 = <b>3279 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Studentom , nowe 2-pokojowe z balkonem os Piastów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/studentom-nowe-2-pokojowe-z-balkonem-os-piastow-CID3-ID1bZ3du.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:34",
-      "ts": 1787474750,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2490,
-        "rent": 789,
-        "area": 33.0,
-        "district": "Mistrzejowice",
-        "business": true,
-        "created_iso": "2026-08-23T10:34:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 789
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 44 м², 2 комнаты\n💰 2380 + czynsz 890 = <b>3270 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3370 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3300 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie | 2 oddzielne sypialnie | osobna kuchnia | balkon | prywatna piwnica | ul. Litewska 30 | Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-2-oddzielne-sypialnie-osobna-kuchnia-balkon-prywatna-piwnica-ul-litewska-30-krowodrza-CID3-ID1bZ3vC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:41",
-      "ts": 1787475063,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2380,
-        "rent": null,
-        "area": 44.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-23T10:41:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 890
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na ul. Piltza w Krakowie /Czerwone Maki/Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-ul-piltza-w-krakowie-czerwone-maki-ruczaj-CID3-ID1bZ3GY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:45",
-      "ts": 1787476313,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 700,
-        "area": 50.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-23T10:45:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 770 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe z tarasem i miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-tarasem-i-miejscem-parkingowym-CID3-ID1bZ4jS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
       "ts": 1787476313,
@@ -7238,13 +7182,81 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 30 м², 2 комнаты\n💰 2900 + czynsz 300 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 100 zł/мес\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio | Nowa 2 pokojowe 30 m² | 1. najemca | Klimatyzacja + Taras | ul. Mochnackiego 50»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-nowa-2-pokojowe-30-m-1-najemca-klimatyzacja-taras-ul-mochnackiego-50-CID3-ID1bZmYd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:16",
+      "ts": 1787495485,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 300,
+        "area": 30.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-23T16:16:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 300
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 36 м², 2 комнаты\n💰 2800 + czynsz 680 = <b>3480 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 4\n👤 от собственника\n«Duże mieszkanie | 2 niezależne pokoje | Prądnik Czerwony |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/duze-mieszkanie-2-niezalezne-pokoje-pradnik-czerwony-CID3-ID1bZmEj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:11",
+      "ts": 1787495798,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": null,
+        "area": 36.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-23T16:11:09+02:00"
+      },
+      "an": {
+        "czynsz_desc": 680
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 49 м², 2 комнаты\n💰 2600 + czynsz 800 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: 300 zł/мес\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2 pokojowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-CID3-ID1bZnIb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:30",
+      "ts": 1787496112,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 800,
+        "area": 49.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-23T16:30:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 6\n👤 от собственника\n«Konopnicka 61 ,Rondo Matecznego - miejsce postojowe w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/konopnicka-61-rondo-matecznego-miejsce-postojowe-w-cenie-CID3-ID1bZnLc.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:31",
+      "ts": 1787496112,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 38.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-23T16:31:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5611,
-    "sent": 2190
+    "checks": 5615,
+    "sent": 2194
   },
   "initialized": true,
-  "last_check": "2026-08-23T14:21:07",
+  "last_check": "2026-08-23T14:42:02",
   "backoff_until": 1787369093.497045
 }
