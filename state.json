@@ -4532,7 +4532,10 @@
     "1093297603": 1787495798,
     "1093299619": 1787495798,
     "1093301874": 1787496112,
-    "1093301687": 1787496112
+    "1093301687": 1787496112,
+    "1093303152": 1787496437,
+    "1093301431": 1787496437,
+    "1093303865": 1787496748
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6566,28 +6569,12 @@
     "bezposrednionowa2pokojowe30m²1najemcaklimatyz|2900|30.0|podgorzeduchackie": 1787495485,
     "duzemieszkanie2niezaleznepokojepradnikczerwon|2800|36.0|pradnikczerwony": 1787495798,
     "konopnicka61rondomatecznegomiejscepostojowewc|3000|38.0|staremiasto": 1787496112,
-    "mieszkanie2pokojowe|2600|49.0|bialoleka": 1787496112
+    "mieszkanie2pokojowe|2600|49.0|bialoleka": 1787496112,
+    "mieszkanienawynajemem29m|2500|29.0|lagiewnikiborekfalec": 1787496748
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 770 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe z tarasem i miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-tarasem-i-miejscem-parkingowym-CID3-ID1bZ4jS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
-      "ts": 1787476313,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 770,
-        "area": 33.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-23T10:59:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 36.5 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 8\n👤 от собственника\n«2 -pokojowe z oddzielną kuchnią - Bemowo, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-oddzielna-kuchnia-bemowo-blisko-metra-CID3-ID1bZ4WJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
       "ts": 1787485432,
@@ -7250,13 +7237,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 29 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie na wynajemem 29m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajemem-29m-CID3-ID1bZohj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:41",
+      "ts": 1787496748,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 650,
+        "area": 29.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-23T16:41:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5615,
-    "sent": 2194
+    "checks": 5619,
+    "sent": 2195
   },
   "initialized": true,
-  "last_check": "2026-08-23T14:42:02",
+  "last_check": "2026-08-23T15:02:59",
   "backoff_until": 1787369093.497045
 }
