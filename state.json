@@ -4459,7 +4459,9 @@
     "1093222159": 1787474121,
     "1093221707": 1787474436,
     "1093222904": 1787474750,
-    "1093224090": 1787475063
+    "1093224090": 1787475063,
+    "1093224732": 1787476313,
+    "1093227144": 1787476313
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6452,45 +6454,13 @@
     "mieszkanie2pokojowenaursynowieodzaraz|3000|35.5|ursynow": 1787474121,
     "2pokoje32m²duzybalkonjasnegrochow|3100|32.0|pragapoludnie": 1787474436,
     "studentomnowe2pokojowezbalkonemospiastow|2490|33.0|mistrzejowice": 1787474750,
-    "2pokojowemieszkanie2oddzielnesypialnieosobnak|2380|44.0|krowodrza": 1787475063
+    "2pokojowemieszkanie2oddzielnesypialnieosobnak|2380|44.0|krowodrza": 1787475063,
+    "mieszkanienaulpiltzawkrakowieczerwonemakirucz|3200|50.0|debniki": 1787476313,
+    "mieszkanie2pokojoweztarasemimiejscemparkingow|3000|33.0|pragapoludnie": 1787476313
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 37 м², 2 комнаты\n💰 2950 + czynsz 850 = <b>3800 zł/мес</b>\n   ≈ с медиа около 4000 zł/мес\n⚡ Свет/медиа: ≈ 200 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 10\n👤 от собственника\n«Metro | Wola | 2 oddzielne pokoje | bezpośrednio | 37 m² | zielono»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wola-2-oddzielne-pokoje-bezposrednio-37-m-zielono-CID3-ID1bYGW7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:56",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 850,
-        "area": 37.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-22T17:56:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 35 м², 2 комнаты\n💰 2700 + czynsz 850 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«do wynajecia Kluczborska 4, warszawa 35 m2 + ogródek 40 m2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-kluczborska-4-warszawa-35-m2-ogrodek-40-m2-CID3-ID1bYGVx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:56",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 850,
-        "area": 35.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-22T17:56:58+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Bezpośrednio wynajmę mieszkanie dwu pokojowe na Jelonkach(Bemowo)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wynajme-mieszkanie-dwu-pokojowe-na-jelonkachbemowo-CID3-ID1bYH9J.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:01",
       "ts": 1787422406,
@@ -7136,13 +7106,47 @@
       "an": {
         "czynsz_desc": 890
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 50 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na ul. Piltza w Krakowie /Czerwone Maki/Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-ul-piltza-w-krakowie-czerwone-maki-ruczaj-CID3-ID1bZ3GY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:45",
+      "ts": 1787476313,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 50.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-23T10:45:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 33 м², 2 комнаты\n💰 3000 + czynsz 770 = <b>3770 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe z tarasem i miejscem parkingowym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-tarasem-i-miejscem-parkingowym-CID3-ID1bZ4jS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:59",
+      "ts": 1787476313,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 770,
+        "area": 33.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-23T10:59:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5576,
-    "sent": 2153
+    "checks": 5580,
+    "sent": 2155
   },
   "initialized": true,
-  "last_check": "2026-08-23T08:51:12",
+  "last_check": "2026-08-23T09:12:04",
   "backoff_until": 1787369093.497045
 }
