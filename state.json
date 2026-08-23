@@ -4505,7 +4505,10 @@
     "1093268425": 1787487036,
     "1093268338": 1787487036,
     "1093268752": 1787487661,
-    "1093270355": 1787487661
+    "1093270355": 1787487661,
+    "1093270692": 1787488290,
+    "1093272779": 1787488601,
+    "1093274666": 1787488913
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6526,28 +6529,12 @@
     "dwupokojowemieszkanienamokotowieulwynalazekwi|2500|45.0|mokotow": 1787486720,
     "raclawicka2pokojezoddzielnakuchniaochota|2800|42.0|ochota": 1787487036,
     "2pokmieszkaniewola42m²metrorondoonzulsiennakl|2500|42.0|wola": 1787487661,
-    "mieszkanienawynajemwmokotowiezbalkonem|3900|32.0|mokotow": 1787487661
+    "mieszkanienawynajemwmokotowiezbalkonem|3900|32.0|mokotow": 1787487661,
+    "mieszkaniedowynajecia|2700|42.0|mistrzejowice": 1787488913
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 41.35 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 15 m² balkonu | Zielona Białołęka | blisko metra, wśród zieleni | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-15-m-balkonu-zielona-bialoleka-blisko-metra-wsrod-zieleni-garaz-CID3-ID1bZ05V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:57",
-      "ts": 1787468798,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": null,
-        "area": 41.35,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-23T08:57:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 35 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: в цене\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie Rembertów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-rembertow-CID3-ID1bZ00d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:53",
       "ts": 1787469112,
@@ -7210,13 +7197,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 700 = <b>3400 zł/мес</b>\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bZgGm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:31",
+      "ts": 1787488913,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 700,
+        "area": 42.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-23T14:31:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5588,
-    "sent": 2181
+    "checks": 5592,
+    "sent": 2182
   },
   "initialized": true,
-  "last_check": "2026-08-23T12:21:12",
+  "last_check": "2026-08-23T12:42:01",
   "backoff_until": 1787369093.497045
 }
