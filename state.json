@@ -4609,7 +4609,13 @@
     "1093368185": 1787514087,
     "1093368147": 1787514087,
     "1093373259": 1787514721,
-    "1093370464": 1787514721
+    "1093370464": 1787514721,
+    "1093373003": 1787515042,
+    "1093373474": 1787515042,
+    "1093374843": 1787515357,
+    "1093372670": 1787515357,
+    "1093375578": 1787515991,
+    "1093373236": 1787515991
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6685,62 +6691,14 @@
     "wynajme2pokojowemieszkanie58m2zmiejscemgarazo|2800|58.0|wlochy": 1787514087,
     "przytulne15pokojowemieszkanie40m2warszawaocho|3100|40.0|ochota": 1787514087,
     "wynajmemieszkanie|3000|50.0|biezanowprokocim": 1787514721,
-    "wynajme2pokojowemieszkanie|3000|37.0|pragapoludnie": 1787514721
+    "wynajme2pokojowemieszkanie|3000|37.0|pragapoludnie": 1787514721,
+    "mieszkaniedwupokojowekrakowulsliczna|3000|43.09|grzegorzki": 1787515357,
+    "wynajme2pokojowemieszkanienabliskiejwoli|3900|55.0|wola": 1787515357,
+    "2pokojebalkonmetrobemowocichewysstandard|3200|43.0|bemowo": 1787515991
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 5\n👤 от собственника\n«mieszkanie 2 pokoje oddzielne + kuchnia| 40 m² | Bemowo | Metro Chrzanów | balkon | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-oddzielne-kuchnia-40-m-bemowo-metro-chrzanow-balkon-garaz-CID3-ID1bZpty.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:03",
-      "ts": 1787497999,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 40.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-23T17:03:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 36.5 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Przytulne 2-pokojowe mieszkanie z klimatyzacją – Mokotów, ul. Malczewskiego 47»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-z-klimatyzacja-mokotow-ul-malczewskiego-47-CID3-ID1bZgw3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 36.5,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T14:28:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Czyżyny</b> — 36 м², 2 комнаты\n💰 2600 + czynsz 585 = <b>3185 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«Wynajmę mieszkanie przy Orlińskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-przy-orlinskiego-CID3-ID1bZq8o.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:15",
-      "ts": 1787506442,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 585,
-        "area": 36.0,
-        "district": "Czyżyny",
-        "business": false,
-        "created_iso": "2026-08-23T17:15:43+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 790 = <b>3790 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«nowe mieszkanie na wynajem ul. Morelowa 13»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-na-wynajem-ul-morelowa-13-CID3-ID1bZrgJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:35",
       "ts": 1787506442,
@@ -7369,13 +7327,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 55 м², 2 комнаты\n💰 3900 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с августа\n🏢 Этаж: 5\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie na bliskiej woli»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-na-bliskiej-woli-CID3-ID1bZGb4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:43",
+      "ts": 1787515357,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3900,
+        "rent": null,
+        "area": 55.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-23T21:43:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 43.09 м², 2 комнаты\n💰 3000 + czynsz 730 = <b>3730 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 3970 zł/мес\n⚡ Свет/медиа: ≈ 240 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«MIeszkanie dwupokojowe - Kraków ul. Śliczna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-krakow-ul-sliczna-CID3-ID1bZGK7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:55",
+      "ts": 1787515357,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 43.09,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-23T21:55:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 730
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4700 zł/мес\n⚡ Свет/медиа: ≈ 750 zł + свет по счётчику\n🏢 Этаж: 2\n👤 от собственника\n«2 POKOJE, BALKON, METRO Bemowo, Ciche,Wys.Standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-balkon-metro-bemowo-ciche-wys-standard-CID3-ID1bZGWY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:00",
+      "ts": 1787515991,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 750,
+        "area": 43.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T22:00:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 5650,
-    "sent": 2236
+    "checks": 5654,
+    "sent": 2239
   },
   "initialized": true,
-  "last_check": "2026-08-23T19:52:13",
+  "last_check": "2026-08-23T20:13:20",
   "backoff_until": 1787369093.497045
 }
