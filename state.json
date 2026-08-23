@@ -4479,7 +4479,11 @@
     "1093245564": 1787481655,
     "1093247120": 1787481967,
     "1093246496": 1787481967,
-    "1093247862": 1787482281
+    "1093247862": 1787482281,
+    "1093252033": 1787483221,
+    "1093255112": 1787483535,
+    "1093253551": 1787483535,
+    "1093253612": 1787483535
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6483,28 +6487,12 @@
     "przestronneklimatyzowane2pokoje42m2silowniaul|3500|42.0|mokotow": 1787480084,
     "2pokojeulobozowa50m2tarasparking|2500|50.0|podgorze": 1787480710,
     "dowynajeciamieszkanie34m2dwupokojowemokotowpr|3000|34.0|mokotow": 1787480710,
-    "dwupokojowemieszkanie37m2warszawaochotarakowi|2800|37.0|ochota": 1787481967
+    "dwupokojowemieszkanie37m2warszawaochotarakowi|2800|37.0|ochota": 1787481967,
+    "mieszkanie2pokoje40m²ulobywatelskawarszawawlo|2900|40.0|wlochy": 1787483221
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 49 м², 2 комнаты\n💰 2000 + czynsz 1300 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajme mieszkanie 3500 zl»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-3500-zl-CID3-ID1bYKQO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:17",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2000,
-        "rent": 1300,
-        "area": 49.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-22T19:17:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 605 = <b>3805 zł/мес</b>\n   ≈ с медиа около 3905 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: 55 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem Mieszkania Kraków Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-ruczaj-CID3-ID1bYMlf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:47",
       "ts": 1787422406,
@@ -7167,13 +7155,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje 40 m² ul. Obywatelska Warszawa-Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-40-m-ul-obywatelska-warszawa-wlochy-CID3-ID1bZaNj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:55",
+      "ts": 1787483221,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 1000,
+        "area": 40.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-23T12:55:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5599,
-    "sent": 2164
+    "checks": 5603,
+    "sent": 2165
   },
   "initialized": true,
-  "last_check": "2026-08-23T10:51:28",
+  "last_check": "2026-08-23T11:12:22",
   "backoff_until": 1787369093.497045
 }
