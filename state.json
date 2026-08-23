@@ -4483,7 +4483,13 @@
     "1093252033": 1787483221,
     "1093255112": 1787483535,
     "1093253551": 1787483535,
-    "1093253612": 1787483535
+    "1093253612": 1787483535,
+    "1093255707": 1787483848,
+    "1093253711": 1787483848,
+    "1093254839": 1787484161,
+    "1093257541": 1787484473,
+    "1093255033": 1787484473,
+    "1093257946": 1787484787
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6488,62 +6494,14 @@
     "2pokojeulobozowa50m2tarasparking|2500|50.0|podgorze": 1787480710,
     "dowynajeciamieszkanie34m2dwupokojowemokotowpr|3000|34.0|mokotow": 1787480710,
     "dwupokojowemieszkanie37m2warszawaochotarakowi|2800|37.0|ochota": 1787481967,
-    "mieszkanie2pokoje40m²ulobywatelskawarszawawlo|2900|40.0|wlochy": 1787483221
+    "mieszkanie2pokoje40m²ulobywatelskawarszawawlo|2900|40.0|wlochy": 1787483221,
+    "wynajmemieszkanie2pokojewarszawabemowojelonki|3300|38.0|bemowo": 1787483848,
+    "mieszkanie2pokoje360m2pragapoludnieulgarwolin|3000|36.0|pragapoludnie": 1787484473,
+    "krakowbanachapierwszynajem|3200|45.0|pradnikbialy": 1787484787
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 47 м², 2 комнаты\n💰 3200 + czynsz 605 = <b>3805 zł/мес</b>\n   ≈ с медиа около 3905 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: в цене\n🌐 Интернет: 55 zł/мес\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem Mieszkania Kraków Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-krakow-ruczaj-CID3-ID1bYMlf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:47",
-      "ts": 1787422406,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 605,
-        "area": 47.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-22T19:47:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 37 м², 2 комнаты\n💰 2750 + czynsz 700 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dwupokojowe mieszkanie, właściciel, ul. Gołaśka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-wlasciciel-ul-golaska-CID3-ID1bYMST.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:57",
-      "ts": 1787422752,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2750,
-        "rent": 700,
-        "area": 37.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-22T19:57:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 46 м², 2 комнаты\n💰 2100 + czynsz 1100 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n👤 от собственника\n«Mieszkanie 2 pok 46m przy metrze Imielin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-46m-przy-metrze-imielin-CID3-ID1bYMPR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:56",
-      "ts": 1787423067,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2100,
-        "rent": 1100,
-        "area": 46.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-22T19:56:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1100
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 740 = <b>3740 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 740 zł/мес\n👤 от собственника\n«Mieszkanie 2- pokojowe Al.29 Listopada Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-al-29-listopada-krakow-CID3-ID1bYOSz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:32",
       "ts": 1787424322,
@@ -7172,13 +7130,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajme mieszkanie 2 pokoje Warszawa Bemowo Jelonki 38m2 okolice Hali Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-warszawa-bemowo-jelonki-38m2-okolice-hali-wola-CID3-ID1bZben.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:02",
+      "ts": 1787483848,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3300,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T13:02:10+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 720 = <b>3720 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 08.10 ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie, 2 pokoje, 36,0m2, Praga Południe, ul. Garwolińska Warszawa Praga-Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-36-0m2-praga-poludnie-ul-garwolinska-warszawa-praga-poludnie-CID3-ID1bZbzH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:07",
+      "ts": 1787484473,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 720,
+        "area": 36.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-23T13:07:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": 720
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Biały</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 730 = <b>3930 zł/мес</b> (czynsz из описания)\n   ≈ с медиа около 4080 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 15.09.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Kraków /Banacha/PIERWSZY NAJEM»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-banacha-pierwszy-najem-CID3-ID1bZckG.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
+      "ts": 1787484787,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 45.0,
+        "district": "Prądnik Biały",
+        "business": false,
+        "created_iso": "2026-08-23T13:19:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 730
+      }
     }
   ],
   "stats": {
-    "checks": 5603,
-    "sent": 2165
+    "checks": 5607,
+    "sent": 2168
   },
   "initialized": true,
-  "last_check": "2026-08-23T11:12:22",
+  "last_check": "2026-08-23T11:33:16",
   "backoff_until": 1787369093.497045
 }
