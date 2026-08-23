@@ -4572,7 +4572,9 @@
     "1093327171": 1787505502,
     "1093336868": 1787505817,
     "1093337864": 1787505817,
-    "1093334506": 1787505817
+    "1093334506": 1787505817,
+    "1093336641": 1787506134,
+    "1093334693": 1787506134
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6623,28 +6625,12 @@
     "mieszkaniezmiejscempostojowymfelinskiegokrako|3000|45.0|pradnikbialy": 1787505502,
     "dwapokojezwidokiemnastarowkeuldluga|2900|55.0|srodmiescie": 1787505502,
     "mieszkanieumeblowane2pokojebalkonmparkingowek|3200|35.0|pradnikbialy": 1787505817,
-    "mieszkanienawynajemwarszawamokotow2pokoje|3300|40.0|mokotow": 1787505817
+    "mieszkanienawynajemwarszawamokotow2pokoje|3300|40.0|mokotow": 1787505817,
+    "2pokmiejscepostojowepiltzaruczaj4p|2700|37.0|debniki": 1787506134
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Swoszowice</b> — 40 м², 2 комнаты\n💰 2700 + czynsz 660 = <b>3360 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 40 m² do wynajęcia – Kraków, Kliny, ul. Geremka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40-m-do-wynajecia-krakow-kliny-ul-geremka-CID3-ID1bZdhs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:35",
-      "ts": 1787485432,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 660,
-        "area": 40.0,
-        "district": "Swoszowice",
-        "business": false,
-        "created_iso": "2026-08-23T13:35:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": 150
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 46 м², 2 комнаты\n💰 2800 + czynsz 950 = <b>3750 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3750 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajem 2-pokojowego mieszkania z balkonem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowego-mieszkania-z-balkonem-CID3-ID1bZaMY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:55",
       "ts": 1787485776,
@@ -7307,13 +7293,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 37 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3470 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 4\n👤 от собственника\n«2 Pok + miejsce postojowe/ Piltza - Ruczaj / 4p»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-miejsce-postojowe-piltza-ruczaj-4p-CID3-ID1bZvNX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:13",
+      "ts": 1787506134,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 650,
+        "area": 37.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-23T19:13:18+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 5645,
-    "sent": 2211
+    "checks": 5646,
+    "sent": 2212
   },
   "initialized": true,
-  "last_check": "2026-08-23T17:23:47",
+  "last_check": "2026-08-23T17:29:02",
   "backoff_until": 1787502676.1259322
 }
