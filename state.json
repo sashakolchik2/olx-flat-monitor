@@ -4520,7 +4520,9 @@
     "1093280546": 1787490798,
     "1093280554": 1787490798,
     "1093282433": 1787491110,
-    "1093282170": 1787491110
+    "1093282170": 1787491110,
+    "1093285780": 1787491738,
+    "1093287980": 1787492675
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6548,28 +6550,12 @@
     "ulwarszaueradowynajcieciamieszkaniedwupokojow|3500|48.0|staremiasto": 1787490481,
     "wynajmemieszkanie2pokojebulwarypraskie|3700|42.0|pragapolnoc": 1787490481,
     "dwupokojowemieszkanienadolnymmokotowieprzyula|3000|50.0|mokotow": 1787491110,
-    "nowekomfortowemieszkanie2pokojowewarszawabemo|2990|33.0|bemowo": 1787491110
+    "nowekomfortowemieszkanie2pokojowewarszawabemo|2990|33.0|bemowo": 1787491110,
+    "wynajemmieszkania|3000|70.0|czyzyny": 1787491738
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2900 + czynsz 670 = <b>3570 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Marywilska 60, 2 pok 45m2, wynajmę bezpośrednio»\n🔗 <a href=\"https://www.olx.pl/d/oferta/marywilska-60-2-pok-45m2-wynajme-bezposrednio-CID3-ID1bZ2C0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:20",
-      "ts": 1787474121,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": null,
-        "area": 45.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-23T10:20:24+02:00"
-      },
-      "an": {
-        "czynsz_desc": 670
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursynów</b> — 35.5 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pokojowe na Ursynowie od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-ursynowie-od-zaraz-CID3-ID1bZ31t.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:30",
       "ts": 1787474121,
@@ -7232,13 +7218,30 @@
       "an": {
         "czynsz_desc": 760
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 70 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajem mieszkania»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-ID1bZjzC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
+      "ts": 1787491738,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": null,
+        "area": 70.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-23T15:20:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5600,
-    "sent": 2188
+    "checks": 5604,
+    "sent": 2189
   },
   "initialized": true,
-  "last_check": "2026-08-23T13:23:51",
+  "last_check": "2026-08-23T13:44:42",
   "backoff_until": 1787369093.497045
 }
