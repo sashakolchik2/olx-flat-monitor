@@ -4625,7 +4625,11 @@
     "1093375965": 1787518206,
     "1093382031": 1787518521,
     "1093381562": 1787518521,
-    "1093381453": 1787518841
+    "1093381453": 1787518841,
+    "1093383299": 1787519790,
+    "1093382421": 1787519790,
+    "1093383462": 1787520107,
+    "1093383891": 1787520736
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6711,28 +6715,12 @@
     "mieszkaniewynajem2pokojestegny|4000|42.0|mokotow": 1787516941,
     "stylowe2pokojowemieszkanie53m²klobucka23ewars|3200|53.2|ursynow": 1787518521,
     "mieszkaniedowynajeciawarszawaskoroszedostepne|2900|43.0|ursus": 1787518521,
-    "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841
+    "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841,
+    "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787519790
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 785 = <b>3785 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«2 pokoje po remoncie przy Metrze Młociny | Wrzeciono»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-po-remoncie-przy-metrze-mlociny-wrzeciono-CID3-ID1bZwTp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:57",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 785,
-        "area": 36.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-23T18:57:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 785
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na wynajem Warszawa Mokotów 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-warszawa-mokotow-2-pokoje-CID3-ID1bZvfv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:03",
       "ts": 1787506442,
@@ -7395,13 +7383,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n👤 от собственника\n«Mieszkanie na wynajem ul. Reduta 44»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-reduta-44-CID3-ID1bZIVw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:59",
+      "ts": 1787519790,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 900,
+        "area": 43.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-23T22:59:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 5665,
-    "sent": 2246
+    "checks": 5669,
+    "sent": 2247
   },
   "initialized": true,
-  "last_check": "2026-08-23T21:11:20",
+  "last_check": "2026-08-23T21:32:24",
   "backoff_until": 1787369093.497045
 }
