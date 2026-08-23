@@ -4475,7 +4475,11 @@
     "1093239096": 1787480084,
     "1093242068": 1787480710,
     "1093240073": 1787480710,
-    "1093242973": 1787481026
+    "1093242973": 1787481026,
+    "1093245564": 1787481655,
+    "1093247120": 1787481967,
+    "1093246496": 1787481967,
+    "1093247862": 1787482281
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6478,28 +6482,12 @@
     "mieszkanie2pokapartamentyrakowskaulrakowska5c|3500|40.0|wlochy": 1787479770,
     "przestronneklimatyzowane2pokoje42m2silowniaul|3500|42.0|mokotow": 1787480084,
     "2pokojeulobozowa50m2tarasparking|2500|50.0|podgorze": 1787480710,
-    "dowynajeciamieszkanie34m2dwupokojowemokotowpr|3000|34.0|mokotow": 1787480710
+    "dowynajeciamieszkanie34m2dwupokojowemokotowpr|3000|34.0|mokotow": 1787480710,
+    "dwupokojowemieszkanie37m2warszawaochotarakowi|2800|37.0|ochota": 1787481967
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 32 м², 2 комнаты\n💰 3100 + czynsz 520 = <b>3620 zł/мес</b>\n   ≈ с медиа около 3720 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Śródmieście, 2 pok., doskonała lokalizacja, czyste, 32 m2, metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/srodmiescie-2-pok-doskonala-lokalizacja-czyste-32-m2-metro-CID3-ID1bYKPq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:17",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 520,
-        "area": 32.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-22T19:17:19+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Białołęka</b> — 49 м², 2 комнаты\n💰 2000 + czynsz 1300 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajme mieszkanie 3500 zl»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-3500-zl-CID3-ID1bYKQO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:17",
       "ts": 1787422406,
@@ -7162,13 +7150,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie 37 m2 Warszawa Ochota (Rakowiec) dla niepalących studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-37-m2-warszawa-ochota-rakowiec-dla-niepalacych-studentow-CID3-ID1bZ9v4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:35",
+      "ts": 1787481967,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 800,
+        "area": 37.0,
+        "district": "Ochota",
+        "business": false,
+        "created_iso": "2026-08-23T12:35:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5596,
-    "sent": 2163
+    "checks": 5599,
+    "sent": 2164
   },
   "initialized": true,
-  "last_check": "2026-08-23T10:35:49",
+  "last_check": "2026-08-23T10:51:28",
   "backoff_until": 1787369093.497045
 }
