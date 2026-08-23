@@ -4461,7 +4461,12 @@
     "1093222904": 1787474750,
     "1093224090": 1787475063,
     "1093224732": 1787476313,
-    "1093227144": 1787476313
+    "1093227144": 1787476313,
+    "1093227490": 1787476631,
+    "1093229559": 1787476942,
+    "1093229982": 1787477254,
+    "1093229491": 1787477254,
+    "1093230596": 1787477569
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6456,62 +6461,14 @@
     "studentomnowe2pokojowezbalkonemospiastow|2490|33.0|mistrzejowice": 1787474750,
     "2pokojowemieszkanie2oddzielnesypialnieosobnak|2380|44.0|krowodrza": 1787475063,
     "mieszkanienaulpiltzawkrakowieczerwonemakirucz|3200|50.0|debniki": 1787476313,
-    "mieszkanie2pokojoweztarasemimiejscemparkingow|3000|33.0|pragapoludnie": 1787476313
+    "mieszkanie2pokojoweztarasemimiejscemparkingow|3000|33.0|pragapoludnie": 1787476313,
+    "al29listopadwilenska2pokojowe|2300|45.0|pradnikczerwony": 1787477254,
+    "2pokojowezoddzielnakuchniabemowobliskometra|2700|36.5|bemowo": 1787477254,
+    "mieszkanie47m2zgarazemwcenie|2400|47.0|bialoleka": 1787477569
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 42 м², 2 комнаты\n💰 3100 + czynsz 900 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Bezpośrednio wynajmę mieszkanie dwu pokojowe na Jelonkach(Bemowo)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wynajme-mieszkanie-dwu-pokojowe-na-jelonkachbemowo-CID3-ID1bYH9J.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:01",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3100,
-        "rent": 900,
-        "area": 42.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-22T18:01:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38.1 м², 2 комнаты\n💰 <b>3400 zł/мес</b> — czynsz включён\n   ≈ с медиа около 3900 zł/мес\n⚡ Свет/медиа: ≈ 500 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 2 pok. Mokotow Bonifacego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-mokotow-bonifacego-CID3-ID1bYHJV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:13",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3400,
-        "rent": null,
-        "area": 38.1,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-22T18:13:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 900 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«WYNAJMĘ MIESZKANIE, Białołęka, ul. Krzyżówki 28, 42m2.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-bialoleka-ul-krzyzowki-28-42m2-CID3-ID1bYJi0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:44",
-      "ts": 1787422406,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2700,
-        "rent": 900,
-        "area": 42.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-22T18:44:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 42.8 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Nowe 2-pokojowe mieszkanie z balkonem i widokiem na park - Wlaściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-balkonem-i-widokiem-na-park-wlasciciel-CID3-ID1bYJmF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:45",
       "ts": 1787422406,
@@ -7140,13 +7097,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 36.5 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 8\n👤 от собственника\n«2 -pokojowe z oddzielną kuchnią - Bemowo, blisko metra»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-z-oddzielna-kuchnia-bemowo-blisko-metra-CID3-ID1bZ4WJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
+      "ts": 1787477254,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 600,
+        "area": 36.5,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T11:11:30+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 45 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3100 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Al. 29 listopad/Wileńska | 2-pokojowe |»\n🔗 <a href=\"https://www.olx.pl/d/oferta/al-29-listopad-wilenska-2-pokojowe-CID3-ID1bZ53E.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:14",
+      "ts": 1787477254,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Prądnik Czerwony",
+        "business": true,
+        "created_iso": "2026-08-23T11:14:06+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 47 м², 2 комнаты\n💰 2400 + czynsz 910 = <b>3310 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 31.08\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 47m2 z garażem w cenie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-47m2-z-garazem-w-cenie-CID3-ID1bZ5dy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:17",
+      "ts": 1787477569,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 910,
+        "area": 47.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-23T11:17:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5580,
-    "sent": 2155
+    "checks": 5584,
+    "sent": 2158
   },
   "initialized": true,
-  "last_check": "2026-08-23T09:12:04",
+  "last_check": "2026-08-23T09:32:58",
   "backoff_until": 1787369093.497045
 }
