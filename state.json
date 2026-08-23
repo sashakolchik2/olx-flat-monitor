@@ -4548,7 +4548,13 @@
     "1093312889": 1787499248,
     "1093313256": 1787499248,
     "1093315361": 1787500186,
-    "1093316838": 1787500811
+    "1093316838": 1787500811,
+    "1093319340": 1787501436,
+    "1093273965": 1787501747,
+    "1093321568": 1787501747,
+    "1093321454": 1787502063,
+    "1093320542": 1787502063,
+    "1093320966": 1787502063
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6587,62 +6593,14 @@
     "dwupokojowemieszkaniedowynajeciaosiedlenalotn|2600|38.0|bienczyce": 1787497686,
     "mieszkanie2pokojeoddzielnekuchnia40m²bemowome|3200|40.0|bemowo": 1787497999,
     "wynajmemieszkanieprzyorlinskiego|2600|36.0|czyzyny": 1787499248,
-    "nowemieszkanienawynajemulmorelowa13|3000|38.0|bialoleka": 1787500186
+    "nowemieszkanienawynajemulmorelowa13|3000|38.0|bialoleka": 1787500186,
+    "przytulne2pokojowemieszkaniezklimatyzacjamoko|3200|36.5|mokotow": 1787501747,
+    "2niezaleznepokojebliskobartyckiejzgarazem|3200|53.0|mokotow": 1787501747,
+    "mieszkanie2pokojowewarszawabemowo|3100|45.0|bemowo": 1787502063
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3680 zł/мес\n⚡ Свет/медиа: ≈ 180 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Przestronne, klimatyzowane 2 pokoje 42 m2 | Siłownia | ul. Konstruktorska 7»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-klimatyzowane-2-pokoje-42-m2-silownia-ul-konstruktorska-7-CID3-ID1bZ6T2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:50",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": null,
-        "area": 42.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T11:50:15+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 290 = <b>3790 zł/мес</b>\n   ≈ с медиа около 4140 zł/мес\n⚡ Свет/медиа: ≈ 350 zł/мес\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2-pok. Apartamenty Rakowska ul. Rakowska 5 C»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-apartamenty-rakowska-ul-rakowska-5-c-CID3-ID1bZ74d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:53",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3500,
-        "rent": 290,
-        "area": 40.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-23T11:53:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 290
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 34 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«do wynajęcia mieszkanie 34 m2 dwupokojowe Mokotów przy metrze Pole Mokotowskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-34-m2-dwupokojowe-mokotow-przy-metrze-pole-mokotowskie-CID3-ID1bZ7Gp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:04",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 34.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T12:04:33+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«2 Pokoje Ul.Obozowa 50m2 taras parking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-ul-obozowa-50m2-taras-parking-CID3-ID1bZ8cA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:13",
       "ts": 1787485432,
@@ -7271,13 +7229,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 36.5 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Przytulne 2-pokojowe mieszkanie z klimatyzacją – Mokotów, ul. Malczewskiego 47»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-2-pokojowe-mieszkanie-z-klimatyzacja-mokotow-ul-malczewskiego-47-CID3-ID1bZgw3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
+      "ts": 1787501747,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 800,
+        "area": 36.5,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T14:28:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 53 м², 2 комнаты\n💰 3200 + czynsz 200 = <b>3400 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«2 niezależne pokoje blisko Bartyckiej, z garażem!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-niezalezne-pokoje-blisko-bartyckiej-z-garazem-CID3-ID1bZsSQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:05",
+      "ts": 1787501747,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 53.0,
+        "district": "Mokotów",
+        "business": true,
+        "created_iso": "2026-08-23T18:05:01+02:00"
+      },
+      "an": {
+        "czynsz_desc": 200
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 45 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3220 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 01.09.2026 ⭐️\n👤 от собственника\n«Mieszkanie 2 pokojowe Warszawa Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-warszawa-bemowo-CID3-ID1bZsR0.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:04",
+      "ts": 1787502063,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": null,
+        "area": 45.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-23T18:04:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5631,
-    "sent": 2199
+    "checks": 5634,
+    "sent": 2202
   },
   "initialized": true,
-  "last_check": "2026-08-23T16:05:29",
-  "backoff_until": 1787369093.497045
+  "last_check": "2026-08-23T16:21:11",
+  "backoff_until": 1787502676.1259322
 }
