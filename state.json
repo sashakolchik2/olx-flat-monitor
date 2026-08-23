@@ -4442,7 +4442,8 @@
     "1093203551": 1787455115,
     "1093205300": 1787464426,
     "1093204988": 1787464426,
-    "1093207546": 1787465985
+    "1093207546": 1787465985,
+    "1093208512": 1787467546
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6422,28 +6423,12 @@
     "2pokojowemieszkanieuljagienkiwarszawafalenica|2500|37.85|wawer": 1787443417,
     "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787443417,
     "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787443417,
-    "2pokojowemieszkaniewynajmewarszawabielany|2700|36.0|bielany": 1787444055
+    "2pokojowemieszkaniewynajmewarszawabielany|2700|36.0|bielany": 1787444055,
+    "metrowierzbnototal3500|3500|44.0|mokotow": 1787467546
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 1 = <b>3501 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Praga Południe 2 pokoje z kuchnią»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-2-pokoje-z-kuchnia-CID3-ID1bYArN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:49",
-      "ts": 1787407743,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 1,
-        "area": 40.0,
-        "district": "Praga-Południe",
-        "business": true,
-        "created_iso": "2026-08-22T15:49:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 600 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem 42-metry ul. Grzegorzecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-42-metry-ul-grzegorzecka-CID3-ID1bYAD6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:52",
       "ts": 1787407743,
@@ -7106,13 +7091,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 44 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Metro Wierzbno- total 3500»\n🔗 <a href=\"https://www.olx.pl/d/oferta/metro-wierzbno-total-3500-CID3-ID1bYZtm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:27",
+      "ts": 1787467546,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 44.0,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-23T08:27:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5549,
-    "sent": 2140
+    "checks": 5553,
+    "sent": 2141
   },
   "initialized": true,
-  "last_check": "2026-08-23T06:30:16",
+  "last_check": "2026-08-23T06:51:08",
   "backoff_until": 1787369093.497045
 }
