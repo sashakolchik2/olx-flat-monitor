@@ -4443,7 +4443,10 @@
     "1093205300": 1787464426,
     "1093204988": 1787464426,
     "1093207546": 1787465985,
-    "1093208512": 1787467546
+    "1093208512": 1787467546,
+    "1093209615": 1787468174,
+    "1093210904": 1787468798,
+    "1093210549": 1787469112
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6424,45 +6427,13 @@
     "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787443417,
     "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787443417,
     "2pokojowemieszkaniewynajmewarszawabielany|2700|36.0|bielany": 1787444055,
-    "metrowierzbnototal3500|3500|44.0|mokotow": 1787467546
+    "metrowierzbnototal3500|3500|44.0|mokotow": 1787467546,
+    "2pokoje15m²balkonuzielonabialolekabliskometra|2700|41.35|bialoleka": 1787468798,
+    "wynajmemieszkanierembertow|3200|35.0|wlochy": 1787469112
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Grzegórzki</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 4200 zł/мес\n⚡ Свет/медиа: ≈ 600 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem 42-metry ul. Grzegorzecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-42-metry-ul-grzegorzecka-CID3-ID1bYAD6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:52",
-      "ts": 1787407743,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Grzegórzki",
-        "business": false,
-        "created_iso": "2026-08-22T15:52:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 40 м², 2 комнаты\n💰 2790 + czynsz 837 = <b>3627 zł/мес</b>\n   ≈ с медиа около 3917 zł/мес\n⚡ Свет/медиа: ≈ 290 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 917 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«2 pokoje 40 m² bez prowizji | duża loggia 7m2| Książkowa | Tarchomin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-40-m-bez-prowizji-duza-loggia-7m2-ksiazkowa-tarchomin-CID3-ID1bYBg6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:04",
-      "ts": 1787408372,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2790,
-        "rent": 837,
-        "area": 40.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-22T16:04:26+02:00"
-      },
-      "an": {
-        "czynsz_desc": 837
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 950 = <b>3950 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Przytulne mieszkanie, 49m2, ul. Bartycka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przytulne-mieszkanie-49m2-ul-bartycka-CID3-ID1bYBHd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
       "ts": 1787409001,
@@ -7108,13 +7079,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 41.35 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«2 pokoje | 15 m² balkonu | Zielona Białołęka | blisko metra, wśród zieleni | garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-15-m-balkonu-zielona-bialoleka-blisko-metra-wsrod-zieleni-garaz-CID3-ID1bZ05V.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:57",
+      "ts": 1787468798,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 41.35,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-23T08:57:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 35 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: в цене\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie Rembertów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-rembertow-CID3-ID1bZ00d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:53",
+      "ts": 1787469112,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 35.0,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-23T08:53:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5553,
-    "sent": 2141
+    "checks": 5557,
+    "sent": 2143
   },
   "initialized": true,
-  "last_check": "2026-08-23T06:51:08",
+  "last_check": "2026-08-23T07:12:01",
   "backoff_until": 1787369093.497045
 }
