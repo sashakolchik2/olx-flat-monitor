@@ -4559,7 +4559,10 @@
     "1093323239": 1787502684,
     "1093316580": 1787502684,
     "1093323082": 1787502684,
-    "1093327533": 1787503310
+    "1093327533": 1787503310,
+    "1093326699": 1787503935,
+    "1093332558": 1787504560,
+    "1093331264": 1787504560
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6602,45 +6605,13 @@
     "przytulne2pokojowemieszkaniezklimatyzacjamoko|3200|36.5|mokotow": 1787501747,
     "2niezaleznepokojebliskobartyckiejzgarazem|3200|53.0|mokotow": 1787501747,
     "mieszkanie2pokojowewarszawabemowo|3100|45.0|bemowo": 1787502063,
-    "mieszkanie2pokojowe|2450|38.0|grzegorzki": 1787502684
+    "mieszkanie2pokojowe|2450|38.0|grzegorzki": 1787502684,
+    "mieszkanie2pokoje4567m2parkingpodziemnymojaoc|2900|45.67|wlochy": 1787503935,
+    "mieszkanie40mzduszadlasinglaparywpelniwyposaz|2900|40.0|lagiewnikiborekfalec": 1787504560
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ochota</b> — 37 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Dwupokojowe mieszkanie 37 m2 Warszawa Ochota (Rakowiec) dla niepalących studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-37-m2-warszawa-ochota-rakowiec-dla-niepalacych-studentow-CID3-ID1bZ9v4.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:35",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 37.0,
-        "district": "Ochota",
-        "business": false,
-        "created_iso": "2026-08-23T12:35:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokoje 40 m² ul. Obywatelska Warszawa-Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-40-m-ul-obywatelska-warszawa-wlochy-CID3-ID1bZaNj.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:55",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 1000,
-        "area": 40.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-23T12:55:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 38 м², 2 комнаты\n💰 3300 + czynsz 700 = <b>4000 zł/мес</b>\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Wynajme mieszkanie 2 pokoje Warszawa Bemowo Jelonki 38m2 okolice Hali Wola»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-warszawa-bemowo-jelonki-38m2-okolice-hali-wola-CID3-ID1bZben.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:02",
       "ts": 1787485432,
@@ -7286,13 +7257,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 45.67 м², 2 комнаты\n💰 2900 + czynsz 700 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie, 2 pokoje, 45,67 m2, parking podziemny, Moja Ochota 2, ul. Szybka 2, Włochy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-45-67-m2-parking-podziemny-moja-ochota-2-ul-szybka-2-wlochy-CID3-ID1bZudB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:28",
+      "ts": 1787503935,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 700,
+        "area": 45.67,
+        "district": "Włochy",
+        "business": false,
+        "created_iso": "2026-08-23T18:28:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 490 = <b>3390 zł/мес</b>\n   ≈ с медиа около 3490 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 40m z duszą! dla singla / pary, w pełni wyposażone, spacerem na Zakrzówek! Łagiewniki, UJ Ruczaj, Super Lokalizacja, Trasa Łagiewnicka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m-z-dusza-dla-singla-pary-w-pelni-wyposazone-spacerem-na-zakrzowek-lagiewniki-uj-ruczaj-super-lokalizacja-trasa-lagiewnicka-CID3-ID1bZwK6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:54",
+      "ts": 1787504560,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 490,
+        "area": 40.0,
+        "district": "Łagiewniki-Borek Fałęcki",
+        "business": false,
+        "created_iso": "2026-08-23T18:54:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 5637,
-    "sent": 2203
+    "checks": 5641,
+    "sent": 2205
   },
   "initialized": true,
-  "last_check": "2026-08-23T16:41:57",
+  "last_check": "2026-08-23T17:02:48",
   "backoff_until": 1787502676.1259322
 }
