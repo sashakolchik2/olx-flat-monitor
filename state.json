@@ -4433,20 +4433,12 @@
     "1093192297": 1787431862,
     "1093191625": 1787431862,
     "1093192317": 1787433118,
-<<<<<<< Updated upstream
-    "1093195143": 1787433432,
-    "1093196003": 1787434059,
-    "1093197811": 1787435620,
-    "1093197312": 1787435620,
-    "1093199901": 1787438127
-=======
     "1093199901": 1787443417,
     "1093197811": 1787443417,
     "1093197312": 1787443417,
     "1093196003": 1787443417,
     "1093195143": 1787443417,
     "1093202239": 1787444055
->>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6423,41 +6415,15 @@
     "mieszkaniedowynajeciawola|3900|37.0|wola": 1787429977,
     "mieszkanie2pokojowetuzprzypolachmokotowskich4|3000|45.0|mokotow": 1787431234,
     "mieszkaniedowynajecia|3000|46.0|mistrzejowice": 1787431862,
-<<<<<<< Updated upstream
-    "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787434059,
-    "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787435620,
-    "2pokojowemieszkanieuljagienkiwarszawafalenica|2500|37.85|wawer": 1787438127
-=======
     "2pokojowemieszkanieuljagienkiwarszawafalenica|2500|37.85|wawer": 1787443417,
     "mieszkaniewarszawa|3000|50.0|pragapoludnie": 1787443417,
     "2pokoje45m²loggiapoodswiezeniubezposrednioalu|2700|45.0|bialoleka": 1787443417,
     "2pokojowemieszkaniewynajmewarszawabielany|2700|36.0|bielany": 1787444055
->>>>>>> Stashed changes
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Краков, Dębniki</b> — 34 м², 2 комнаты\n💰 2800 + czynsz 490 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Dwupokojowe wyposażone kompleks Tyniecka»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-wyposazone-kompleks-tyniecka-CID3-ID1bYApA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:48",
-      "ts": 1787407427,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 490,
-        "area": 34.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-22T15:48:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 490
-      }
-    },
-    {
-=======
->>>>>>> Stashed changes
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 40 м², 2 комнаты\n💰 3500 + czynsz 1 = <b>3501 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Praga Południe 2 pokoje z kuchnią»\n🔗 <a href=\"https://www.olx.pl/d/oferta/praga-poludnie-2-pokoje-z-kuchnia-CID3-ID1bYArN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:49",
       "ts": 1787407743,
       "city": "warszawa",
@@ -7070,13 +7036,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje 45 m² | loggia | po odświeżeniu | bezpośrednio | Aluzyjna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-loggia-po-odswiezeniu-bezposrednio-aluzyjna-CID3-ID1bYVdB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:22",
-      "ts": 1787434059,
-=======
       "text": "🏠 <b>Варшава, Białołęka</b> — 45 м², 2 комнаты\n💰 2700 + czynsz 500 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje 45 m² | loggia | po odświeżeniu | bezpośrednio | Aluzyjna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-45-m-loggia-po-odswiezeniu-bezposrednio-aluzyjna-CID3-ID1bYVdB.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:22",
       "ts": 1787443417,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": true,
       "of": {
@@ -7092,13 +7053,8 @@
       }
     },
     {
-<<<<<<< Updated upstream
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-warszawa-CID3-ID1bYVGL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:47",
-      "ts": 1787435620,
-=======
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4300 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-warszawa-CID3-ID1bYVGL.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:47",
       "ts": 1787443417,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7115,11 +7071,7 @@
     },
     {
       "text": "🏠 <b>Варшава, Wawer</b> — 37.85 м², 2 комнаты\n💰 2500 + czynsz 520 = <b>3020 zł/мес</b>\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2-pokojowe mieszkanie. ul. Jagienki, Warszawa Falenica»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-ul-jagienki-warszawa-falenica-CID3-ID1bYXet.html\">Открыть на OLX</a>  ·  добавлено сегодня в 00:25",
-<<<<<<< Updated upstream
-      "ts": 1787438127,
-=======
       "ts": 1787443417,
->>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7133,17 +7085,6 @@
       "an": {
         "czynsz_desc": null
       }
-<<<<<<< Updated upstream
-    }
-  ],
-  "stats": {
-    "checks": 5529,
-    "sent": 2139
-  },
-  "initialized": true,
-  "last_check": "2026-08-22T23:59:07",
-  "backoff_until": 1787434988.9668279
-=======
     },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 755 = <b>3455 zł/мес</b>\n   ≈ с медиа около 3575 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie wynajmę Warszawa-Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-wynajme-warszawa-bielany-CID3-ID1bYXQb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 01:58",
@@ -7164,11 +7105,10 @@
     }
   ],
   "stats": {
-    "checks": 5502,
+    "checks": 5506,
     "sent": 2140
   },
   "initialized": true,
-  "last_check": "2026-08-23T00:19:40",
+  "last_check": "2026-08-23T00:40:42",
   "backoff_until": 1787369093.497045
->>>>>>> Stashed changes
 }
