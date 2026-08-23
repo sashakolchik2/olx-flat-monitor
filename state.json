@@ -4631,7 +4631,11 @@
     "1093383462": 1787520107,
     "1093383891": 1787520736,
     "1093386052": 1787521682,
-    "1093386196": 1787521999
+    "1093386196": 1787521999,
+    "1093386947": 1787522319,
+    "1093386928": 1787522633,
+    "1093387513": 1787522950,
+    "1093387537": 1787523264
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6720,28 +6724,12 @@
     "mieszkanie40m22pokbalkonwoladuchackawaleregos|2450|40.0|podgorzeduchackie": 1787518841,
     "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787519790,
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787521682,
-    "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787521999
+    "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787521999,
+    "poznanska11dwupokojowedowynajecia|3000|39.0|krowodrza": 1787522633
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 55 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 3\n🏢 агентство\n«Dwa pokoje z widokiem na Starówkę, ul. Długa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwa-pokoje-z-widokiem-na-starowke-ul-dluga-CID3-ID1bZvsr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:07",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 1000,
-        "area": 55.0,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-23T19:07:10+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 37 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3470 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 24.08.2026\n🏢 Этаж: 4\n👤 от собственника\n«2 Pok + miejsce postojowe/ Piltza - Ruczaj / 4p»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-miejsce-postojowe-piltza-ruczaj-4p-CID3-ID1bZvNX.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:13",
       "ts": 1787506442,
@@ -7404,13 +7392,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Poznańska 11 - dwupokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/poznanska-11-dwupokojowe-do-wynajecia-CID3-ID1bZJT2.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:49",
+      "ts": 1787522633,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 39.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-23T23:49:47+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5673,
-    "sent": 2249
+    "checks": 5677,
+    "sent": 2250
   },
   "initialized": true,
-  "last_check": "2026-08-23T21:53:29",
+  "last_check": "2026-08-23T22:14:32",
   "backoff_until": 1787369093.497045
 }
