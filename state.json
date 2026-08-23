@@ -4508,7 +4508,11 @@
     "1093270355": 1787487661,
     "1093270692": 1787488290,
     "1093272779": 1787488601,
-    "1093274666": 1787488913
+    "1093274666": 1787488913,
+    "1093276080": 1787489227,
+    "1093274633": 1787489227,
+    "1093270933": 1787489543,
+    "1093275225": 1787489856
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6530,28 +6534,12 @@
     "raclawicka2pokojezoddzielnakuchniaochota|2800|42.0|ochota": 1787487036,
     "2pokmieszkaniewola42m²metrorondoonzulsiennakl|2500|42.0|wola": 1787487661,
     "mieszkanienawynajemwmokotowiezbalkonem|3900|32.0|mokotow": 1787487661,
-    "mieszkaniedowynajecia|2700|42.0|mistrzejowice": 1787488913
+    "mieszkaniedowynajecia|2700|42.0|mistrzejowice": 1787488913,
+    "mieszkanie52m2zabiniecdowynajecia|3000|52.0|pradnikczerwony": 1787489543
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Włochy</b> — 35 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: в цене\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę mieszkanie Rembertów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-rembertow-CID3-ID1bZ00d.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:53",
-      "ts": 1787469112,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 35.0,
-        "district": "Włochy",
-        "business": false,
-        "created_iso": "2026-08-23T08:53:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 550 = <b>3350 zł/мес</b>\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na WRZESIEŃ -blisko centrum 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wrzesien-blisko-centrum-2-pokoje-CID3-ID1bZ0A8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:19",
       "ts": 1787470362,
@@ -7214,13 +7202,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 52 м², 2 комнаты\n💰 3000 + czynsz 480 = <b>3480 zł/мес</b>\n   ≈ с медиа около 3620 zł/мес\n⚡ Свет/медиа: ≈ 140 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 01.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 52 m2 Żabiniec do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-52-m2-zabiniec-do-wynajecia-CID3-ID1bZfI9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:14",
+      "ts": 1787489543,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 480,
+        "area": 52.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-23T14:14:53+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5592,
-    "sent": 2182
+    "checks": 5596,
+    "sent": 2183
   },
   "initialized": true,
-  "last_check": "2026-08-23T12:42:01",
+  "last_check": "2026-08-23T13:02:55",
   "backoff_until": 1787369093.497045
 }
