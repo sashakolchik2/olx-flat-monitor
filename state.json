@@ -4546,7 +4546,9 @@
     "1093310994": 1787499248,
     "1093311000": 1787499248,
     "1093312889": 1787499248,
-    "1093313256": 1787499248
+    "1093313256": 1787499248,
+    "1093315361": 1787500186,
+    "1093316838": 1787500811
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6584,28 +6586,12 @@
     "mieszkanienawynajemem29m|2500|29.0|lagiewnikiborekfalec": 1787496748,
     "dwupokojowemieszkaniedowynajeciaosiedlenalotn|2600|38.0|bienczyce": 1787497686,
     "mieszkanie2pokojeoddzielnekuchnia40m²bemowome|3200|40.0|bemowo": 1787497999,
-    "wynajmemieszkanieprzyorlinskiego|2600|36.0|czyzyny": 1787499248
+    "wynajmemieszkanieprzyorlinskiego|2600|36.0|czyzyny": 1787499248,
+    "nowemieszkanienawynajemulmorelowa13|3000|38.0|bialoleka": 1787500186
   },
   "tg_offset": 654625401,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 50 м², 2 комнаты\n💰 3000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: включены в цену\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«mieszkanie do wynajęcia, bez pośredników, 2 pokoje, balkon, blisko metra, zadbane, umeblowane»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-bez-posrednikow-2-pokoje-balkon-blisko-metra-zadbane-umeblowane-CID3-ID1bZ6Qo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:49",
-      "ts": 1787485432,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": null,
-        "area": 50.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-23T11:49:23+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3680 zł/мес\n⚡ Свет/медиа: ≈ 180 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 8\n👤 от собственника\n«Przestronne, klimatyzowane 2 pokoje 42 m2 | Siłownia | ul. Konstruktorska 7»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-klimatyzowane-2-pokoje-42-m2-silownia-ul-konstruktorska-7-CID3-ID1bZ6T2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:50",
       "ts": 1787485432,
@@ -7268,13 +7254,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 790 = <b>3790 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«nowe mieszkanie na wynajem ul. Morelowa 13»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-na-wynajem-ul-morelowa-13-CID3-ID1bZrgJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:35",
+      "ts": 1787500186,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 790,
+        "area": 38.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-23T17:35:37+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5627,
-    "sent": 2198
+    "checks": 5631,
+    "sent": 2199
   },
   "initialized": true,
-  "last_check": "2026-08-23T15:44:39",
+  "last_check": "2026-08-23T16:05:29",
   "backoff_until": 1787369093.497045
 }
