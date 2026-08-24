@@ -4877,7 +4877,9 @@
     "1093639265": 1787604301,
     "1093641054": 1787604614,
     "1093640849": 1787604927,
-    "1093641477": 1787604927
+    "1093641477": 1787604927,
+    "1093643671": 1787605243,
+    "1093644138": 1787605556
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7103,45 +7105,13 @@
     "mieszkanie2pokreduta40c31m2ofertaprywatna|2600|31.0|mistrzejowice": 1787604301,
     "mieszkanienawynajem40m2rondowiatracznawysokis|3500|40.0|pragapoludnie": 1787604614,
     "dowynajecia2pokojowemieszkaniezbalkonem485m²k|2990|48.5|biezanowprokocim": 1787604927,
-    "wyjatkowe2pokojowemieszkaniewcentrumulwalicow|2900|33.0|srodmiescie": 1787604927
+    "wyjatkowe2pokojowemieszkaniewcentrumulwalicow|2900|33.0|srodmiescie": 1787604927,
+    "krakòwzablocie2pokojowemieszkanienawynajemodp|3175|39.0|podgorze": 1787605243,
+    "38m²2pokojegarderobaduzybalkon3mindotramwajup|3000|38.0|pragapoludnie": 1787605556
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 47.23 м², 2 комнаты\n💰 2690 + czynsz 795 = <b>3485 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe Łobzów, centralnie + duża kuchnia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-lobzow-centralnie-duza-kuchnia-CID3-ID1c0nPb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:03",
-      "ts": 1787590483,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2690,
-        "rent": 795,
-        "area": 47.23,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-24T18:03:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 31 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Dwupokojowe mieszkanie 31 m na Woli na ulicy Szulborskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-31-m-na-woli-na-ulicy-szulborskiej-CID3-ID1c0oBi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:09",
-      "ts": 1787590483,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 31.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-24T18:09:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 640 = <b>3840 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem ul.Zdunów Kraków Borek Fałęcki przy lesie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-zdunow-krakow-borek-falecki-przy-lesie-CID3-ID1c0rgW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
       "ts": 1787590483,
@@ -7787,13 +7757,47 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 39 м², 2 комнаты\n💰 3175 + czynsz 790 = <b>3965 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: нет\n🌐 Интернет: в цене\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 7\n🐾 можно с животными · 👤 от собственника\n«Krakòw, Zabłocie - 2-pokojowe mieszkanie na wynajem od października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakw-zablocie-2-pokojowe-mieszkanie-na-wynajem-od-pazdziernika-CID3-ID1c0OG3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:53",
+      "ts": 1787605243,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3175,
+        "rent": 790,
+        "area": 39.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-24T22:53:13+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 580 = <b>3580 zł/мес</b>\n   ≈ с медиа около 3640 zł/мес\n⚡ Свет/медиа: ≈ 60 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n👤 от собственника\n«38 m² | 2 pokoje | garderoba | duży balkon | 3 min do tramwaju | Praga-Południe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/38-m-2-pokoje-garderoba-duzy-balkon-3-min-do-tramwaju-praga-poludnie-CID3-ID1c0ONA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:54",
+      "ts": 1787605556,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 580,
+        "area": 38.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-24T22:54:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 580
+      }
     }
   ],
   "stats": {
-    "checks": 5864,
-    "sent": 2388
+    "checks": 5868,
+    "sent": 2390
   },
   "initialized": true,
-  "last_check": "2026-08-24T20:55:37",
+  "last_check": "2026-08-24T21:16:27",
   "backoff_until": 1787369093.497045
 }
