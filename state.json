@@ -4751,7 +4751,14 @@
     "1093474740": 1787574262,
     "1093475350": 1787574262,
     "1093475126": 1787574262,
-    "1093474589": 1787574262
+    "1093474589": 1787574262,
+    "1093475095": 1787574584,
+    "1093474101": 1787574899,
+    "1093471970": 1787574899,
+    "1093472881": 1787574899,
+    "1093458868": 1787575219,
+    "1093479426": 1787575219,
+    "1093479332": 1787575219
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6901,62 +6908,14 @@
     "ladnenowe2026rpierwszyrazwynajmowanegarazblis|3250|45.0|mokotow": 1787573943,
     "wynajme2pokojewarszawawolavisavismetro|3500|38.0|wola": 1787573943,
     "2pokojeztarasemiklimatyzacjaulzachodniaruczaj|2600|45.0|lagiewnikiborekfalec": 1787574262,
-    "mieszkaniewynajembielany2pokoje|2700|36.0|bielany": 1787574262
+    "mieszkaniewynajembielany2pokoje|2700|36.0|bielany": 1787574262,
+    "komfortowemieszkaniedowynajeciakrakowruczaj|2500|52.0|debniki": 1787574899,
+    "przestronnedwupokojowemieszkaniezwidokiemnapa|2600|47.6|podgorzeduchackie": 1787574899,
+    "bezposredniowynajmemieszkanie48m|3300|48.0|ursus": 1787575219
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков</b> — 35.7 м², 2 комнаты\n💰 2600 + czynsz 865 = <b>3465 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokojowe mieszkanie | Balkon | Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-balkon-klimatyzacja-CID3-ID1bZQFC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:57",
-      "ts": 1787558831,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 865,
-        "area": 35.7,
-        "district": "",
-        "business": true,
-        "created_iso": "2026-08-24T09:57:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": 865
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 2500 + czynsz 640 = <b>3140 zł/мес</b>\n   ≈ с медиа около 3260 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🔐 Kaucja (залог): 3380 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 5\n🏢 агентство\n«Mieszkanie dwa osobne pokoje + kuchnia| ul. Poznańska 11| Krowodrza| Nowe budownictwo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwa-osobne-pokoje-kuchnia-ul-poznanska-11-krowodrza-nowe-budownictwo-CID3-ID1bZRtb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:11",
-      "ts": 1787560085,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 640,
-        "area": 39.0,
-        "district": "Krowodrza",
-        "business": true,
-        "created_iso": "2026-08-24T10:11:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 640
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 44 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie 2-pokojowe z balkonem i garażem w Ursusie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-balkonem-i-garazem-w-ursusie-CID3-ID1bZRKa.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:17",
-      "ts": 1787560085,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 44.0,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-24T10:17:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3000 + czynsz 650 = <b>3650 zł/мес</b>\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Wynajmę mieszkanie 2-pokojowe 38m2 / Bielany, ul. Sokratesa 11b/ Metro Młociny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-38m2-bielany-ul-sokratesa-11b-metro-mlociny-CID3-ID1bZSm1.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:28",
       "ts": 1787561030,
@@ -7585,13 +7544,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47.6 м², 2 комнаты\n💰 2600 + czynsz 880 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n🏢 агентство\n«Przestronne dwupokojowe mieszkanie z widokiem na panoramę Kurdwanowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-dwupokojowe-mieszkanie-z-widokiem-na-panorame-kurdwanowa-CID3-ID1c060G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
+      "ts": 1787574899,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 880,
+        "area": 47.6,
+        "district": "Podgórze Duchackie",
+        "business": true,
+        "created_iso": "2026-08-24T14:02:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": 880
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 52 м², 2 комнаты\n💰 2500 + czynsz 950 = <b>3450 zł/мес</b>\n   ≈ с медиа около 3600 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Komfortowe mieszkanie do wynajęcia Kraków, Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-do-wynajecia-krakow-ruczaj-CID3-ID1c06z3.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:10",
+      "ts": 1787574899,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 950,
+        "area": 52.0,
+        "district": "Dębniki",
+        "business": false,
+        "created_iso": "2026-08-24T14:10:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 48 м², 2 комнаты\n💰 3300 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 25.08.2026\n🏢 Этаж: 6\n👤 от собственника\n«Bezpośrednio wynajmę mieszkanie 48m»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wynajme-mieszkanie-48m-CID3-ID1c07VV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:28",
+      "ts": 1787575219,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": null,
+        "area": 48.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-24T14:28:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5783,
-    "sent": 2310
+    "checks": 5786,
+    "sent": 2313
   },
   "initialized": true,
-  "last_check": "2026-08-24T12:24:35",
+  "last_check": "2026-08-24T12:40:30",
   "backoff_until": 1787369093.497045
 }
