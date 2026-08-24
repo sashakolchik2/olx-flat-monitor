@@ -4682,7 +4682,17 @@
     "1093420231": 1787561030,
     "1093420286": 1787561347,
     "1093421757": 1787561661,
-    "1093423185": 1787561661
+    "1093423185": 1787561661,
+    "1093422751": 1787561980,
+    "1093422789": 1787561980,
+    "1093422969": 1787562294,
+    "1093422738": 1787562294,
+    "1093423992": 1787562612,
+    "1093423264": 1787562612,
+    "1093425185": 1787562612,
+    "1093423999": 1787562612,
+    "1093425718": 1787562930,
+    "1093424070": 1787562930
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6800,96 +6810,16 @@
     "mieszkanienagranicywoliisrodmiescia2pokoje|3200|37.0|wola": 1787561030,
     "bielanyprzytulne2pokojowemieszkaniezgarazem|3000|44.0|bielany": 1787561347,
     "mieszkaniedowynajecia|2500|40.0|pradnikczerwony": 1787561661,
-    "pieknemieszkanie39m2ogrodekparkingpradnikbial|2900|39.88|krowodrza": 1787561661
+    "pieknemieszkanie39m2ogrodekparkingpradnikbial|2900|39.88|krowodrza": 1787561661,
+    "ursuskarolatayloraurzadzonedowprowadzenia30m2|3000|30.0|ursus": 1787561980,
+    "muranow2pokojebalkonosobnakuchniabezprowizji|3200|39.0|srodmiescie": 1787562294,
+    "komfortowe2pokojowemieszkaniewapartamentowcuz|2500|35.0|krowodrza": 1787562612,
+    "krakowbronowiceosiedlewizjonerow43m²ogrodek50|3100|43.0|bronowice": 1787562612,
+    "23osobowemieszkaniewkrakowie|2800|42.0|podgorzeduchackie": 1787562612
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 750 = <b>3950 zł/мес</b>\n   ≈ с медиа около 4700 zł/мес\n⚡ Свет/медиа: ≈ 750 zł + свет по счётчику\n🏢 Этаж: 2\n👤 от собственника\n«2 POKOJE, BALKON, METRO Bemowo, Ciche,Wys.Standard»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-balkon-metro-bemowo-ciche-wys-standard-CID3-ID1bZGWY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:00",
-      "ts": 1787515991,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 750,
-        "area": 43.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-23T22:00:00+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieżanów-Prokocim</b> — 41 м², 2 комнаты\n💰 2900 + czynsz 775 = <b>3675 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 9\n👤 от собственника\n«Komfortowe mieszkanie na wynajem – ul. Badurskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-mieszkanie-na-wynajem-ul-badurskiego-CID3-ID1bZFL8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:36",
-      "ts": 1787516310,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 775,
-        "area": 41.0,
-        "district": "Bieżanów-Prokocim",
-        "business": false,
-        "created_iso": "2026-08-23T21:36:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 4000 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Mieszkanie wynajem 2 pokoje Stegny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-2-pokoje-stegny-CID3-ID1bZGuy.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
-      "ts": 1787516941,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 4000,
-        "rent": null,
-        "area": 42.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T21:50:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 47 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2 pokojowe do wynajęcia Kraków os. Kalinowe»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-krakow-os-kalinowe-CID3-ID1bZHgH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:08",
-      "ts": 1787516941,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 47.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-23T22:08:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Żoliborz</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 800 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 5\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie 2-pokojowe Sady Żoliborskie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-sady-zoliborskie-CID3-ID1bZHvL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:15",
-      "ts": 1787516941,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 800,
-        "area": 41.0,
-        "district": "Żoliborz",
-        "business": false,
-        "created_iso": "2026-08-23T22:15:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 700
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursus</b> — 43 м², 2 комнаты\n💰 2900 + czynsz 730 = <b>3630 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia Warszawa Skorosze dostępne od Października»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-warszawa-skorosze-dostepne-od-pazdziernika-CID3-ID1bZIuu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:42",
       "ts": 1787518521,
@@ -7484,13 +7414,98 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 30 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Ursus. Karola Taylora, Urządzone do wprowadzenia 30m2 + Miejsce Garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ursus-karola-taylora-urzadzone-do-wprowadzenia-30m2-miejsce-garaz-CID3-ID1bZTdr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:48",
+      "ts": 1787561980,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 30.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-24T10:48:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 39 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 600 zł/мес\n🔐 Kaucja (залог): 3800 zł\n🏢 Этаж: 6\n🏢 агентство\n«Muranów | 2 pokoje, balkon, osobna kuchnia | bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/muranow-2-pokoje-balkon-osobna-kuchnia-bez-prowizji-CID3-ID1bZTcC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:48",
+      "ts": 1787562294,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 39.0,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-24T10:48:00+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3100 + czynsz 730 = <b>3830 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3100 zł\n📅 Заселение: с 7 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Kraków Bronowice | Osiedle Wizjonerów | 43 m² + ogródek 50 m² | garaż podziemny»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-bronowice-osiedle-wizjonerow-43-m-ogrodek-50-m-garaz-podziemny-CID3-ID1bZTl6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:50",
+      "ts": 1787562612,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 730,
+        "area": 43.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-24T10:50:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 730
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 560 = <b>3060 zł/мес</b>\n   ≈ с медиа около 3260 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Komfortowe 2-pokojowe mieszkanie w apartamentowcu z ochroną – AGH/UKEN»\n🔗 <a href=\"https://www.olx.pl/d/oferta/komfortowe-2-pokojowe-mieszkanie-w-apartamentowcu-z-ochrona-agh-uken-CID3-ID1bZTvQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:54",
+      "ts": 1787562612,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 560,
+        "area": 35.0,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-24T10:54:57+02:00"
+      },
+      "an": {
+        "czynsz_desc": 560
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с июля\n🏢 Этаж: 1\n👤 от собственника\n«2/3 osobowe mieszkanie w Krakowie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-3-osobowe-mieszkanie-w-krakowie-CID3-ID1bZTQ5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:00",
+      "ts": 1787562612,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 600,
+        "area": 42.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-24T11:00:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5759,
-    "sent": 2278
+    "checks": 5763,
+    "sent": 2283
   },
   "initialized": true,
-  "last_check": "2026-08-24T08:54:32",
+  "last_check": "2026-08-24T09:15:36",
   "backoff_until": 1787369093.497045
 }
