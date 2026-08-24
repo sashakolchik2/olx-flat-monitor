@@ -4880,6 +4880,7 @@
     "1093641477": 1787604927,
     "1093643671": 1787605243,
     "1093644138": 1787605556,
+<<<<<<< Updated upstream
     "1093618389": 1787606493,
     "1093649447": 1787606493,
     "1093654136": 1787608368,
@@ -4888,6 +4889,16 @@
     "1093657069": 1787609308,
     "1093655590": 1787609621,
     "1093658799": 1787609936
+=======
+    "1093655590": 1787611490,
+    "1093658799": 1787611490,
+    "1093657069": 1787611490,
+    "1093654136": 1787611490,
+    "1093654263": 1787611490,
+    "1093654050": 1787611490,
+    "1093618389": 1787611490,
+    "1093649447": 1787611490
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7116,11 +7127,19 @@
     "wyjatkowe2pokojowemieszkaniewcentrumulwalicow|2900|33.0|srodmiescie": 1787604927,
     "krakòwzablocie2pokojowemieszkanienawynajemodp|3175|39.0|podgorze": 1787605243,
     "38m²2pokojegarderobaduzybalkon3mindotramwajup|3000|38.0|pragapoludnie": 1787605556,
+<<<<<<< Updated upstream
     "mieszkaniedowynajecianawarszawskimbrodnie|3500|46.0|targowek": 1787606493,
     "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787606493,
     "przestronnesamodzielne2pokojewswietnejlokaliz|3000|57.0|ursynow": 1787608368,
     "przestronne2oddzielnepokoje15minutdocentrum|3500|55.0|pragapoludnie": 1787609308,
     "mieszkanie2pokojenastarympodgorzu|2800|39.0|podgorze": 1787609621
+=======
+    "mieszkanie2pokojenastarympodgorzu|2800|39.0|podgorze": 1787611490,
+    "przestronne2oddzielnepokoje15minutdocentrum|3500|55.0|pragapoludnie": 1787611490,
+    "przestronnesamodzielne2pokojewswietnejlokaliz|3000|57.0|ursynow": 1787611490,
+    "mieszkaniedowynajecianawarszawskimbrodnie|3500|46.0|targowek": 1787611490,
+    "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787611490
+>>>>>>> Stashed changes
   },
   "tg_offset": 654625403,
   "paused": false,
@@ -7721,8 +7740,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia na Warszawskim Bródnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-warszawskim-brodnie-CID3-ID1c0I6h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:28",
       "ts": 1787606493,
+=======
+      "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia na Warszawskim Bródnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-warszawskim-brodnie-CID3-ID1c0I6h.html\">Открыть на OLX</a>  ·  добавлено вчера в 21:28",
+      "ts": 1787611490,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7738,8 +7762,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Targówek</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«Kondratowicza 35 m2/metro, 2 pokoje, nowe, garaż, meble, klima!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kondratowicza-35-m2-metro-2-pokoje-nowe-garaz-meble-klima-CID3-ID1c0Qbd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:07",
       "ts": 1787606493,
+=======
+      "text": "🏠 <b>Варшава, Targówek</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«Kondratowicza 35 m2/metro, 2 pokoje, nowe, garaż, meble, klima!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kondratowicza-35-m2-metro-2-pokoje-nowe-garaz-meble-klima-CID3-ID1c0Qbd.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:07",
+      "ts": 1787611490,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7755,8 +7784,13 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Ursynów</b> — 57 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Przestronne samodzielne 2 pokoje w świetnej lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-samodzielne-2-pokoje-w-swietnej-lokalizacji-CID3-ID1c0RqT.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:47",
       "ts": 1787608368,
+=======
+      "text": "🏠 <b>Варшава, Ursynów</b> — 57 м², 2 комнаты\n💰 3000 + czynsz 1000 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n🏢 агентство\n«Przestronne samodzielne 2 pokoje w świetnej lokalizacji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-samodzielne-2-pokoje-w-swietnej-lokalizacji-CID3-ID1c0RqT.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:47",
+      "ts": 1787611490,
+>>>>>>> Stashed changes
       "city": "warszawa",
       "perfect": false,
       "of": {
@@ -7772,6 +7806,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 55 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne, 2 oddzielne pokoje, 15 minut do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-oddzielne-pokoje-15-minut-do-centrum-CID3-ID1c0Sa9.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:57",
       "ts": 1787609308,
       "city": "warszawa",
@@ -7791,6 +7826,10 @@
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 390 = <b>3190 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2 pokoje na Starym Podgórzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-na-starym-podgorzu-CID3-ID1c0RMi.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:52",
       "ts": 1787609621,
+=======
+      "text": "🏠 <b>Краков, Podgórze</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 390 = <b>3190 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2 pokoje na Starym Podgórzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-na-starym-podgorzu-CID3-ID1c0RMi.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:52",
+      "ts": 1787611490,
+>>>>>>> Stashed changes
       "city": "krakow",
       "perfect": false,
       "of": {
@@ -7804,6 +7843,7 @@
       "an": {
         "czynsz_desc": 390
       }
+<<<<<<< Updated upstream
     }
   ],
   "stats": {
@@ -7812,5 +7852,32 @@
   },
   "initialized": true,
   "last_check": "2026-08-24T22:39:50",
+=======
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 55 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne, 2 oddzielne pokoje, 15 minut do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-oddzielne-pokoje-15-minut-do-centrum-CID3-ID1c0Sa9.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:57",
+      "ts": 1787611490,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 55.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-24T23:57:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    }
+  ],
+  "stats": {
+    "checks": 5872,
+    "sent": 2395
+  },
+  "initialized": true,
+  "last_check": "2026-08-24T23:00:41",
+>>>>>>> Stashed changes
   "backoff_until": 1787369093.497045
 }
