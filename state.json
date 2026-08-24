@@ -4700,7 +4700,11 @@
     "1093427272": 1787563557,
     "1093426847": 1787563557,
     "1093428952": 1787563873,
-    "1093429960": 1787564187
+    "1093429960": 1787564187,
+    "1093429984": 1787564502,
+    "1093432186": 1787564502,
+    "1093435074": 1787564815,
+    "1093435810": 1787565128
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6825,28 +6829,12 @@
     "krakowbronowiceosiedlewizjonerow43m²ogrodek50|3100|43.0|bronowice": 1787562612,
     "23osobowemieszkaniewkrakowie|2800|42.0|podgorzeduchackie": 1787562612,
     "mieszkaniekrakowbronowice2pokojoweobokikei|3200|39.0|krowodrza": 1787563557,
-    "ostrobramskapragapoludnienajemdlugoterminowy|2800|49.5|pragapoludnie": 1787563557
+    "ostrobramskapragapoludnienajemdlugoterminowy|2800|49.5|pragapoludnie": 1787563557,
+    "wynajemumeblowanemieszkaniedwupokojowekrakowu|2600|35.0|pradnikczerwony": 1787565128
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 2450 + czynsz 950 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 40m2 | 2 pok | Balkon | Wola Duchacka | Walerego Sławka (obok Bonarka)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-40m2-2-pok-balkon-wola-duchacka-walerego-slawka-obok-bonarka-CID3-ID1bZIsJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:41",
-      "ts": 1787518841,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2450,
-        "rent": 950,
-        "area": 40.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-23T22:41:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n👤 от собственника\n«Mieszkanie na wynajem ul. Reduta 44»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-reduta-44-CID3-ID1bZIVw.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:59",
       "ts": 1787527452,
@@ -7509,13 +7497,30 @@
       "an": {
         "czynsz_desc": 350
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 730 = <b>3330 zł/мес</b>\n   ≈ с медиа около 3630 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 9\n👤 от собственника\n«Wynajem - umeblowane mieszkanie dwupokojowe Kraków, ul. Zaułek Wileński, os. Olsza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-umeblowane-mieszkanie-dwupokojowe-krakow-ul-zaulek-wilenski-os-olsza-CID3-ID1bZVBs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:43",
+      "ts": 1787565128,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 730,
+        "area": 35.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-24T11:43:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5767,
-    "sent": 2285
+    "checks": 5770,
+    "sent": 2286
   },
   "initialized": true,
-  "last_check": "2026-08-24T09:36:34",
+  "last_check": "2026-08-24T09:52:16",
   "backoff_until": 1787369093.497045
 }
