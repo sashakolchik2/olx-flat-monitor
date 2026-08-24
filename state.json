@@ -4857,7 +4857,11 @@
     "1093622268": 1787601147,
     "1093620432": 1787601147,
     "1093621160": 1787601147,
-    "1093618901": 1787601147
+    "1093618901": 1787601147,
+    "1093624299": 1787601466,
+    "1093623051": 1787601466,
+    "1093624126": 1787601787,
+    "1093623122": 1787601787
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7067,79 +7071,15 @@
     "pieknynowyapartament2pok40m2komorkagarazblisk|2900|40.0|targowek": 1787600833,
     "wynajmedabiegrzegorzki2pokoje44mkwparze|2700|44.0|podgorze": 1787601147,
     "mieszkanie2pokojowe34m2napradzepoludnieulgroc|3500|34.0|pragapoludnie": 1787601147,
-    "bezprowizjibalkoninternetwceniezwierzetaokstr|3360|35.1|wlochy": 1787601147
+    "bezprowizjibalkoninternetwceniezwierzetaokstr|3360|35.1|wlochy": 1787601147,
+    "bezprowizjiduzyogrodekwifiwceniezwierzetaokco|3150|35.8|wlochy": 1787601466,
+    "mieszkaniedowynajecianadluzejdla12osob|3500|34.0|pragapoludnie": 1787601466,
+    "mieszkanienakrowodrzydowynajeciaodwlasciciela|2600|33.0|krowodrza": 1787601787,
+    "nowemieszkanieztarasemtargowekuloliwska|3200|44.5|targowek": 1787601787
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 42 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n🏢 Этаж: 6\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie na wynajem bez pośredników, od października; ul. Wrocławska, 2 pokoje. 42 m kw., 6 p. winda, balkon»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-bez-posrednikow-od-pazdziernika-ul-wroclawska-2-pokoje-42-m-kw-6-p-winda-balkon-CID3-ID1c0hcH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:39",
-      "ts": 1787583170,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2300,
-        "rent": 700,
-        "area": 42.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-24T16:39:36+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 55 м², 2 комнаты\n💰 2500 + czynsz 1020 = <b>3520 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 5000 zł\n🏢 Этаж: 1\n🐾 можно с животными · 👤 от собственника\n«Kraków, Nowa Huta, os. Zielone – 55 m², 2 pokoje, kuchnia, osobne WC, bogate wyposażenie, alarm, projektor HD»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krakow-nowa-huta-os-zielone-55-m-2-pokoje-kuchnia-osobne-wc-bogate-wyposazenie-alarm-projektor-hd-CID3-ID1c0hyi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:44",
-      "ts": 1787583803,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1020,
-        "area": 55.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-08-24T16:44:01+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1020
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 970 = <b>3970 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 4900 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«Ładne,nowe budownictwo 2024r.,400m od koejki Skm, garaż,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ladne-nowe-budownictwo-2024r-400m-od-koejki-skm-garaz-CID3-ID1c0hK9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:46",
-      "ts": 1787583803,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 970,
-        "area": 42.0,
-        "district": "Ursus",
-        "business": true,
-        "created_iso": "2026-08-24T16:46:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 920
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 33 м², 2 комнаты\n💰 3300 + czynsz 600 = <b>3900 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 4\n👤 от собственника\n«Nowoczesne 2 pokoje | Olsza – 33 m² | Parking | 3300 zł + opłaty\nWynajem od 1.10.2026»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokoje-olsza-33-m-parking-3300-zl-oplatywynajem-od-1-10-2026-CID3-ID1c0i4H.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:50",
-      "ts": 1787583803,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3300,
-        "rent": 600,
-        "area": 33.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-24T16:50:42+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 32 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4600 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 7\n👤 от собственника\n«Mieszkanie 2 pokojowe - Metro Bemowo»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-metro-bemowo-CID3-ID1c0isk.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
       "ts": 1787583803,
@@ -7751,13 +7691,81 @@
       "an": {
         "czynsz_desc": 780
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 34 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie do wynajęcia na dłużej dla 1-2 osób»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-dluzej-dla-1-2-osob-CID3-ID1c0Jjt.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:46",
+      "ts": 1787601466,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 34.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-24T21:46:33+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 35.8 м², 2 комнаты\n💰 3150 + czynsz 490 = <b>3640 zł/мес</b>\n   ≈ с медиа около 4111 zł/мес\n⚡ Свет/медиа: ≈ 471 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Bez prowizji! Duży ogródek, wifi w cenie, zwierzęta ok, coworking»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-duzy-ogrodek-wifi-w-cenie-zwierzeta-ok-coworking-CID3-ID1c0JDB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
+      "ts": 1787601466,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 490,
+        "area": 35.8,
+        "district": "Włochy",
+        "business": true,
+        "created_iso": "2026-08-24T21:50:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 490
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 44.5 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie z tarasem Targówek ul. Oliwska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-z-tarasem-targowek-ul-oliwska-CID3-ID1c0JkC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:46",
+      "ts": 1787601787,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": null,
+        "area": 44.5,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-24T21:46:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 33 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 200 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na Krowodrzy do wynajęcia od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-krowodrzy-do-wynajecia-od-wlasciciela-CID3-ID1c0JAO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
+      "ts": 1787601787,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 750,
+        "area": 33.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-24T21:50:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
     }
   ],
   "stats": {
-    "checks": 5852,
-    "sent": 2372
+    "checks": 5856,
+    "sent": 2376
   },
   "initialized": true,
-  "last_check": "2026-08-24T19:52:40",
+  "last_check": "2026-08-24T20:13:41",
   "backoff_until": 1787369093.497045
 }
