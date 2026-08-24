@@ -6733,7 +6733,7 @@
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787527452,
     "mieszkanie57m2krolewskalea2900oplaty|2900|57.0|krowodrza": 1787529664
   },
-  "tg_offset": 654625401,
+  "tg_offset": 654625402,
   "paused": false,
   "recent": [
     {
@@ -7418,10 +7418,10 @@
     }
   ],
   "stats": {
-    "checks": 5696,
+    "checks": 5700,
     "sent": 2251
   },
   "initialized": true,
-  "last_check": "2026-08-24T02:02:30",
+  "last_check": "2026-08-24T02:23:38",
   "backoff_until": 1787369093.497045
 }
