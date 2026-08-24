@@ -4846,7 +4846,12 @@
     "1093595612": 1787598012,
     "1093602851": 1787598323,
     "1093599898": 1787598323,
-    "1093602793": 1787598636
+    "1093602793": 1787598636,
+    "1093605870": 1787598955,
+    "1093606010": 1787598955,
+    "1093611087": 1787599268,
+    "1093616056": 1787599579,
+    "1093615077": 1787599889
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7049,45 +7054,13 @@
     "2pokojebalkondebnikiujzwierzetaakceptowane|2500|37.04|debniki": 1787594262,
     "pieknewidokowe2pokoje40m2klima2xgaraz|3000|40.0|bronowice": 1787595512,
     "mieszkaniedowynajeciastarebielany|2500|35.0|bielany": 1787596136,
-    "mieszkanie2pokojowenazablociu42m²|3000|42.0|podgorze": 1787598323
+    "mieszkanie2pokojowenazablociu42m²|3000|42.0|podgorze": 1787598323,
+    "2pokojezbalkonempowisle|3200|37.5|srodmiescie": 1787598955,
+    "dwupokojowemieszkaniepogeneralnymremoncienagr|3000|48.0|pragapoludnie": 1787599889
   },
-  "tg_offset": 654625402,
+  "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Nowa Huta</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 590 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do Wynajęcia: Urokliwe Mieszkanie w Nowej Hucie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-urokliwe-mieszkanie-w-nowej-hucie-CID3-ID1bY8fP.html\">Открыть на OLX</a>  ·  добавлено 21.08 21:49",
-      "ts": 1787580309,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 590,
-        "area": 38.0,
-        "district": "Nowa Huta",
-        "business": false,
-        "created_iso": "2026-08-21T21:49:46+02:00"
-      },
-      "an": {
-        "czynsz_desc": 590
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 300 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«NOWOCZESNE 2-POKOJOWE MIESZKANIE, VIVA PIAST, 39 m2 z garażem, wynajmie właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-viva-piast-39-m2-z-garazem-wynajmie-wlasciciel-CID3-ID1c0dxA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:51",
-      "ts": 1787580309,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 39.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-24T15:51:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 320 = <b>3520 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Bronowice | 2 Pok | 43m2 | Bezczynszowe | Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bronowice-2-pok-43m2-bezczynszowe-klima-CID3-ID1c0dRw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:55",
       "ts": 1787580309,
@@ -7733,13 +7706,47 @@
       "an": {
         "czynsz_desc": 790
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 37.5 м², 2 комнаты\n💰 3200 + czynsz 720 = <b>3920 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n🏢 агентство\n«2 pokoje z balkonem Powiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-powisle-CID3-ID1c0ESC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:00",
+      "ts": 1787598955,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 720,
+        "area": 37.5,
+        "district": "Śródmieście",
+        "business": true,
+        "created_iso": "2026-08-24T21:00:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": 720
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dwupokojowe mieszkanie po generalnym remoncie na Grochowie, ul. Kordeckiego 62»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-po-generalnym-remoncie-na-grochowie-ul-kordeckiego-62-CID3-ID1c0HeR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:16",
+      "ts": 1787599889,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 48.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-24T21:16:56+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5844,
-    "sent": 2365
+    "checks": 5848,
+    "sent": 2367
   },
   "initialized": true,
-  "last_check": "2026-08-24T19:10:48",
+  "last_check": "2026-08-24T19:31:38",
   "backoff_until": 1787369093.497045
 }
