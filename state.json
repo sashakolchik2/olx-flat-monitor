@@ -4643,7 +4643,9 @@
     "1093391156": 1787529664,
     "1093394336": 1787548775,
     "1093394920": 1787550652,
-    "1093396693": 1787551907
+    "1093396693": 1787551907,
+    "1093397678": 1787552536,
+    "1093398714": 1787553163
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6736,28 +6738,12 @@
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787527452,
     "mieszkanie57m2krolewskalea2900oplaty|2900|57.0|krowodrza": 1787529664,
     "mieszkaniedowynajecia|2500|40.0|podgorzeduchackie": 1787550652,
-    "2pokjasnakuchniaklimakazimierzgrzegorzki|3000|49.0|grzegorzki": 1787551907
+    "2pokjasnakuchniaklimakazimierzgrzegorzki|3000|49.0|grzegorzki": 1787551907,
+    "2pokojebalkonpkpwolametrotramwajdlapary|2500|32.0|wola": 1787552536
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bZxfZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:21",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3800,
-        "rent": null,
-        "area": 40.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T19:21:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 36 м², 2 комнаты\n💰 3200 + czynsz 650 = <b>3850 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesne mieszkanie 2-pokojowe, Chrzanów, ul. Batalionów Chł. METRO2»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-2-pokojowe-chrzanow-ul-batalionow-chl-metro2-CID3-ID1bZy1X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:35",
       "ts": 1787506795,
@@ -7420,13 +7406,30 @@
       "an": {
         "czynsz_desc": 380
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 32 м², 2 комнаты\n💰 2500 + czynsz 900 = <b>3400 zł/мес</b>\n   ≈ с медиа около 3550 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🐾 можно с животными · 👤 от собственника\n«2 pokoje, balkon. PKP Wola, metro, tramwaj,dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-balkon-pkp-wola-metro-tramwaj-dla-pary-CID3-ID1bZMGq.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:09",
+      "ts": 1787552536,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 900,
+        "area": 32.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-24T08:09:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 150
+      }
     }
   ],
   "stats": {
-    "checks": 5728,
-    "sent": 2253
+    "checks": 5732,
+    "sent": 2254
   },
   "initialized": true,
-  "last_check": "2026-08-24T06:11:56",
+  "last_check": "2026-08-24T06:32:50",
   "backoff_until": 1787369093.497045
 }
