@@ -4772,7 +4772,12 @@
     "1093485155": 1787577147,
     "1093488568": 1787577147,
     "1093488911": 1787577462,
-    "1093487505": 1787577462
+    "1093487505": 1787577462,
+    "1093488531": 1787578096,
+    "1093493231": 1787578410,
+    "1093492130": 1787578410,
+    "1093494025": 1787578727,
+    "1093493936": 1787578727
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6934,28 +6939,12 @@
     "mieszkanieruczajczerwonemakikampus|3200|50.0|debniki": 1787576175,
     "wpelniwyposazonemieszkanie38m²zklimatyzacjaib|2900|38.0|pradnikbialy": 1787576175,
     "jasnenowoczesne2pokojowemieszkaniewaparamento|3200|35.0|wlochy": 1787576175,
-    "mieszkaniedwupokojoweprzymetrzetuzporemoncie|2900|37.0|targowek": 1787576175
+    "mieszkaniedwupokojoweprzymetrzetuzporemoncie|2900|37.0|targowek": 1787576175,
+    "mieszkanienawynajembliskabialolekazmiejscemga|2900|37.0|bialoleka": 1787578410
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 42 м², 2 комнаты\n💰 2800 + czynsz 600 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: с июля\n🏢 Этаж: 1\n👤 от собственника\n«2/3 osobowe mieszkanie w Krakowie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-3-osobowe-mieszkanie-w-krakowie-CID3-ID1bZTQ5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:00",
-      "ts": 1787562612,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 600,
-        "area": 42.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-24T11:00:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 49.5 м², 2 комнаты\n💰 2800 + czynsz 608 = <b>3408 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Ostrobramska, Praga Południe. Najem długoterminowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ostrobramska-praga-poludnie-najem-dlugoterminowy-CID3-ID1bZUnK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
       "ts": 1787563557,
@@ -7618,13 +7607,30 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem - bliska Białołęka, z miejscem garażowym.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-bliska-bialoleka-z-miejscem-garazowym-CID3-ID1c0bfQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
+      "ts": 1787578410,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 37.0,
+        "district": "Białołęka",
+        "business": false,
+        "created_iso": "2026-08-24T15:20:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5794,
-    "sent": 2322
+    "checks": 5798,
+    "sent": 2323
   },
   "initialized": true,
-  "last_check": "2026-08-24T13:23:06",
+  "last_check": "2026-08-24T13:44:11",
   "backoff_until": 1787369093.497045
 }
