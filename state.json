@@ -4790,7 +4790,8 @@
     "1093507498": 1787581581,
     "1093508400": 1787581581,
     "1093506526": 1787581581,
-    "1093506213": 1787581581
+    "1093506213": 1787581581,
+    "1093507543": 1787581903
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6960,28 +6961,12 @@
     "nowoczesne2pokojowemieszkanievivapiast39m2zga|2900|39.0|mistrzejowice": 1787580309,
     "dowynajeciaurokliwemieszkaniewnowejhucie|2700|38.0|nowahuta": 1787580309,
     "2pokojezbalkonemwarszawabielanyprowizja0zl|3400|38.0|bielany": 1787580948,
-    "mieszkaniedowynajeciaulpiltzadwupokojoweod110|2800|45.0|podgorze": 1787581581
+    "mieszkaniedowynajeciaulpiltzadwupokojoweod110|2800|45.0|podgorze": 1787581581,
+    "bezprowizjimieszkaniezbalkonemkrowodrza|2900|38.5|krowodrza": 1787581903
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 40.53 м², 2 комнаты\n💰 3447 + czynsz 550 = <b>3997 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie na wynajem Kraków | Bez prowizji | 40 m² | Nad Sudołem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-bez-prowizji-40-m-nad-sudolem-CID3-ID1bZZWm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:29",
-      "ts": 1787569473,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3447,
-        "rent": 550,
-        "area": 40.53,
-        "district": "Prądnik Biały",
-        "business": true,
-        "created_iso": "2026-08-24T12:29:04+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Краков, Nowa Huta</b> — 53 м², 2 комнаты\n💰 2400 + czynsz 1000 = <b>3400 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje | balkon | blisko tramwaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-balkon-blisko-tramwaj-CID3-ID1bZZXw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:29",
       "ts": 1787569473,
@@ -7644,13 +7629,30 @@
       "an": {
         "czynsz_desc": 700
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38.5 м², 2 комнаты\n💰 2900 + czynsz 1000 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«Bez prowizji | Mieszkanie z balkonem | Krowodrza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-mieszkanie-z-balkonem-krowodrza-CID3-ID1c0fgr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:14",
+      "ts": 1787581903,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 1000,
+        "area": 38.5,
+        "district": "Krowodrza",
+        "business": true,
+        "created_iso": "2026-08-24T16:14:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5806,
-    "sent": 2330
+    "checks": 5809,
+    "sent": 2331
   },
   "initialized": true,
-  "last_check": "2026-08-24T14:26:33",
+  "last_check": "2026-08-24T14:42:22",
   "backoff_until": 1787369093.497045
 }
