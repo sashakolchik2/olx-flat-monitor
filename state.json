@@ -4641,7 +4641,8 @@
     "1093386052": 1787527452,
     "1093383891": 1787527452,
     "1093391156": 1787529664,
-    "1093394336": 1787548775
+    "1093394336": 1787548775,
+    "1093394920": 1787550652
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6732,28 +6733,12 @@
     "wynajmemieszkanie41m²zwierzynieculwloczkow|2600|41.0|staremiasto": 1787527452,
     "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787527452,
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787527452,
-    "mieszkanie57m2krolewskalea2900oplaty|2900|57.0|krowodrza": 1787529664
+    "mieszkanie57m2krolewskalea2900oplaty|2900|57.0|krowodrza": 1787529664,
+    "mieszkaniedowynajecia|2500|40.0|podgorzeduchackie": 1787550652
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 500 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: в цене\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: с 01.11.2026 ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie umeblowane, 2 pokoje, balkon, m. parkingowe, komórka lok.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-umeblowane-2-pokoje-balkon-m-parkingowe-komorka-lok-CID3-ID1bZvRC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:14",
-      "ts": 1787506442,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": 500,
-        "area": 35.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-23T19:14:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 июля\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie z miejscem postojowym na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-miejscem-postojowym-na-ursynowie-CID3-ID1bZx9I.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:20",
       "ts": 1787506442,
@@ -7416,21 +7401,30 @@
       "an": {
         "czynsz_desc": 930
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 40 м², 2 комнаты\n💰 2500 + czynsz 500 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1bZLXV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:17",
+      "ts": 1787550652,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2500,
+        "rent": 500,
+        "area": 40.0,
+        "district": "Podgórze Duchackie",
+        "business": false,
+        "created_iso": "2026-08-24T07:17:36+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-<<<<<<< Updated upstream
-    "checks": 5732,
-    "sent": 2251
+    "checks": 5724,
+    "sent": 2252
   },
   "initialized": true,
-  "last_check": "2026-08-24T05:11:57",
-=======
-    "checks": 5720,
-    "sent": 2251
-  },
-  "initialized": true,
-  "last_check": "2026-08-24T05:30:07",
->>>>>>> Stashed changes
+  "last_check": "2026-08-24T05:51:01",
   "backoff_until": 1787369093.497045
 }
