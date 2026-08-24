@@ -4671,7 +4671,9 @@
     "1093406702": 1787557258,
     "1093408652": 1787557258,
     "1093408448": 1787557258,
-    "1093408025": 1787557576
+    "1093408025": 1787557576,
+    "1093411898": 1787558517,
+    "1093413004": 1787558831
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6780,45 +6782,13 @@
     "nowoczesne2pokojenabunschabezprowizji|3090|39.61|": 1787557258,
     "bezprowizji2pokojeulbunscha|3090|39.61|": 1787557258,
     "wynajmemieszkanie50m2radziwie7wola|2800|50.0|wola": 1787557258,
-    "przestronne2pokojeruczajsilowniacoworking|3090|39.61|": 1787557576
+    "przestronne2pokojeruczajsilowniacoworking|3090|39.61|": 1787557576,
+    "2pokojezkuchniabalkon15m²skoroszeulskoroszews|2300|40.0|ursus": 1787558517,
+    "2pokojowemieszkaniebalkonklimatyzacja|2600|35.7|": 1787558831
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Bemowo</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 850 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4225 zł/мес\n⚡ Свет/медиа: ≈ 375 zł/мес\n🔐 Kaucja (залог): 4100 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie Bemowo 48 m. przy metrze ul. Kluczborska dostępne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-bemowo-48-m-przy-metrze-ul-kluczborska-dostepne-od-zaraz-CID3-ID1bZEDO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:18",
-      "ts": 1787513445,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 850,
-        "area": 48.0,
-        "district": "Bemowo",
-        "business": false,
-        "created_iso": "2026-08-23T21:18:03+02:00"
-      },
-      "an": {
-        "czynsz_desc": 850
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 44 м², 2 комнаты\n💰 2800 + czynsz 800 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 200 zł/мес\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia, 2 pokojowe, 44 m2, os. Wilno, Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-2-pokojowe-44-m2-os-wilno-warszawa-CID3-ID1bZEHo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:19",
-      "ts": 1787513445,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 800,
-        "area": 44.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-23T21:19:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 37 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 700 zł/мес\n🔐 Kaucja (залог): 2000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«2 pokoje | 37 m2 | Ul. Celarowska | Olsza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-37-m2-ul-celarowska-olsza-CID3-ID1bZFbW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:26",
       "ts": 1787513770,
@@ -7464,13 +7434,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 40 м², 2 комнаты\n💰 2300 + czynsz 875 = <b>3175 zł/мес</b>\n   ≈ с медиа около 3325 zł/мес\n⚡ Свет/медиа: ≈ 150 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 18 сентября ⭐️\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje z kuchnią, balkon 15 m², Skorosze, ul. Skoroszewska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-kuchnia-balkon-15-m-skorosze-ul-skoroszewska-CID3-ID1bZQnM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:51",
+      "ts": 1787558517,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2300,
+        "rent": 875,
+        "area": 40.0,
+        "district": "Ursus",
+        "business": true,
+        "created_iso": "2026-08-24T09:51:44+02:00"
+      },
+      "an": {
+        "czynsz_desc": 875
+      }
+    },
+    {
+      "text": "🏠 <b>Краков</b> — 35.7 м², 2 комнаты\n💰 2600 + czynsz 865 = <b>3465 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3600 zł\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokojowe mieszkanie | Balkon | Klimatyzacja»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-balkon-klimatyzacja-CID3-ID1bZQFC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:57",
+      "ts": 1787558831,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 865,
+        "area": 35.7,
+        "district": "",
+        "business": true,
+        "created_iso": "2026-08-24T09:57:45+02:00"
+      },
+      "an": {
+        "czynsz_desc": 865
+      }
     }
   ],
   "stats": {
-    "checks": 5747,
-    "sent": 2269
+    "checks": 5751,
+    "sent": 2271
   },
   "initialized": true,
-  "last_check": "2026-08-24T07:51:37",
+  "last_check": "2026-08-24T08:12:32",
   "backoff_until": 1787369093.497045
 }
