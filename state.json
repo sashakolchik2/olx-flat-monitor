@@ -4642,7 +4642,8 @@
     "1093383891": 1787527452,
     "1093391156": 1787529664,
     "1093394336": 1787548775,
-    "1093394920": 1787550652
+    "1093394920": 1787550652,
+    "1093396693": 1787551907
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6734,28 +6735,12 @@
     "mieszkanienawynajemulreduta44|2800|43.0|mistrzejowice": 1787527452,
     "kameralnecichewzielonejczescigornegomokotowa|2700|38.0|mokotow": 1787527452,
     "mieszkanie57m2krolewskalea2900oplaty|2900|57.0|krowodrza": 1787529664,
-    "mieszkaniedowynajecia|2500|40.0|podgorzeduchackie": 1787550652
+    "mieszkaniedowynajecia|2500|40.0|podgorzeduchackie": 1787550652,
+    "2pokjasnakuchniaklimakazimierzgrzegorzki|3000|49.0|grzegorzki": 1787551907
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 800 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 июля\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie z miejscem postojowym na Ursynowie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-miejscem-postojowym-na-ursynowie-CID3-ID1bZx9I.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:20",
-      "ts": 1787506442,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 800,
-        "area": 45.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-23T19:20:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 40 м², 2 комнаты\n💰 3800 zł + czynsz? (не указан — уточни у владельца)\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-ID1bZxfZ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:21",
       "ts": 1787506442,
@@ -7418,13 +7403,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 380 = <b>3380 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2 pok., jasna kuchnia, klima, Kazimierz/Grzegórzki»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-jasna-kuchnia-klima-kazimierz-grzegorzki-CID3-ID1bZMqx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:54",
+      "ts": 1787551907,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 380,
+        "area": 49.0,
+        "district": "Grzegórzki",
+        "business": false,
+        "created_iso": "2026-08-24T07:54:35+02:00"
+      },
+      "an": {
+        "czynsz_desc": 380
+      }
     }
   ],
   "stats": {
-    "checks": 5724,
-    "sent": 2252
+    "checks": 5728,
+    "sent": 2253
   },
   "initialized": true,
-  "last_check": "2026-08-24T05:51:01",
+  "last_check": "2026-08-24T06:11:56",
   "backoff_until": 1787369093.497045
 }
