@@ -4784,7 +4784,13 @@
     "1093500918": 1787580309,
     "1093003941": 1787580309,
     "1093499332": 1787580309,
-    "1093496908": 1787580309
+    "1093496908": 1787580309,
+    "1093504799": 1787580633,
+    "1093505208": 1787580948,
+    "1093507498": 1787581581,
+    "1093508400": 1787581581,
+    "1093506526": 1787581581,
+    "1093506213": 1787581581
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6952,45 +6958,13 @@
     "2pokojowemieszkanie51m²nawynajemkrakowbienczy|2900|51.0|mistrzejowice": 1787579677,
     "bronowice2pok43m2bezczynszoweklima|3200|43.0|bronowice": 1787580309,
     "nowoczesne2pokojowemieszkanievivapiast39m2zga|2900|39.0|mistrzejowice": 1787580309,
-    "dowynajeciaurokliwemieszkaniewnowejhucie|2700|38.0|nowahuta": 1787580309
+    "dowynajeciaurokliwemieszkaniewnowejhucie|2700|38.0|nowahuta": 1787580309,
+    "2pokojezbalkonemwarszawabielanyprowizja0zl|3400|38.0|bielany": 1787580948,
+    "mieszkaniedowynajeciaulpiltzadwupokojoweod110|2800|45.0|podgorze": 1787581581
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Rembertów</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 680 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 280 zł/мес\n🔐 Kaucja (залог): 680 zł\n📅 Заселение: с 04.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe Warszawa ul. Chełmżyńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-warszawa-ul-chelmzynska-CID3-ID1bZXeJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
-      "ts": 1787569473,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 680,
-        "area": 35.0,
-        "district": "Rembertów",
-        "business": false,
-        "created_iso": "2026-08-24T11:52:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 680
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 44 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b>\n   ≈ с медиа около 3450 zł/мес\n⚡ Свет/медиа: ≈ 100 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2700 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszaknie do wynajecia Kraków Wola Duchacka ul. Czarnogórska 10 ( 44m2 )»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszaknie-do-wynajecia-krakow-wola-duchacka-ul-czarnogorska-10-44m2-CID3-ID1bZYae.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:08",
-      "ts": 1787569473,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 650,
-        "area": 44.0,
-        "district": "Podgórze Duchackie",
-        "business": false,
-        "created_iso": "2026-08-24T12:08:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 650
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 40.53 м², 2 комнаты\n💰 3447 + czynsz 550 = <b>3997 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n🏢 агентство\n«Mieszkanie na wynajem Kraków | Bez prowizji | 40 m² | Nad Sudołem»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-krakow-bez-prowizji-40-m-nad-sudolem-CID3-ID1bZZWm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:29",
       "ts": 1787569473,
@@ -7636,13 +7610,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 38 м², 2 комнаты\n💰 3400 + czynsz 390 = <b>3790 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n🏢 Этаж: 4\n🏢 агентство\n«2 Pokoje Z Balkonem Warszawa Bielany Prowizja 0 Zł»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-warszawa-bielany-prowizja-0-zl-CID3-ID1c0eEM.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:05",
+      "ts": 1787580948,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3400,
+        "rent": 390,
+        "area": 38.0,
+        "district": "Bielany",
+        "business": true,
+        "created_iso": "2026-08-24T16:05:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 45 м², 2 комнаты\n💰 2800 + czynsz 700 = <b>3500 zł/мес</b>\n   ≈ с медиа около 3650 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🔐 Kaucja (залог): 3650 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia ul.Piltza dwu pokojowe od 1.10.2026r»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-ul-piltza-dwu-pokojowe-od-1-10-2026r-CID3-ID1c0ffI.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:13",
+      "ts": 1787581581,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-24T16:13:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5802,
-    "sent": 2328
+    "checks": 5806,
+    "sent": 2330
   },
   "initialized": true,
-  "last_check": "2026-08-24T14:05:23",
+  "last_check": "2026-08-24T14:26:33",
   "backoff_until": 1787369093.497045
 }
