@@ -4704,7 +4704,13 @@
     "1093429984": 1787564502,
     "1093432186": 1787564502,
     "1093435074": 1787564815,
-    "1093435810": 1787565128
+    "1093435810": 1787565128,
+    "1093438245": 1787565444,
+    "1093437521": 1787565444,
+    "1093433977": 1787565444,
+    "1093436161": 1787565761,
+    "1093435260": 1787565761,
+    "1093439850": 1787566076
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6830,62 +6836,14 @@
     "23osobowemieszkaniewkrakowie|2800|42.0|podgorzeduchackie": 1787562612,
     "mieszkaniekrakowbronowice2pokojoweobokikei|3200|39.0|krowodrza": 1787563557,
     "ostrobramskapragapoludnienajemdlugoterminowy|2800|49.5|pragapoludnie": 1787563557,
-    "wynajemumeblowanemieszkaniedwupokojowekrakowu|2600|35.0|pradnikczerwony": 1787565128
+    "wynajemumeblowanemieszkaniedwupokojowekrakowu|2600|35.0|pradnikczerwony": 1787565128,
+    "mieszkanie2pokojowewarszawaulchelmzynska|2900|35.0|rembertow": 1787565444,
+    "pieknemieszkanie2pokojoweprzylesieiparku|2700|42.0|bialoleka": 1787565444,
+    "mieszkanie38m2wwarszawieursusdowynajmu|2600|38.4|ursus": 1787565761
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 43 м², 2 комнаты\n💰 2800 + czynsz 900 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3500 zł\n👤 от собственника\n«Mieszkanie na wynajem ul. Reduta 44»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-reduta-44-CID3-ID1bZIVw.html\">Открыть на OLX</a>  ·  добавлено вчера в 22:59",
-      "ts": 1787527452,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 900,
-        "area": 43.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-23T22:59:54+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 812 = <b>3512 zł/мес</b>\n   ≈ с медиа около 3622 zł/мес\n⚡ Свет/медиа: ≈ 110 zł + свет по счётчику\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 3\n👤 от собственника\n«Kameralne, ciche w zielonej części Górnego Mokotowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kameralne-ciche-w-zielonej-czesci-gornego-mokotowa-CID3-ID1bZJEU.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:35",
-      "ts": 1787527452,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 812,
-        "area": 38.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-23T23:35:49+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 700 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 250 zł/мес\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie 41m² Zwierzyniec ul.Włóczków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-41m-zwierzyniec-ul-wloczkow-CID3-ID1bZJHe.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:37",
-      "ts": 1787527452,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 700,
-        "area": 41.0,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-23T23:37:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 3\n🏢 агентство\n«Poznańska 11 - dwupokojowe do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/poznanska-11-dwupokojowe-do-wynajecia-CID3-ID1bZJT2.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:49",
       "ts": 1787527452,
@@ -7514,13 +7472,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 780 = <b>3480 zł/мес</b>\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«Piękne mieszkanie 2 pokojowe przy lesie i parku!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-mieszkanie-2-pokojowe-przy-lesie-i-parku-CID3-ID1bZX33.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:49",
+      "ts": 1787565444,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 780,
+        "area": 42.0,
+        "district": "Białołęka",
+        "business": true,
+        "created_iso": "2026-08-24T11:49:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 780
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Rembertów</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 680 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 280 zł/мес\n🔐 Kaucja (залог): 680 zł\n📅 Заселение: с 04.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe Warszawa ul. Chełmżyńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-warszawa-ul-chelmzynska-CID3-ID1bZXeJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
+      "ts": 1787565444,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 680,
+        "area": 35.0,
+        "district": "Rembertów",
+        "business": false,
+        "created_iso": "2026-08-24T11:52:59+02:00"
+      },
+      "an": {
+        "czynsz_desc": 680
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 38.4 м², 2 комнаты\n💰 2600 + czynsz 400 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 350 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 38m2 w Warszawie Ursus do wynajmu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-38m2-w-warszawie-ursus-do-wynajmu-CID3-ID1bZVsA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:41",
+      "ts": 1787565761,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2600,
+        "rent": 400,
+        "area": 38.4,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-24T11:41:25+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5770,
-    "sent": 2286
+    "checks": 5774,
+    "sent": 2289
   },
   "initialized": true,
-  "last_check": "2026-08-24T09:52:16",
+  "last_check": "2026-08-24T10:13:16",
   "backoff_until": 1787369093.497045
 }
