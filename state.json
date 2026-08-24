@@ -4797,7 +4797,11 @@
     "1093518347": 1787583803,
     "1093516338": 1787583803,
     "1093519812": 1787583803,
-    "1093517073": 1787583803
+    "1093517073": 1787583803,
+    "1093519994": 1787584129,
+    "1093520162": 1787584129,
+    "1093519863": 1787584448,
+    "1093522192": 1787584448
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6974,62 +6978,14 @@
     "nowoczesne2pokojeolsza33m²parking3300zloplaty|3300|33.0|pradnikczerwony": 1787583803,
     "krakownowahutaoszielone55m²2pokojekuchniaosob|2500|55.0|nowahuta": 1787583803,
     "mieszkanie2pokojowemetrobemowo|3200|32.0|bemowo": 1787583803,
-    "ladnenowebudownictwo2024r400modkoejkiskmgaraz|3000|42.0|ursus": 1787583803
+    "ladnenowebudownictwo2024r400modkoejkiskmgaraz|3000|42.0|ursus": 1787583803,
+    "2pokojetarasgarazpodziemnyosiedlestrzezonemet|3200|40.0|bemowo": 1787584129,
+    "mieszkaniedowynajecia|2400|39.0|staremiasto": 1787584448,
+    "2pokojestacjagrochowulprzeworska9odzaraz|3200|45.0|pragapoludnie": 1787584448
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 42 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do wynajęcia mieszkanie Powiśle - Warszawa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-powisle-warszawa-CID3-ID1bZZjH.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:24",
-      "ts": 1787569816,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 1000,
-        "area": 42.0,
-        "district": "Śródmieście",
-        "business": false,
-        "created_iso": "2026-08-24T12:24:45+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 46 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2400 zł\n📅 Заселение: сразу (od zaraz)\n🐾 можно с животными · 👤 от собственника\n«Wynajem - mieszkanie 46 m² / 2 pokoje idealne dla 2 studentek/ów, całość lub pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-mieszkanie-46-m-2-pokoje-idealne-dla-2-studentek-ow-calosc-lub-pokoje-CID3-ID1c012X.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:50",
-      "ts": 1787569816,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 800,
-        "area": 46.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-24T12:50:02+02:00"
-      },
-      "an": {
-        "czynsz_desc": 0
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 37 м², 2 комнаты\n💰 2500 + czynsz 750 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2-pok| Bronowice | Zarzecze»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pok-bronowice-zarzecze-CID3-ID1c01vB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 12:58",
-      "ts": 1787569816,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 750,
-        "area": 37.0,
-        "district": "Bronowice",
-        "business": true,
-        "created_iso": "2026-08-24T12:58:07+02:00"
-      },
-      "an": {
-        "czynsz_desc": 750
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Bemowo</b> — 48 м², 2 комнаты\n💰 2800 + czynsz 1200 = <b>4000 zł/мес</b>\n   ≈ с медиа около 4053 zł/мес\n⚡ Свет/медиа: ≈ 53 zł/мес\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«Wynajme mieszkanie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-ID1c02NF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 13:19",
       "ts": 1787571088,
@@ -7658,13 +7614,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bemowo</b> — 40 м², 2 комнаты\n💰 3200 + czynsz 730 = <b>3930 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 09.11.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«2 pokoje , taras, garaż podziemny, osiedle strzeżone, metro Lazurowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-taras-garaz-podziemny-osiedle-strzezone-metro-lazurowa-CID3-ID1c0ixY.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:56",
+      "ts": 1787584129,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 3200,
+        "rent": 730,
+        "area": 40.0,
+        "district": "Bemowo",
+        "business": false,
+        "created_iso": "2026-08-24T16:56:49+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 39 м², 2 комнаты\n💰 2400 + czynsz 800 = <b>3200 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«mieszkanie do wynajęcia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-ID1c0it9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 16:55",
+      "ts": 1787584448,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 800,
+        "area": 39.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-24T16:55:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n🏢 агентство\n«2 pokoje | Stacja Grochów | ul. Przeworska 9 | od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-stacja-grochow-ul-przeworska-9-od-zaraz-CID3-ID1c0j4I.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:03",
+      "ts": 1787584448,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 45.0,
+        "district": "Praga-Południe",
+        "business": true,
+        "created_iso": "2026-08-24T17:03:51+02:00"
+      },
+      "an": {
+        "czynsz_desc": 700
+      }
     }
   ],
   "stats": {
-    "checks": 5813,
-    "sent": 2337
+    "checks": 5817,
+    "sent": 2340
   },
   "initialized": true,
-  "last_check": "2026-08-24T15:03:40",
+  "last_check": "2026-08-24T15:24:50",
   "backoff_until": 1787369093.497045
 }
