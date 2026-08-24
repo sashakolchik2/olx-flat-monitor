@@ -4879,7 +4879,9 @@
     "1093640849": 1787604927,
     "1093641477": 1787604927,
     "1093643671": 1787605243,
-    "1093644138": 1787605556
+    "1093644138": 1787605556,
+    "1093618389": 1787606493,
+    "1093649447": 1787606493
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7107,45 +7109,13 @@
     "dowynajecia2pokojowemieszkaniezbalkonem485m²k|2990|48.5|biezanowprokocim": 1787604927,
     "wyjatkowe2pokojowemieszkaniewcentrumulwalicow|2900|33.0|srodmiescie": 1787604927,
     "krakòwzablocie2pokojowemieszkanienawynajemodp|3175|39.0|podgorze": 1787605243,
-    "38m²2pokojegarderobaduzybalkon3mindotramwajup|3000|38.0|pragapoludnie": 1787605556
+    "38m²2pokojegarderobaduzybalkon3mindotramwajup|3000|38.0|pragapoludnie": 1787605556,
+    "mieszkaniedowynajecianawarszawskimbrodnie|3500|46.0|targowek": 1787606493,
+    "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787606493
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 56 м², 2 комнаты\n💰 3200 + czynsz 640 = <b>3840 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3200 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 5\n👤 от собственника\n«Mieszkanie na wynajem ul.Zdunów Kraków Borek Fałęcki przy lesie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-zdunow-krakow-borek-falecki-przy-lesie-CID3-ID1c0rgW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:40",
-      "ts": 1787590483,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 640,
-        "area": 56.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": false,
-        "created_iso": "2026-08-24T18:40:17+02:00"
-      },
-      "an": {
-        "czynsz_desc": 640
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 41 м², 2 комнаты\n💰 3000 + czynsz 745 = <b>3745 zł/мес</b>\n   ≈ с медиа около 3895 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 5\n👤 от собственника\n«mieszkanie 41m, 2 pokoje, 8 min M2 Trocka, garaż poddziemny, 10m balkon, oddzielna kuchnia, ostatnie piętro, winda, ochrona»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-41m-2-pokoje-8-min-m2-trocka-garaz-poddziemny-10m-balkon-oddzielna-kuchnia-ostatnie-pietro-winda-ochrona-CID3-ID1c0ron.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:42",
-      "ts": 1787590483,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 745,
-        "area": 41.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-24T18:42:14+02:00"
-      },
-      "an": {
-        "czynsz_desc": 745
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Śródmieście</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 6\n👤 от собственника\n«Wynajmę mieszkanie 2 oddzielne pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-oddzielne-pokoje-CID3-ID1c0t70.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:59",
       "ts": 1787591438,
@@ -7791,13 +7761,47 @@
       "an": {
         "czynsz_desc": 580
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 46 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 250 zł/мес\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie do wynajęcia na Warszawskim Bródnie.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-na-warszawskim-brodnie-CID3-ID1c0I6h.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:28",
+      "ts": 1787606493,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 46.0,
+        "district": "Targówek",
+        "business": false,
+        "created_iso": "2026-08-24T21:28:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 35 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n   ≈ с медиа около 4100 zł/мес\n⚡ Свет/медиа: ≈ 200 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 5\n🏢 агентство\n«Kondratowicza 35 m2/metro, 2 pokoje, nowe, garaż, meble, klima!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/kondratowicza-35-m2-metro-2-pokoje-nowe-garaz-meble-klima-CID3-ID1c0Qbd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 23:07",
+      "ts": 1787606493,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 35.0,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-24T23:07:34+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5868,
-    "sent": 2390
+    "checks": 5872,
+    "sent": 2392
   },
   "initialized": true,
-  "last_check": "2026-08-24T21:16:27",
+  "last_check": "2026-08-24T21:37:18",
   "backoff_until": 1787369093.497045
 }
