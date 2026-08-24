@@ -4777,7 +4777,14 @@
     "1093493231": 1787578410,
     "1093492130": 1787578410,
     "1093494025": 1787578727,
-    "1093493936": 1787578727
+    "1093493936": 1787578727,
+    "1093495897": 1787579360,
+    "1093499021": 1787579677,
+    "1093502153": 1787580309,
+    "1093500918": 1787580309,
+    "1093003941": 1787580309,
+    "1093499332": 1787580309,
+    "1093496908": 1787580309
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6940,96 +6947,16 @@
     "wpelniwyposazonemieszkanie38m²zklimatyzacjaib|2900|38.0|pradnikbialy": 1787576175,
     "jasnenowoczesne2pokojowemieszkaniewaparamento|3200|35.0|wlochy": 1787576175,
     "mieszkaniedwupokojoweprzymetrzetuzporemoncie|2900|37.0|targowek": 1787576175,
-    "mieszkanienawynajembliskabialolekazmiejscemga|2900|37.0|bialoleka": 1787578410
+    "mieszkanienawynajembliskabialolekazmiejscemga|2900|37.0|bialoleka": 1787578410,
+    "rakowicka2pokcentrumuekrecepcjaochronaeng|3000|35.0|staremiasto": 1787579360,
+    "2pokojowemieszkanie51m²nawynajemkrakowbienczy|2900|51.0|mistrzejowice": 1787579677,
+    "bronowice2pok43m2bezczynszoweklima|3200|43.0|bronowice": 1787580309,
+    "nowoczesne2pokojowemieszkanievivapiast39m2zga|2900|39.0|mistrzejowice": 1787580309,
+    "dowynajeciaurokliwemieszkaniewnowejhucie|2700|38.0|nowahuta": 1787580309
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 49.5 м², 2 комнаты\n💰 2800 + czynsz 608 = <b>3408 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Ostrobramska, Praga Południe. Najem długoterminowy»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ostrobramska-praga-poludnie-najem-dlugoterminowy-CID3-ID1bZUnK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:11",
-      "ts": 1787563557,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2800,
-        "rent": 608,
-        "area": 49.5,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-24T11:11:27+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 39 м², 2 комнаты\n💰 3200 + czynsz 350 = <b>3550 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie Kraków Bronowice 2 pokojowe obok Ikei»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-krakow-bronowice-2-pokojowe-obok-ikei-CID3-ID1bZUrU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:12",
-      "ts": 1787563557,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 39.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-24T11:12:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 350
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursus</b> — 38.4 м², 2 комнаты\n💰 2600 + czynsz 400 = <b>3000 zł/мес</b>\n   ≈ с медиа около 3350 zł/мес\n⚡ Свет/медиа: ≈ 350 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 38m2 w Warszawie Ursus do wynajmu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-38m2-w-warszawie-ursus-do-wynajmu-CID3-ID1bZVsA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:41",
-      "ts": 1787569473,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 400,
-        "area": 38.4,
-        "district": "Ursus",
-        "business": false,
-        "created_iso": "2026-08-24T11:41:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 35 м², 2 комнаты\n💰 2600 + czynsz 730 = <b>3330 zł/мес</b>\n   ≈ с медиа около 3630 zł/мес\n⚡ Свет/медиа: ≈ 300 zł/мес\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 9\n👤 от собственника\n«Wynajem - umeblowane mieszkanie dwupokojowe Kraków, ul. Zaułek Wileński, os. Olsza»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-umeblowane-mieszkanie-dwupokojowe-krakow-ul-zaulek-wilenski-os-olsza-CID3-ID1bZVBs.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:43",
-      "ts": 1787569473,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 730,
-        "area": 35.0,
-        "district": "Prądnik Czerwony",
-        "business": false,
-        "created_iso": "2026-08-24T11:43:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 780 = <b>3480 zł/мес</b>\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: 2\n🏢 агентство\n«Piękne mieszkanie 2 pokojowe przy lesie i parku!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-mieszkanie-2-pokojowe-przy-lesie-i-parku-CID3-ID1bZX33.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:49",
-      "ts": 1787569473,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 780,
-        "area": 42.0,
-        "district": "Białołęka",
-        "business": true,
-        "created_iso": "2026-08-24T11:49:51+02:00"
-      },
-      "an": {
-        "czynsz_desc": 780
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Rembertów</b> — 35 м², 2 комнаты\n💰 2900 + czynsz 680 = <b>3580 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: 280 zł/мес\n🔐 Kaucja (залог): 680 zł\n📅 Заселение: с 04.10.2026 ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie 2-pokojowe Warszawa ul. Chełmżyńska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-warszawa-ul-chelmzynska-CID3-ID1bZXeJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:52",
       "ts": 1787569473,
@@ -7624,13 +7551,98 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 470 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🏢 агентство\n«Rakowicka | 2 pok | CENTRUM | UEK | recepcja + ochrona | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-2-pok-centrum-uek-recepcja-ochrona-eng-CID3-ID1c0ceB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:33",
+      "ts": 1787579360,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 470,
+        "area": 35.0,
+        "district": "Stare Miasto",
+        "business": true,
+        "created_iso": "2026-08-24T15:33:11+02:00"
+      },
+      "an": {
+        "czynsz_desc": 470
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 51 м², 2 комнаты\n💰 2900 + czynsz 990 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie 51 m² na wynajem – Kraków, Bieńczyce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-51-m-na-wynajem-krakow-bienczyce-CID3-ID1c0d2Z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:44",
+      "ts": 1787579677,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2900,
+        "rent": 990,
+        "area": 51.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-24T15:44:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 980
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Nowa Huta</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 590 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do Wynajęcia: Urokliwe Mieszkanie w Nowej Hucie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-urokliwe-mieszkanie-w-nowej-hucie-CID3-ID1bY8fP.html\">Открыть на OLX</a>  ·  добавлено 21.08 21:49",
+      "ts": 1787580309,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 590,
+        "area": 38.0,
+        "district": "Nowa Huta",
+        "business": false,
+        "created_iso": "2026-08-21T21:49:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 590
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 39 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 300 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n🐾 можно с животными · 👤 от собственника\n«NOWOCZESNE 2-POKOJOWE MIESZKANIE, VIVA PIAST, 39 m2 z garażem, wynajmie właściciel»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-viva-piast-39-m2-z-garazem-wynajmie-wlasciciel-CID3-ID1c0dxA.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:51",
+      "ts": 1787580309,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 800,
+        "area": 39.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-24T15:51:03+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 43 м², 2 комнаты\n💰 3200 + czynsz 320 = <b>3520 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 3\n🏢 агентство\n«Bronowice | 2 Pok | 43m2 | Bezczynszowe | Klima»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bronowice-2-pok-43m2-bezczynszowe-klima-CID3-ID1c0dRw.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:55",
+      "ts": 1787580309,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 320,
+        "area": 43.0,
+        "district": "Bronowice",
+        "business": true,
+        "created_iso": "2026-08-24T15:55:08+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5798,
-    "sent": 2323
+    "checks": 5802,
+    "sent": 2328
   },
   "initialized": true,
-  "last_check": "2026-08-24T13:44:11",
+  "last_check": "2026-08-24T14:05:23",
   "backoff_until": 1787369093.497045
 }
