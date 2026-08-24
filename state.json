@@ -4810,7 +4810,10 @@
     "1093530014": 1787586357,
     "1093530024": 1787586674,
     "1093533148": 1787587308,
-    "1093533375": 1787587626
+    "1093533375": 1787587626,
+    "1093540449": 1787588261,
+    "1093540160": 1787588261,
+    "1093543432": 1787588580
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -6997,62 +7000,14 @@
     "mieszkaniedowynajeciabemowo2pokojeosobnakuchn|2850|47.0|bemowo": 1787586039,
     "bezposredniowynajmejasnemieszkaniedodatkowoog|2800|53.0|pragapoludnie": 1787586674,
     "noweurzadzone2pokoje35m2metrochrzanowm2newequ|3200|35.0|bemowo": 1787587308,
-    "2pokojowemieszkaniewcentrumkrakowadabiegrzego|3000|36.0|grzegorzki": 1787587626
+    "2pokojowemieszkaniewcentrumkrakowadabiegrzego|3000|36.0|grzegorzki": 1787587626,
+    "2pokojowelobzowcentralnieduzakuchnia|2690|47.23|krowodrza": 1787588261,
+    "wynajmemieszkaniedwupokojoweazoryulpalachadla|2300|38.0|krowodrza": 1787588261,
+    "dwupokojowemieszkanie31mnawolinaulicyszulbors|3000|31.0|wola": 1787588580
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Wola</b> — 38 м², 2 комнаты\n💰 3500 + czynsz 470 = <b>3970 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Wynajmę 2 pokoje Warszawa Wola vis a vis metro»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-warszawa-wola-vis-a-vis-metro-CID3-ID1c05Z7.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:01",
-      "ts": 1787573943,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3500,
-        "rent": 470,
-        "area": 38.0,
-        "district": "Wola",
-        "business": false,
-        "created_iso": "2026-08-24T14:01:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 36 м², 2 комнаты\n💰 2700 + czynsz 960 = <b>3660 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 3\n🐾 можно с животными · 🏢 агентство\n«mieszkanie wynajem Bielany 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-wynajem-bielany-2-pokoje-CID3-ID1c06GW.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:12",
-      "ts": 1787574262,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 960,
-        "area": 36.0,
-        "district": "Bielany",
-        "business": true,
-        "created_iso": "2026-08-24T14:12:39+02:00"
-      },
-      "an": {
-        "czynsz_desc": 960
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Łagiewniki-Borek Fałęcki</b> — 45 м², 2 комнаты\n💰 2600 + czynsz 810 = <b>3410 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2600 zł\n📅 Заселение: с 26 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje z tarasem i klimatyzacją ul. ZACHODNIA Ruczaj»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-tarasem-i-klimatyzacja-ul-zachodnia-ruczaj-CID3-ID1c06Jm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:13",
-      "ts": 1787574262,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 810,
-        "area": 45.0,
-        "district": "Łagiewniki-Borek Fałęcki",
-        "business": true,
-        "created_iso": "2026-08-24T14:13:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze Duchackie</b> — 47.6 м², 2 комнаты\n💰 2600 + czynsz 880 = <b>3480 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n🏢 Этаж: 4\n🏢 агентство\n«Przestronne dwupokojowe mieszkanie z widokiem na panoramę Kurdwanowa»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-dwupokojowe-mieszkanie-z-widokiem-na-panorame-kurdwanowa-CID3-ID1c060G.html\">Открыть на OLX</a>  ·  добавлено сегодня в 14:02",
       "ts": 1787574899,
@@ -7681,13 +7636,64 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 38 м², 2 комнаты\n💰 2300 + czynsz 700 = <b>3000 zł/мес</b>\n🚗 Паркинг: в цене\n🏢 Этаж: 4\n👤 от собственника\n«Wynajmę mieszkanie dwupokojowe Azory ul. Palacha [dla studentów]»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-azory-ul-palacha-dla-studentow-CID3-ID1c0nKv.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:02",
+      "ts": 1787588261,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2300,
+        "rent": 700,
+        "area": 38.0,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-24T18:02:54+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Krowodrza</b> — 47.23 м², 2 комнаты\n💰 2690 + czynsz 795 = <b>3485 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 4\n👤 от собственника\n«2-pokojowe Łobzów, centralnie + duża kuchnia»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-lobzow-centralnie-duza-kuchnia-CID3-ID1c0nPb.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:03",
+      "ts": 1787588261,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2690,
+        "rent": 795,
+        "area": 47.23,
+        "district": "Krowodrza",
+        "business": false,
+        "created_iso": "2026-08-24T18:03:28+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 31 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 6\n👤 от собственника\n«Dwupokojowe mieszkanie 31 m na Woli na ulicy Szulborskiej»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-31-m-na-woli-na-ulicy-szulborskiej-CID3-ID1c0oBi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 18:09",
+      "ts": 1787588580,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 31.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-24T18:09:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5825,
-    "sent": 2347
+    "checks": 5828,
+    "sent": 2350
   },
   "initialized": true,
-  "last_check": "2026-08-24T16:07:16",
+  "last_check": "2026-08-24T16:23:11",
   "backoff_until": 1787369093.497045
 }
