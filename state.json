@@ -4883,7 +4883,10 @@
     "1093618389": 1787606493,
     "1093649447": 1787606493,
     "1093654136": 1787608368,
-    "1093654263": 1787608368
+    "1093654263": 1787608368,
+    "1093654050": 1787608995,
+    "1093657069": 1787609308,
+    "1093655590": 1787609621
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7114,45 +7117,13 @@
     "38m²2pokojegarderobaduzybalkon3mindotramwajup|3000|38.0|pragapoludnie": 1787605556,
     "mieszkaniedowynajecianawarszawskimbrodnie|3500|46.0|targowek": 1787606493,
     "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787606493,
-    "przestronnesamodzielne2pokojewswietnejlokaliz|3000|57.0|ursynow": 1787608368
+    "przestronnesamodzielne2pokojewswietnejlokaliz|3000|57.0|ursynow": 1787608368,
+    "przestronne2oddzielnepokoje15minutdocentrum|3500|55.0|pragapoludnie": 1787609308,
+    "mieszkanie2pokojenastarympodgorzu|2800|39.0|podgorze": 1787609621
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 500 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 4\n👤 от собственника\n«Nowe 2 pokoje przy ul. Zdrowej – Świeżo po remoncie &amp; Świetna lokalizacja!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-2-pokoje-przy-ul-zdrowej-swiezo-po-remoncie-swietna-lokalizacja-CID3-ID1c0kQd.html\">Открыть на OLX</a>  ·  добавлено сегодня в 17:30",
-      "ts": 1787591752,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 500,
-        "area": 35.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-24T17:30:59+02:00"
-      },
-      "an": {
-        "czynsz_desc": 500
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Ursynów</b> — 32 м², 2 комнаты\n💰 3000 + czynsz 813 = <b>3813 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: в цене\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokoje Ursynów bezpośrednio metro Natolin»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-ursynow-bezposrednio-metro-natolin-CID3-ID1c0tml.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:01",
-      "ts": 1787591752,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 813,
-        "area": 32.0,
-        "district": "Ursynów",
-        "business": false,
-        "created_iso": "2026-08-24T19:01:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 813
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Północ</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Plac Hallera dwupokojowe od zaraz.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/plac-hallera-dwupokojowe-od-zaraz-CID3-ID1c0uxC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
       "ts": 1787592067,
@@ -7798,13 +7769,47 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 55 м², 2 комнаты\n💰 3500 zł + czynsz? (не указан — уточни у владельца)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n👤 от собственника\n«Przestronne, 2 oddzielne pokoje, 15 minut do Centrum»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-oddzielne-pokoje-15-minut-do-centrum-CID3-ID1c0Sa9.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:57",
+      "ts": 1787609308,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": null,
+        "area": 55.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-24T23:57:16+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 39 м², 2 комнаты\n💰 2800 + czynsz 390 = <b>3190 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Mieszkanie 2 pokoje na Starym Podgórzu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-na-starym-podgorzu-CID3-ID1c0RMi.html\">Открыть на OLX</a>  ·  добавлено вчера в 23:52",
+      "ts": 1787609621,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2800,
+        "rent": 390,
+        "area": 39.0,
+        "district": "Podgórze",
+        "business": true,
+        "created_iso": "2026-08-24T23:52:43+02:00"
+      },
+      "an": {
+        "czynsz_desc": 390
+      }
     }
   ],
   "stats": {
-    "checks": 5875,
-    "sent": 2393
+    "checks": 5879,
+    "sent": 2395
   },
   "initialized": true,
-  "last_check": "2026-08-24T21:52:57",
+  "last_check": "2026-08-24T22:13:50",
   "backoff_until": 1787369093.497045
 }
