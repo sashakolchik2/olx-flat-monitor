@@ -4842,7 +4842,11 @@
     "1093589998": 1787596136,
     "1093590865": 1787596449,
     "1093592330": 1787596764,
-    "1093598306": 1787597699
+    "1093598306": 1787597699,
+    "1093595612": 1787598012,
+    "1093602851": 1787598323,
+    "1093599898": 1787598323,
+    "1093602793": 1787598636
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7044,28 +7048,12 @@
     "kawalerkaoddzielnasypialniametrobrodno26m2bez|2600|26.0|targowek": 1787593325,
     "2pokojebalkondebnikiujzwierzetaakceptowane|2500|37.04|debniki": 1787594262,
     "pieknewidokowe2pokoje40m2klima2xgaraz|3000|40.0|bronowice": 1787595512,
-    "mieszkaniedowynajeciastarebielany|2500|35.0|bielany": 1787596136
+    "mieszkaniedowynajeciastarebielany|2500|35.0|bielany": 1787596136,
+    "mieszkanie2pokojowenazablociu42m²|3000|42.0|podgorze": 1787598323
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Mistrzejowice</b> — 51 м², 2 комнаты\n💰 2900 + czynsz 990 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie 51 m² na wynajem – Kraków, Bieńczyce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-51-m-na-wynajem-krakow-bienczyce-CID3-ID1c0d2Z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:44",
-      "ts": 1787579677,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2900,
-        "rent": 990,
-        "area": 51.0,
-        "district": "Mistrzejowice",
-        "business": false,
-        "created_iso": "2026-08-24T15:44:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 980
-      }
-    },
     {
       "text": "🏠 <b>Краков, Nowa Huta</b> — 38 м², 2 комнаты\n💰 2700 + czynsz 590 = <b>3290 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Do Wynajęcia: Urokliwe Mieszkanie w Nowej Hucie»\n🔗 <a href=\"https://www.olx.pl/d/oferta/do-wynajecia-urokliwe-mieszkanie-w-nowej-hucie-CID3-ID1bY8fP.html\">Открыть на OLX</a>  ·  добавлено 21.08 21:49",
       "ts": 1787580309,
@@ -7728,13 +7716,30 @@
       "an": {
         "czynsz_desc": 800
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Podgórze</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 790 = <b>3790 zł/мес</b>\n🔐 Kaucja (залог): 790 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na Zabłociu – 42 m²,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-zablociu-42-m-CID3-ID1c0Di2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:48",
+      "ts": 1787598323,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 790,
+        "area": 42.0,
+        "district": "Podgórze",
+        "business": false,
+        "created_iso": "2026-08-24T20:48:20+02:00"
+      },
+      "an": {
+        "czynsz_desc": 790
+      }
     }
   ],
   "stats": {
-    "checks": 5841,
-    "sent": 2364
+    "checks": 5844,
+    "sent": 2365
   },
   "initialized": true,
-  "last_check": "2026-08-24T18:55:05",
+  "last_check": "2026-08-24T19:10:48",
   "backoff_until": 1787369093.497045
 }
