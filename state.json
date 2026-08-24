@@ -4833,11 +4833,17 @@
     "1093552890": 1787593325,
     "1093575143": 1787594262,
     "1093576138": 1787594576,
-    "1093584285": 1787595198
+    "1093584285": 1787595198,
+    "1093584987": 1787595512,
+    "1093586245": 1787595512,
+    "1093584491": 1787595512,
+    "1093273153": 1787595512,
+    "1093583187": 1787595826,
+    "1093589998": 1787596136,
+    "1093590865": 1787596449
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
-    "2pokojowemieszkanieztarasem14m²klimatyzacjaigarazemkrakowzlo|2500|41.0": 1785003857,
     "nowoczesne2pokojowemieszkanieulsiemaszkidostepneodwrzesnia|2500|35.0": 1785025645,
     "mieszkanie2pokojowe445m2ulwloskadzpodgorzeduchackie|2500|44.5": 1785042888,
     "wynajmemieszkaniedwupokojowekrakowczyzynybliskoakfpolitechni|3200|50.0": 1785067663,
@@ -7034,45 +7040,13 @@
     "saskablunowe2pokmieszkaniedowynajeciawceniemc|3000|36.0|podgorze": 1787592696,
     "2pokojowemieszkanienawynajemkamionekulicazamo|3000|35.7|pragapoludnie": 1787593012,
     "kawalerkaoddzielnasypialniametrobrodno26m2bez|2600|26.0|targowek": 1787593325,
-    "2pokojebalkondebnikiujzwierzetaakceptowane|2500|37.04|debniki": 1787594262
+    "2pokojebalkondebnikiujzwierzetaakceptowane|2500|37.04|debniki": 1787594262,
+    "pieknewidokowe2pokoje40m2klima2xgaraz|3000|40.0|bronowice": 1787595512,
+    "mieszkaniedowynajeciastarebielany|2500|35.0|bielany": 1787596136
   },
   "tg_offset": 654625402,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Białołęka</b> — 37 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem - bliska Białołęka, z miejscem garażowym.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-bliska-bialoleka-z-miejscem-garazowym-CID3-ID1c0bfQ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:20",
-      "ts": 1787578410,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Białołęka",
-        "business": false,
-        "created_iso": "2026-08-24T15:20:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 35 м², 2 комнаты\n💰 3000 + czynsz 470 = <b>3470 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n🏢 агентство\n«Rakowicka | 2 pok | CENTRUM | UEK | recepcja + ochrona | ENG»\n🔗 <a href=\"https://www.olx.pl/d/oferta/rakowicka-2-pok-centrum-uek-recepcja-ochrona-eng-CID3-ID1c0ceB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:33",
-      "ts": 1787579360,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 470,
-        "area": 35.0,
-        "district": "Stare Miasto",
-        "business": true,
-        "created_iso": "2026-08-24T15:33:11+02:00"
-      },
-      "an": {
-        "czynsz_desc": 470
-      }
-    },
     {
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 51 м², 2 комнаты\n💰 2900 + czynsz 990 = <b>3890 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 1\n👤 от собственника\n«2-pokojowe mieszkanie 51 m² na wynajem – Kraków, Bieńczyce»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-51-m-na-wynajem-krakow-bienczyce-CID3-ID1c0d2Z.html\">Открыть на OLX</a>  ·  добавлено сегодня в 15:44",
       "ts": 1787579677,
@@ -7718,13 +7692,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bronowice</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2025 ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Piękne widokowe 2 pokoje 40 m2 klima 2 x garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-widokowe-2-pokoje-40-m2-klima-2-x-garaz-CID3-ID1c0zpx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:07",
+      "ts": 1787595512,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 700,
+        "area": 40.0,
+        "district": "Bronowice",
+        "business": false,
+        "created_iso": "2026-08-24T20:07:31+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia Stare Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-stare-bielany-CID3-ID1c0AIm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:18",
+      "ts": 1787596136,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 800,
+        "area": 35.0,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-24T20:18:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 800
+      }
     }
   ],
   "stats": {
-    "checks": 5833,
-    "sent": 2362
+    "checks": 5837,
+    "sent": 2364
   },
   "initialized": true,
-  "last_check": "2026-08-24T18:13:24",
+  "last_check": "2026-08-24T18:34:16",
   "backoff_until": 1787369093.497045
 }
