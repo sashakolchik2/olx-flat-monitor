@@ -4900,7 +4900,13 @@
     "1093672098": 1787638188,
     "1093673279": 1787638188,
     "1093673105": 1787638505,
-    "1093675229": 1787639452
+    "1093675229": 1787639452,
+    "1093676991": 1787641033,
+    "1093679221": 1787641348,
+    "1093677869": 1787641348,
+    "1093678146": 1787641348,
+    "1093680170": 1787641669,
+    "1093680264": 1787641987
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7138,79 +7144,15 @@
     "mieszkaniedowynajeciakrakow|3000|50.0|mistrzejowice": 1787637241,
     "mieszkanie2pokojekawalerkazoddzielnasypialnia|3200|31.0|bemowo": 1787638188,
     "bezposredniodwupokojoweulokolnaprokocimzosobn|2300|45.0|biezanowprokocim": 1787638505,
-    "mieszkanie2niezaleznepokoje30m²ulchocimska30k|3000|30.0|krowodrza": 1787639452
+    "mieszkanie2niezaleznepokoje30m²ulchocimska30k|3000|30.0|krowodrza": 1787639452,
+    "bezposredniowynajmenowoczesne2pokmieszkaniewo|3300|31.0|wola": 1787641348,
+    "mieszkanie2pokojowenastegnach|2400|42.5|mokotow": 1787641348,
+    "2pokojewlochyprywatnyogrodekbezprowizji|3150|33.5|wlochy": 1787641348,
+    "przestronne2pokojewlochyinternetwceniepetfrie|3360|38.2|wlochy": 1787641669
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Bronowice</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 700 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2025 ⭐️\n🏢 Этаж: 6\n👤 от собственника\n«Piękne widokowe 2 pokoje 40 m2 klima 2 x garaż»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekne-widokowe-2-pokoje-40-m2-klima-2-x-garaz-CID3-ID1c0zpx.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:07",
-      "ts": 1787595512,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 700,
-        "area": 40.0,
-        "district": "Bronowice",
-        "business": false,
-        "created_iso": "2026-08-24T20:07:31+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Bielany</b> — 35 м², 2 комнаты\n💰 2500 + czynsz 800 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: с 1 октября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Mieszkanie do wynajęcia Stare Bielany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-stare-bielany-CID3-ID1c0AIm.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:18",
-      "ts": 1787596136,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2500,
-        "rent": 800,
-        "area": 35.0,
-        "district": "Bielany",
-        "business": false,
-        "created_iso": "2026-08-24T20:18:05+02:00"
-      },
-      "an": {
-        "czynsz_desc": 800
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 42 м², 2 комнаты\n💰 3000 + czynsz 790 = <b>3790 zł/мес</b>\n🔐 Kaucja (залог): 790 zł\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2-pokojowe na Zabłociu – 42 m²,»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-zablociu-42-m-CID3-ID1c0Di2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 20:48",
-      "ts": 1787598323,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 3000,
-        "rent": 790,
-        "area": 42.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-24T20:48:20+02:00"
-      },
-      "an": {
-        "czynsz_desc": 790
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Śródmieście</b> — 37.5 м², 2 комнаты\n💰 3200 + czynsz 720 = <b>3920 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 4\n🏢 агентство\n«2 pokoje z balkonem Powiśle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-z-balkonem-powisle-CID3-ID1c0ESC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:00",
-      "ts": 1787598955,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 3200,
-        "rent": 720,
-        "area": 37.5,
-        "district": "Śródmieście",
-        "business": true,
-        "created_iso": "2026-08-24T21:00:16+02:00"
-      },
-      "an": {
-        "czynsz_desc": 720
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dwupokojowe mieszkanie po generalnym remoncie na Grochowie, ul. Kordeckiego 62»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-po-generalnym-remoncie-na-grochowie-ul-kordeckiego-62-CID3-ID1c0HeR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:16",
       "ts": 1787599889,
@@ -7822,13 +7764,81 @@
       "an": {
         "czynsz_desc": 560
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Mokotów</b> — 42.5 м², 2 комнаты\n💰 2400 + czynsz 735 = <b>3135 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2400 zł\n🏢 Этаж: 8\n👤 от собственника\n«Mieszkanie 2 pokojowe na Stegnach»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-stegnach-CID3-ID1c0XzD.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:47",
+      "ts": 1787641348,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 2400,
+        "rent": 735,
+        "area": 42.5,
+        "district": "Mokotów",
+        "business": false,
+        "created_iso": "2026-08-25T08:47:46+02:00"
+      },
+      "an": {
+        "czynsz_desc": 735
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 33.5 м², 2 комнаты\n💰 3150 + czynsz 490 = <b>3640 zł/мес</b>\n   ≈ с медиа около 4111 zł/мес\n⚡ Свет/медиа: ≈ 471 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«2 pokoje / WŁOCHY/ PRYWATNY OGRÓDEK! bez prowizji !»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-wlochy-prywatny-ogrodek-bez-prowizji-CID3-ID1c0XE6.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:50",
+      "ts": 1787641348,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3150,
+        "rent": 490,
+        "area": 33.5,
+        "district": "Włochy",
+        "business": true,
+        "created_iso": "2026-08-25T08:50:04+02:00"
+      },
+      "an": {
+        "czynsz_desc": 490
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 31 м², 2 комнаты\n💰 3300 + czynsz 630 = <b>3930 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 7\n👤 от собственника\n«Bezpośrednio wynajmę, nowoczesne 2-pok. mieszkanie, WOLA – obok METRA»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-wynajme-nowoczesne-2-pok-mieszkanie-wola-obok-metra-CID3-ID1c0XWr.html\">Открыть на OLX</a>  ·  добавлено сегодня в 08:56",
+      "ts": 1787641348,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3300,
+        "rent": 630,
+        "area": 31.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-25T08:56:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 630
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Włochy</b> — 38.2 м², 2 комнаты\n💰 3360 + czynsz 490 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4321 zł/мес\n⚡ Свет/медиа: ≈ 471 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 1-й (parter)\n🏢 агентство\n«Przestronne 2 Pokoje / WŁOCHY /Internet w cenie ! Pet Friendly !»\n🔗 <a href=\"https://www.olx.pl/d/oferta/przestronne-2-pokoje-wlochy-internet-w-cenie-pet-friendly-CID3-ID1c0YaK.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:03",
+      "ts": 1787641669,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3360,
+        "rent": 490,
+        "area": 38.2,
+        "district": "Włochy",
+        "business": true,
+        "created_iso": "2026-08-25T09:03:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 490
+      }
     }
   ],
   "stats": {
-    "checks": 5954,
-    "sent": 2402
+    "checks": 5958,
+    "sent": 2406
   },
   "initialized": true,
-  "last_check": "2026-08-25T06:52:04",
+  "last_check": "2026-08-25T07:13:14",
   "backoff_until": 1787369093.497045
 }
