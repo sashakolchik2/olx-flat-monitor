@@ -4929,7 +4929,9 @@
     "1093691757": 1787645782,
     "1093692988": 1787646422,
     "1093694462": 1787646739,
-    "1093694245": 1787646739
+    "1093694245": 1787646739,
+    "1093700589": 1787648003,
+    "1093699737": 1787648003
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7182,28 +7184,12 @@
     "ladnemieszkanietaniodobraokazja|2400|43.0|bialoleka": 1787645782,
     "mieszkanie44m2oddzielnepokojewidnakuchniaboni|3500|44.0|srodmiescie": 1787646422,
     "ruczaj2pok46m2caloscok3400zlosobnakuchniapark|2499|46.0|debniki": 1787646739,
-    "mieszkanie2pokoje60mbezprowizji|3200|60.0|ursus": 1787646739
+    "mieszkanie2pokoje60mbezprowizji|3200|60.0|ursus": 1787646739,
+    "bezposrednioi2niezaleznepokojeioddzielnakuchn|2700|41.0|pradnikczerwony": 1787648003
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 1000 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje, 42 m² – przytulne i praktyczne mieszkanie ul. Soczi, Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-przytulne-i-praktyczne-mieszkanie-ul-soczi-mokotow-CID3-ID1c0Lb8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:04",
-      "ts": 1787603041,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2700,
-        "rent": 1000,
-        "area": 42.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-24T22:04:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": 1000
-      }
-    },
     {
       "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie z tarasem 35m2 - ul.Wodna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-z-tarasem-35m2-ul-wodna-CID3-ID1c0LZS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:10",
       "ts": 1787603041,
@@ -7866,13 +7852,30 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Prądnik Czerwony</b> — 41 м², 2 комнаты\n💰 2700 + czynsz 650 = <b>3350 zł/мес</b> (czynsz из описания)\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Bezpośrednio I 2 niezależne pokoje I oddzielna kuchnia - 41 m2, ul. St. ze Skalbmierza, Kraków - Olsza, wolne od zaraz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-i-2-niezalezne-pokoje-i-oddzielna-kuchnia-41-m2-ul-st-ze-skalbmierza-krakow-olsza-wolne-od-zaraz-CID3-ID1c13u5.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:41",
+      "ts": 1787648003,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2700,
+        "rent": null,
+        "area": 41.0,
+        "district": "Prądnik Czerwony",
+        "business": false,
+        "created_iso": "2026-08-25T10:41:55+02:00"
+      },
+      "an": {
+        "czynsz_desc": 650
+      }
     }
   ],
   "stats": {
-    "checks": 5973,
-    "sent": 2417
+    "checks": 5977,
+    "sent": 2418
   },
   "initialized": true,
-  "last_check": "2026-08-25T08:32:31",
+  "last_check": "2026-08-25T08:53:36",
   "backoff_until": 1787369093.497045
 }
