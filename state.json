@@ -4889,7 +4889,13 @@
     "1093618389": 1787611490,
     "1093649447": 1787611490,
     "1093661084": 1787613059,
+<<<<<<< Updated upstream
     "1093668246": 1787631484
+=======
+    "1093668246": 1787632502,
+    "1093668348": 1787632816,
+    "1093668770": 1787633132
+>>>>>>> Stashed changes
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7121,28 +7127,12 @@
     "przestronne2oddzielnepokoje15minutdocentrum|3500|55.0|pragapoludnie": 1787611490,
     "przestronnesamodzielne2pokojewswietnejlokaliz|3000|57.0|ursynow": 1787611490,
     "mieszkaniedowynajecianawarszawskimbrodnie|3500|46.0|targowek": 1787611490,
-    "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787611490
+    "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787611490,
+    "2pokojebalkonwislanetarasygrzegorzeckaubsabbb|3100|45.0|grzegorzki": 1787633132
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Północ</b> — 37 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n🔐 Kaucja (залог): 2500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 2\n👤 от собственника\n«Plac Hallera dwupokojowe od zaraz.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/plac-hallera-dwupokojowe-od-zaraz-CID3-ID1c0uxC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:11",
-      "ts": 1787592067,
-      "city": "warszawa",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Praga-Północ",
-        "business": false,
-        "created_iso": "2026-08-24T19:11:13+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 45 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n🚗 Паркинг: 300 zł/мес\n🏢 Этаж: Powyżej 10\n👤 от собственника\n«Mieszkanie dwupokojowe do wynajęcia wysoki standard piękny widok»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-do-wynajecia-wysoki-standard-piekny-widok-CID3-ID1c0usi.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:10",
       "ts": 1787592380,
@@ -7805,13 +7795,38 @@
       "an": {
         "czynsz_desc": null
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Grzegórzki</b> — 45 м², 2 комнаты\n💰 3100 + czynsz 550 = <b>3650 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n🏢 агентство\n«2 pokoje + balkon WIŚLANE TARASY Grzegórzecka UBS ABB blisko do Frycza Modrzewskiego UJ UEK Galeria Kazimierz»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-balkon-wislane-tarasy-grzegorzecka-ubs-abb-blisko-do-frycza-modrzewskiego-uj-uek-galeria-kazimierz-CID3-ID1c0WcS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 06:39",
+      "ts": 1787633132,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 3100,
+        "rent": 550,
+        "area": 45.0,
+        "district": "Grzegórzki",
+        "business": true,
+        "created_iso": "2026-08-25T06:39:19+02:00"
+      },
+      "an": {
+        "czynsz_desc": 550
+      }
     }
   ],
   "stats": {
+<<<<<<< Updated upstream
     "checks": 5936,
     "sent": 2395
   },
   "initialized": true,
   "last_check": "2026-08-25T04:33:48",
+=======
+    "checks": 5931,
+    "sent": 2396
+  },
+  "initialized": true,
+  "last_check": "2026-08-25T04:50:58",
+>>>>>>> Stashed changes
   "backoff_until": 1787369093.497045
 }
