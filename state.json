@@ -4936,7 +4936,12 @@
     "1093701177": 1787648325,
     "1093703084": 1787648641,
     "1093704111": 1787648959,
-    "1093706173": 1787649273
+    "1093706173": 1787649273,
+    "1093707388": 1787649592,
+    "1093706749": 1787649906,
+    "1093709341": 1787650220,
+    "1093706939": 1787650220,
+    "1093708349": 1787650536
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7193,28 +7198,12 @@
     "bezposrednioi2niezaleznepokojeioddzielnakuchn|2700|41.0|pradnikczerwony": 1787648003,
     "glebocka52pokoje43mgalerianoweosiedle|3900|43.0|targowek": 1787648325,
     "nowoczesne2pokojowemieszkaniezbalkonem33m²uls|2900|33.0|czyzyny": 1787648641,
-    "mieszkanie45m2pokojeorlinskiego|3100|45.0|czyzyny": 1787649273
+    "mieszkanie45m2pokojeorlinskiego|3100|45.0|czyzyny": 1787649273,
+    "poremonciebalkondlastudentow|2700|44.0|bienczyce": 1787650220
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2400 + czynsz 600 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-pokoje-CID3-ID1c0MT2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:19",
-      "ts": 1787603671,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2400,
-        "rent": 600,
-        "area": 37.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-24T22:19:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
     {
       "text": "🏠 <b>Краков, Dębniki</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 820 = <b>3420 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe z garażem na Ruczaju!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-garazem-na-ruczaju-CID3-ID1c0N3m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:22",
       "ts": 1787603671,
@@ -7877,13 +7866,30 @@
       "an": {
         "czynsz_desc": 500
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Bieńczyce</b> — 44 м², 2 комнаты\n💰 2700 + czynsz 600 = <b>3300 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 700 zł\n🏢 Этаж: 6\n🏢 агентство\n«Po remoncie | Balkon | Dla studentów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/po-remoncie-balkon-dla-studentow-CID3-ID1c158w.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:08",
+      "ts": 1787650220,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2700,
+        "rent": 600,
+        "area": 44.0,
+        "district": "Bieńczyce",
+        "business": true,
+        "created_iso": "2026-08-25T11:08:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
     }
   ],
   "stats": {
-    "checks": 5981,
-    "sent": 2421
+    "checks": 5985,
+    "sent": 2422
   },
   "initialized": true,
-  "last_check": "2026-08-25T09:14:43",
+  "last_check": "2026-08-25T09:35:44",
   "backoff_until": 1787369093.497045
 }
