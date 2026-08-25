@@ -4894,7 +4894,9 @@
     "1093668770": 1787633132,
     "1093669030": 1787634081,
     "1093669757": 1787634399,
-    "1093670528": 1787635348
+    "1093670528": 1787635348,
+    "1093671764": 1787636926,
+    "1093672194": 1787637241
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7128,28 +7130,12 @@
     "kondratowicza35m2metro2pokojenowegarazmeblekl|3200|35.0|targowek": 1787611490,
     "2pokojebalkonwislanetarasygrzegorzeckaubsabbb|3100|45.0|grzegorzki": 1787633132,
     "2pokojebalkonduzemiejscepostojoweulwroclawska|2900|41.0|krowodrza": 1787634081,
-    "ciche2pokojowebliskouekujmedycynapolitechnika|2900|38.0|grzegorzki": 1787634399
+    "ciche2pokojowebliskouekujmedycynapolitechnika|2900|38.0|grzegorzki": 1787634399,
+    "mieszkaniedowynajeciakrakow|3000|50.0|mistrzejowice": 1787637241
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 36 м², 2 комнаты\n💰 3000 + czynsz 550 = <b>3550 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 4000 zł\n📅 Заселение: с 14 сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Saska BLU - Nowe 2-pok mieszkanie do wynajęcia (w cenie m-ce postojowe + Internet)»\n🔗 <a href=\"https://www.olx.pl/d/oferta/saska-blu-nowe-2-pok-mieszkanie-do-wynajecia-w-cenie-m-ce-postojowe-internet-CID3-ID1c0uTp.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:14",
-      "ts": 1787592696,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 550,
-        "area": 36.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-24T19:14:25+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Praga-Południe</b> — 35.7 м², 2 комнаты\n💰 3000 + czynsz 713 = <b>3713 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«2-pokojowe mieszkanie na wynajem/Kamionek/ulica zamoyskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-wynajem-kamionek-ulica-zamoyskiego-CID3-ID1c0wHB.html\">Открыть на OLX</a>  ·  добавлено сегодня в 19:22",
       "ts": 1787593012,
@@ -7812,13 +7798,30 @@
       "an": {
         "czynsz_desc": 450
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Mistrzejowice</b> — 50 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: в цене\n📅 Заселение: с октября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie do wynajęcia - Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-krakow-CID3-ID1c0V66.html\">Открыть на OLX</a>  ·  добавлено сегодня в 07:44",
+      "ts": 1787637241,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3000,
+        "rent": 600,
+        "area": 50.0,
+        "district": "Mistrzejowice",
+        "business": false,
+        "created_iso": "2026-08-25T07:44:38+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5939,
-    "sent": 2398
+    "checks": 5943,
+    "sent": 2399
   },
   "initialized": true,
-  "last_check": "2026-08-25T05:33:07",
+  "last_check": "2026-08-25T05:54:11",
   "backoff_until": 1787369093.497045
 }
