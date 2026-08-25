@@ -4906,7 +4906,11 @@
     "1093677869": 1787641348,
     "1093678146": 1787641348,
     "1093680170": 1787641669,
-    "1093680264": 1787641987
+    "1093680264": 1787641987,
+    "1093681918": 1787642619,
+    "1093680070": 1787642619,
+    "1093682288": 1787642938,
+    "1093680306": 1787643256
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7148,62 +7152,14 @@
     "bezposredniowynajmenowoczesne2pokmieszkaniewo|3300|31.0|wola": 1787641348,
     "mieszkanie2pokojowenastegnach|2400|42.5|mokotow": 1787641348,
     "2pokojewlochyprywatnyogrodekbezprowizji|3150|33.5|wlochy": 1787641348,
-    "przestronne2pokojewlochyinternetwceniepetfrie|3360|38.2|wlochy": 1787641669
+    "przestronne2pokojewlochyinternetwceniepetfrie|3360|38.2|wlochy": 1787641669,
+    "wynajem2pokojowegolokaluzbalkonembialany|3200|25.3|bielany": 1787642619,
+    "bezposredniosloneczne2pokojowemieszkanienaurs|2500|50.0|ursynow": 1787642619,
+    "wynajme2pokojezkuchnia49m2warszawaulmila|3000|49.0|wola": 1787642938
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Praga-Południe</b> — 48 м², 2 комнаты\n💰 3000 + czynsz 600 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3700 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Dwupokojowe mieszkanie po generalnym remoncie na Grochowie, ul. Kordeckiego 62»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-po-generalnym-remoncie-na-grochowie-ul-kordeckiego-62-CID3-ID1c0HeR.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:16",
-      "ts": 1787599889,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 600,
-        "area": 48.0,
-        "district": "Praga-Południe",
-        "business": false,
-        "created_iso": "2026-08-24T21:16:56+02:00"
-      },
-      "an": {
-        "czynsz_desc": 600
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 40 м², 2 комнаты\n💰 3000 + czynsz 560 = <b>3560 zł/мес</b>\n   ≈ с медиа около 3680 zł/мес\n⚡ Свет/медиа: ≈ 120 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 4\n👤 от собственника\n«Nowe mieszkanie 2 -pokojwe na wynajem ul. Lipska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-2-pokojwe-na-wynajem-ul-lipska-CID3-ID1c0HHO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:22",
-      "ts": 1787600209,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 3000,
-        "rent": 560,
-        "area": 40.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-24T21:22:47+02:00"
-      },
-      "an": {
-        "czynsz_desc": 560
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 900 = <b>3800 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 3\n👤 от собственника\n«Piękny, nowy apartament, 2 pok, 40m2 + komórka + garaż. Bliska Białołęka/Bródno koło Factory.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/piekny-nowy-apartament-2-pok-40m2-komorka-garaz-bliska-bialoleka-brodno-kolo-factory-CID3-ID1c0IeJ.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:30",
-      "ts": 1787600833,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 900,
-        "area": 40.0,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-24T21:30:18+02:00"
-      },
-      "an": {
-        "czynsz_desc": 900
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Włochy</b> — 35.1 м², 2 комнаты\n💰 3360 + czynsz 490 = <b>3850 zł/мес</b>\n   ≈ с медиа около 4321 zł/мес\n⚡ Свет/медиа: ≈ 471 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🏢 агентство\n«Bez prowizji! Balkon, internet w cenie, zwierzeta ok! Strefa Cowork»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bez-prowizji-balkon-internet-w-cenie-zwierzeta-ok-strefa-cowork-CID3-ID1c0Iex.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:30",
       "ts": 1787601147,
@@ -7832,13 +7788,64 @@
       "an": {
         "czynsz_desc": 490
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursynów</b> — 50 м², 2 комнаты\n💰 2500 + czynsz 1000 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: с 4 сентября ⭐️\n🏢 Этаж: 2\n👤 от собственника\n«Bezpośrednio – słoneczne, 2-pokojowe mieszkanie na Ursynowie | Blisko SGGW»\n🔗 <a href=\"https://www.olx.pl/d/oferta/bezposrednio-sloneczne-2-pokojowe-mieszkanie-na-ursynowie-blisko-sggw-CID3-ID1c0Y98.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:02",
+      "ts": 1787642619,
+      "city": "warszawa",
+      "perfect": true,
+      "of": {
+        "price": 2500,
+        "rent": 1000,
+        "area": 50.0,
+        "district": "Ursynów",
+        "business": false,
+        "created_iso": "2026-08-25T09:02:26+02:00"
+      },
+      "an": {
+        "czynsz_desc": 1000
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Bielany</b> — 25.3 м², 2 комнаты\n💰 3200 + czynsz 450 = <b>3650 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Wynajem 2-pokojowego lokalu z balkonem, Bialany»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajem-2-pokojowego-lokalu-z-balkonem-bialany-CID3-ID1c0YCV.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:15",
+      "ts": 1787642619,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 450,
+        "area": 25.3,
+        "district": "Bielany",
+        "business": false,
+        "created_iso": "2026-08-25T09:15:58+02:00"
+      },
+      "an": {
+        "czynsz_desc": 450
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Wola</b> — 49 м², 2 комнаты\n💰 3000 + czynsz 750 = <b>3750 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 6\n👤 от собственника\n«wynajmę 2 pokoje z kuchnią 49m2 Warszawa ul. Miła»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokoje-z-kuchnia-49m2-warszawa-ul-mila-CID3-ID1c0YIU.html\">Открыть на OLX</a>  ·  добавлено сегодня в 09:18",
+      "ts": 1787642938,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3000,
+        "rent": 750,
+        "area": 49.0,
+        "district": "Wola",
+        "business": false,
+        "created_iso": "2026-08-25T09:18:05+02:00"
+      },
+      "an": {
+        "czynsz_desc": 750
+      }
     }
   ],
   "stats": {
-    "checks": 5958,
-    "sent": 2406
+    "checks": 5962,
+    "sent": 2409
   },
   "initialized": true,
-  "last_check": "2026-08-25T07:13:14",
+  "last_check": "2026-08-25T07:34:23",
   "backoff_until": 1787369093.497045
 }
