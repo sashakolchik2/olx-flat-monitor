@@ -4926,7 +4926,10 @@
     "1093692901": 1787645782,
     "1093692200": 1787645782,
     "1093692685": 1787645782,
-    "1093691757": 1787645782
+    "1093691757": 1787645782,
+    "1093692988": 1787646422,
+    "1093694462": 1787646739,
+    "1093694245": 1787646739
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7176,62 +7179,14 @@
     "2pokojebronowiceprzytulnedlapary|2550|36.0|bronowice": 1787645782,
     "2pokojoweulpolonijnawkrakowie|2300|38.0|biezanowprokocim": 1787645782,
     "nowe2pokoje42m²nabialoleceprzyulostrodzkiejzg|2800|42.0|bialoleka": 1787645782,
-    "ladnemieszkanietaniodobraokazja|2400|43.0|bialoleka": 1787645782
+    "ladnemieszkanietaniodobraokazja|2400|43.0|bialoleka": 1787645782,
+    "mieszkanie44m2oddzielnepokojewidnakuchniaboni|3500|44.0|srodmiescie": 1787646422,
+    "ruczaj2pok46m2caloscok3400zlosobnakuchniapark|2499|46.0|debniki": 1787646739,
+    "mieszkanie2pokoje60mbezprowizji|3200|60.0|ursus": 1787646739
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Варшава, Targówek</b> — 44.5 м², 2 комнаты\n💰 3200 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: 200 zł/мес\n📅 Заселение: с 1 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n🐾 можно с животными · 👤 от собственника\n«Nowe mieszkanie z tarasem Targówek ul. Oliwska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowe-mieszkanie-z-tarasem-targowek-ul-oliwska-CID3-ID1c0JkC.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:46",
-      "ts": 1787601787,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3200,
-        "rent": null,
-        "area": 44.5,
-        "district": "Targówek",
-        "business": false,
-        "created_iso": "2026-08-24T21:46:48+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Krowodrza</b> — 33 м², 2 комнаты\n💰 2600 + czynsz 750 = <b>3350 zł/мес</b>\n⚡ Свет/медиа: упоминаются — смотри описание\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 200 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 3\n👤 от собственника\n«Mieszkanie na Krowodrzy do wynajęcia od właściciela»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-krowodrzy-do-wynajecia-od-wlasciciela-CID3-ID1c0JAO.html\">Открыть на OLX</a>  ·  добавлено сегодня в 21:50",
-      "ts": 1787601787,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 750,
-        "area": 33.0,
-        "district": "Krowodrza",
-        "business": false,
-        "created_iso": "2026-08-24T21:50:21+02:00"
-      },
-      "an": {
-        "czynsz_desc": 550
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Bieńczyce</b> — 36 м², 2 комнаты\n💰 2500 + czynsz 650 = <b>3150 zł/мес</b>\n🚗 Паркинг: есть (цена не указана)\n🏢 Этаж: 2\n🐾 можно с животными · 👤 от собственника\n«Dwupokojowe mieszkanie do wynajęcia od września»\n🔗 <a href=\"https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-do-wynajecia-od-wrzesnia-CID3-ID1c0KYF.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:02",
-      "ts": 1787602728,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2500,
-        "rent": 650,
-        "area": 36.0,
-        "district": "Bieńczyce",
-        "business": false,
-        "created_iso": "2026-08-24T22:02:50+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Варшава, Mokotów</b> — 42 м², 2 комнаты\n💰 2700 + czynsz 1000 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🏢 Этаж: 4\n👤 от собственника\n«2 pokoje, 42 m² – przytulne i praktyczne mieszkanie ul. Soczi, Mokotów»\n🔗 <a href=\"https://www.olx.pl/d/oferta/2-pokoje-42-m-przytulne-i-praktyczne-mieszkanie-ul-soczi-mokotow-CID3-ID1c0Lb8.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:04",
       "ts": 1787603041,
@@ -7860,13 +7815,64 @@
       "an": {
         "czynsz_desc": 0
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Śródmieście</b> — 44 м², 2 комнаты\n💰 3500 + czynsz 1 = <b>3501 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3500 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 44 m, 2 oddzielne pokoje, widna kuchnia, Bonifacego 74»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-44-m-2-oddzielne-pokoje-widna-kuchnia-bonifacego-74-CID3-ID1c11wu.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:07",
+      "ts": 1787646422,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 1,
+        "area": 44.0,
+        "district": "Śródmieście",
+        "business": false,
+        "created_iso": "2026-08-25T10:07:24+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Ursus</b> — 60 м², 2 комнаты\n💰 3200 + czynsz 700 = <b>3900 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 4000 zł\n🏢 Этаж: 2\n👤 от собственника\n«Mieszkanie 2 pokoje, 60m, bez prowizji»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-60m-bez-prowizji-CID3-ID1c11PL.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:12",
+      "ts": 1787646739,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3200,
+        "rent": 700,
+        "area": 60.0,
+        "district": "Ursus",
+        "business": false,
+        "created_iso": "2026-08-25T10:12:40+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Dębniki</b> — 46 м², 2 комнаты\n💰 2499 + czynsz 599 = <b>3098 zł/мес</b>\n   ≈ с медиа около 3198 zł/мес\n⚡ Свет/медиа: ≈ 100 zł/мес\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1\n🏢 агентство\n«** RUCZAJ 2pok 46m2 Całość ok 3400zł Osobna Kuchnia PARKING BALKON 6m2 **»\n🔗 <a href=\"https://www.olx.pl/d/oferta/ruczaj-2pok-46m2-calosc-ok-3400zl-osobna-kuchnia-parking-balkon-6m2-CID3-ID1c11Tg.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:13",
+      "ts": 1787646739,
+      "city": "krakow",
+      "perfect": false,
+      "of": {
+        "price": 2499,
+        "rent": 599,
+        "area": 46.0,
+        "district": "Dębniki",
+        "business": true,
+        "created_iso": "2026-08-25T10:13:29+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
     }
   ],
   "stats": {
-    "checks": 5970,
-    "sent": 2414
+    "checks": 5973,
+    "sent": 2417
   },
   "initialized": true,
-  "last_check": "2026-08-25T08:16:38",
+  "last_check": "2026-08-25T08:32:31",
   "backoff_until": 1787369093.497045
 }
