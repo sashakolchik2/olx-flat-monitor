@@ -4941,7 +4941,12 @@
     "1093706749": 1787649906,
     "1093709341": 1787650220,
     "1093706939": 1787650220,
-    "1093708349": 1787650536
+    "1093708349": 1787650536,
+    "1093711669": 1787651168,
+    "1093700807": 1787651168,
+    "1093712202": 1787651168,
+    "1093711770": 1787651168,
+    "1093713353": 1787651487
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7199,45 +7204,13 @@
     "glebocka52pokoje43mgalerianoweosiedle|3900|43.0|targowek": 1787648325,
     "nowoczesne2pokojowemieszkaniezbalkonem33m²uls|2900|33.0|czyzyny": 1787648641,
     "mieszkanie45m2pokojeorlinskiego|3100|45.0|czyzyny": 1787649273,
-    "poremonciebalkondlastudentow|2700|44.0|bienczyce": 1787650220
+    "poremonciebalkondlastudentow|2700|44.0|bienczyce": 1787650220,
+    "mieszkaniewkrakowiedla4osob|2800|63.0|staremiasto": 1787651168,
+    "wynajmemieszkanie46m2zmiejscempostojowymwgara|3500|46.0|pragapoludnie": 1787651168
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Dębniki</b> — 41 м², 2 комнаты\n💰 2600 + czynsz 820 = <b>3420 zł/мес</b>\n⚡ Свет/медиа: включены в цену\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie 2 pokojowe z garażem na Ruczaju!»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-garazem-na-ruczaju-CID3-ID1c0N3m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:22",
-      "ts": 1787603671,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2600,
-        "rent": 820,
-        "area": 41.0,
-        "district": "Dębniki",
-        "business": false,
-        "created_iso": "2026-08-24T22:22:32+02:00"
-      },
-      "an": {
-        "czynsz_desc": 820
-      }
-    },
-    {
-      "text": "🏠 <b>Варшава, Mokotów</b> — 39 м², 2 комнаты\n💰 3100 zł + czynsz? (не указан — уточни у владельца)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Mieszkanie na wynajem,ul. Czerniakowska»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-ul-czerniakowska-CID3-ID1c0N6m.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:23",
-      "ts": 1787603671,
-      "city": "warszawa",
-      "perfect": true,
-      "of": {
-        "price": 3100,
-        "rent": null,
-        "area": 39.0,
-        "district": "Mokotów",
-        "business": false,
-        "created_iso": "2026-08-24T22:23:28+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
     {
       "text": "🏠 <b>Краков, Mistrzejowice</b> — 31 м², 2 комнаты\n💰 2600 + czynsz 600 = <b>3200 zł/мес</b>\n   ≈ с медиа около 3800 zł/мес\n⚡ Свет/медиа: ≈ 600 zł/мес\n🔐 Kaucja (залог): 3000 zł\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie 2-pok., Reduta 40C, 31m2, oferta prywatna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-2-pok-reduta-40c-31m2-oferta-prywatna-CID3-ID1c0Nqf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:30",
       "ts": 1787604301,
@@ -7883,13 +7856,47 @@
       "an": {
         "czynsz_desc": 600
       }
+    },
+    {
+      "text": "🏠 <b>Краков, Stare Miasto</b> — 63 м², 2 комнаты\n💰 2800 + czynsz 505 = <b>3305 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2800 zł\n📅 Заселение: с 2 сентября ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie w Krakowie dla 4 osób.»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-krakowie-dla-4-osob-CID3-ID1c16mN.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:26",
+      "ts": 1787651168,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2800,
+        "rent": 505,
+        "area": 63.0,
+        "district": "Stare Miasto",
+        "business": false,
+        "created_iso": "2026-08-25T11:26:42+02:00"
+      },
+      "an": {
+        "czynsz_desc": 505
+      }
+    },
+    {
+      "text": "🏠 <b>Варшава, Praga-Południe</b> — 46 м², 2 комнаты\n💰 3500 + czynsz 500 = <b>4000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: сразу (od zaraz)\n👤 от собственника\n«Wynajmę mieszkanie 46m2 z miejscem postojowym w garażu podziemnym»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-mieszkanie-46m2-z-miejscem-postojowym-w-garazu-podziemnym-CID3-ID1c16wo.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:28",
+      "ts": 1787651168,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3500,
+        "rent": 500,
+        "area": 46.0,
+        "district": "Praga-Południe",
+        "business": false,
+        "created_iso": "2026-08-25T11:28:48+02:00"
+      },
+      "an": {
+        "czynsz_desc": null
+      }
     }
   ],
   "stats": {
-    "checks": 5985,
-    "sent": 2422
+    "checks": 5989,
+    "sent": 2424
   },
   "initialized": true,
-  "last_check": "2026-08-25T09:35:44",
+  "last_check": "2026-08-25T09:56:52",
   "backoff_until": 1787369093.497045
 }
