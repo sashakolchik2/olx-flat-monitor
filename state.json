@@ -4931,7 +4931,12 @@
     "1093694462": 1787646739,
     "1093694245": 1787646739,
     "1093700589": 1787648003,
-    "1093699737": 1787648003
+    "1093699737": 1787648003,
+    "1093701790": 1787648325,
+    "1093701177": 1787648325,
+    "1093703084": 1787648641,
+    "1093704111": 1787648959,
+    "1093706173": 1787649273
   },
   "fp": {
     "calemieszkaniedowynajem|1700|48.0": 1785656007,
@@ -7185,62 +7190,14 @@
     "mieszkanie44m2oddzielnepokojewidnakuchniaboni|3500|44.0|srodmiescie": 1787646422,
     "ruczaj2pok46m2caloscok3400zlosobnakuchniapark|2499|46.0|debniki": 1787646739,
     "mieszkanie2pokoje60mbezprowizji|3200|60.0|ursus": 1787646739,
-    "bezposrednioi2niezaleznepokojeioddzielnakuchn|2700|41.0|pradnikczerwony": 1787648003
+    "bezposrednioi2niezaleznepokojeioddzielnakuchn|2700|41.0|pradnikczerwony": 1787648003,
+    "glebocka52pokoje43mgalerianoweosiedle|3900|43.0|targowek": 1787648325,
+    "nowoczesne2pokojowemieszkaniezbalkonem33m²uls|2900|33.0|czyzyny": 1787648641,
+    "mieszkanie45m2pokojeorlinskiego|3100|45.0|czyzyny": 1787649273
   },
   "tg_offset": 654625403,
   "paused": false,
   "recent": [
-    {
-      "text": "🏠 <b>Краков, Podgórze</b> — 40 м², 2 комнаты\n💰 2900 + czynsz 800 = <b>3700 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n📅 Заселение: с 01.09.2026 ⭐️\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Wynajmę 2 pokojowe mieszkanie z tarasem 35m2 - ul.Wodna»\n🔗 <a href=\"https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-z-tarasem-35m2-ul-wodna-CID3-ID1c0LZS.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:10",
-      "ts": 1787603041,
-      "city": "krakow",
-      "perfect": true,
-      "of": {
-        "price": 2900,
-        "rent": 800,
-        "area": 40.0,
-        "district": "Podgórze",
-        "business": false,
-        "created_iso": "2026-08-24T22:10:40+02:00"
-      },
-      "an": {
-        "czynsz_desc": null
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Stare Miasto</b> — 36.5 м², 2 комнаты\n💰 2950 + czynsz 300 = <b>3250 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 3000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 1-й (parter)\n👤 от собственника\n«Mieszkanie w centrum, w zaciszu»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-w-centrum-w-zaciszu-CID3-ID1c0M0j.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:10",
-      "ts": 1787603041,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2950,
-        "rent": 300,
-        "area": 36.5,
-        "district": "Stare Miasto",
-        "business": false,
-        "created_iso": "2026-08-24T22:10:44+02:00"
-      },
-      "an": {
-        "czynsz_desc": 300
-      }
-    },
-    {
-      "text": "🏠 <b>Краков, Prądnik Biały</b> — 38 м², 2 комнаты\n💰 2600 + czynsz 614 = <b>3214 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🌐 Интернет: 75 zł/мес\n🏢 Этаж: 1\n👤 от собственника\n«Krowodrza Górka - przytulne 40m2 dla pary»\n🔗 <a href=\"https://www.olx.pl/d/oferta/krowodrza-gorka-przytulne-40m2-dla-pary-CID3-ID1c0Mhf.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:13",
-      "ts": 1787603041,
-      "city": "krakow",
-      "perfect": false,
-      "of": {
-        "price": 2600,
-        "rent": 614,
-        "area": 38.0,
-        "district": "Prądnik Biały",
-        "business": false,
-        "created_iso": "2026-08-24T22:13:30+02:00"
-      },
-      "an": {
-        "czynsz_desc": 613
-      }
-    },
     {
       "text": "🏠 <b>Краков, Prądnik Biały</b> — 37 м², 2 комнаты\n💰 2400 + czynsz 600 = <b>3000 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🔐 Kaucja (залог): 2500 zł\n🏢 Этаж: 4\n👤 от собственника\n«Mieszkanie na wynajem 2 pokoje»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-2-pokoje-CID3-ID1c0MT2.html\">Открыть на OLX</a>  ·  добавлено сегодня в 22:19",
       "ts": 1787603671,
@@ -7869,13 +7826,64 @@
       "an": {
         "czynsz_desc": 650
       }
+    },
+    {
+      "text": "🏠 <b>Варшава, Targówek</b> — 43 м², 2 комнаты\n💰 <b>3900 zł/мес</b> — czynsz включён\n⚡ Свет/медиа: упоминаются — смотри описание\n🔐 Kaucja (залог): 5000 zł\n📅 Заселение: сразу (od zaraz)\n🏢 Этаж: 10\n🏢 агентство\n«Głębocka 5 | 2 Pokoje | 43M |Galeria| Nowe Osiedle»\n🔗 <a href=\"https://www.olx.pl/d/oferta/glebocka-5-2-pokoje-43m-galeria-nowe-osiedle-CID3-ID1c13Dz.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:44",
+      "ts": 1787648325,
+      "city": "warszawa",
+      "perfect": false,
+      "of": {
+        "price": 3900,
+        "rent": null,
+        "area": 43.0,
+        "district": "Targówek",
+        "business": true,
+        "created_iso": "2026-08-25T10:44:32+02:00"
+      },
+      "an": {
+        "czynsz_desc": 0
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 33 м², 2 комнаты\n💰 2900 + czynsz 600 = <b>3500 zł/мес</b>\n⚡ Свет/медиа: по счётчикам (сверх цены)\n🚗 Паркинг: есть (цена не указана)\n🔐 Kaucja (залог): 2900 zł\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 1\n👤 от собственника\n«Nowoczesne 2-pokojowe mieszkanie z balkonem | 33 m² | ul. Sołtysowska 3 | Kraków»\n🔗 <a href=\"https://www.olx.pl/d/oferta/nowoczesne-2-pokojowe-mieszkanie-z-balkonem-33-m-ul-soltysowska-3-krakow-CID3-ID1c148k.html\">Открыть на OLX</a>  ·  добавлено сегодня в 10:52",
+      "ts": 1787648641,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 2900,
+        "rent": 600,
+        "area": 33.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-25T10:52:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 600
+      }
+    },
+    {
+      "text": "🏠 <b>Краков, Czyżyny</b> — 45 м², 2 комнаты\n💰 3100 + czynsz 500 = <b>3600 zł/мес</b>\n   ≈ с медиа около 3750 zł/мес\n⚡ Свет/медиа: ≈ 150 zł/мес\n📅 Заселение: с сентября ⭐️\n🏢 Этаж: 9\n👤 от собственника\n«Mieszkanie 45m, 2 pokoje, Orlinskiego»\n🔗 <a href=\"https://www.olx.pl/d/oferta/mieszkanie-45m-2-pokoje-orlinskiego-CID3-ID1c14V9.html\">Открыть на OLX</a>  ·  добавлено сегодня в 11:05",
+      "ts": 1787649273,
+      "city": "krakow",
+      "perfect": true,
+      "of": {
+        "price": 3100,
+        "rent": 500,
+        "area": 45.0,
+        "district": "Czyżyny",
+        "business": false,
+        "created_iso": "2026-08-25T11:05:21+02:00"
+      },
+      "an": {
+        "czynsz_desc": 500
+      }
     }
   ],
   "stats": {
-    "checks": 5977,
-    "sent": 2418
+    "checks": 5981,
+    "sent": 2421
   },
   "initialized": true,
-  "last_check": "2026-08-25T08:53:36",
+  "last_check": "2026-08-25T09:14:43",
   "backoff_until": 1787369093.497045
 }
