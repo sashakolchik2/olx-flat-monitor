@@ -7891,9 +7891,5 @@
   },
   "initialized": true,
   "last_check": "2026-08-25T09:35:44",
-<<<<<<< Updated upstream
-  "backoff_until": 1787716573.6613538
-=======
-  "backoff_until": 1787718349.5505
->>>>>>> Stashed changes
+  "backoff_until": 1787719268.9094486
 }
