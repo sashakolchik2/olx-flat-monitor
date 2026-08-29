@@ -7201,7 +7201,7 @@
     "mieszkanie45m2pokojeorlinskiego|3100|45.0|czyzyny": 1787649273,
     "poremonciebalkondlastudentow|2700|44.0|bienczyce": 1787650220
   },
-  "tg_offset": 654625406,
+  "tg_offset": 654625409,
   "paused": false,
   "recent": [
     {
@@ -7891,5 +7891,5 @@
   },
   "initialized": true,
   "last_check": "2026-08-25T09:35:44",
-  "backoff_until": 1788018467.3287394
+  "backoff_until": 1788022842.34495
 }
