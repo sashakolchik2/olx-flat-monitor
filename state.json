@@ -1,16 +1,12 @@
 {
   "seen": {},
   "fp": {},
-  "tg_offset": 654625411,
+  "tg_offset": 0,
   "paused": false,
   "recent": [],
   "stats": {
     "checks": 0,
     "sent": 0
   },
-<<<<<<< Updated upstream
-  "backoff_until": 1789145265.330491
-=======
-  "backoff_until": 1789147050.3303652
->>>>>>> Stashed changes
+  "backoff_until": 1789147972.9703507
 }
