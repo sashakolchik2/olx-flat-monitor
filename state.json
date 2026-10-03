@@ -8,9 +8,5 @@
     "checks": 0,
     "sent": 0
   },
-<<<<<<< Updated upstream
-  "backoff_until": 1790984098.4956253
-=======
-  "backoff_until": 1790985744.152851
->>>>>>> Stashed changes
+  "backoff_until": 1790986668.055637
 }
